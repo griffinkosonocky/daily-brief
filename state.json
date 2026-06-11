@@ -125,8 +125,8 @@
       "sport": "Soccer",
       "difficulty": "hard",
       "question": "Which player won the Golden Ball (best player) at the 2014 FIFA World Cup despite his team finishing as runners-up?",
-      "answer": "Mario Götze",
-      "story": "Götze scored the extra-time winning goal for Germany in the 2014 World Cup final against Argentina, but the award went to Götze for his overall tournament performance rather than the match-deciding moment. This remains one of the most debated Golden Ball decisions, as many felt the award should have gone to Germany's goalkeeper Manuel Neuer or another standout performer. The young Bayern Munich star's brilliance throughout the tournament ultimately earned him the individual honor despite the heartbreak for Argentina's Lionel Messi.",
+      "answer": "Lionel Messi",
+      "story": "Messi won the Golden Ball after leading Argentina to the 2014 World Cup final, where they lost 1-0 to Germany. The choice was debated because Germany lifted the trophy and Manuel Neuer also had a brilliant tournament, while Mario Götze is remembered for scoring the extra-time winner in the final.",
       "badge": null,
       "source": "api",
       "usage": {

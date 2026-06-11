@@ -156,9 +156,50 @@
       background: var(--panel-2);
     }
     #history-map {
+      display: none;
       width: 100%;
       height: min(68vh, 420px);
       min-height: 280px;
+    }
+    .map-wrap.is-ready #history-map { display: block; }
+    .map-wrap.is-ready .map-fallback { display: none; }
+    .map-fallback {
+      padding: 0.95rem;
+    }
+    .map-fallback-title {
+      margin-bottom: 0.65rem;
+      color: var(--muted);
+      font-size: 0.82rem;
+      text-transform: uppercase;
+    }
+    .map-fallback ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.7rem;
+    }
+    .map-fallback li {
+      display: grid;
+      grid-template-columns: 0.8rem 1fr;
+      gap: 0.55rem;
+      align-items: start;
+    }
+    .map-dot {
+      width: 0.72rem;
+      height: 0.72rem;
+      margin-top: 0.47rem;
+      border-radius: 999px;
+      background: var(--green);
+    }
+    .map-dot-capital { background: var(--gold); }
+    .map-dot-battle { background: var(--red); }
+    .map-dot-city { background: var(--blue); }
+    .map-caption {
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+      margin-top: 0.08rem;
     }
     article {
       font-family: Georgia, "Times New Roman", serif;
@@ -283,8 +324,8 @@
       <p class="question">Which player won the Golden Ball (best player) at the 2014 FIFA World Cup despite his team finishing as runners-up?</p>
       <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
       <div id="trivia-answer" class="answer">
-        <p><strong>Mario Götze</strong></p>
-        <p>Götze scored the extra-time winning goal for Germany in the 2014 World Cup final against Argentina, but the award went to Götze for his overall tournament performance rather than the match-deciding moment. This remains one of the most debated Golden Ball decisions, as many felt the award should have gone to Germany&#x27;s goalkeeper Manuel Neuer or another standout performer. The young Bayern Munich star&#x27;s brilliance throughout the tournament ultimately earned him the individual honor despite the heartbreak for Argentina&#x27;s Lionel Messi.</p>
+        <p><strong>Lionel Messi</strong></p>
+        <p>Messi won the Golden Ball after leading Argentina to the 2014 World Cup final, where they lost 1-0 to Germany. The choice was debated because Germany lifted the trophy and Manuel Neuer also had a brilliant tournament, while Mario Götze is remembered for scoring the extra-time winner in the final.</p>
       </div>
     </section>
 
@@ -297,8 +338,9 @@
         
       </div>
       
-      <div class="map-wrap">
+      <div class="map-wrap" data-map-wrap>
         <div id="history-map" data-locations="[{&quot;name&quot;: &quot;Nineveh (Kuyunjik)&quot;, &quot;lat&quot;: 36.359, &quot;lng&quot;: 43.159, &quot;caption&quot;: &quot;Capital of the Neo-Assyrian Empire and site of Ashurbanipal&#x27;s great library, buried beneath the mound of Kuyunjik near modern Mosul.&quot;, &quot;role&quot;: &quot;capital&quot;}, {&quot;name&quot;: &quot;Ashur&quot;, &quot;lat&quot;: 35.456, &quot;lng&quot;: 43.259, &quot;caption&quot;: &quot;The ancient religious capital of Assyria and cult center of the god Ashur, from which the empire took its name.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Babylon&quot;, &quot;lat&quot;: 32.542, &quot;lng&quot;: 44.421, &quot;caption&quot;: &quot;Cultural and intellectual heartland of Mesopotamia; Ashurbanipal&#x27;s agents scoured Babylonian temples and private collections for texts to copy.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Nimrud (Kalhu)&quot;, &quot;lat&quot;: 36.099, &quot;lng&quot;: 43.328, &quot;caption&quot;: &quot;Earlier Assyrian royal capital excavated by Layard in the 1840s alongside Nineveh, yielding major palace reliefs and cuneiform archives.&quot;, &quot;role&quot;: &quot;site&quot;}, {&quot;name&quot;: &quot;Nippur&quot;, &quot;lat&quot;: 32.127, &quot;lng&quot;: 45.229, &quot;caption&quot;: &quot;Ancient Sumerian religious center whose temple libraries held canonical cuneiform texts that influenced the collections gathered for Nineveh.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Uruk&quot;, &quot;lat&quot;: 31.324, &quot;lng&quot;: 45.636, &quot;caption&quot;: &quot;One of the world&#x27;s first cities and birthplace of writing, whose scribal traditions flowed forward into the very tablets Ashurbanipal collected.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Mosul&quot;, &quot;lat&quot;: 36.335, &quot;lng&quot;: 43.119, &quot;caption&quot;: &quot;Modern Iraqi city adjacent to the ruins of Nineveh, near which Layard began the excavations that revealed the library to the modern world.&quot;, &quot;role&quot;: &quot;city&quot;}]" aria-label="Map of key locations"></div>
+        <div class="map-fallback" id="history-map-fallback"><div class="map-fallback-title">Key locations</div><ul><li><span class="map-dot map-dot-capital" aria-hidden="true"></span><div><strong>Nineveh (Kuyunjik)</strong><div class="map-caption">Capital of the Neo-Assyrian Empire and site of Ashurbanipal&#x27;s great library, buried beneath the mound of Kuyunjik near modern Mosul.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Ashur</strong><div class="map-caption">The ancient religious capital of Assyria and cult center of the god Ashur, from which the empire took its name.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Babylon</strong><div class="map-caption">Cultural and intellectual heartland of Mesopotamia; Ashurbanipal&#x27;s agents scoured Babylonian temples and private collections for texts to copy.</div></div></li><li><span class="map-dot map-dot-site" aria-hidden="true"></span><div><strong>Nimrud (Kalhu)</strong><div class="map-caption">Earlier Assyrian royal capital excavated by Layard in the 1840s alongside Nineveh, yielding major palace reliefs and cuneiform archives.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Nippur</strong><div class="map-caption">Ancient Sumerian religious center whose temple libraries held canonical cuneiform texts that influenced the collections gathered for Nineveh.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Uruk</strong><div class="map-caption">One of the world&#x27;s first cities and birthplace of writing, whose scribal traditions flowed forward into the very tablets Ashurbanipal collected.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Mosul</strong><div class="map-caption">Modern Iraqi city adjacent to the ruins of Nineveh, near which Layard began the excavations that revealed the library to the modern world.</div></div></li></ul></div>
       </div>
       <article>
         <h3>The Daily Brief</h3>
@@ -399,37 +441,49 @@
     });
 
     const mapEl = document.getElementById('history-map');
-    if (mapEl && window.L) {
+    const mapWrap = mapEl?.closest('[data-map-wrap]');
+    const showMapFallback = () => {
+      mapWrap?.classList.remove('is-ready');
+      mapWrap?.classList.add('is-fallback');
+    };
+    if (mapEl) {
       try {
-        const locations = JSON.parse(mapEl.dataset.locations || '[]');
-        if (locations.length) {
-          const map = L.map(mapEl, { scrollWheelZoom: false });
-          L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; OpenStreetMap contributors'
-          }).addTo(map);
-          const colors = {
-            capital: '#e6b450',
-            battle: '#ef7d7d',
-            city: '#86b7ff',
-            site: '#6fca93'
-          };
-          const bounds = [];
-          locations.forEach((loc) => {
-            const marker = L.circleMarker([loc.lat, loc.lng], {
-              radius: 8,
-              color: colors[loc.role] || colors.site,
-              fillColor: colors[loc.role] || colors.site,
-              fillOpacity: 0.9,
-              weight: 2
-            }).addTo(map);
-            marker.bindPopup(`<strong>${escapeHtml(loc.name)}</strong><br>${escapeHtml(loc.caption || '')}`);
-            bounds.push([loc.lat, loc.lng]);
-          });
-          map.fitBounds(bounds, { padding: [28, 28], maxZoom: 6 });
+        if (!window.L) {
+          throw new Error('Leaflet did not load');
         }
+        const locations = JSON.parse(mapEl.dataset.locations || '[]');
+        if (!locations.length) {
+          throw new Error('No map locations');
+        }
+        mapWrap?.classList.add('is-ready');
+        const map = L.map(mapEl, { scrollWheelZoom: false });
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+          maxZoom: 19,
+          subdomains: 'abcd',
+          attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+        }).addTo(map);
+        const colors = {
+          capital: '#e6b450',
+          battle: '#ef7d7d',
+          city: '#86b7ff',
+          site: '#6fca93'
+        };
+        const bounds = [];
+        locations.forEach((loc) => {
+          const marker = L.circleMarker([loc.lat, loc.lng], {
+            radius: 8,
+            color: colors[loc.role] || colors.site,
+            fillColor: colors[loc.role] || colors.site,
+            fillOpacity: 0.9,
+            weight: 2
+          }).addTo(map);
+          marker.bindPopup(`<strong>${escapeHtml(loc.name)}</strong><br>${escapeHtml(loc.caption || '')}`);
+          bounds.push([loc.lat, loc.lng]);
+        });
+        map.fitBounds(bounds, { padding: [28, 28], maxZoom: 6 });
+        setTimeout(() => map.invalidateSize(), 0);
       } catch (error) {
-        mapEl.style.display = 'none';
+        showMapFallback();
       }
     }
   </script>

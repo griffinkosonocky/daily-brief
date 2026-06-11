@@ -68,6 +68,10 @@ def compact_ct_timestamp(now: datetime | None = None) -> str:
     return now.strftime("%b ") + str(now.day) + now.strftime(f", %Y at {hour}:%M %p CT")
 
 
+def normalize_key(value: str) -> str:
+    return re.sub(r"\W+", "", value.lower())
+
+
 def anthropic_message(
     *,
     prompt: str,
@@ -130,6 +134,23 @@ def anthropic_message(
     return text, citations, data.get("usage", {})
 
 
+def extract_trailing_json(text: str) -> tuple[dict | list | None, str]:
+    stripped = text.strip()
+    decoder = json.JSONDecoder()
+    starts = [index for index, char in enumerate(stripped) if char in "{["]
+    for index in reversed(starts):
+        candidate = stripped[index:].strip()
+        try:
+            data, end = decoder.raw_decode(candidate)
+        except json.JSONDecodeError:
+            continue
+        if candidate[end:].strip():
+            continue
+        if isinstance(data, (dict, list)):
+            return data, stripped[:index].strip()
+    return None, stripped
+
+
 def extract_json_block(text: str) -> tuple[dict | list | None, str]:
     pattern = re.compile(r"```(?:json)?\s*([\s\S]*?)\s*```", flags=re.IGNORECASE)
     matches = list(pattern.finditer(text))
@@ -151,6 +172,9 @@ def extract_json_block(text: str) -> tuple[dict | list | None, str]:
         match = json_like_matches[0]
         cleaned = (text[: match.start()] + text[match.end() :]).strip()
         return None, cleaned
+    data, cleaned = extract_trailing_json(text)
+    if data is not None:
+        return data, cleaned
     return None, text.strip()
 
 
@@ -382,8 +406,9 @@ def generate_article(topic: dict, next_topic: dict) -> dict:
     }
 
 
-def sports_prompt(sport: str, recent_questions: list[str]) -> str:
+def sports_prompt(sport: str, recent_questions: list[str], extra_instruction: str = "") -> str:
     recent = "\n".join(f"- {question}" for question in recent_questions[-30:]) or "- none"
+    retry_note = f"\n{extra_instruction.strip()}" if extra_instruction.strip() else ""
     return f"""
 Create one Daily Sports Trivia item for The Daily Brief.
 
@@ -392,6 +417,7 @@ Difficulty mix target: about 60 percent hard, 40 percent medium.
 Use one of these formats: straight question, name-the-player career clues, or stat-based puzzle.
 Avoid repeating these recent questions:
 {recent}
+{retry_note}
 
 Return only JSON:
 {{
@@ -419,31 +445,72 @@ def demo_trivia(sport: str) -> dict:
 
 def generate_trivia(sport: str, history: list[dict]) -> dict:
     recent_questions = [item.get("question", "") for item in history if item.get("question")]
-    text, _, usage = anthropic_message(
-        prompt=sports_prompt(sport, recent_questions),
-        model=TRIVIA_MODEL,
-        max_tokens=900,
-        system="You write crisp, factually accurate sports trivia.",
-        temperature=0.9,
-        timeout=90,
+    recent_keys = {normalize_key(str(question)) for question in recent_questions[-30:]}
+    repeated_question = ""
+    for attempt in range(2):
+        extra_instruction = ""
+        if repeated_question:
+            extra_instruction = (
+                f'The previous response repeated "{repeated_question}". '
+                "Generate a different question from the same sport lane."
+            )
+        text, _, usage = anthropic_message(
+            prompt=sports_prompt(sport, recent_questions, extra_instruction),
+            model=TRIVIA_MODEL,
+            max_tokens=900,
+            system="You write crisp, factually accurate sports trivia.",
+            temperature=0.9,
+            timeout=90,
+        )
+        data = parse_json_object(text)
+        if not data:
+            raise RuntimeError("Trivia response was not valid JSON.")
+        for key in ("question", "answer", "story"):
+            if not data.get(key):
+                raise RuntimeError(f"Trivia response missing {key}.")
+        question = str(data["question"])
+        if normalize_key(question) in recent_keys:
+            repeated_question = question
+            if attempt == 0:
+                continue
+            raise RuntimeError("Trivia response repeated a recent question.")
+        return {
+            "sport": str(data.get("sport", sport)),
+            "difficulty": str(data.get("difficulty", "medium")),
+            "question": question,
+            "answer": str(data["answer"]),
+            "story": str(data["story"]),
+            "badge": None,
+            "source": "api",
+            "usage": usage,
+            "generated_at": iso_now_utc(),
+        }
+    raise RuntimeError("Trivia generation failed.")
+
+
+def remember_trivia(history: list[dict], today_key: str, trivia: dict) -> list[dict]:
+    question = str(trivia.get("question", "")).strip()
+    answer = str(trivia.get("answer", "")).strip()
+    if not question or not answer:
+        return history[-90:]
+
+    question_key = normalize_key(question)
+    for item in history:
+        if normalize_key(str(item.get("question", ""))) == question_key:
+            item["date"] = today_key
+            item["sport"] = trivia.get("sport")
+            item["answer"] = answer
+            return history[-90:]
+
+    history.append(
+        {
+            "date": today_key,
+            "sport": trivia.get("sport"),
+            "question": question,
+            "answer": answer,
+        }
     )
-    data = parse_json_object(text)
-    if not data:
-        raise RuntimeError("Trivia response was not valid JSON.")
-    for key in ("question", "answer", "story"):
-        if not data.get(key):
-            raise RuntimeError(f"Trivia response missing {key}.")
-    return {
-        "sport": str(data.get("sport", sport)),
-        "difficulty": str(data.get("difficulty", "medium")),
-        "question": str(data["question"]),
-        "answer": str(data["answer"]),
-        "story": str(data["story"]),
-        "badge": None,
-        "source": "api",
-        "usage": usage,
-        "generated_at": iso_now_utc(),
-    }
+    return history[-90:]
 
 
 def market_prompt(now: datetime) -> str:
@@ -624,14 +691,41 @@ def render_badge(label: str | None) -> str:
     return f'<span class="badge">{html.escape(label)}</span>'
 
 
+def render_location_fallback(locations: list[dict]) -> str:
+    items = []
+    for location in locations:
+        role = str(location.get("role", "site"))
+        if role not in {"capital", "battle", "city", "site"}:
+            role = "site"
+        caption = str(location.get("caption", "")).strip()
+        caption_html = f'<div class="map-caption">{html.escape(caption)}</div>' if caption else ""
+        items.append(
+            '<li>'
+            f'<span class="map-dot map-dot-{html.escape(role)}" aria-hidden="true"></span>'
+            "<div>"
+            f'<strong>{html.escape(str(location.get("name", "Location")))}</strong>'
+            f"{caption_html}"
+            "</div>"
+            "</li>"
+        )
+    return (
+        '<div class="map-fallback" id="history-map-fallback">'
+        '<div class="map-fallback-title">Key locations</div>'
+        f'<ul>{"".join(items)}</ul>'
+        "</div>"
+    )
+
+
 def render_map(article: dict) -> str:
     locations = article.get("locations") or []
     if not locations:
         return ""
     payload = html.escape(json.dumps(locations, ensure_ascii=False), quote=True)
+    fallback = render_location_fallback(locations)
     return f"""
-      <div class="map-wrap">
+      <div class="map-wrap" data-map-wrap>
         <div id="history-map" data-locations="{payload}" aria-label="Map of key locations"></div>
+        {fallback}
       </div>
 """.rstrip()
 
@@ -824,9 +918,50 @@ def render_page(
       background: var(--panel-2);
     }}
     #history-map {{
+      display: none;
       width: 100%;
       height: min(68vh, 420px);
       min-height: 280px;
+    }}
+    .map-wrap.is-ready #history-map {{ display: block; }}
+    .map-wrap.is-ready .map-fallback {{ display: none; }}
+    .map-fallback {{
+      padding: 0.95rem;
+    }}
+    .map-fallback-title {{
+      margin-bottom: 0.65rem;
+      color: var(--muted);
+      font-size: 0.82rem;
+      text-transform: uppercase;
+    }}
+    .map-fallback ul {{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.7rem;
+    }}
+    .map-fallback li {{
+      display: grid;
+      grid-template-columns: 0.8rem 1fr;
+      gap: 0.55rem;
+      align-items: start;
+    }}
+    .map-dot {{
+      width: 0.72rem;
+      height: 0.72rem;
+      margin-top: 0.47rem;
+      border-radius: 999px;
+      background: var(--green);
+    }}
+    .map-dot-capital {{ background: var(--gold); }}
+    .map-dot-battle {{ background: var(--red); }}
+    .map-dot-city {{ background: var(--blue); }}
+    .map-caption {{
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+      margin-top: 0.08rem;
     }}
     article {{
       font-family: Georgia, "Times New Roman", serif;
@@ -1018,37 +1153,49 @@ def render_page(
     }});
 
     const mapEl = document.getElementById('history-map');
-    if (mapEl && window.L) {{
+    const mapWrap = mapEl?.closest('[data-map-wrap]');
+    const showMapFallback = () => {{
+      mapWrap?.classList.remove('is-ready');
+      mapWrap?.classList.add('is-fallback');
+    }};
+    if (mapEl) {{
       try {{
-        const locations = JSON.parse(mapEl.dataset.locations || '[]');
-        if (locations.length) {{
-          const map = L.map(mapEl, {{ scrollWheelZoom: false }});
-          L.tileLayer('https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
-            maxZoom: 19,
-            attribution: '&copy; OpenStreetMap contributors'
-          }}).addTo(map);
-          const colors = {{
-            capital: '#e6b450',
-            battle: '#ef7d7d',
-            city: '#86b7ff',
-            site: '#6fca93'
-          }};
-          const bounds = [];
-          locations.forEach((loc) => {{
-            const marker = L.circleMarker([loc.lat, loc.lng], {{
-              radius: 8,
-              color: colors[loc.role] || colors.site,
-              fillColor: colors[loc.role] || colors.site,
-              fillOpacity: 0.9,
-              weight: 2
-            }}).addTo(map);
-            marker.bindPopup(`<strong>${{escapeHtml(loc.name)}}</strong><br>${{escapeHtml(loc.caption || '')}}`);
-            bounds.push([loc.lat, loc.lng]);
-          }});
-          map.fitBounds(bounds, {{ padding: [28, 28], maxZoom: 6 }});
+        if (!window.L) {{
+          throw new Error('Leaflet did not load');
         }}
+        const locations = JSON.parse(mapEl.dataset.locations || '[]');
+        if (!locations.length) {{
+          throw new Error('No map locations');
+        }}
+        mapWrap?.classList.add('is-ready');
+        const map = L.map(mapEl, {{ scrollWheelZoom: false }});
+        L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png', {{
+          maxZoom: 19,
+          subdomains: 'abcd',
+          attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+        }}).addTo(map);
+        const colors = {{
+          capital: '#e6b450',
+          battle: '#ef7d7d',
+          city: '#86b7ff',
+          site: '#6fca93'
+        }};
+        const bounds = [];
+        locations.forEach((loc) => {{
+          const marker = L.circleMarker([loc.lat, loc.lng], {{
+            radius: 8,
+            color: colors[loc.role] || colors.site,
+            fillColor: colors[loc.role] || colors.site,
+            fillOpacity: 0.9,
+            weight: 2
+          }}).addTo(map);
+          marker.bindPopup(`<strong>${{escapeHtml(loc.name)}}</strong><br>${{escapeHtml(loc.caption || '')}}`);
+          bounds.push([loc.lat, loc.lng]);
+        }});
+        map.fitBounds(bounds, {{ padding: [28, 28], maxZoom: 6 }});
+        setTimeout(() => map.invalidateSize(), 0);
       }} catch (error) {{
-        mapEl.style.display = 'none';
+        showMapFallback();
       }}
     }}
   </script>
@@ -1137,6 +1284,8 @@ def main() -> None:
     state = load_json(STATE_FILE, {"edition": 0, "last_successful": {}})
     topics = load_json(TOPICS_FILE, [])
     trivia_history = load_json(TRIVIA_FILE, [])
+    if not isinstance(trivia_history, list):
+        trivia_history = []
 
     if not topics:
         raise RuntimeError("topics.json has no topics.")
@@ -1168,19 +1317,11 @@ def main() -> None:
 
     try:
         trivia = generate_trivia(sport, trivia_history)
-        trivia_history.append(
-            {
-                "date": today_key,
-                "sport": trivia.get("sport"),
-                "question": trivia.get("question"),
-                "answer": trivia.get("answer"),
-            }
-        )
-        trivia_history = trivia_history[-90:]
         print("Generated sports trivia.")
     except Exception as exc:
         print(f"Trivia generation failed: {exc}")
         trivia = reuse_previous(state, "trivia", "yesterday's edition", str(exc)) or demo_trivia(sport)
+    trivia_history = remember_trivia(trivia_history, today_key, trivia)
 
     try:
         update_ticker()
