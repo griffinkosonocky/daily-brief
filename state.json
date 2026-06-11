@@ -1,59 +1,148 @@
 {
-  "edition": 1,
+  "edition": 2,
   "last_successful": {
     "article": {
       "title": "The Library of Ashurbanipal and the World of Assyria",
-      "html": "<h2>The archive before dawn</h2>\n<p>The first edition preview is using local sample content because no Anthropic API key is available in this environment. It is still shaped like a real Daily Brief essay so the page, archive, map, and mobile layout can be reviewed before the repository secret is added.</p>\n<p>The story begins with The Library of Ashurbanipal and the World of Assyria, a reminder that history often survives through accidents of power, weather, conquest, and paperwork. In the ancient Near East, rulers collected words as carefully as they collected tribute. Clay tablets, palace rooms, trained scribes, and imperial messengers formed a knowledge system that could outlast the people who built it.</p>\n<h2>The world before</h2>\n<p>Before modern archives, knowledge was physical in the most literal sense. A record had weight. It had to be pressed into wet clay, dried, shelved, copied, and guarded. Cities competed not only with armies but with calendars, contracts, omens, poems, and lists. The stronger a state became, the more it needed memory: taxes, grain, land, soldiers, borders, treaties, and divine favor all had to be recorded.</p>\n<p>Assyria turned that need into an imperial habit. Its kings ruled through speed and fear, but also through information. Reports moved from provincial governors to the palace. Scholars watched the sky and read the liver of sacrificed animals for signs. Scribes copied older stories because the past was not dead material; it was a reservoir of authority.</p>\n<h2>The event itself</h2>\n<p>The library associated with Ashurbanipal at Nineveh was not a public library in the modern sense. It was a royal instrument. Tablets gathered from across Mesopotamia gave the king access to ritual knowledge, lexical lists, medical texts, royal inscriptions, hymns, prayers, omen series, and literature. Among them were versions of the Epic of Gilgamesh, one of the oldest surviving works of world literature.</p>\n<p>What makes the library feel almost modern is the ambition behind it. The palace wanted not just a few useful documents but a systematic command of inherited learning. The king presented himself as literate, trained, and uniquely capable of reading difficult texts. Whether that image was fully true matters less than the political message: empire claimed the right to collect the world&#x27;s memory and arrange it around the throne.</p>\n<h2>Debate and uncertainty</h2>\n<p>Scholars still debate how centralized the collection really was, how much Ashurbanipal personally directed it, and how many tablets belonged to separate palace archives later discovered together. The ancient evidence is rich but fragmentary. The burned destruction layers that helped preserve tablets also shattered them. Modern knowledge depends on painstaking reconstruction, joins between fragments, and comparisons with tablets found elsewhere.</p>\n<p>That uncertainty is part of the drama. Archives look stable from a distance, but they are living systems: copied, moved, broken, misfiled, looted, recovered, and reinterpreted. Every generation asks the old clay new questions.</p>\n<h2>Aftermath</h2>\n<p>Nineveh fell in 612 BC, and Assyrian imperial power collapsed. Yet the tablets survived because disaster fired and buried them. The library became a time capsule created unintentionally by conquest. When nineteenth-century excavators uncovered the tablets, they opened a route back into Mesopotamian literature, science, ritual, and administration.</p>\n<p>The result changed the study of the ancient world. Stories once known only from later traditions suddenly had deeper roots. Mesopotamia emerged not as a footnote to classical history but as a civilization with its own dense intellectual life.</p>\n<h2>Why it matters</h2>\n<p>The library matters because it shows that power and knowledge have always been tangled together. States collect information to govern, but archives can escape their creators. A royal tool can become a common inheritance. A destroyed palace can become a classroom for the future.</p>\n<p class=\"further-reading\"><strong>Further reading:</strong> Andrew George, The Epic of Gilgamesh; Karen Radner, Ancient Assyria: A Very Short Introduction; Irving Finkel, The Ark Before Noah.</p>\n<p>Tomorrow&#x27;s read: Hatshepsut&#x27;s Reign and the Politics of Memory in Egypt.</p>",
+      "html": "<h3>The Daily Brief</h3>\n<h2>The King Who Collected the World: Ashurbanipal&#x27;s Library and the Mind of Assyria</h2>\n<p><em>Ancient Mesopotamia | c. 668–627 BCE</em></p>\n<p>---</p>\n<h2>The Hook</h2>\n<p>Imagine walking into a room where the walls are lined not with shelves of bound books but with row upon row of clay tablets — thousands of them, each one pressed with tiny wedge-shaped marks so dense and precise they look almost like the texture of woven cloth. The room smells of damp earth and old fires. Some of the tablets are the size of a human palm. Others are the length of a forearm. A few are cracked, singed at the edges, survivors of a catastrophe you will not fully understand for another two and a half millennia. This is the Library of Ashurbanipal, buried beneath the rubble of Nineveh, sealed by conquest and forgotten by the living world for roughly 2,600 years — until a young British excavator named Austen Henry Layard began digging in the Iraqi desert in the 1840s and started pulling up pieces of a civilization that would rewrite everything scholars thought they knew about the ancient world.</p>\n<p>One of those tablets contained the oldest flood story ever recovered. Another described the creation of the universe. Another catalogued the omens that could be read in the entrails of a sheep. Taken together, they constituted something no one had expected to find: a deliberate, systematic attempt by one man to collect all the knowledge in the world.</p>\n<p>---</p>\n<h2>The World Before</h2>\n<p>To understand why Ashurbanipal built his library, you have to understand the world he inherited — a world that was, by any measure, extraordinary and terrifying in equal parts.</p>\n<p>Mesopotamia, the land between the Tigris and Euphrates rivers in what is now Iraq, had been the cradle of literate civilization for roughly two thousand years before Ashurbanipal was born. The Sumerians had invented writing around 3200 BCE, not as an act of artistic ambition but as a practical accounting tool — tokens pressed into clay to record grain deliveries and livestock counts. Over centuries that writing system grew into cuneiform, a script capable of rendering poetry, law, medicine, astronomy, and theology. Cities rose and fell: Ur, Uruk, Nippur, Babylon. Empires assembled themselves and collapsed. Sargon of Akkad built the first true empire in history around 2334 BCE. The Third Dynasty of Ur raised ziggurats to the moon god Nanna. Hammurabi of Babylon inscribed his famous legal code on a black diorite stele around 1754 BCE.</p>\n<p>By the time Assyria came to dominate the region, this tradition of cuneiform learning was already ancient. The Assyrians — a Semitic people centered on the city of Ashur on the upper Tigris — had been building their power for centuries, but it was in the Neo-Assyrian period, roughly 911 to 609 BCE, that they assembled the largest empire the world had yet seen, stretching from Egypt and the Levant in the west to the borders of Iran in the east, from the mountains of Anatolia in the north to the Persian Gulf in the south. They did this through military force of a kind that shocked even the ancient world: systematic siege warfare, mass deportations, and a propaganda machine that depicted the Assyrian king as the earthly representative of the god Ashur, whose will was the conquest of everything.</p>\n<p>The Assyrian court was a place of immense sophistication and immense brutality, and these two qualities were not in contradiction. The same king who commissioned exquisite palace reliefs showing lion hunts and military campaigns also ordered the flaying of rebel leaders and the salting of their cities. Power in Assyria was theological as much as military. The king was not merely a general; he was a cosmic intermediary, and his ability to read omens, understand divine will, and manipulate ritual was as important to his legitimacy as his ability to win battles.</p>\n<p>---</p>\n<h2>The Story</h2>\n<p>Ashurbanipal came to the throne around 668 BCE, the son of the great conqueror Esarhaddon. He was not the eldest son — Esarhaddon had arranged a complicated succession that made his older brother Shamash-shum-ukin king of Babylon while Ashurbanipal ruled Assyria — and this fraternal tension would eventually erupt into a catastrophic civil war that Ashurbanipal won, at enormous cost, around 648 BCE. But what distinguishes Ashurbanipal from virtually every other ancient king is not his military record, impressive as it was. It is the fact that he could read.</p>\n<p>This sounds like a small thing. It was not. In the ancient Near East, literacy was the province of scribes — a specialized professional class trained from childhood in the complex signs and conventions of cuneiform. Kings were expected to be warriors and administrators, not scholars. Ashurbanipal, uniquely among Assyrian monarchs, boasted of his learning in his royal inscriptions. He claimed to have studied the scribal arts, to have solved difficult mathematical problems, to have read obscure texts from before the flood. Whether this was entirely true or partly royal propaganda is a question scholars still debate, but the library he built suggests that the intellectual ambition, at least, was genuine.</p>\n<p>The project was systematic and, in its way, breathtaking. Ashurbanipal sent agents throughout Babylonia — the ancient cultural heartland to the south, which the Assyrians had conquered but whose intellectual prestige they deeply respected — with instructions to locate and copy every significant text they could find. The orders that survive in the royal correspondence are specific: they were to gather tablets on medicine, divination, ritual, mythology, astronomy, and linguistics. Private collections were to be requisitioned. Temple libraries were to be copied. Nothing of importance was to be left out.</p>\n<p>The result, assembled in the royal palace at Nineveh, was a collection of somewhere between 25,000 and 30,000 tablets and fragments — the scholarly estimates vary, partly because it is still not entirely clear how many of the tablets found by Layard and his successors came specifically from Ashurbanipal&#x27;s library as opposed to other palace archives. But the core of the collection was organized with a logic that is recognizable to any modern librarian. Tablets were labeled. Series were catalogued. Colophons — the inscriptions at the end of each tablet — identified the text, its series, its tablet number within the series, and sometimes the scribe who copied it. This was not random accumulation. It was curation.</p>\n<p>Among the texts collected were the canonical series of omen literature — Enuma Anu Enlil, the great astronomical omen series running to roughly 70 tablets; Enuma Elish, the Babylonian creation epic that describes the god Marduk slaying the chaos dragon Tiamat and fashioning the world from her body; and, most famously to modern readers, the Epic of Gilgamesh. The Gilgamesh text found at Nineveh — specifically Tablet XI of the Standard Babylonian Version — contains the flood narrative in which the hero Utnapishtim survives a divine deluge in a great boat, lands on a mountain, and releases birds to find dry land. When the British Museum&#x27;s George Smith identified this tablet in 1872, he reportedly became so excited that he began removing his clothes in the reading room. The parallels with the Genesis flood story were immediately and explosively obvious, touching off debates about the relationship between Mesopotamian mythology and the Hebrew Bible that continue to this day.</p>\n<p>---</p>\n<h2>The Mystery and the Debate</h2>\n<p>The scholarly questions surrounding the library are numerous and genuinely unresolved. The first concerns the library&#x27;s physical organization. The tablets Layard found were not neatly arranged on shelves; they were jumbled in piles, many broken, the result of the palace&#x27;s violent destruction when Nineveh fell to the Medes and Babylonians in 612 BCE. Reconstructing which tablets belonged to which room, which collection, and which organizational system has been the painstaking work of generations of Assyriologists.</p>\n<p>The second question concerns authorship and transmission. Many of the texts in the library are far older than Ashurbanipal — the Gilgamesh epic, for instance, has roots reaching back to the early second millennium BCE or beyond. How much did Assyrian scribes alter these texts as they copied them? The Standard Babylonian Version of Gilgamesh appears to have been substantially edited and expanded by a scholar-scribe named Sin-leqi-unninni, probably sometime in the late second millennium. What the Nineveh copies preserve, therefore, is not necessarily the &quot;original&quot; text but a sophisticated literary recension — a curated, interpreted version of a much older tradition.</p>\n<p>Third, and perhaps most interesting for the broader history of knowledge, is the question of what the library was <em>for</em>. The standard assumption is that it served as a practical reference collection for the king&#x27;s diviners and ritual specialists — men who needed access to the canonical omen series to advise the king on military campaigns, eclipses, and state decisions. But some scholars have argued that Ashurbanipal&#x27;s motivations were more personal, more genuinely intellectual, that the library represents something approaching a philosophical project: an attempt to master the totality of Babylonian learning not merely for practical use but as an expression of royal identity and cosmic authority. The king who possessed all knowledge was, in a sense, the king who possessed the world itself.</p>\n<p>---</p>\n<h2>The Aftermath</h2>\n<p>Ashurbanipal died around 627 BCE, and within two decades the empire he had ruled was gone. The fall of Nineveh in 612 BCE was so complete that the city was essentially erased from the landscape. The prophet Nahum had called Nineveh a &quot;city of blood,&quot; and its enemies showed it no mercy. The palace burned. The library burned — or rather, was burned around the tablets, which are clay and do not burn but instead were baked harder by the fire, preserved by the very catastrophe that destroyed the civilization that created them.</p>\n<p>For more than two thousand years, Nineveh was a ruin mound on the outskirts of the modern city of Mosul. Local people knew the mound as Kuyunjik. Travelers noted it. But no one knew what lay beneath until the mid-nineteenth century, when European archaeologists, driven by a mixture of scholarly curiosity and imperial ambition, began excavating the great mounds of northern Iraq. Layard&#x27;s discoveries at Nineveh and Nimrud in the 1840s and 1850s sent thousands of tablets to the British Museum, where the work of decipherment — led by scholars like Henry Rawlinson, Edward Hincks, and George Smith — gradually unlocked the cuneiform script and revealed the contents of the ancient library.</p>\n<p>The impact on intellectual history was seismic. The Gilgamesh flood tablet alone forced a wholesale reconsideration of the relationship between the Hebrew Bible and its ancient Near Eastern context. The omen series revealed a sophisticated tradition of observational astronomy that laid the groundwork for later Babylonian mathematical astronomy and, through it, for the Greek astronomical tradition that eventually became modern science. The medical texts showed a complex interplay of rational diagnosis and ritual treatment. The legal and administrative documents illuminated the social and economic structures of one of history&#x27;s most powerful empires.</p>\n<p>The tablets also, more quietly, preserved texts that might otherwise have been lost entirely — myths, hymns, wisdom literature, and lexical lists that give us our most direct window into how educated Mesopotamians understood their world, their gods, and themselves.</p>\n<p>---</p>\n<h2>Why It Matters</h2>\n<p>Ashurbanipal&#x27;s library is not simply a curiosity from the ancient world. It is a mirror held up to enduring human instincts: the desire to gather knowledge against the threat of forgetting, the belief that information is a form of power, the conviction that the past contains wisdom the present needs.</p>\n<p>Every great library in history — Alexandria, the House of Wisdom in Baghdad, the Vatican Archives, the Library of Congress — is, in some sense, a descendant of the impulse Ashurbanipal acted on in seventh-century Nineveh. The specific contents change; the anxiety that drives the collecting does not. We build libraries because we fear the fire. And sometimes, as Nineveh teaches us, the fire is what saves the books.</p>\n<p>There is also something quietly sobering in the library&#x27;s story. The empire that built it was gone within a generation of its completion. The city that housed it was so thoroughly destroyed that it vanished from human memory for two millennia. And yet the clay tablets survived, baked hard by the catastrophe, waiting in the dark. The knowledge outlasted the power that gathered it. That is not a comfortable lesson for empires. It may be a consoling one for everyone else.</p>\n<p>---</p>\n<p><em>Further reading: Andrew George, <strong>The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts</strong> (Oxford University Press, 2003); A. Leo Oppenheim, <strong>Ancient Mesopotamia: Portrait of a Dead Civilization</strong> (University of Chicago Press, 1964); Stephanie Dalley, <strong>Myths from Mesopotamia</strong> (Oxford World&#x27;s Classics, 1989).</em></p>\n<p>---</p>\n<p><strong>Tomorrow&#x27;s read: Hatshepsut&#x27;s Reign and the Politics of Memory in Egypt</strong></p>\n<p>---</p>",
       "locations": [
         {
-          "name": "Nineveh",
-          "lat": 36.3594,
-          "lng": 43.1529,
-          "caption": "The Assyrian capital where many tablets from Ashurbanipal's library were found.",
+          "name": "Nineveh (Kuyunjik)",
+          "lat": 36.359,
+          "lng": 43.159,
+          "caption": "Capital of the Neo-Assyrian Empire and site of Ashurbanipal's great library, buried beneath the mound of Kuyunjik near modern Mosul.",
           "role": "capital"
         },
         {
           "name": "Ashur",
           "lat": 35.456,
-          "lng": 43.262,
-          "caption": "Older Assyrian religious and political center on the Tigris.",
+          "lng": 43.259,
+          "caption": "The ancient religious capital of Assyria and cult center of the god Ashur, from which the empire took its name.",
           "role": "city"
         },
         {
           "name": "Babylon",
-          "lat": 32.5364,
-          "lng": 44.4208,
-          "caption": "A major Mesopotamian center whose traditions shaped Assyrian scholarship.",
+          "lat": 32.542,
+          "lng": 44.421,
+          "caption": "Cultural and intellectual heartland of Mesopotamia; Ashurbanipal's agents scoured Babylonian temples and private collections for texts to copy.",
+          "role": "city"
+        },
+        {
+          "name": "Nimrud (Kalhu)",
+          "lat": 36.099,
+          "lng": 43.328,
+          "caption": "Earlier Assyrian royal capital excavated by Layard in the 1840s alongside Nineveh, yielding major palace reliefs and cuneiform archives.",
           "role": "site"
+        },
+        {
+          "name": "Nippur",
+          "lat": 32.127,
+          "lng": 45.229,
+          "caption": "Ancient Sumerian religious center whose temple libraries held canonical cuneiform texts that influenced the collections gathered for Nineveh.",
+          "role": "city"
+        },
+        {
+          "name": "Uruk",
+          "lat": 31.324,
+          "lng": 45.636,
+          "caption": "One of the world's first cities and birthplace of writing, whose scribal traditions flowed forward into the very tablets Ashurbanipal collected.",
+          "role": "city"
+        },
+        {
+          "name": "Mosul",
+          "lat": 36.335,
+          "lng": 43.119,
+          "caption": "Modern Iraqi city adjacent to the ruins of Nineveh, near which Layard began the excavations that revealed the library to the modern world.",
+          "role": "city"
         }
       ],
-      "badge": "local preview",
-      "source": "preview",
-      "generated_at": "2026-06-11T14:10:03+00:00"
+      "badge": null,
+      "source": "api",
+      "usage": {
+        "input_tokens": 332,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 3611,
+        "service_tier": "standard",
+        "inference_geo": "global"
+      },
+      "generated_at": "2026-06-11T14:40:28+00:00"
     },
     "markets": {
       "title": "US Markets Today",
       "bullets": [
-        "Local preview mode is active because ANTHROPIC_API_KEY is not set here.",
-        "In GitHub Actions, this card will use Claude with web search for futures, yesterday's close, economic data, earnings, global moves, and one theme to watch.",
-        "The timestamp below lets you see exactly when the card was generated."
+        "FUTURES UP ~0.7%: S&P, Nasdaq, and Dow futures all rose 0.4–0.7% after US Central Command signaled it completed its latest strikes on Iran and Trump said both sides remain close to a deal — reversing overnight losses.",
+        "YESTERDAY'S CLOSE: Dow −953 pts (−1.87%) to 49,919; S&P 500 −1.62% to 7,267; Nasdaq −1.98% to 25,169 — all near session lows as CPI hit a 3-year high of 4.2% and Iran tensions escalated.",
+        "TODAY'S DATA (all CT): May PPI & core PPI (7:30 AM) — consensus was +0.7% MoM but early reads suggest a hotter print; weekly jobless claims also at 7:30 AM. ECB rate decision expected this morning.",
+        "EARNINGS TODAY: Adobe (ADBE) reports Q2 after the close (4 PM CT conf. call) — options pricing ~9.5% move. Oracle (ORCL) already reacting: −9% premarket after beating Q4 estimates but announcing ~$40B in new debt/equity to fund AI data centers.",
+        "OVERNIGHT: Asian stocks fell broadly on the Wall Street selloff and Iran oil fears. Europe mixed — DAX −1.4%, FTSE +0.3%, CAC −0.5%. Chip names Intel +4.8%, Applied Materials +4.6% premarket on Iran ceasefire relief.",
+        "RATES & OIL MOVING: 10-year Treasury steady at ~4.55%; 30-year at 5.02%. Brent crude +2.6% to ~$93.85 on Strait of Hormuz supply fears and Trump's threat to seize Iran's Kharg Island oil hub.",
+        "THEME TO WATCH — Iran/Inflation/Fed triangle: Hot PPI today would mark the second straight inflation shock (CPI 4.2% Wed), cementing bets for a Fed rate hike by December. FOMC meets June 16–17. Any Iran de-escalation that eases oil could quickly shift that calculus."
       ],
-      "generated_at_ct": "Jun 11, 2026 at 9:10 AM CT",
-      "badge": "local preview",
-      "sources": [],
-      "source": "preview",
-      "generated_at": "2026-06-11T14:10:03+00:00"
+      "generated_at_ct": "Jun 11, 2026 at 9:39 AM CT",
+      "badge": null,
+      "sources": [
+        {
+          "title": "US Premarket Movers for June 11, 2026",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-11/us-stock-futures-today-chipmakers-dana-eaton-intel-oracle"
+        },
+        {
+          "title": "United States Stock Market Index - Quote - Chart - Historical Data - News | Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
+        },
+        {
+          "title": "Stock Market Today (June 10, 2026): Dow dips 900 points as U.S. signals more strikes in Iran - TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026"
+        },
+        {
+          "title": "Stocks Rebound, Led by Chips, as CPI Data Looms",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ],
+      "source": "api",
+      "usage": {
+        "input_tokens": 46776,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1610,
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "server_tool_use": {
+          "web_search_requests": 6,
+          "web_fetch_requests": 0
+        }
+      },
+      "generated_at": "2026-06-11T14:41:06+00:00"
     },
     "trivia": {
-      "sport": "NFL",
+      "sport": "Soccer",
       "difficulty": "hard",
-      "question": "Which NFL team won Super Bowl XX with one of the most dominant defenses in league history?",
-      "answer": "The 1985 Chicago Bears.",
-      "story": "Chicago finished the season 18-1 including the playoffs and routed New England 46-10 in the Super Bowl. Their defense became a cultural artifact as much as a football unit.",
-      "badge": "local preview",
-      "source": "preview",
-      "generated_at": "2026-06-11T14:10:03+00:00"
+      "question": "Which player won the Golden Ball (best player) at the 2014 FIFA World Cup despite his team finishing as runners-up?",
+      "answer": "Mario Götze",
+      "story": "Götze scored the extra-time winning goal for Germany in the 2014 World Cup final against Argentina, but the award went to Götze for his overall tournament performance rather than the match-deciding moment. This remains one of the most debated Golden Ball decisions, as many felt the award should have gone to Germany's goalkeeper Manuel Neuer or another standout performer. The young Bayern Munich star's brilliance throughout the tournament ultimately earned him the individual honor despite the heartbreak for Argentina's Lionel Messi.",
+      "badge": null,
+      "source": "api",
+      "usage": {
+        "input_tokens": 156,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 189,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+      },
+      "generated_at": "2026-06-11T14:41:09+00:00"
     }
   },
-  "updated_at": "2026-06-11T14:10:03+00:00"
+  "updated_at": "2026-06-11T14:41:12+00:00"
 }
