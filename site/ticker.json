@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-11T14:41:12+00:00",
+  "updated_at": "2026-06-11T18:27:43+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "World Bank cuts global growth outlook to 2.5%, warns of drop to 1.3% if war fallout spreads to markets",
-      "published_at": "2026-06-11T13:47:44+00:00"
+      "text": "Trump cancels strikes against Iran planned for Thursday evening",
+      "published_at": "2026-06-11T18:03:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ebola testing has improved in DRC, but still isn't nearly enough",
+      "published_at": "2026-06-11T18:02:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
+      "published_at": "2026-06-11T18:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What's the latest in the Strait of Hormuz?",
+      "published_at": "2026-06-11T17:56:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+      "published_at": "2026-06-11T17:42:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street regulator proposes to scrap 'order protection rule'",
+      "published_at": "2026-06-11T17:24:28+00:00"
     },
     {
       "source": "Reuters",
       "text": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
-      "published_at": "2026-06-11T13:31:10+00:00"
+      "published_at": "2026-06-11T17:18:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Someone is marking a huge '8647' into the grounds of the National Mall in Washington",
+      "published_at": "2026-06-11T17:10:37+00:00"
     },
     {
       "source": "BBC",
-      "text": "El Niño under way and threatens weather extremes, scientists say",
-      "published_at": "2026-06-11T13:26:24+00:00"
+      "text": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "published_at": "2026-06-11T17:04:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump tells Fox News he'd like to take Iran's Kharg Island",
-      "published_at": "2026-06-11T13:18:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World chess body suspends Russia, once the game's leading power",
-      "published_at": "2026-06-11T13:15:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tracking the World Cup’s heat with Reuters Climate Monitor",
-      "published_at": "2026-06-11T13:06:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Japan reactor restart sparks fresh fears over nuclear waste storage",
-      "published_at": "2026-06-11T13:02:43+00:00"
+      "text": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows",
+      "published_at": "2026-06-11T16:55:38+00:00"
     },
     {
       "source": "Reuters",
       "text": "US screwworm cases test months of federal preparation",
-      "published_at": "2026-06-11T13:01:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "VIEW ECB raises interest rates, as widely expected",
-      "published_at": "2026-06-11T12:44:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "OPEC again lowers 2026 global oil demand growth forecast",
-      "published_at": "2026-06-11T12:44:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Iran haggle over frozen funds as they inch toward interim deal, sources say",
-      "published_at": "2026-06-11T12:26:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Developing world's 'complex' debt could raise costs, stall restructurings, Lazard says",
-      "published_at": "2026-06-11T12:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asics' 'Kill Bill' sneaker brand Onitsuka Tiger laces up for global expansion",
-      "published_at": "2026-06-11T12:12:56+00:00"
+      "published_at": "2026-06-11T16:54:14+00:00"
     },
     {
       "source": "NPR",
-      "text": "Greetings from a Seoul museum, where Buddhist masterpieces offer calm away from city bustle",
-      "published_at": "2026-06-11T12:12:18+00:00"
+      "text": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+      "published_at": "2026-06-11T16:53:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, Canada delay opening of new bridge after Trump raised objections",
+      "published_at": "2026-06-11T16:47:26+00:00"
     },
     {
       "source": "BBC",
-      "text": "US and Iran exchange strikes across Middle East for second day in a row",
-      "published_at": "2026-06-11T12:09:44+00:00"
+      "text": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "published_at": "2026-06-11T16:25:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hazardous materials incident prompts Pentagon lockdown, officials say",
+      "published_at": "2026-06-11T16:19:44+00:00"
     }
   ]
 }
