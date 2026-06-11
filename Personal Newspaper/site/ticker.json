@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-06-11T14:10:03+00:00",
+  "headlines": [
+    {
+      "source": "BBC",
+      "text": "World headlines will appear here after the first successful RSS update."
+    },
+    {
+      "source": "AP",
+      "text": "The ticker refreshes hourly from BBC, AP, NPR, and Reuters via Google News RSS."
+    },
+    {
+      "source": "NPR",
+      "text": "If a feed is temporarily unavailable, the last good ticker is kept."
+    }
+  ]
+}

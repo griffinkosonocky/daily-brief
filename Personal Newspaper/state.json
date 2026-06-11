@@ -1,0 +1,59 @@
+{
+  "edition": 1,
+  "last_successful": {
+    "article": {
+      "title": "The Library of Ashurbanipal and the World of Assyria",
+      "html": "<h2>The archive before dawn</h2>\n<p>The first edition preview is using local sample content because no Anthropic API key is available in this environment. It is still shaped like a real Daily Brief essay so the page, archive, map, and mobile layout can be reviewed before the repository secret is added.</p>\n<p>The story begins with The Library of Ashurbanipal and the World of Assyria, a reminder that history often survives through accidents of power, weather, conquest, and paperwork. In the ancient Near East, rulers collected words as carefully as they collected tribute. Clay tablets, palace rooms, trained scribes, and imperial messengers formed a knowledge system that could outlast the people who built it.</p>\n<h2>The world before</h2>\n<p>Before modern archives, knowledge was physical in the most literal sense. A record had weight. It had to be pressed into wet clay, dried, shelved, copied, and guarded. Cities competed not only with armies but with calendars, contracts, omens, poems, and lists. The stronger a state became, the more it needed memory: taxes, grain, land, soldiers, borders, treaties, and divine favor all had to be recorded.</p>\n<p>Assyria turned that need into an imperial habit. Its kings ruled through speed and fear, but also through information. Reports moved from provincial governors to the palace. Scholars watched the sky and read the liver of sacrificed animals for signs. Scribes copied older stories because the past was not dead material; it was a reservoir of authority.</p>\n<h2>The event itself</h2>\n<p>The library associated with Ashurbanipal at Nineveh was not a public library in the modern sense. It was a royal instrument. Tablets gathered from across Mesopotamia gave the king access to ritual knowledge, lexical lists, medical texts, royal inscriptions, hymns, prayers, omen series, and literature. Among them were versions of the Epic of Gilgamesh, one of the oldest surviving works of world literature.</p>\n<p>What makes the library feel almost modern is the ambition behind it. The palace wanted not just a few useful documents but a systematic command of inherited learning. The king presented himself as literate, trained, and uniquely capable of reading difficult texts. Whether that image was fully true matters less than the political message: empire claimed the right to collect the world&#x27;s memory and arrange it around the throne.</p>\n<h2>Debate and uncertainty</h2>\n<p>Scholars still debate how centralized the collection really was, how much Ashurbanipal personally directed it, and how many tablets belonged to separate palace archives later discovered together. The ancient evidence is rich but fragmentary. The burned destruction layers that helped preserve tablets also shattered them. Modern knowledge depends on painstaking reconstruction, joins between fragments, and comparisons with tablets found elsewhere.</p>\n<p>That uncertainty is part of the drama. Archives look stable from a distance, but they are living systems: copied, moved, broken, misfiled, looted, recovered, and reinterpreted. Every generation asks the old clay new questions.</p>\n<h2>Aftermath</h2>\n<p>Nineveh fell in 612 BC, and Assyrian imperial power collapsed. Yet the tablets survived because disaster fired and buried them. The library became a time capsule created unintentionally by conquest. When nineteenth-century excavators uncovered the tablets, they opened a route back into Mesopotamian literature, science, ritual, and administration.</p>\n<p>The result changed the study of the ancient world. Stories once known only from later traditions suddenly had deeper roots. Mesopotamia emerged not as a footnote to classical history but as a civilization with its own dense intellectual life.</p>\n<h2>Why it matters</h2>\n<p>The library matters because it shows that power and knowledge have always been tangled together. States collect information to govern, but archives can escape their creators. A royal tool can become a common inheritance. A destroyed palace can become a classroom for the future.</p>\n<p class=\"further-reading\"><strong>Further reading:</strong> Andrew George, The Epic of Gilgamesh; Karen Radner, Ancient Assyria: A Very Short Introduction; Irving Finkel, The Ark Before Noah.</p>\n<p>Tomorrow&#x27;s read: Hatshepsut&#x27;s Reign and the Politics of Memory in Egypt.</p>",
+      "locations": [
+        {
+          "name": "Nineveh",
+          "lat": 36.3594,
+          "lng": 43.1529,
+          "caption": "The Assyrian capital where many tablets from Ashurbanipal's library were found.",
+          "role": "capital"
+        },
+        {
+          "name": "Ashur",
+          "lat": 35.456,
+          "lng": 43.262,
+          "caption": "Older Assyrian religious and political center on the Tigris.",
+          "role": "city"
+        },
+        {
+          "name": "Babylon",
+          "lat": 32.5364,
+          "lng": 44.4208,
+          "caption": "A major Mesopotamian center whose traditions shaped Assyrian scholarship.",
+          "role": "site"
+        }
+      ],
+      "badge": "local preview",
+      "source": "preview",
+      "generated_at": "2026-06-11T14:10:03+00:00"
+    },
+    "markets": {
+      "title": "US Markets Today",
+      "bullets": [
+        "Local preview mode is active because ANTHROPIC_API_KEY is not set here.",
+        "In GitHub Actions, this card will use Claude with web search for futures, yesterday's close, economic data, earnings, global moves, and one theme to watch.",
+        "The timestamp below lets you see exactly when the card was generated."
+      ],
+      "generated_at_ct": "Jun 11, 2026 at 9:10 AM CT",
+      "badge": "local preview",
+      "sources": [],
+      "source": "preview",
+      "generated_at": "2026-06-11T14:10:03+00:00"
+    },
+    "trivia": {
+      "sport": "NFL",
+      "difficulty": "hard",
+      "question": "Which NFL team won Super Bowl XX with one of the most dominant defenses in league history?",
+      "answer": "The 1985 Chicago Bears.",
+      "story": "Chicago finished the season 18-1 including the playoffs and routed New England 46-10 in the Super Bowl. Their defense became a cultural artifact as much as a football unit.",
+      "badge": "local preview",
+      "source": "preview",
+      "generated_at": "2026-06-11T14:10:03+00:00"
+    }
+  },
+  "updated_at": "2026-06-11T14:10:03+00:00"
+}

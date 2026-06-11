@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Daily Brief - 2026-06-11</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #111315;
+      --panel: #1b2025;
+      --panel-2: #202832;
+      --text: #f2efe8;
+      --muted: #aeb7bd;
+      --line: #303943;
+      --gold: #e6b450;
+      --green: #6fca93;
+      --blue: #86b7ff;
+      --red: #ef7d7d;
+      --shadow: 0 14px 40px rgba(0, 0, 0, 0.28);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 0 0 4.75rem;
+      background: var(--bg);
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.62;
+    }
+    a { color: var(--blue); }
+    .page {
+      width: min(100% - 28px, 700px);
+      margin: 0 auto;
+      padding: 1.15rem 0 3rem;
+    }
+    header {
+      padding: 1.1rem 0 1.2rem;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 1rem;
+    }
+    .kicker {
+      color: var(--muted);
+      font-size: 0.82rem;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+    h1, h2, h3 { line-height: 1.16; letter-spacing: 0; }
+    h1 {
+      margin: 0.15rem 0 0.25rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2.15rem, 12vw, 4rem);
+      font-weight: 700;
+    }
+    .dateline {
+      color: var(--muted);
+      font-size: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      margin: 1rem 0;
+      padding: 1rem;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .section-head h2 {
+      margin: 0;
+      font-size: 1.22rem;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.55rem;
+      border-radius: 999px;
+      border: 1px solid rgba(230, 180, 80, 0.45);
+      color: var(--gold);
+      padding: 0.1rem 0.55rem;
+      font-size: 0.76rem;
+      white-space: nowrap;
+    }
+    .markets ul {
+      margin: 0;
+      padding-left: 1.1rem;
+    }
+    .markets li { margin: 0.45rem 0; }
+    .stamp, .sources {
+      margin: 0.75rem 0 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+    .sources a { color: var(--muted); }
+    .trivia-meta {
+      color: var(--green);
+      font-size: 0.86rem;
+      margin-bottom: 0.35rem;
+    }
+    .question {
+      margin: 0.35rem 0 0.9rem;
+      font-size: 1.06rem;
+      font-weight: 650;
+    }
+    button {
+      appearance: none;
+      border: 0;
+      border-radius: 8px;
+      background: var(--gold);
+      color: #1b1403;
+      font: inherit;
+      font-weight: 750;
+      min-height: 44px;
+      padding: 0.62rem 0.9rem;
+      cursor: pointer;
+    }
+    button:focus-visible {
+      outline: 3px solid var(--blue);
+      outline-offset: 3px;
+    }
+    .answer {
+      display: none;
+      margin-top: 0.9rem;
+      padding-top: 0.9rem;
+      border-top: 1px solid var(--line);
+    }
+    .answer.is-visible { display: block; }
+    .answer strong { color: var(--gold); }
+    .article-shell {
+      margin-top: 1.45rem;
+      padding-top: 0.7rem;
+      border-top: 1px solid var(--line);
+    }
+    .article-title {
+      margin: 0.4rem 0 0.8rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2rem, 9vw, 3.2rem);
+    }
+    .map-wrap {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      margin: 0.9rem 0 1.25rem;
+      background: var(--panel-2);
+    }
+    #history-map {
+      width: 100%;
+      height: min(68vh, 420px);
+      min-height: 280px;
+    }
+    article {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.1rem;
+      line-height: 1.74;
+    }
+    article h2 {
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 1.35rem;
+      margin: 1.7rem 0 0.45rem;
+    }
+    article h3 {
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 1.08rem;
+      color: var(--gold);
+      margin: 1.3rem 0 0.4rem;
+    }
+    article p { margin: 0 0 1rem; }
+    .further-reading {
+      border-left: 3px solid var(--gold);
+      padding-left: 0.8rem;
+      color: #e8dfcc;
+    }
+    footer {
+      border-top: 1px solid var(--line);
+      margin-top: 2rem;
+      padding-top: 1rem;
+      color: var(--muted);
+    }
+    .ticker {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1000;
+      background: #060708;
+      border-top: 1px solid var(--line);
+      min-height: 3.5rem;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      touch-action: pan-y;
+    }
+    .ticker-label {
+      flex: 0 0 auto;
+      align-self: stretch;
+      display: flex;
+      align-items: center;
+      padding: 0 0.75rem;
+      background: var(--red);
+      color: #1b0505;
+      font-weight: 850;
+      font-size: 0.78rem;
+    }
+    .ticker-window { overflow: hidden; flex: 1; }
+    .ticker-track {
+      display: inline-flex;
+      gap: 2rem;
+      white-space: nowrap;
+      animation: marquee 55s linear infinite;
+      will-change: transform;
+      padding-left: 100%;
+    }
+    .ticker.paused .ticker-track,
+    .ticker:hover .ticker-track { animation-play-state: paused; }
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      min-height: 3.5rem;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    @keyframes marquee {
+      from { transform: translateX(0); }
+      to { transform: translateX(-100%); }
+    }
+    @media (max-width: 430px) {
+      .page { width: min(100% - 22px, 700px); }
+      .card { padding: 0.9rem; }
+      .section-head { align-items: flex-start; }
+      article { font-size: 1.06rem; }
+      .ticker-label { padding: 0 0.55rem; }
+      .ticker-track { gap: 1.4rem; animation-duration: 48s; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <div class="kicker">Personal morning edition</div>
+      <h1>The Daily Brief</h1>
+      <div class="dateline">
+        <span>Thursday, June 11, 2026</span>
+        <span>Edition #1</span>
+      </div>
+    </header>
+
+    <section class="card markets" aria-labelledby="markets-heading">
+      <div class="section-head">
+        <h2 id="markets-heading">US Markets Today</h2>
+        <span class="badge">local preview</span>
+      </div>
+      <ul>
+        <li>Local preview mode is active because ANTHROPIC_API_KEY is not set here.</li>
+<li>In GitHub Actions, this card will use Claude with web search for futures, yesterday&#x27;s close, economic data, earnings, global moves, and one theme to watch.</li>
+<li>The timestamp below lets you see exactly when the card was generated.</li>
+      </ul>
+      <p class="stamp">Generated Jun 11, 2026 at 9:10 AM CT</p>
+      
+    </section>
+
+    <section class="card trivia" aria-labelledby="trivia-heading">
+      <div class="section-head">
+        <h2 id="trivia-heading">Daily Sports Trivia</h2>
+        <span class="badge">local preview</span>
+      </div>
+      <div class="trivia-meta">NFL · Hard</div>
+      <p class="question">Which NFL team won Super Bowl XX with one of the most dominant defenses in league history?</p>
+      <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
+      <div id="trivia-answer" class="answer">
+        <p><strong>The 1985 Chicago Bears.</strong></p>
+        <p>Chicago finished the season 18-1 including the playoffs and routed New England 46-10 in the Super Bowl. Their defense became a cultural artifact as much as a football unit.</p>
+      </div>
+    </section>
+
+    <section class="article-shell" aria-labelledby="article-heading">
+      <div class="section-head">
+        <div>
+          <div class="kicker">Today's Historical Read</div>
+          <h2 id="article-heading" class="article-title">The Library of Ashurbanipal and the World of Assyria</h2>
+        </div>
+        <span class="badge">local preview</span>
+      </div>
+      
+      <div class="map-wrap">
+        <div id="history-map" data-locations="[{&quot;name&quot;: &quot;Nineveh&quot;, &quot;lat&quot;: 36.3594, &quot;lng&quot;: 43.1529, &quot;caption&quot;: &quot;The Assyrian capital where many tablets from Ashurbanipal&#x27;s library were found.&quot;, &quot;role&quot;: &quot;capital&quot;}, {&quot;name&quot;: &quot;Ashur&quot;, &quot;lat&quot;: 35.456, &quot;lng&quot;: 43.262, &quot;caption&quot;: &quot;Older Assyrian religious and political center on the Tigris.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Babylon&quot;, &quot;lat&quot;: 32.5364, &quot;lng&quot;: 44.4208, &quot;caption&quot;: &quot;A major Mesopotamian center whose traditions shaped Assyrian scholarship.&quot;, &quot;role&quot;: &quot;site&quot;}]" aria-label="Map of key locations"></div>
+      </div>
+      <article>
+        <h2>The archive before dawn</h2>
+<p>The first edition preview is using local sample content because no Anthropic API key is available in this environment. It is still shaped like a real Daily Brief essay so the page, archive, map, and mobile layout can be reviewed before the repository secret is added.</p>
+<p>The story begins with The Library of Ashurbanipal and the World of Assyria, a reminder that history often survives through accidents of power, weather, conquest, and paperwork. In the ancient Near East, rulers collected words as carefully as they collected tribute. Clay tablets, palace rooms, trained scribes, and imperial messengers formed a knowledge system that could outlast the people who built it.</p>
+<h2>The world before</h2>
+<p>Before modern archives, knowledge was physical in the most literal sense. A record had weight. It had to be pressed into wet clay, dried, shelved, copied, and guarded. Cities competed not only with armies but with calendars, contracts, omens, poems, and lists. The stronger a state became, the more it needed memory: taxes, grain, land, soldiers, borders, treaties, and divine favor all had to be recorded.</p>
+<p>Assyria turned that need into an imperial habit. Its kings ruled through speed and fear, but also through information. Reports moved from provincial governors to the palace. Scholars watched the sky and read the liver of sacrificed animals for signs. Scribes copied older stories because the past was not dead material; it was a reservoir of authority.</p>
+<h2>The event itself</h2>
+<p>The library associated with Ashurbanipal at Nineveh was not a public library in the modern sense. It was a royal instrument. Tablets gathered from across Mesopotamia gave the king access to ritual knowledge, lexical lists, medical texts, royal inscriptions, hymns, prayers, omen series, and literature. Among them were versions of the Epic of Gilgamesh, one of the oldest surviving works of world literature.</p>
+<p>What makes the library feel almost modern is the ambition behind it. The palace wanted not just a few useful documents but a systematic command of inherited learning. The king presented himself as literate, trained, and uniquely capable of reading difficult texts. Whether that image was fully true matters less than the political message: empire claimed the right to collect the world&#x27;s memory and arrange it around the throne.</p>
+<h2>Debate and uncertainty</h2>
+<p>Scholars still debate how centralized the collection really was, how much Ashurbanipal personally directed it, and how many tablets belonged to separate palace archives later discovered together. The ancient evidence is rich but fragmentary. The burned destruction layers that helped preserve tablets also shattered them. Modern knowledge depends on painstaking reconstruction, joins between fragments, and comparisons with tablets found elsewhere.</p>
+<p>That uncertainty is part of the drama. Archives look stable from a distance, but they are living systems: copied, moved, broken, misfiled, looted, recovered, and reinterpreted. Every generation asks the old clay new questions.</p>
+<h2>Aftermath</h2>
+<p>Nineveh fell in 612 BC, and Assyrian imperial power collapsed. Yet the tablets survived because disaster fired and buried them. The library became a time capsule created unintentionally by conquest. When nineteenth-century excavators uncovered the tablets, they opened a route back into Mesopotamian literature, science, ritual, and administration.</p>
+<p>The result changed the study of the ancient world. Stories once known only from later traditions suddenly had deeper roots. Mesopotamia emerged not as a footnote to classical history but as a civilization with its own dense intellectual life.</p>
+<h2>Why it matters</h2>
+<p>The library matters because it shows that power and knowledge have always been tangled together. States collect information to govern, but archives can escape their creators. A royal tool can become a common inheritance. A destroyed palace can become a classroom for the future.</p>
+<p class="further-reading"><strong>Further reading:</strong> Andrew George, The Epic of Gilgamesh; Karen Radner, Ancient Assyria: A Very Short Introduction; Irving Finkel, The Ark Before Noah.</p>
+<p>Tomorrow&#x27;s read: Hatshepsut&#x27;s Reign and the Politics of Memory in Egypt.</p>
+      </article>
+    </section>
+
+    <footer>
+      <a href="./">Archive</a>
+    </footer>
+  </main>
+
+  <div class="ticker" id="ticker" aria-label="Current world headlines">
+    <div class="ticker-label">HEADLINES</div>
+    <div class="ticker-window">
+      <div class="ticker-track" id="ticker-track">
+        <span class="ticker-item">Loading headlines...</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const tickerUrl = "../ticker.json";
+    const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    }[char]));
+
+    const answerButton = document.getElementById('reveal-answer');
+    const answer = document.getElementById('trivia-answer');
+    answerButton?.addEventListener('click', () => {
+      const visible = answer.classList.toggle('is-visible');
+      answerButton.setAttribute('aria-expanded', String(visible));
+      answerButton.textContent = visible ? 'Hide Answer' : 'Reveal Answer';
+    });
+
+    const ticker = document.getElementById('ticker');
+    const track = document.getElementById('ticker-track');
+    const setTicker = (items) => {
+      const safeItems = items.length ? items : [{ source: 'Brief', text: 'Headlines will update shortly.' }];
+      const rendered = safeItems.map((item) =>
+        `<span class="ticker-item">[${escapeHtml(item.source)}] ${escapeHtml(item.text)}</span>`
+      ).join('');
+      track.innerHTML = rendered + rendered;
+    };
+    fetch(tickerUrl, { cache: 'no-store' })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error('Ticker fetch failed')))
+      .then((data) => setTicker(data.headlines || []))
+      .catch(() => setTicker([]));
+    ['touchstart', 'pointerdown', 'focusin'].forEach((eventName) => {
+      ticker.addEventListener(eventName, () => ticker.classList.add('paused'));
+    });
+    ['touchend', 'pointerup', 'focusout'].forEach((eventName) => {
+      ticker.addEventListener(eventName, () => ticker.classList.remove('paused'));
+    });
+
+    const mapEl = document.getElementById('history-map');
+    if (mapEl && window.L) {
+      try {
+        const locations = JSON.parse(mapEl.dataset.locations || '[]');
+        if (locations.length) {
+          const map = L.map(mapEl, { scrollWheelZoom: false });
+          L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; OpenStreetMap contributors'
+          }).addTo(map);
+          const colors = {
+            capital: '#e6b450',
+            battle: '#ef7d7d',
+            city: '#86b7ff',
+            site: '#6fca93'
+          };
+          const bounds = [];
+          locations.forEach((loc) => {
+            const marker = L.circleMarker([loc.lat, loc.lng], {
+              radius: 8,
+              color: colors[loc.role] || colors.site,
+              fillColor: colors[loc.role] || colors.site,
+              fillOpacity: 0.9,
+              weight: 2
+            }).addTo(map);
+            marker.bindPopup(`<strong>${escapeHtml(loc.name)}</strong><br>${escapeHtml(loc.caption || '')}`);
+            bounds.push([loc.lat, loc.lng]);
+          });
+          map.fitBounds(bounds, { padding: [28, 28], maxZoom: 6 });
+        }
+      } catch (error) {
+        mapEl.style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
