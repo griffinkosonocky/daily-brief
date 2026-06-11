@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-11T21:28:46+00:00",
+  "updated_at": "2026-06-11T23:50:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "published_at": "2026-06-11T23:41:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump, allies working on plan to void his impeachments, WSJ reports",
+      "published_at": "2026-06-11T23:10:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico get World Cup party started with win as South Africa see red",
+      "published_at": "2026-06-11T23:10:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, Canada delay opening of new bridge after Trump raised objections",
+      "published_at": "2026-06-11T22:59:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street indexes jump, Trump says strikes against Iran canceled",
+      "published_at": "2026-06-11T22:51:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US appeals court extends block on ruling against Trump's 10% global tariff",
+      "published_at": "2026-06-11T22:20:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico opens World Cup with passion, parties and protests",
+      "published_at": "2026-06-11T22:06:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China learns to live on less fuel, to the relief of oil markets",
+      "published_at": "2026-06-11T21:50:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran players conduct first open practice at Tijuana camp",
+      "published_at": "2026-06-11T21:32:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pricey World Cup keeps fans away, hits US hotels, airlines",
+      "published_at": "2026-06-11T21:23:13+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump picks top Manhattan federal prosecutor as next intelligence chief",
@@ -8,13 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran players conduct first open practice at Tijuana camp",
-      "published_at": "2026-06-11T20:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "published_at": "2026-06-11T20:26:06+00:00"
+      "text": "Trump uses a summer of sports to project power",
+      "published_at": "2026-06-11T20:41:17+00:00"
     },
     {
       "source": "Reuters",
@@ -22,59 +67,14 @@
       "published_at": "2026-06-11T20:21:05+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US appeals court extends block on ruling against Trump's 10% global tariff",
-      "published_at": "2026-06-11T20:05:00+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
       "published_at": "2026-06-11T20:04:52+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Mexico opens World Cup with passion, parties and protests",
-      "published_at": "2026-06-11T19:47:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Trump names Jay Clayton to serve as director of national intelligence",
       "published_at": "2026-06-11T19:35:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump uses a summer of sports to project power",
-      "published_at": "2026-06-11T19:20:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US authorities investigate huge '8647' marking on grounds of National Mall in Washington",
-      "published_at": "2026-06-11T19:14:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "False alarm at the Pentagon triggers brief shelter-in-place order",
-      "published_at": "2026-06-11T18:05:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump cancels strikes against Iran planned for Thursday evening",
-      "published_at": "2026-06-11T18:03:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ebola testing has improved in DRC, but still isn't nearly enough",
-      "published_at": "2026-06-11T18:02:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Socioeconomic factors are becoming 'biologically embedded' in children's brains",
-      "published_at": "2026-06-11T18:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-      "published_at": "2026-06-11T17:42:12+00:00"
     }
   ]
 }
