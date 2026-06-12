@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-11T23:50:26+00:00",
+  "updated_at": "2026-06-12T04:58:53+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "President Trump is taking aim at forest and wildfire research just as the West is poised to burn",
+      "published_at": "2026-06-12T04:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paraguay not at World Cup to make up the numbers, says coach",
+      "published_at": "2026-06-12T03:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup Photo Daily",
+      "published_at": "2026-06-12T02:55:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taking Kharg Island would pose risks for US troops",
+      "published_at": "2026-06-12T02:23:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court prohibits Alabama from using nitrogen gas for execution",
+      "published_at": "2026-06-12T01:39:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Families of Mexico's disappeared march in the capital as World Cup kicks off",
+      "published_at": "2026-06-12T00:15:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indonesia's Danantara unit raises $1.5 billion in debut dollar bond",
+      "published_at": "2026-06-12T00:01:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
@@ -8,23 +43,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump, allies working on plan to void his impeachments, WSJ reports",
-      "published_at": "2026-06-11T23:10:39+00:00"
+      "text": "\"The sky's the limit,\" says Mexico's Lira after win in World Cup opener",
+      "published_at": "2026-06-11T23:20:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Mexico get World Cup party started with win as South Africa see red",
-      "published_at": "2026-06-11T23:10:20+00:00"
+      "text": "Trump picks top Manhattan federal prosecutor as next intelligence chief",
+      "published_at": "2026-06-11T22:48:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US, Canada delay opening of new bridge after Trump raised objections",
-      "published_at": "2026-06-11T22:59:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street indexes jump, Trump says strikes against Iran canceled",
-      "published_at": "2026-06-11T22:51:16+00:00"
+      "text": "Ariana Grande to White House: Don't use my music for 'heinous nonsense'",
+      "published_at": "2026-06-11T22:45:08+00:00"
     },
     {
       "source": "Reuters",
@@ -33,48 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Mexico opens World Cup with passion, parties and protests",
-      "published_at": "2026-06-11T22:06:39+00:00"
+      "text": "US lawmakers seek $750 million for Ukraine, move to adopt 'Department of War' rebrand",
+      "published_at": "2026-06-11T22:17:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China learns to live on less fuel, to the relief of oil markets",
-      "published_at": "2026-06-11T21:50:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran players conduct first open practice at Tijuana camp",
-      "published_at": "2026-06-11T21:32:43+00:00"
+      "text": "Mexico get World Cup party started with win as South Africa see red",
+      "published_at": "2026-06-11T21:32:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "Pricey World Cup keeps fans away, hits US hotels, airlines",
       "published_at": "2026-06-11T21:23:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump picks top Manhattan federal prosecutor as next intelligence chief",
-      "published_at": "2026-06-11T21:15:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump uses a summer of sports to project power",
-      "published_at": "2026-06-11T20:41:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he believes Iran's supreme leader has approved deal with US",
-      "published_at": "2026-06-11T20:21:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
-      "published_at": "2026-06-11T20:04:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump names Jay Clayton to serve as director of national intelligence",
-      "published_at": "2026-06-11T19:35:11+00:00"
     }
   ]
 }
