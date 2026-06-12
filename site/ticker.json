@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-06-12T09:09:25+00:00",
+  "updated_at": "2026-06-12T13:38:48+00:00",
   "headlines": [
     {
       "source": "NPR",
-      "text": "She waited decades for Scotland to make the World Cup. At 93, she'll be cheering in person",
-      "published_at": "2026-06-12T09:02:00+00:00"
+      "text": "Canada is ready to become a soccer nation as it hosts World Cup opener against Bosnia-Herzegovina",
+      "published_at": "2026-06-12T12:47:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranian-American fans face uneasy World Cup as war rages",
+      "published_at": "2026-06-12T12:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rolex raises gold watch prices again as super-rich buyers are undeterred",
+      "published_at": "2026-06-12T12:30:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
+      "published_at": "2026-06-12T11:51:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "David Hockney, the British artist who went in search of Californian colour, dies at 88",
+      "published_at": "2026-06-12T11:46:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What just happened? The financial week in five charts",
+      "published_at": "2026-06-12T11:37:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Evangelicals divided on Trump's war in Iran, immigration crackdown, Reuters/Ipsos poll finds",
+      "published_at": "2026-06-12T11:22:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU overhaul to toughen migration rules takes effect, though doubts remain about impact",
+      "published_at": "2026-06-12T11:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain's main indexes gain over 1% on hopes of Middle East peace deal",
+      "published_at": "2026-06-12T11:10:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+      "published_at": "2026-06-12T10:42:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Students hold \"Heading to Bankrupt Indonesia\" protests against Prabowo's policies",
+      "published_at": "2026-06-12T10:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German government spending only thing preventing GDP fall, Bundesbank says",
+      "published_at": "2026-06-12T10:02:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Private credit dividends look less secure as cash coverage thins",
+      "published_at": "2026-06-12T09:31:19+00:00"
     },
     {
       "source": "NPR",
@@ -13,68 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "How small-business loans got caught in Trump's immigration crackdown",
-      "published_at": "2026-06-12T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Referees at the World Cup have new rules to whistle during games",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Want a better skin care routine? Sign up for our one-week guide",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's DOJ can't get names and medical files of trans youth in California, for now",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can smartphones help explain the drop in birth rates?",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S. men's team is set to take on Paraguay in its World Cup opener",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Your cheat sheet to the 26 players on the U.S. World Cup team",
-      "published_at": "2026-06-12T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK public inflation expectations surged after Iran war, BoE says",
-      "published_at": "2026-06-12T08:45:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-06-12T08:41:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After record IPO, Musk's SpaceX faces next test in market debut",
-      "published_at": "2026-06-12T08:15:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "published_at": "2026-06-12T08:09:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
-      "published_at": "2026-06-12T06:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Hope springs eternal, especially for markets",
-      "published_at": "2026-06-12T05:56:00+00:00"
+      "text": "She waited decades for Scotland to make the World Cup. At 93, she'll cheer in person",
+      "published_at": "2026-06-12T09:02:00+00:00"
     }
   ]
 }
