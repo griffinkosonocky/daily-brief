@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-12T13:38:48+00:00",
+  "updated_at": "2026-06-12T13:47:17+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ukraine's defence AI chief predicts 'new paradigm' of warfare",
+      "published_at": "2026-06-12T13:25:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Investigation into cause of Air India crash ongoing, officials say",
+      "published_at": "2026-06-12T13:23:14+00:00"
+    },
     {
       "source": "NPR",
       "text": "Canada is ready to become a soccer nation as it hosts World Cup opener against Bosnia-Herzegovina",
@@ -13,23 +23,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Rolex raises gold watch prices again as super-rich buyers are undeterred",
-      "published_at": "2026-06-12T12:30:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
-      "published_at": "2026-06-12T11:51:55+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "David Hockney, the British artist who went in search of Californian colour, dies at 88",
       "published_at": "2026-06-12T11:46:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What just happened? The financial week in five charts",
-      "published_at": "2026-06-12T11:37:34+00:00"
     },
     {
       "source": "Reuters",
@@ -45,6 +40,16 @@
       "source": "Reuters",
       "text": "Britain's main indexes gain over 1% on hopes of Middle East peace deal",
       "published_at": "2026-06-12T11:10:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa trolled by African fans in wake of World Cup loss",
+      "published_at": "2026-06-12T10:52:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Chips and ships",
+      "published_at": "2026-06-12T10:46:52+00:00"
     },
     {
       "source": "NPR",
@@ -69,11 +74,6 @@
     {
       "source": "NPR",
       "text": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
-      "published_at": "2026-06-12T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "She waited decades for Scotland to make the World Cup. At 93, she'll cheer in person",
       "published_at": "2026-06-12T09:02:00+00:00"
     }
   ]

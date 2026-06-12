@@ -4,5 +4,11 @@
     "sport": "Soccer",
     "question": "Which player won the Golden Ball (best player) at the 2014 FIFA World Cup despite his team finishing as runners-up?",
     "answer": "Lionel Messi"
+  },
+  {
+    "date": "2026-06-12",
+    "sport": "Golf",
+    "question": "Which golfer won the 2023 PGA Championship at Oak Hill Country Club, claiming his third major title and first since 2019?",
+    "answer": "Collin Morikawa"
   }
 ]
