@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-06-13T10:06:54+00:00",
+  "updated_at": "2026-06-13T12:02:56+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Switzerland to vote on plan to cap population at 10 million",
+      "published_at": "2026-06-13T11:47:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
+      "published_at": "2026-06-13T11:19:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "published_at": "2026-06-13T11:15:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A plan to get lifesaving food to malnourished kids was working -- until it wasn't",
+      "published_at": "2026-06-13T11:07:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
+      "published_at": "2026-06-13T10:56:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says funeral for late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+      "published_at": "2026-06-13T10:52:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
+      "published_at": "2026-06-13T10:23:46+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
-      "published_at": "2026-06-13T10:02:10+00:00"
+      "published_at": "2026-06-13T10:21:09+00:00"
     },
     {
       "source": "NPR",
@@ -23,8 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
-      "published_at": "2026-06-13T08:03:00+00:00"
+      "text": "US thrash Paraguay 4-1 for dream World Cup start",
+      "published_at": "2026-06-13T07:45:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
+      "published_at": "2026-06-13T07:02:18+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "US victory over Paraguay was built on team togetherness, not individual effort: Pochettino",
       "published_at": "2026-06-13T05:32:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xhaka expects best World Cup for Swiss, says must enjoy the moment",
-      "published_at": "2026-06-13T05:01:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "published_at": "2026-06-13T05:00:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
-      "published_at": "2026-06-13T04:29:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "published_at": "2026-06-13T04:09:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anthropic suspends new AI tools over US government security concerns",
-      "published_at": "2026-06-13T03:54:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
-      "published_at": "2026-06-13T03:38:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "published_at": "2026-06-13T03:32:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Warner Bros $111bn sale to Paramount approved by US justice department",
-      "published_at": "2026-06-13T03:28:25+00:00"
     }
   ]
 }
