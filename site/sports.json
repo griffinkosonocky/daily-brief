@@ -1,0 +1,59 @@
+{
+  "title": "Today's Sports Slate",
+  "date_key": "2026-06-13",
+  "generated_at_ct": "Jun 13, 2026 at 9:08 AM CT",
+  "sports": [
+    {
+      "key": "soccer_fifa_world_cup",
+      "label": "World Cup",
+      "full_name": "FIFA World Cup",
+      "games": [],
+      "note": "Live feed pending.",
+      "errors": []
+    },
+    {
+      "key": "americanfootball_nfl",
+      "label": "NFL",
+      "full_name": "NFL",
+      "games": [],
+      "note": "Live feed pending.",
+      "errors": []
+    },
+    {
+      "key": "americanfootball_ncaaf",
+      "label": "CFB",
+      "full_name": "College Football",
+      "games": [],
+      "note": "Live feed pending.",
+      "errors": []
+    },
+    {
+      "key": "basketball_ncaab",
+      "label": "NCAAB",
+      "full_name": "College Basketball",
+      "games": [],
+      "note": "Live feed pending.",
+      "errors": []
+    },
+    {
+      "key": "basketball_nba",
+      "label": "NBA",
+      "full_name": "NBA",
+      "games": [],
+      "note": "Live feed pending.",
+      "errors": []
+    }
+  ],
+  "summary": {
+    "games": 0,
+    "live": 0,
+    "final": 0,
+    "upcoming": 0,
+    "spreads": 0
+  },
+  "quota": {},
+  "badge": "setup needed",
+  "source": "preview",
+  "error_reason": "ODDS_API_KEY is not set.",
+  "generated_at": "2026-06-13T14:08:52+00:00"
+}

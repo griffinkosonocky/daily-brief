@@ -7,8 +7,11 @@ import copy
 import html
 import json
 import os
+import random
 import re
+import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -27,13 +30,32 @@ STATE_FILE = ROOT / "state.json"
 CENTRAL = ZoneInfo("America/Chicago")
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_VERSION = "2023-06-01"
+OPEN_TRIVIA_URL = "https://opentdb.com/api.php"
+ODDS_API_BASE = "https://api.the-odds-api.com/v4"
 
 ARTICLE_MODEL = os.getenv("ANTHROPIC_ARTICLE_MODEL", "claude-sonnet-4-6")
 MARKETS_MODEL = os.getenv("ANTHROPIC_MARKETS_MODEL", "claude-sonnet-4-6")
-TRIVIA_MODEL = os.getenv("ANTHROPIC_TRIVIA_MODEL", "claude-haiku-4-5")
 TOPICS_MODEL = os.getenv("ANTHROPIC_TOPICS_MODEL", "claude-haiku-4-5")
 
-SPORT_ROTATION = ["NFL", "Soccer", "Golf", "NBA", "MLB", "Wildcard"]
+SPORTS_WATCHLIST = [
+    {"key": "soccer_fifa_world_cup", "label": "World Cup", "full_name": "FIFA World Cup"},
+    {"key": "americanfootball_nfl", "label": "NFL", "full_name": "NFL"},
+    {"key": "americanfootball_ncaaf", "label": "CFB", "full_name": "College Football"},
+    {"key": "basketball_ncaab", "label": "NCAAB", "full_name": "College Basketball"},
+    {"key": "basketball_nba", "label": "NBA", "full_name": "NBA"},
+]
+
+BOOKMAKER_PRIORITY = [
+    "draftkings",
+    "fanduel",
+    "betmgm",
+    "caesars",
+    "espnbet",
+    "betrivers",
+    "pointsbetus",
+    "bovada",
+    "betonlineag",
+]
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -48,6 +70,31 @@ def load_json(path: Path, default: Any) -> Any:
 
 def write_json(path: Path, value: Any) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def fetch_json(url: str, *, timeout: int = 30) -> tuple[Any, dict[str, str]]:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "accept": "application/json",
+            "user-agent": "daily-brief/1.0",
+        },
+        method="GET",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8")
+            headers = {key.lower(): value for key, value in response.headers.items()}
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"HTTP {exc.code}: {body}") from exc
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"Request failed: {exc}") from exc
+    return json.loads(body), headers
+
+
+def build_url(base: str, params: dict[str, Any]) -> str:
+    return f"{base}?{urllib.parse.urlencode(params)}"
 
 
 def today_central() -> datetime:
@@ -406,86 +453,81 @@ def generate_article(topic: dict, next_topic: dict) -> dict:
     }
 
 
-def sports_prompt(sport: str, recent_questions: list[str], extra_instruction: str = "") -> str:
-    recent = "\n".join(f"- {question}" for question in recent_questions[-30:]) or "- none"
-    retry_note = f"\n{extra_instruction.strip()}" if extra_instruction.strip() else ""
-    return f"""
-Create one Daily Sports Trivia item for The Daily Brief.
-
-Today's sport lane: {sport}
-Difficulty mix target: about 60 percent hard, 40 percent medium.
-Use one of these formats: straight question, name-the-player career clues, or stat-based puzzle.
-Avoid repeating these recent questions:
-{recent}
-{retry_note}
-
-Return only JSON:
-{{
-  "sport": "{sport}",
-  "difficulty": "medium|hard",
-  "question": "...",
-  "answer": "...",
-  "story": "2-3 sentences explaining the story behind the answer."
-}}
-""".strip()
-
-
-def demo_trivia(sport: str) -> dict:
+def demo_trivia() -> dict:
     return {
-        "sport": sport,
+        "sport": "Sports",
         "difficulty": "hard",
         "question": "Which NFL team won Super Bowl XX with one of the most dominant defenses in league history?",
         "answer": "The 1985 Chicago Bears.",
-        "story": "Chicago finished the season 18-1 including the playoffs and routed New England 46-10 in the Super Bowl. Their defense became a cultural artifact as much as a football unit.",
+        "story": "Chicago finished 18-1 including the postseason and beat New England 46-10 in Super Bowl XX. That defense became the reference point for modern NFL dominance.",
+        "options": [
+            "1985 Chicago Bears",
+            "2000 Baltimore Ravens",
+            "1976 Pittsburgh Steelers",
+            "2013 Seattle Seahawks",
+        ],
         "badge": "local preview",
         "source": "preview",
         "generated_at": iso_now_utc(),
     }
 
 
-def generate_trivia(sport: str, history: list[dict]) -> dict:
+def generate_trivia(history: list[dict]) -> dict:
     recent_questions = [item.get("question", "") for item in history if item.get("question")]
     recent_keys = {normalize_key(str(question)) for question in recent_questions[-30:]}
-    repeated_question = ""
-    for attempt in range(2):
-        extra_instruction = ""
-        if repeated_question:
-            extra_instruction = (
-                f'The previous response repeated "{repeated_question}". '
-                "Generate a different question from the same sport lane."
-            )
-        text, _, usage = anthropic_message(
-            prompt=sports_prompt(sport, recent_questions, extra_instruction),
-            model=TRIVIA_MODEL,
-            max_tokens=900,
-            system="You write crisp, factually accurate sports trivia.",
-            temperature=0.9,
-            timeout=90,
-        )
-        data = parse_json_object(text)
-        if not data:
-            raise RuntimeError("Trivia response was not valid JSON.")
-        for key in ("question", "answer", "story"):
-            if not data.get(key):
-                raise RuntimeError(f"Trivia response missing {key}.")
-        question = str(data["question"])
-        if normalize_key(question) in recent_keys:
-            repeated_question = question
-            if attempt == 0:
-                continue
-            raise RuntimeError("Trivia response repeated a recent question.")
-        return {
-            "sport": str(data.get("sport", sport)),
-            "difficulty": str(data.get("difficulty", "medium")),
-            "question": question,
-            "answer": str(data["answer"]),
-            "story": str(data["story"]),
-            "badge": None,
-            "source": "api",
-            "usage": usage,
-            "generated_at": iso_now_utc(),
-        }
-    raise RuntimeError("Trivia generation failed.")
+
+    url = build_url(
+        OPEN_TRIVIA_URL,
+        {
+            "amount": 10,
+            "category": 21,
+            "type": "multiple",
+        },
+    )
+    data, _ = fetch_json(url, timeout=30)
+    if not isinstance(data, dict):
+        raise RuntimeError("Trivia API returned an unexpected response.")
+    response_code = data.get("response_code")
+    if response_code != 0:
+        raise RuntimeError(f"Trivia API response code {response_code}.")
+
+    results = data.get("results")
+    if not isinstance(results, list) or not results:
+        raise RuntimeError("Trivia API returned no questions.")
+
+    selected = None
+    for item in results:
+        question = html.unescape(str(item.get("question", ""))).strip()
+        if question and normalize_key(question) not in recent_keys:
+            selected = item
+            break
+    selected = selected or results[0]
+
+    question = html.unescape(str(selected.get("question", ""))).strip()
+    answer = html.unescape(str(selected.get("correct_answer", ""))).strip()
+    incorrect = [
+        html.unescape(str(option)).strip()
+        for option in selected.get("incorrect_answers", [])
+        if str(option).strip()
+    ]
+    if not question or not answer:
+        raise RuntimeError("Trivia API question was incomplete.")
+
+    options = incorrect + [answer]
+    random.shuffle(options)
+    category = html.unescape(str(selected.get("category", "Sports"))).replace("Entertainment: ", "")
+    difficulty = str(selected.get("difficulty", "medium")).lower()
+    return {
+        "sport": category,
+        "difficulty": difficulty,
+        "question": question,
+        "answer": answer,
+        "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
+        "options": options,
+        "badge": None,
+        "source": "opentdb",
+        "generated_at": iso_now_utc(),
+    }
 
 
 def remember_trivia(history: list[dict], today_key: str, trivia: dict) -> list[dict]:
@@ -511,6 +553,344 @@ def remember_trivia(history: list[dict], today_key: str, trivia: dict) -> list[d
         }
     )
     return history[-90:]
+
+
+def parse_iso_datetime(value: Any) -> datetime | None:
+    if not value:
+        return None
+    raw = str(value).strip()
+    if raw.endswith("Z"):
+        raw = raw[:-1] + "+00:00"
+    try:
+        parsed = datetime.fromisoformat(raw)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def iso_utc_z(value: datetime) -> str:
+    return value.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def compact_time_ct(value: datetime | None) -> str:
+    if not value:
+        return "TBD"
+    local = value.astimezone(CENTRAL)
+    hour = local.strftime("%I").lstrip("0") or "0"
+    return local.strftime(f"{hour}:%M %p CT")
+
+
+def is_today_ct(value: datetime | None, now: datetime) -> bool:
+    return bool(value and value.astimezone(CENTRAL).date() == now.date())
+
+
+def day_bounds_utc(now: datetime) -> tuple[str, str]:
+    start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end = now.replace(hour=23, minute=59, second=59, microsecond=0)
+    return iso_utc_z(start), iso_utc_z(end)
+
+
+def odds_api_url(sport_key: str, endpoint: str, params: dict[str, Any]) -> str:
+    path = f"{ODDS_API_BASE}/sports/{urllib.parse.quote(sport_key)}/{endpoint.strip('/')}/"
+    return build_url(path, params)
+
+
+def format_american_price(value: Any) -> str:
+    try:
+        number = int(float(value))
+    except (TypeError, ValueError):
+        return ""
+    return f"+{number}" if number > 0 else str(number)
+
+
+def format_spread_point(value: Any) -> str:
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return ""
+    if abs(number) < 0.05:
+        return "PK"
+    formatted = f"{number:g}"
+    return f"+{formatted}" if number > 0 else formatted
+
+
+def score_lookup(scores: Any) -> dict[str, str]:
+    if not isinstance(scores, list):
+        return {}
+    lookup: dict[str, str] = {}
+    for score in scores:
+        if not isinstance(score, dict):
+            continue
+        name = str(score.get("name", "")).strip()
+        value = str(score.get("score", "")).strip()
+        if name and value:
+            lookup[name] = value
+    return lookup
+
+
+def bookmaker_sort_key(bookmaker: dict) -> tuple[int, str]:
+    key = str(bookmaker.get("key", ""))
+    try:
+        rank = BOOKMAKER_PRIORITY.index(key)
+    except ValueError:
+        rank = len(BOOKMAKER_PRIORITY)
+    return rank, str(bookmaker.get("title", key))
+
+
+def extract_spread(odds_item: dict) -> dict | None:
+    bookmakers = odds_item.get("bookmakers")
+    if not isinstance(bookmakers, list):
+        return None
+
+    for bookmaker in sorted((item for item in bookmakers if isinstance(item, dict)), key=bookmaker_sort_key):
+        markets = bookmaker.get("markets")
+        if not isinstance(markets, list):
+            continue
+        for market in markets:
+            if not isinstance(market, dict) or market.get("key") != "spreads":
+                continue
+            outcomes = []
+            for outcome in market.get("outcomes", []) or []:
+                if not isinstance(outcome, dict):
+                    continue
+                name = str(outcome.get("name", "")).strip()
+                point_label = format_spread_point(outcome.get("point"))
+                price_label = format_american_price(outcome.get("price"))
+                if not name or not point_label:
+                    continue
+                outcomes.append(
+                    {
+                        "name": name,
+                        "point": outcome.get("point"),
+                        "point_label": point_label,
+                        "price": outcome.get("price"),
+                        "price_label": price_label,
+                    }
+                )
+            if not outcomes:
+                continue
+            favorite = next(
+                (
+                    outcome
+                    for outcome in outcomes
+                    if isinstance(outcome.get("point"), (int, float)) and float(outcome["point"]) < 0
+                ),
+                outcomes[0],
+            )
+            last_update = parse_iso_datetime(bookmaker.get("last_update"))
+            return {
+                "book": str(bookmaker.get("title", bookmaker.get("key", "Sportsbook"))),
+                "last_update_ct": compact_time_ct(last_update) if last_update else "",
+                "summary": f"{favorite['name']} {favorite['point_label']}",
+                "outcomes": outcomes,
+            }
+    return None
+
+
+def normalize_game(score_item: dict | None, odds_item: dict | None, sport: dict, now: datetime) -> dict:
+    source = score_item or odds_item or {}
+    commence_at = parse_iso_datetime(source.get("commence_time"))
+    scores = score_lookup((score_item or {}).get("scores"))
+    home_team = str(source.get("home_team", "Home")).strip()
+    away_team = str(source.get("away_team", "Away")).strip()
+    home_score = scores.get(home_team, "")
+    away_score = scores.get(away_team, "")
+    completed = bool((score_item or {}).get("completed"))
+    has_score = bool(home_score or away_score)
+
+    status_key = "upcoming"
+    status_label = compact_time_ct(commence_at)
+    if completed:
+        status_key = "final"
+        status_label = "Final"
+    elif has_score:
+        status_key = "live"
+        status_label = "Live"
+    elif commence_at and commence_at <= now.astimezone(timezone.utc):
+        status_key = "live"
+        status_label = "In progress"
+
+    return {
+        "id": str(source.get("id", "")),
+        "sport_key": sport["key"],
+        "league": sport["label"],
+        "league_name": sport["full_name"],
+        "status_key": status_key,
+        "status_label": status_label,
+        "commence_time": source.get("commence_time"),
+        "commence_ct": compact_time_ct(commence_at),
+        "sort_time": commence_at.isoformat() if commence_at else "",
+        "home_team": home_team,
+        "away_team": away_team,
+        "home_score": home_score,
+        "away_score": away_score,
+        "spread": extract_spread(odds_item or {}),
+    }
+
+
+def auth_error(message: str) -> bool:
+    return "HTTP 401" in message or "HTTP 403" in message
+
+
+def collect_sport_games(sport: dict, api_key: str, now: datetime) -> tuple[dict, list[dict[str, str]]]:
+    headers_seen: list[dict[str, str]] = []
+    scores: list[dict] = []
+    odds: list[dict] = []
+    errors: list[str] = []
+
+    try:
+        score_data, headers = fetch_json(
+            odds_api_url(
+                sport["key"],
+                "scores",
+                {"apiKey": api_key, "daysFrom": 1, "dateFormat": "iso"},
+            ),
+            timeout=30,
+        )
+        headers_seen.append(headers)
+        if isinstance(score_data, list):
+            scores = [item for item in score_data if isinstance(item, dict)]
+    except RuntimeError as exc:
+        message = str(exc)
+        if auth_error(message):
+            raise
+        errors.append(message)
+
+    commence_from, commence_to = day_bounds_utc(now)
+    try:
+        odds_data, headers = fetch_json(
+            odds_api_url(
+                sport["key"],
+                "odds",
+                {
+                    "apiKey": api_key,
+                    "regions": "us",
+                    "markets": "spreads",
+                    "oddsFormat": "american",
+                    "dateFormat": "iso",
+                    "commenceTimeFrom": commence_from,
+                    "commenceTimeTo": commence_to,
+                },
+            ),
+            timeout=30,
+        )
+        headers_seen.append(headers)
+        if isinstance(odds_data, list):
+            odds = [item for item in odds_data if isinstance(item, dict)]
+    except RuntimeError as exc:
+        message = str(exc)
+        if auth_error(message):
+            raise
+        errors.append(message)
+
+    score_by_id = {
+        str(item.get("id", "")): item
+        for item in scores
+        if item.get("id") and is_today_ct(parse_iso_datetime(item.get("commence_time")), now)
+    }
+    odds_by_id = {
+        str(item.get("id", "")): item
+        for item in odds
+        if item.get("id") and is_today_ct(parse_iso_datetime(item.get("commence_time")), now)
+    }
+    game_ids = sorted(set(score_by_id) | set(odds_by_id))
+    games = [normalize_game(score_by_id.get(game_id), odds_by_id.get(game_id), sport, now) for game_id in game_ids]
+    games.sort(key=lambda game: game.get("sort_time") or "9999")
+
+    note = ""
+    if not games:
+        note = "No games today."
+        if errors:
+            note = "Feed unavailable for this sport."
+
+    return (
+        {
+            "key": sport["key"],
+            "label": sport["label"],
+            "full_name": sport["full_name"],
+            "games": games,
+            "note": note,
+            "errors": errors[:2],
+        },
+        headers_seen,
+    )
+
+
+def summarize_sports(sports: list[dict]) -> dict:
+    games = [game for sport in sports for game in sport.get("games", [])]
+    return {
+        "games": len(games),
+        "live": sum(1 for game in games if game.get("status_key") == "live"),
+        "final": sum(1 for game in games if game.get("status_key") == "final"),
+        "upcoming": sum(1 for game in games if game.get("status_key") == "upcoming"),
+        "spreads": sum(1 for game in games if game.get("spread")),
+    }
+
+
+def summarize_quota(headers_seen: list[dict[str, str]]) -> dict:
+    quota: dict[str, str] = {}
+    for headers in headers_seen:
+        for source, target in (
+            ("x-requests-remaining", "remaining"),
+            ("x-requests-used", "used"),
+            ("x-requests-last", "last_request"),
+        ):
+            if headers.get(source):
+                quota[target] = headers[source]
+    return quota
+
+
+def demo_sports(now: datetime, reason: str) -> dict:
+    sports = [
+        {
+            "key": sport["key"],
+            "label": sport["label"],
+            "full_name": sport["full_name"],
+            "games": [],
+            "note": "Live feed pending.",
+            "errors": [],
+        }
+        for sport in SPORTS_WATCHLIST
+    ]
+    return {
+        "title": "Today's Sports Slate",
+        "date_key": now.date().isoformat(),
+        "generated_at_ct": compact_ct_timestamp(now),
+        "sports": sports,
+        "summary": summarize_sports(sports),
+        "quota": {},
+        "badge": "setup needed",
+        "source": "preview",
+        "error_reason": reason,
+        "generated_at": iso_now_utc(),
+    }
+
+
+def generate_sports_dashboard(now: datetime) -> dict:
+    api_key = os.getenv("ODDS_API_KEY")
+    if not api_key:
+        raise RuntimeError("ODDS_API_KEY is not set.")
+
+    sports: list[dict] = []
+    headers_seen: list[dict[str, str]] = []
+    for sport in SPORTS_WATCHLIST:
+        sport_games, sport_headers = collect_sport_games(sport, api_key, now)
+        sports.append(sport_games)
+        headers_seen.extend(sport_headers)
+
+    return {
+        "title": "Today's Sports Slate",
+        "date_key": now.date().isoformat(),
+        "generated_at_ct": compact_ct_timestamp(now),
+        "sports": sports,
+        "summary": summarize_sports(sports),
+        "quota": summarize_quota(headers_seen),
+        "badge": None,
+        "source": "odds-api",
+        "generated_at": iso_now_utc(),
+    }
 
 
 def market_prompt(now: datetime) -> str:
@@ -741,6 +1121,171 @@ def render_sources(sources: list[dict]) -> str:
     return '<p class="sources">Sources: ' + " · ".join(links) + "</p>"
 
 
+def render_trivia_options(trivia: dict) -> str:
+    options = trivia.get("options")
+    if not isinstance(options, list) or not options:
+        return ""
+    items = "".join(f"<li>{html.escape(str(option))}</li>" for option in options[:6])
+    return f'<ul class="trivia-options">{items}</ul>'
+
+
+def render_sports_summary(sports: dict) -> str:
+    summary = sports.get("summary") if isinstance(sports.get("summary"), dict) else {}
+    items = [
+        ("Games", summary.get("games", 0)),
+        ("Live", summary.get("live", 0)),
+        ("Final", summary.get("final", 0)),
+        ("Spreads", summary.get("spreads", 0)),
+    ]
+    return "".join(
+        '<div class="sports-stat">'
+        f'<span>{html.escape(label)}</span>'
+        f"<strong>{html.escape(str(value))}</strong>"
+        "</div>"
+        for label, value in items
+    )
+
+
+def all_sports_games(sports: dict) -> list[dict]:
+    sections = sports.get("sports")
+    if not isinstance(sections, list):
+        return []
+    games = [game for section in sections for game in section.get("games", []) if isinstance(game, dict)]
+    games.sort(key=lambda game: game.get("sort_time") or "9999")
+    return games
+
+
+def render_spread(spread: dict | None) -> str:
+    if not spread:
+        return (
+            '<div class="spread-box spread-empty">'
+            "<span>Spread</span>"
+            "<strong>No line posted</strong>"
+            "</div>"
+        )
+    outcomes = []
+    for outcome in spread.get("outcomes", [])[:2]:
+        price = outcome.get("price_label")
+        price_html = f' <span class="spread-price">{html.escape(str(price))}</span>' if price else ""
+        outcomes.append(
+            '<div class="spread-line">'
+            f'<span>{html.escape(str(outcome.get("name", "")))}</span>'
+            f'<strong>{html.escape(str(outcome.get("point_label", "")))}{price_html}</strong>'
+            "</div>"
+        )
+    meta = html.escape(str(spread.get("book", "")))
+    if spread.get("last_update_ct"):
+        meta += f" · {html.escape(str(spread.get('last_update_ct')))}"
+    return (
+        '<div class="spread-box">'
+        "<span>Spread</span>"
+        f"<strong>{html.escape(str(spread.get('summary', 'Line posted')))}</strong>"
+        f"{''.join(outcomes)}"
+        f'<small>{meta}</small>'
+        "</div>"
+    )
+
+
+def render_game_card(game: dict) -> str:
+    status_key = html.escape(str(game.get("status_key", "upcoming")))
+    away_score = str(game.get("away_score", "")).strip()
+    home_score = str(game.get("home_score", "")).strip()
+    scoreless = " is-scoreless" if not away_score and not home_score else ""
+    return (
+        f'<article class="game-card{scoreless}" data-game-status="{status_key}">'
+        '<div class="game-meta">'
+        f'<span class="league-tag">{html.escape(str(game.get("league", "")))}</span>'
+        f'<span class="game-status status-{status_key}">{html.escape(str(game.get("status_label", "")))}</span>'
+        "</div>"
+        '<div class="teams">'
+        '<div class="team-row">'
+        f'<span>{html.escape(str(game.get("away_team", "")))}</span>'
+        f'<strong>{html.escape(away_score)}</strong>'
+        "</div>"
+        '<div class="team-row home-team">'
+        f'<span>{html.escape(str(game.get("home_team", "")))}</span>'
+        f'<strong>{html.escape(home_score)}</strong>'
+        "</div>"
+        "</div>"
+        f'{render_spread(game.get("spread"))}'
+        "</article>"
+    )
+
+
+def render_sports_filters(sports: dict) -> str:
+    sections = sports.get("sports") if isinstance(sports.get("sports"), list) else []
+    buttons = [
+        '<button class="league-filter is-active" type="button" data-sport-filter="all">All</button>'
+    ]
+    for section in sections:
+        label = str(section.get("label", "")).strip()
+        if not label:
+            continue
+        buttons.append(
+            '<button class="league-filter" type="button" '
+            f'data-sport-filter="{html.escape(label, quote=True)}">{html.escape(label)}</button>'
+        )
+    return f'<div class="league-filters" aria-label="Sport filters">{"".join(buttons)}</div>'
+
+
+def render_sports_sections(sports: dict) -> str:
+    sections = sports.get("sports") if isinstance(sports.get("sports"), list) else []
+    rendered = []
+    for section in sections:
+        label = str(section.get("label", "")).strip()
+        games = section.get("games") if isinstance(section.get("games"), list) else []
+        games_html = "".join(render_game_card(game) for game in games if isinstance(game, dict))
+        if not games_html:
+            games_html = f'<div class="league-empty">{html.escape(str(section.get("note", "No games today.")))}</div>'
+        rendered.append(
+            '<section class="league-section" '
+            f'data-league="{html.escape(label, quote=True)}">'
+            '<div class="league-head">'
+            "<div>"
+            f'<div class="kicker">{html.escape(str(section.get("full_name", label)))}</div>'
+            f"<h3>{html.escape(label)}</h3>"
+            "</div>"
+            f'<span>{len(games)} games</span>'
+            "</div>"
+            f'<div class="games-list">{games_html}</div>'
+            "</section>"
+        )
+    return "".join(rendered)
+
+
+def render_sports_dashboard(sports: dict) -> str:
+    generated = html.escape(str(sports.get("generated_at_ct", "")))
+    return (
+        '<div class="sports-dashboard">'
+        f'<div class="sports-stats">{render_sports_summary(sports)}</div>'
+        f'{render_sports_filters(sports)}'
+        f'{render_sports_sections(sports)}'
+        f'<p class="sports-footnote">Scores and spreads refresh during the daily build. Lines are informational and can move quickly. Last checked {generated}.</p>'
+        "</div>"
+    )
+
+
+def render_sports_preview(sports: dict) -> str:
+    games = all_sports_games(sports)[:3]
+    if not games:
+        summary = sports.get("summary") if isinstance(sports.get("summary"), dict) else {}
+        return (
+            '<p class="feature-copy">'
+            f'{html.escape(str(summary.get("games", 0)))} games found today across World Cup, NFL, CFB, NCAAB, and NBA.'
+            "</p>"
+        )
+    rows = []
+    for game in games:
+        rows.append(
+            '<li>'
+            f'<span>{html.escape(str(game.get("league", "")))}</span>'
+            f'<strong>{html.escape(str(game.get("away_team", "")))} @ {html.escape(str(game.get("home_team", "")))}</strong>'
+            f'<em>{html.escape(str(game.get("status_label", "")))}</em>'
+            "</li>"
+        )
+    return f'<ul class="sports-preview">{"".join(rows)}</ul>'
+
+
 def clean_html_output(value: str) -> str:
     return "\n".join(line.rstrip() for line in value.splitlines()) + "\n"
 
@@ -751,6 +1296,7 @@ def render_page(
     edition: int,
     markets: dict,
     trivia: dict,
+    sports: dict,
     article: dict,
     ticker_path: str,
     archive_prefix: str = "archive/",
@@ -762,6 +1308,9 @@ def render_page(
     trivia_answer = html.escape(str(trivia.get("answer", "")))
     trivia_story = html.escape(str(trivia.get("story", "")))
     trivia_question = html.escape(str(trivia.get("question", "")))
+    trivia_options = render_trivia_options(trivia)
+    sports_dashboard = render_sports_dashboard(sports)
+    sports_preview = render_sports_preview(sports)
     ticker_path_json = json.dumps(ticker_path)
     amd_chart_config = json.dumps(
         {
@@ -1013,6 +1562,250 @@ def render_page(
     }}
     .answer.is-visible {{ display: block; }}
     .answer strong {{ color: var(--gold); }}
+    .trivia-options {{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.45rem;
+      margin: 0 0 0.9rem;
+      padding: 0;
+      list-style: none;
+    }}
+    .trivia-options li {{
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      color: #dfe6e1;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.92rem;
+    }}
+    .sports-preview {{
+      display: grid;
+      gap: 0.55rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }}
+    .sports-preview li {{
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      gap: 0.6rem;
+      align-items: center;
+      border-bottom: 1px solid var(--line);
+      padding: 0.4rem 0;
+      min-width: 0;
+    }}
+    .sports-preview span {{
+      color: var(--green);
+      font-size: 0.78rem;
+      font-weight: 800;
+    }}
+    .sports-preview strong {{
+      overflow-wrap: anywhere;
+      font-size: 0.92rem;
+    }}
+    .sports-preview em {{
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-style: normal;
+      white-space: nowrap;
+    }}
+    .sports-layout {{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }}
+    .sports-dashboard {{
+      display: grid;
+      gap: 1rem;
+    }}
+    .sports-stats {{
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.55rem;
+    }}
+    .sports-stat {{
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.65rem;
+    }}
+    .sports-stat span {{
+      display: block;
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }}
+    .sports-stat strong {{
+      display: block;
+      margin-top: 0.15rem;
+      font-size: 1.4rem;
+      line-height: 1.1;
+    }}
+    .league-filters {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }}
+    .league-filter {{
+      min-height: 34px;
+      border: 1px solid var(--line);
+      background: var(--panel-3);
+      color: var(--muted);
+      padding: 0.35rem 0.65rem;
+      font-size: 0.84rem;
+    }}
+    .league-filter.is-active {{
+      background: var(--green);
+      border-color: var(--green);
+      color: #07150e;
+    }}
+    .league-section {{
+      display: grid;
+      gap: 0.7rem;
+      border-top: 1px solid var(--line);
+      padding-top: 0.9rem;
+    }}
+    .league-section.is-hidden {{ display: none; }}
+    .league-head {{
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: end;
+    }}
+    .league-head h3 {{
+      margin: 0.1rem 0 0;
+      font-size: 1.3rem;
+    }}
+    .league-head > span {{
+      color: var(--muted);
+      font-size: 0.84rem;
+      white-space: nowrap;
+    }}
+    .games-list {{
+      display: grid;
+      gap: 0.75rem;
+    }}
+    .game-card {{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.75rem;
+      box-shadow: none;
+    }}
+    .game-meta {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+      justify-content: space-between;
+    }}
+    .league-tag,
+    .game-status {{
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.45rem;
+      border-radius: 8px;
+      padding: 0.08rem 0.5rem;
+      font-size: 0.72rem;
+      font-weight: 850;
+    }}
+    .league-tag {{
+      background: rgba(135, 169, 255, 0.15);
+      color: var(--blue);
+    }}
+    .game-status {{
+      border: 1px solid var(--line-strong);
+      color: var(--muted);
+    }}
+    .status-live {{
+      border-color: rgba(98, 210, 147, 0.45);
+      color: var(--green);
+    }}
+    .status-final {{
+      border-color: rgba(231, 185, 95, 0.45);
+      color: var(--gold);
+    }}
+    .teams {{
+      display: grid;
+      gap: 0.3rem;
+      min-width: 0;
+    }}
+    .team-row {{
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.75rem;
+      align-items: baseline;
+      min-height: 1.55rem;
+    }}
+    .team-row span {{
+      min-width: 0;
+      overflow-wrap: anywhere;
+      font-weight: 750;
+    }}
+    .team-row strong {{
+      min-width: 2ch;
+      text-align: right;
+      color: var(--gold);
+      font-size: 1.08rem;
+    }}
+    .game-card.is-scoreless .team-row strong {{ display: none; }}
+    .home-team span::before {{
+      content: "@ ";
+      color: var(--muted);
+      font-weight: 700;
+    }}
+    .spread-box {{
+      display: grid;
+      gap: 0.35rem;
+      border-left: 2px solid rgba(231, 185, 95, 0.55);
+      padding-left: 0.65rem;
+      color: #e7ece8;
+    }}
+    .spread-box > span {{
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }}
+    .spread-box > strong {{
+      color: var(--text);
+      font-size: 0.94rem;
+    }}
+    .spread-line {{
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.65rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }}
+    .spread-line span:first-child {{
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }}
+    .spread-price {{
+      color: var(--muted);
+      font-weight: 650;
+    }}
+    .spread-box small {{
+      color: var(--muted);
+      font-size: 0.75rem;
+    }}
+    .spread-empty {{
+      border-left-color: var(--line-strong);
+    }}
+    .league-empty {{
+      border: 1px dashed var(--line-strong);
+      border-radius: 8px;
+      color: var(--muted);
+      padding: 0.85rem;
+    }}
+    .sports-footnote {{
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }}
     .deep-link-card {{
       display: grid;
       gap: 0.75rem;
@@ -1193,6 +1986,11 @@ def render_page(
       .page {{ width: min(100% - 22px, 700px); }}
       .panel {{ padding: 0.9rem; }}
       .panel-head {{ align-items: flex-start; }}
+      .sports-preview li {{
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+      }}
+      .sports-preview em {{ white-space: normal; }}
       article {{ font-size: 1.06rem; }}
       .ticker-label {{ padding: 0 0.55rem; }}
       .ticker-track {{ gap: 1.4rem; animation-duration: 115s; }}
@@ -1210,9 +2008,23 @@ def render_page(
       }}
       .markets-panel {{ grid-column: span 7; }}
       .amd-panel {{ grid-column: span 5; }}
-      .trivia-panel {{ grid-column: span 4; }}
+      .sports-peek-panel {{ grid-column: span 4; }}
       .deep-link-card {{ grid-column: span 8; }}
       .chart-frame {{ height: 430px; }}
+      .sports-layout {{
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+        align-items: start;
+      }}
+      .sports-main-panel {{ grid-column: span 8; }}
+      .trivia-panel {{ grid-column: span 4; }}
+      .sports-stats {{ grid-template-columns: repeat(4, minmax(0, 1fr)); }}
+      .game-card {{
+        grid-template-columns: minmax(0, 1fr) minmax(220px, 0.55fr);
+        align-items: start;
+      }}
+      .game-meta {{
+        grid-column: 1 / -1;
+      }}
       .deep-read-layout {{
         grid-template-columns: minmax(280px, 420px) minmax(0, 1fr);
         align-items: start;
@@ -1249,6 +2061,7 @@ def render_page(
 
     <nav class="view-tabs" aria-label="Daily views">
       <button class="tab-button" type="button" id="overview-tab" aria-selected="true" aria-controls="overview-panel" data-tab-target="overview-panel">Overview</button>
+      <button class="tab-button" type="button" id="sports-tab" aria-selected="false" aria-controls="sports-panel" data-tab-target="sports-panel">Sports</button>
       <button class="tab-button" type="button" id="deep-read-tab" aria-selected="false" aria-controls="deep-read-panel" data-tab-target="deep-read-panel">Deep Read</button>
     </nav>
 
@@ -1286,21 +2099,16 @@ def render_page(
           </div>
         </section>
 
-        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+        <section class="panel sports-peek-panel" aria-labelledby="sports-peek-heading">
           <div class="panel-head">
             <div>
               <div class="kicker">Sports</div>
-              <h2 id="trivia-heading">Daily Trivia</h2>
+              <h2 id="sports-peek-heading">Today's Slate</h2>
             </div>
-            {render_badge(trivia.get("badge"))}
+            {render_badge(sports.get("badge"))}
           </div>
-          <div class="trivia-meta">{html.escape(str(trivia.get("sport", "")))} · {html.escape(str(trivia.get("difficulty", "")).title())}</div>
-          <p class="question">{trivia_question}</p>
-          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
-          <div id="trivia-answer" class="answer">
-            <p><strong>{trivia_answer}</strong></p>
-            <p>{trivia_story}</p>
-          </div>
+          {sports_preview}
+          <button class="text-button" type="button" data-tab-target="sports-panel">Open Sports</button>
         </section>
 
         <section class="panel deep-link-card" aria-labelledby="deep-link-heading">
@@ -1314,6 +2122,39 @@ def render_page(
           <h3 class="feature-title">{html.escape(str(article.get("title", "")))}</h3>
           <p class="feature-copy">Long-form history, spatial context, and the full daily narrative.</p>
           <button class="text-button" type="button" data-tab-target="deep-read-panel">Open Deep Read</button>
+        </section>
+      </section>
+    </section>
+
+    <section class="tab-panel" id="sports-panel" role="tabpanel" aria-labelledby="sports-tab" hidden>
+      <section class="sports-layout" aria-label="Sports dashboard">
+        <section class="panel sports-main-panel" aria-labelledby="sports-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Scores & Spreads</div>
+              <h2 id="sports-heading">Today's Sports Slate</h2>
+            </div>
+            {render_badge(sports.get("badge"))}
+          </div>
+          {sports_dashboard}
+        </section>
+
+        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Trivia</div>
+              <h2 id="trivia-heading">Daily Sports Question</h2>
+            </div>
+            {render_badge(trivia.get("badge"))}
+          </div>
+          <div class="trivia-meta">{html.escape(str(trivia.get("sport", "")))} · {html.escape(str(trivia.get("difficulty", "")).title())}</div>
+          <p class="question">{trivia_question}</p>
+          {trivia_options}
+          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
+          <div id="trivia-answer" class="answer">
+            <p><strong>{trivia_answer}</strong></p>
+            <p>{trivia_story}</p>
+          </div>
         </section>
       </section>
     </section>
@@ -1387,6 +2228,18 @@ def render_page(
       const visible = answer.classList.toggle('is-visible');
       answerButton.setAttribute('aria-expanded', String(visible));
       answerButton.textContent = visible ? 'Hide Answer' : 'Reveal Answer';
+    }});
+
+    const sportFilters = Array.from(document.querySelectorAll('[data-sport-filter]'));
+    const leagueSections = Array.from(document.querySelectorAll('[data-league]'));
+    sportFilters.forEach((filter) => {{
+      filter.addEventListener('click', () => {{
+        const target = filter.dataset.sportFilter;
+        sportFilters.forEach((item) => item.classList.toggle('is-active', item === filter));
+        leagueSections.forEach((section) => {{
+          section.classList.toggle('is-hidden', target !== 'all' && section.dataset.league !== target);
+        }});
+      }});
     }});
 
     const ticker = document.getElementById('ticker');
@@ -1557,7 +2410,6 @@ def main() -> None:
 
     edition = int(state.get("edition", 0)) + 1
     topic, next_topic = choose_topic(topics)
-    sport = SPORT_ROTATION[(edition - 1) % len(SPORT_ROTATION)]
 
     print(f"Building edition #{edition} for {today_key}.")
 
@@ -1581,12 +2433,19 @@ def main() -> None:
         markets = reuse_previous(state, "markets", "yesterday's edition", str(exc)) or demo_markets(now)
 
     try:
-        trivia = generate_trivia(sport, trivia_history)
-        print("Generated sports trivia.")
+        trivia = generate_trivia(trivia_history)
+        print("Fetched sports trivia.")
     except Exception as exc:
-        print(f"Trivia generation failed: {exc}")
-        trivia = reuse_previous(state, "trivia", "yesterday's edition", str(exc)) or demo_trivia(sport)
+        print(f"Trivia fetch failed: {exc}")
+        trivia = demo_trivia()
     trivia_history = remember_trivia(trivia_history, today_key, trivia)
+
+    try:
+        sports = generate_sports_dashboard(now)
+        print("Fetched sports scores and spreads.")
+    except Exception as exc:
+        print(f"Sports feed failed: {exc}")
+        sports = reuse_previous(state, "sports", "previous slate", str(exc)) or demo_sports(now, str(exc))
 
     try:
         update_ticker()
@@ -1598,6 +2457,7 @@ def main() -> None:
         edition=edition,
         markets=markets,
         trivia=trivia,
+        sports=sports,
         article=article,
         ticker_path="ticker.json",
     )
@@ -1610,6 +2470,7 @@ def main() -> None:
             edition=edition,
             markets=markets,
             trivia=trivia,
+            sports=sports,
             article=article,
             ticker_path="../ticker.json",
             archive_prefix="./",
@@ -1626,6 +2487,7 @@ def main() -> None:
     update_last_successful(state, "article", article)
     update_last_successful(state, "markets", markets)
     update_last_successful(state, "trivia", trivia)
+    update_last_successful(state, "sports", sports)
 
     if len(unused_topics(topics)) < 10:
         try:
@@ -1637,8 +2499,80 @@ def main() -> None:
     write_json(STATE_FILE, state)
     write_json(TOPICS_FILE, topics)
     write_json(TRIVIA_FILE, trivia_history)
+    write_json(SITE_DIR / "sports.json", sports)
     print(f"Wrote {index_path.relative_to(ROOT)} and archive page {archive_path.relative_to(ROOT)}.")
 
 
+def render_current_site() -> None:
+    SITE_DIR.mkdir(parents=True, exist_ok=True)
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+
+    now = today_central()
+    today_key = now.date().isoformat()
+    state = load_json(STATE_FILE, {"edition": 0, "last_successful": {}})
+    topics = load_json(TOPICS_FILE, [])
+    trivia_history = load_json(TRIVIA_FILE, [])
+    if not isinstance(trivia_history, list):
+        trivia_history = []
+
+    fallback_topic = topics[0] if topics else {"title": "History", "era": "", "region": ""}
+    fallback_next_topic = topics[1] if len(topics) > 1 else fallback_topic
+    article = copy.deepcopy(state.get("last_successful", {}).get("article")) or demo_article(
+        fallback_topic,
+        fallback_next_topic,
+    )
+    markets = copy.deepcopy(state.get("last_successful", {}).get("markets")) or demo_markets(now)
+
+    try:
+        trivia = generate_trivia(trivia_history)
+    except Exception as exc:
+        print(f"Trivia fetch failed while rendering current site: {exc}")
+        trivia = demo_trivia()
+
+    try:
+        sports = generate_sports_dashboard(now)
+    except Exception as exc:
+        print(f"Sports feed failed while rendering current site: {exc}")
+        sports = demo_sports(now, str(exc))
+
+    edition = int(state.get("edition", 0))
+    index_path = SITE_DIR / "index.html"
+    archive_path = ARCHIVE_DIR / f"{today_key}.html"
+    index_path.write_text(
+        render_page(
+            page_date=now,
+            edition=edition,
+            markets=markets,
+            trivia=trivia,
+            sports=sports,
+            article=article,
+            ticker_path="ticker.json",
+        ),
+        encoding="utf-8",
+    )
+    archive_path.write_text(
+        render_page(
+            page_date=now,
+            edition=edition,
+            markets=markets,
+            trivia=trivia,
+            sports=sports,
+            article=article,
+            ticker_path="../ticker.json",
+            archive_prefix="./",
+        ),
+        encoding="utf-8",
+    )
+    (ARCHIVE_DIR / "index.html").write_text(
+        render_archive_index(archive_entries(), now),
+        encoding="utf-8",
+    )
+    write_json(SITE_DIR / "sports.json", sports)
+    print(f"Re-rendered {index_path.relative_to(ROOT)} and archive page {archive_path.relative_to(ROOT)}.")
+
+
 if __name__ == "__main__":
-    main()
+    if "--render-current" in sys.argv:
+        render_current_site()
+    else:
+        main()

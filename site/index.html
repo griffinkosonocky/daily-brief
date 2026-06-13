@@ -226,6 +226,250 @@
     }
     .answer.is-visible { display: block; }
     .answer strong { color: var(--gold); }
+    .trivia-options {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.45rem;
+      margin: 0 0 0.9rem;
+      padding: 0;
+      list-style: none;
+    }
+    .trivia-options li {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      color: #dfe6e1;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.92rem;
+    }
+    .sports-preview {
+      display: grid;
+      gap: 0.55rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .sports-preview li {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      gap: 0.6rem;
+      align-items: center;
+      border-bottom: 1px solid var(--line);
+      padding: 0.4rem 0;
+      min-width: 0;
+    }
+    .sports-preview span {
+      color: var(--green);
+      font-size: 0.78rem;
+      font-weight: 800;
+    }
+    .sports-preview strong {
+      overflow-wrap: anywhere;
+      font-size: 0.92rem;
+    }
+    .sports-preview em {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-style: normal;
+      white-space: nowrap;
+    }
+    .sports-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .sports-dashboard {
+      display: grid;
+      gap: 1rem;
+    }
+    .sports-stats {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.55rem;
+    }
+    .sports-stat {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.65rem;
+    }
+    .sports-stat span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }
+    .sports-stat strong {
+      display: block;
+      margin-top: 0.15rem;
+      font-size: 1.4rem;
+      line-height: 1.1;
+    }
+    .league-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+    .league-filter {
+      min-height: 34px;
+      border: 1px solid var(--line);
+      background: var(--panel-3);
+      color: var(--muted);
+      padding: 0.35rem 0.65rem;
+      font-size: 0.84rem;
+    }
+    .league-filter.is-active {
+      background: var(--green);
+      border-color: var(--green);
+      color: #07150e;
+    }
+    .league-section {
+      display: grid;
+      gap: 0.7rem;
+      border-top: 1px solid var(--line);
+      padding-top: 0.9rem;
+    }
+    .league-section.is-hidden { display: none; }
+    .league-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: end;
+    }
+    .league-head h3 {
+      margin: 0.1rem 0 0;
+      font-size: 1.3rem;
+    }
+    .league-head > span {
+      color: var(--muted);
+      font-size: 0.84rem;
+      white-space: nowrap;
+    }
+    .games-list {
+      display: grid;
+      gap: 0.75rem;
+    }
+    .game-card {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.75rem;
+      box-shadow: none;
+    }
+    .game-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .league-tag,
+    .game-status {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.45rem;
+      border-radius: 8px;
+      padding: 0.08rem 0.5rem;
+      font-size: 0.72rem;
+      font-weight: 850;
+    }
+    .league-tag {
+      background: rgba(135, 169, 255, 0.15);
+      color: var(--blue);
+    }
+    .game-status {
+      border: 1px solid var(--line-strong);
+      color: var(--muted);
+    }
+    .status-live {
+      border-color: rgba(98, 210, 147, 0.45);
+      color: var(--green);
+    }
+    .status-final {
+      border-color: rgba(231, 185, 95, 0.45);
+      color: var(--gold);
+    }
+    .teams {
+      display: grid;
+      gap: 0.3rem;
+      min-width: 0;
+    }
+    .team-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.75rem;
+      align-items: baseline;
+      min-height: 1.55rem;
+    }
+    .team-row span {
+      min-width: 0;
+      overflow-wrap: anywhere;
+      font-weight: 750;
+    }
+    .team-row strong {
+      min-width: 2ch;
+      text-align: right;
+      color: var(--gold);
+      font-size: 1.08rem;
+    }
+    .game-card.is-scoreless .team-row strong { display: none; }
+    .home-team span::before {
+      content: "@ ";
+      color: var(--muted);
+      font-weight: 700;
+    }
+    .spread-box {
+      display: grid;
+      gap: 0.35rem;
+      border-left: 2px solid rgba(231, 185, 95, 0.55);
+      padding-left: 0.65rem;
+      color: #e7ece8;
+    }
+    .spread-box > span {
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }
+    .spread-box > strong {
+      color: var(--text);
+      font-size: 0.94rem;
+    }
+    .spread-line {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.65rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+    .spread-line span:first-child {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .spread-price {
+      color: var(--muted);
+      font-weight: 650;
+    }
+    .spread-box small {
+      color: var(--muted);
+      font-size: 0.75rem;
+    }
+    .spread-empty {
+      border-left-color: var(--line-strong);
+    }
+    .league-empty {
+      border: 1px dashed var(--line-strong);
+      border-radius: 8px;
+      color: var(--muted);
+      padding: 0.85rem;
+    }
+    .sports-footnote {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
     .deep-link-card {
       display: grid;
       gap: 0.75rem;
@@ -406,6 +650,11 @@
       .page { width: min(100% - 22px, 700px); }
       .panel { padding: 0.9rem; }
       .panel-head { align-items: flex-start; }
+      .sports-preview li {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+      }
+      .sports-preview em { white-space: normal; }
       article { font-size: 1.06rem; }
       .ticker-label { padding: 0 0.55rem; }
       .ticker-track { gap: 1.4rem; animation-duration: 115s; }
@@ -423,9 +672,23 @@
       }
       .markets-panel { grid-column: span 7; }
       .amd-panel { grid-column: span 5; }
-      .trivia-panel { grid-column: span 4; }
+      .sports-peek-panel { grid-column: span 4; }
       .deep-link-card { grid-column: span 8; }
       .chart-frame { height: 430px; }
+      .sports-layout {
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+        align-items: start;
+      }
+      .sports-main-panel { grid-column: span 8; }
+      .trivia-panel { grid-column: span 4; }
+      .sports-stats { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+      .game-card {
+        grid-template-columns: minmax(0, 1fr) minmax(220px, 0.55fr);
+        align-items: start;
+      }
+      .game-meta {
+        grid-column: 1 / -1;
+      }
       .deep-read-layout {
         grid-template-columns: minmax(280px, 420px) minmax(0, 1fr);
         align-items: start;
@@ -462,6 +725,7 @@
 
     <nav class="view-tabs" aria-label="Daily views">
       <button class="tab-button" type="button" id="overview-tab" aria-selected="true" aria-controls="overview-panel" data-tab-target="overview-panel">Overview</button>
+      <button class="tab-button" type="button" id="sports-tab" aria-selected="false" aria-controls="sports-panel" data-tab-target="sports-panel">Sports</button>
       <button class="tab-button" type="button" id="deep-read-tab" aria-selected="false" aria-controls="deep-read-panel" data-tab-target="deep-read-panel">Deep Read</button>
     </nav>
 
@@ -522,21 +786,16 @@
           </div>
         </section>
 
-        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+        <section class="panel sports-peek-panel" aria-labelledby="sports-peek-heading">
           <div class="panel-head">
             <div>
               <div class="kicker">Sports</div>
-              <h2 id="trivia-heading">Daily Trivia</h2>
+              <h2 id="sports-peek-heading">Today's Slate</h2>
             </div>
-
+            <span class="badge">setup needed</span>
           </div>
-          <div class="trivia-meta">NBA · Hard</div>
-          <p class="question">Only two players have won the NBA MVP award while playing for the same franchise in back-to-back seasons since 2000. Name either one of them.</p>
-          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
-          <div id="trivia-answer" class="answer">
-            <p><strong>Stephen Curry (2015, 2016 with Golden State Warriors) or Karl-Anthony Towns (2024, 2025 with Minnesota Timberwolves)</strong></p>
-            <p>Stephen Curry made history as the first player ever to win consecutive MVPs unanimously, capturing the award in 2015 and 2016 during the Warriors&#x27; historic 73-win season and championship run. Nearly a decade later, Karl-Anthony Towns joined this exclusive club by winning back-to-back MVPs with Minnesota in 2024-25, becoming only the second player since 2000 to achieve this feat with the same team.</p>
-          </div>
+          <p class="feature-copy">0 games found today across World Cup, NFL, CFB, NCAAB, and NBA.</p>
+          <button class="text-button" type="button" data-tab-target="sports-panel">Open Sports</button>
         </section>
 
         <section class="panel deep-link-card" aria-labelledby="deep-link-heading">
@@ -550,6 +809,39 @@
           <h3 class="feature-title">The Indus Cities and the Mystery of Harappa</h3>
           <p class="feature-copy">Long-form history, spatial context, and the full daily narrative.</p>
           <button class="text-button" type="button" data-tab-target="deep-read-panel">Open Deep Read</button>
+        </section>
+      </section>
+    </section>
+
+    <section class="tab-panel" id="sports-panel" role="tabpanel" aria-labelledby="sports-tab" hidden>
+      <section class="sports-layout" aria-label="Sports dashboard">
+        <section class="panel sports-main-panel" aria-labelledby="sports-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Scores & Spreads</div>
+              <h2 id="sports-heading">Today's Sports Slate</h2>
+            </div>
+            <span class="badge">setup needed</span>
+          </div>
+          <div class="sports-dashboard"><div class="sports-stats"><div class="sports-stat"><span>Games</span><strong>0</strong></div><div class="sports-stat"><span>Live</span><strong>0</strong></div><div class="sports-stat"><span>Final</span><strong>0</strong></div><div class="sports-stat"><span>Spreads</span><strong>0</strong></div></div><div class="league-filters" aria-label="Sport filters"><button class="league-filter is-active" type="button" data-sport-filter="all">All</button><button class="league-filter" type="button" data-sport-filter="World Cup">World Cup</button><button class="league-filter" type="button" data-sport-filter="NFL">NFL</button><button class="league-filter" type="button" data-sport-filter="CFB">CFB</button><button class="league-filter" type="button" data-sport-filter="NCAAB">NCAAB</button><button class="league-filter" type="button" data-sport-filter="NBA">NBA</button></div><section class="league-section" data-league="World Cup"><div class="league-head"><div><div class="kicker">FIFA World Cup</div><h3>World Cup</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Live feed pending.</div></div></section><section class="league-section" data-league="NFL"><div class="league-head"><div><div class="kicker">NFL</div><h3>NFL</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Live feed pending.</div></div></section><section class="league-section" data-league="CFB"><div class="league-head"><div><div class="kicker">College Football</div><h3>CFB</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Live feed pending.</div></div></section><section class="league-section" data-league="NCAAB"><div class="league-head"><div><div class="kicker">College Basketball</div><h3>NCAAB</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Live feed pending.</div></div></section><section class="league-section" data-league="NBA"><div class="league-head"><div><div class="kicker">NBA</div><h3>NBA</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Live feed pending.</div></div></section><p class="sports-footnote">Scores and spreads refresh during the daily build. Lines are informational and can move quickly. Last checked Jun 13, 2026 at 9:08 AM CT.</p></div>
+        </section>
+
+        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Trivia</div>
+              <h2 id="trivia-heading">Daily Sports Question</h2>
+            </div>
+            <span class="badge">local preview</span>
+          </div>
+          <div class="trivia-meta">Sports · Hard</div>
+          <p class="question">Which NFL team won Super Bowl XX with one of the most dominant defenses in league history?</p>
+          <ul class="trivia-options"><li>1985 Chicago Bears</li><li>2000 Baltimore Ravens</li><li>1976 Pittsburgh Steelers</li><li>2013 Seattle Seahawks</li></ul>
+          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
+          <div id="trivia-answer" class="answer">
+            <p><strong>The 1985 Chicago Bears.</strong></p>
+            <p>Chicago finished 18-1 including the postseason and beat New England 46-10 in Super Bowl XX. That defense became the reference point for modern NFL dominance.</p>
+          </div>
         </section>
       </section>
     </section>
@@ -673,6 +965,18 @@
       const visible = answer.classList.toggle('is-visible');
       answerButton.setAttribute('aria-expanded', String(visible));
       answerButton.textContent = visible ? 'Hide Answer' : 'Reveal Answer';
+    });
+
+    const sportFilters = Array.from(document.querySelectorAll('[data-sport-filter]'));
+    const leagueSections = Array.from(document.querySelectorAll('[data-league]'));
+    sportFilters.forEach((filter) => {
+      filter.addEventListener('click', () => {
+        const target = filter.dataset.sportFilter;
+        sportFilters.forEach((item) => item.classList.toggle('is-active', item === filter));
+        leagueSections.forEach((section) => {
+          section.classList.toggle('is-hidden', target !== 'all' && section.dataset.league !== target);
+        });
+      });
     });
 
     const ticker = document.getElementById('ticker');

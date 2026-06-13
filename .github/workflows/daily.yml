@@ -40,6 +40,7 @@ jobs:
       - name: Generate daily site
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python generate.py
 
       - name: Commit generated edition
