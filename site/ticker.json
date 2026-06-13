@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-06-13T18:20:59+00:00",
+  "updated_at": "2026-06-13T20:24:49+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "France's Kone plays down pressure on Mbappe, backs him to deliver again at World Cup",
+      "published_at": "2026-06-13T19:47:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says",
+      "published_at": "2026-06-13T19:26:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
+      "published_at": "2026-06-13T18:58:49+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US-Iran deal scheduled to be signed on Sunday, says Trump",
-      "published_at": "2026-06-13T18:03:51+00:00"
+      "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "published_at": "2026-06-13T18:39:26+00:00"
     },
     {
       "source": "Reuters",
@@ -38,8 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "England hit by training kit theft ahead of Kansas City arrival",
-      "published_at": "2026-06-13T16:27:43+00:00"
+      "text": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang",
+      "published_at": "2026-06-13T16:27:21+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Woman seriously injured in shark attack at Sydney beach",
       "published_at": "2026-06-13T15:24:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starmer tells Rutte UK will publish defence plan before NATO July summit",
-      "published_at": "2026-06-13T15:12:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
-      "published_at": "2026-06-13T15:05:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran and US close on initial deal, Tehran says no signing on Sunday",
-      "published_at": "2026-06-13T14:54:06+00:00"
     }
   ]
 }
