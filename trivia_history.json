@@ -10,5 +10,11 @@
     "sport": "Golf",
     "question": "Which golfer won the 2023 PGA Championship at Oak Hill Country Club, claiming his third major title and first since 2019?",
     "answer": "Collin Morikawa"
+  },
+  {
+    "date": "2026-06-13",
+    "sport": "NBA",
+    "question": "Only two players have won the NBA MVP award while playing for the same franchise in back-to-back seasons since 2000. Name either one of them.",
+    "answer": "Stephen Curry (2015, 2016 with Golden State Warriors) or Karl-Anthony Towns (2024, 2025 with Minnesota Timberwolves)"
   }
 ]

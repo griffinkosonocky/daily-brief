@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-13T12:02:56+00:00",
+  "updated_at": "2026-06-13T12:09:18+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "published_at": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold fever sends some vintage luxury watches to the melting furnace",
+      "published_at": "2026-06-13T11:54:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "Switzerland to vote on plan to cap population at 10 million",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
       "published_at": "2026-06-13T07:02:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The costs and challenges facing the 2026 World Cup",
-      "published_at": "2026-06-13T06:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US victory over Paraguay was built on team togetherness, not individual effort: Pochettino",
-      "published_at": "2026-06-13T05:32:48+00:00"
     }
   ]
 }
