@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-06-13T06:29:53+00:00",
+  "updated_at": "2026-06-13T10:06:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
+      "published_at": "2026-06-13T10:02:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "COMIC: How excessive heat kills and how to stay safe",
+      "published_at": "2026-06-13T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kushner project being developed on disputed land, Albanian villagers say",
+      "published_at": "2026-06-13T09:27:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two phones and an app: How Russians skirt Putin's digital iron curtain",
+      "published_at": "2026-06-13T09:05:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
+      "published_at": "2026-06-13T08:03:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "The costs and challenges facing the 2026 World Cup",
@@ -8,13 +33,18 @@
     },
     {
       "source": "Reuters",
+      "text": "US victory over Paraguay was built on team togetherness, not individual effort: Pochettino",
+      "published_at": "2026-06-13T05:32:48+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Xhaka expects best World Cup for Swiss, says must enjoy the moment",
       "published_at": "2026-06-13T05:01:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Paraguay's World Cup return delivers \"painful lesson\", says Alfaro",
-      "published_at": "2026-06-13T04:41:00+00:00"
+      "source": "BBC",
+      "text": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "published_at": "2026-06-13T05:00:04+00:00"
     },
     {
       "source": "NPR",
@@ -22,9 +52,19 @@
       "published_at": "2026-06-13T04:29:38+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang",
-      "published_at": "2026-06-13T03:46:51+00:00"
+      "source": "BBC",
+      "text": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "published_at": "2026-06-13T04:09:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic suspends new AI tools over US government security concerns",
+      "published_at": "2026-06-13T03:54:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
+      "published_at": "2026-06-13T03:38:54+00:00"
     },
     {
       "source": "Reuters",
@@ -32,49 +72,9 @@
       "published_at": "2026-06-13T03:32:08+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US thrash Paraguay 4-1 for dream World Cup start",
-      "published_at": "2026-06-13T03:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-      "published_at": "2026-06-13T02:41:00+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Niagara Falls: Is there a better spot to watch a World Cup game?",
-      "published_at": "2026-06-13T01:13:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Gene Shalit, longtime 'Today' show movie critic, dies at 100",
-      "published_at": "2026-06-13T01:01:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Why is Trump not at the World Cup?",
-      "published_at": "2026-06-13T00:56:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "published_at": "2026-06-13T00:51:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's name is poised to be removed from the Kennedy Center",
-      "published_at": "2026-06-13T00:43:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scotland's Tartan Army digs deep into pockets for World Cup return",
-      "published_at": "2026-06-13T00:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Exclusive: US forces shoot down Iranian attack drones, source says",
-      "published_at": "2026-06-13T00:40:00+00:00"
+      "text": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "published_at": "2026-06-13T03:28:25+00:00"
     }
   ]
 }
