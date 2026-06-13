@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-13T14:21:55+00:00",
+  "updated_at": "2026-06-13T16:41:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Anthropic suspends new AI tools over US government security concerns",
+      "published_at": "2026-06-13T16:28:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's name removed from Kennedy Center after court order",
+      "published_at": "2026-06-13T16:23:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump to meet with Mideast leaders, attend Ukraine session at G7, US officials say",
+      "published_at": "2026-06-13T16:15:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How LinkedIn led Lopes on World Cup adventure with Cape Verde",
+      "published_at": "2026-06-13T15:40:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kidnapped Nigerian retired general dies in captivity",
+      "published_at": "2026-06-13T15:25:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman seriously injured in shark attack at Sydney beach",
+      "published_at": "2026-06-13T15:24:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
+      "published_at": "2026-06-13T15:05:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kushner project being developed on disputed land, Albanian villagers say",
+      "published_at": "2026-06-13T14:39:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Orban re-elected as Fidesz party leader in Hungary despite election loss",
+      "published_at": "2026-06-13T14:37:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Protesters tear down Albanian development site fences, amid anger over coastal projects",
+      "published_at": "2026-06-13T13:53:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Iran says signing of Islamabad memorandum will not take place on Sunday",
@@ -8,23 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
-      "published_at": "2026-06-13T12:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9",
       "published_at": "2026-06-13T12:46:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kushner project being developed on disputed land, Albanian villagers say",
-      "published_at": "2026-06-13T12:28:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India Air Force plane crash kills all five onboard",
-      "published_at": "2026-06-13T12:09:25+00:00"
     },
     {
       "source": "NPR",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
       "published_at": "2026-06-13T11:51:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk",
-      "published_at": "2026-06-13T11:50:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Switzerland to vote on plan to cap population at 10 million",
-      "published_at": "2026-06-13T11:47:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
-      "published_at": "2026-06-13T11:19:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "published_at": "2026-06-13T11:15:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A plan to get lifesaving food to hungry kids was working well -- until it wasn't",
-      "published_at": "2026-06-13T11:07:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
-      "published_at": "2026-06-13T10:56:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainian military hits Russia's oil infrastructure in Volgograd region, Kyiv says",
-      "published_at": "2026-06-13T10:28:02+00:00"
     }
   ]
 }
