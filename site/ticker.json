@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-06-13T01:33:08+00:00",
+  "updated_at": "2026-06-13T06:29:53+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "The costs and challenges facing the 2026 World Cup",
+      "published_at": "2026-06-13T06:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Xhaka expects best World Cup for Swiss, says must enjoy the moment",
+      "published_at": "2026-06-13T05:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paraguay's World Cup return delivers \"painful lesson\", says Alfaro",
+      "published_at": "2026-06-13T04:41:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
+      "published_at": "2026-06-13T04:29:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang",
+      "published_at": "2026-06-13T03:46:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "published_at": "2026-06-13T03:32:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US thrash Paraguay 4-1 for dream World Cup start",
+      "published_at": "2026-06-13T03:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
+      "published_at": "2026-06-13T02:41:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Niagara Falls: Is there a better spot to watch a World Cup game?",
+      "published_at": "2026-06-13T01:13:22+00:00"
+    },
     {
       "source": "NPR",
       "text": "Gene Shalit, longtime 'Today' show movie critic, dies at 100",
       "published_at": "2026-06-13T01:01:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Why is Trump not at the World Cup?",
+      "published_at": "2026-06-13T00:56:37+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Exclusive: US forces shoot down Iranian attack drones, source says",
       "published_at": "2026-06-13T00:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Qatar not expecting gifts as they chase World Cup dream, says Lopetegui",
-      "published_at": "2026-06-13T00:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration must restore history, science materials at parks, US judge rules",
-      "published_at": "2026-06-12T23:54:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rolex raises gold watch prices again as super-rich buyers are undeterred",
-      "published_at": "2026-06-12T23:28:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Paramount-Warner Brothers merger gets Justice Department approval",
-      "published_at": "2026-06-12T23:24:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "David Beckham honored with Walk of Fame star as LA hosts World Cup games",
-      "published_at": "2026-06-12T23:01:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Exclusive: UAE to unlock billions of dollars for Iran, sources say",
-      "published_at": "2026-06-12T22:40:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
-      "published_at": "2026-06-12T22:29:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
-      "published_at": "2026-06-12T22:28:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fear can keep Brazil on World Cup red alert, Ancelotti says",
-      "published_at": "2026-06-12T22:27:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A Trump push to cut 'statistical noise' could mean less data from the Census Bureau",
-      "published_at": "2026-06-12T22:01:19+00:00"
     }
   ]
 }
