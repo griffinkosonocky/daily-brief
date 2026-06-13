@@ -741,6 +741,10 @@ def render_sources(sources: list[dict]) -> str:
     return '<p class="sources">Sources: ' + " · ".join(links) + "</p>"
 
 
+def clean_html_output(value: str) -> str:
+    return "\n".join(line.rstrip() for line in value.splitlines()) + "\n"
+
+
 def render_page(
     *,
     page_date: datetime,
@@ -759,48 +763,89 @@ def render_page(
     trivia_story = html.escape(str(trivia.get("story", "")))
     trivia_question = html.escape(str(trivia.get("question", "")))
     ticker_path_json = json.dumps(ticker_path)
+    amd_chart_config = json.dumps(
+        {
+            "autosize": True,
+            "symbol": "NASDAQ:AMD",
+            "interval": "D",
+            "timezone": "America/Chicago",
+            "theme": "dark",
+            "style": "1",
+            "locale": "en",
+            "backgroundColor": "#15191a",
+            "gridColor": "rgba(255,255,255,0.06)",
+            "allow_symbol_change": False,
+            "calendar": False,
+            "hide_side_toolbar": True,
+            "hide_top_toolbar": False,
+            "hide_legend": False,
+            "save_image": False,
+            "support_host": "https://www.tradingview.com",
+        },
+        indent=8,
+    )
 
-    return f"""<!doctype html>
+    return clean_html_output(f"""<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Daily Brief - {html.escape(page_date.date().isoformat())}</title>
   <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://s3.tradingview.com">
+  <link rel="preconnect" href="https://www.tradingview.com">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <style>
     :root {{
       color-scheme: dark;
-      --bg: #111315;
-      --panel: #1b2025;
-      --panel-2: #202832;
-      --text: #f2efe8;
-      --muted: #aeb7bd;
-      --line: #303943;
-      --gold: #e6b450;
-      --green: #6fca93;
-      --blue: #86b7ff;
-      --red: #ef7d7d;
-      --shadow: 0 14px 40px rgba(0, 0, 0, 0.28);
+      --bg: #0c0f0e;
+      --panel: #15191a;
+      --panel-2: #1c2224;
+      --panel-3: #111516;
+      --text: #f4f1ea;
+      --muted: #98a39f;
+      --line: #2b3433;
+      --line-strong: #3d4946;
+      --gold: #e7b95f;
+      --green: #62d293;
+      --teal: #66d9d0;
+      --blue: #87a9ff;
+      --red: #f07f7f;
+      --shadow: 0 16px 42px rgba(0, 0, 0, 0.32);
     }}
     * {{ box-sizing: border-box; }}
     html {{ scroll-behavior: smooth; }}
     body {{
       margin: 0;
-      padding: 0 0 4.75rem;
+      padding: 0 0 5rem;
       background: var(--bg);
       color: var(--text);
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.62;
+      line-height: 1.55;
+    }}
+    body::before {{
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+      background-size: 32px 32px;
+      mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 72%);
     }}
     a {{ color: var(--blue); }}
     .page {{
-      width: min(100% - 28px, 700px);
+      width: min(100% - 32px, 1180px);
       margin: 0 auto;
-      padding: 1.15rem 0 3rem;
+      padding: 1rem 0 3.5rem;
     }}
-    header {{
-      padding: 1.1rem 0 1.2rem;
+    .topbar {{
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 1rem;
+      align-items: end;
+      padding: 1.25rem 0 1rem;
       border-bottom: 1px solid var(--line);
       margin-bottom: 1rem;
     }}
@@ -812,60 +857,128 @@ def render_page(
     }}
     h1, h2, h3 {{ line-height: 1.16; letter-spacing: 0; }}
     h1 {{
-      margin: 0.15rem 0 0.25rem;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(2.15rem, 12vw, 4rem);
-      font-weight: 700;
+      margin: 0.15rem 0 0;
+      font-size: clamp(2.1rem, 7vw, 4.8rem);
+      font-weight: 850;
+      letter-spacing: 0;
     }}
-    .dateline {{
+    .status-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.5rem;
+    }}
+    .status-pill {{
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.55rem 0.7rem;
+      min-height: 4rem;
+    }}
+    .status-label {{
       color: var(--muted);
-      font-size: 1rem;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.45rem;
-      align-items: center;
+      display: block;
+      font-size: 0.7rem;
+      text-transform: uppercase;
     }}
-    .card {{
+    .status-value {{
+      display: block;
+      margin-top: 0.2rem;
+      font-size: 0.96rem;
+      font-weight: 750;
+    }}
+    .view-tabs {{
+      display: inline-flex;
+      gap: 0.25rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.25rem;
+      margin: 0 0 1rem;
+    }}
+    .tab-button {{
+      min-height: 38px;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--muted);
+      padding: 0.45rem 0.8rem;
+      font-size: 0.9rem;
+    }}
+    .tab-button[aria-selected="true"] {{
+      background: var(--teal);
+      color: #061514;
+    }}
+    .tab-panel[hidden] {{ display: none; }}
+    .dashboard-grid {{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }}
+    .panel {{
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 8px;
       box-shadow: var(--shadow);
-      margin: 1rem 0;
       padding: 1rem;
+      min-width: 0;
     }}
-    .section-head {{
+    .panel-head {{
       display: flex;
       justify-content: space-between;
-      align-items: start;
+      align-items: flex-start;
       gap: 0.75rem;
       margin-bottom: 0.75rem;
     }}
-    .section-head h2 {{
+    .panel-head h2 {{
       margin: 0;
-      font-size: 1.22rem;
+      font-size: 1.05rem;
+      font-weight: 800;
     }}
     .badge {{
       display: inline-flex;
       align-items: center;
       min-height: 1.55rem;
-      border-radius: 999px;
-      border: 1px solid rgba(230, 180, 80, 0.45);
+      border-radius: 8px;
+      border: 1px solid rgba(231, 185, 95, 0.45);
       color: var(--gold);
       padding: 0.1rem 0.55rem;
       font-size: 0.76rem;
       white-space: nowrap;
     }}
-    .markets ul {{
+    .markets-list {{
       margin: 0;
-      padding-left: 1.1rem;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 0.7rem;
     }}
-    .markets li {{ margin: 0.45rem 0; }}
+    .markets-list li {{
+      border-left: 2px solid rgba(102, 217, 208, 0.45);
+      padding-left: 0.7rem;
+      color: #e7ece8;
+      font-size: 0.95rem;
+    }}
     .stamp, .sources {{
       margin: 0.75rem 0 0;
       color: var(--muted);
-      font-size: 0.84rem;
+      font-size: 0.8rem;
     }}
     .sources a {{ color: var(--muted); }}
+    .amd-panel {{
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }}
+    .chart-frame {{
+      height: 360px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      background: #101313;
+    }}
+    .tradingview-widget-container,
+    .tradingview-widget-container__widget {{
+      width: 100%;
+      height: 100%;
+    }}
     .trivia-meta {{
       color: var(--green);
       font-size: 0.86rem;
@@ -880,8 +993,8 @@ def render_page(
       appearance: none;
       border: 0;
       border-radius: 8px;
-      background: var(--gold);
-      color: #1b1403;
+      background: var(--teal);
+      color: #061514;
       font: inherit;
       font-weight: 750;
       min-height: 44px;
@@ -900,27 +1013,43 @@ def render_page(
     }}
     .answer.is-visible {{ display: block; }}
     .answer strong {{ color: var(--gold); }}
-    .article-shell {{
-      margin-top: 1.45rem;
-      padding-top: 0.7rem;
-      border-top: 1px solid var(--line);
+    .deep-link-card {{
+      display: grid;
+      gap: 0.75rem;
+      align-content: start;
     }}
-    .article-title {{
-      margin: 0.4rem 0 0.8rem;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(2rem, 9vw, 3.2rem);
+    .feature-title {{
+      margin: 0.2rem 0 0.75rem;
+      font-size: clamp(1.55rem, 5vw, 2.45rem);
+      font-weight: 850;
+    }}
+    .feature-copy {{
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }}
+    .text-button {{
+      justify-self: start;
+      display: inline-flex;
+      align-items: center;
+      min-height: 42px;
+      border-radius: 8px;
+      background: var(--teal);
+      color: #061514;
+      padding: 0.55rem 0.8rem;
+      text-decoration: none;
+      font-weight: 800;
     }}
     .map-wrap {{
       overflow: hidden;
       border: 1px solid var(--line);
       border-radius: 8px;
-      margin: 0.9rem 0 1.25rem;
       background: var(--panel-2);
     }}
     #history-map {{
       display: none;
       width: 100%;
-      height: min(68vh, 420px);
+      height: min(55vh, 410px);
       min-height: 280px;
     }}
     .map-wrap.is-ready #history-map {{ display: block; }}
@@ -963,20 +1092,42 @@ def render_page(
       line-height: 1.45;
       margin-top: 0.08rem;
     }}
+    .deep-read-layout {{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }}
+    .read-header {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 1rem;
+    }}
+    .read-title {{
+      margin: 0.2rem 0 0;
+      font-size: clamp(1.75rem, 5vw, 3.4rem);
+      font-weight: 850;
+    }}
+    .read-map-panel {{
+      display: grid;
+      gap: 1rem;
+      align-content: start;
+    }}
     article {{
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: 1.1rem;
-      line-height: 1.74;
+      width: min(100%, 820px);
+      color: #e8e4dc;
+      font-size: 1.05rem;
+      line-height: 1.72;
     }}
     article h2 {{
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 1.35rem;
+      font-size: 1.25rem;
       margin: 1.7rem 0 0.45rem;
     }}
     article h3 {{
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 1.08rem;
-      color: var(--gold);
+      color: var(--teal);
       margin: 1.3rem 0 0.4rem;
     }}
     article p {{ margin: 0 0 1rem; }}
@@ -997,7 +1148,7 @@ def render_page(
       right: 0;
       bottom: 0;
       z-index: 1000;
-      background: #060708;
+      background: #070908;
       border-top: 1px solid var(--line);
       min-height: 3.5rem;
       display: flex;
@@ -1011,8 +1162,8 @@ def render_page(
       display: flex;
       align-items: center;
       padding: 0 0.75rem;
-      background: var(--red);
-      color: #1b0505;
+      background: var(--teal);
+      color: #061514;
       font-weight: 850;
       font-size: 0.78rem;
     }}
@@ -1021,7 +1172,7 @@ def render_page(
       display: inline-flex;
       gap: 2rem;
       white-space: nowrap;
-      animation: marquee 55s linear infinite;
+      animation: marquee 120s linear infinite;
       will-change: transform;
       padding-left: 100%;
     }}
@@ -1040,63 +1191,149 @@ def render_page(
     }}
     @media (max-width: 430px) {{
       .page {{ width: min(100% - 22px, 700px); }}
-      .card {{ padding: 0.9rem; }}
-      .section-head {{ align-items: flex-start; }}
+      .panel {{ padding: 0.9rem; }}
+      .panel-head {{ align-items: flex-start; }}
       article {{ font-size: 1.06rem; }}
       .ticker-label {{ padding: 0 0.55rem; }}
-      .ticker-track {{ gap: 1.4rem; animation-duration: 48s; }}
+      .ticker-track {{ gap: 1.4rem; animation-duration: 115s; }}
+    }}
+    @media (min-width: 780px) {{
+      .topbar {{
+        grid-template-columns: minmax(0, 1fr) minmax(320px, 430px);
+      }}
+      .status-grid {{
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }}
+      .dashboard-grid {{
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+        align-items: stretch;
+      }}
+      .markets-panel {{ grid-column: span 7; }}
+      .amd-panel {{ grid-column: span 5; }}
+      .trivia-panel {{ grid-column: span 4; }}
+      .deep-link-card {{ grid-column: span 8; }}
+      .chart-frame {{ height: 430px; }}
+      .deep-read-layout {{
+        grid-template-columns: minmax(280px, 420px) minmax(0, 1fr);
+        align-items: start;
+      }}
+      .read-map-panel {{
+        position: sticky;
+        top: 1rem;
+      }}
     }}
   </style>
 </head>
 <body>
   <main class="page">
-    <header>
-      <div class="kicker">Personal morning edition</div>
-      <h1>The Daily Brief</h1>
-      <div class="dateline">
-        <span>{html.escape(human_date(page_date))}</span>
-        <span>Edition #{edition}</span>
+    <header class="topbar">
+      <div>
+        <div class="kicker">Personal command center</div>
+        <h1>Daily Brief</h1>
+      </div>
+      <div class="status-grid" aria-label="Edition status">
+        <div class="status-pill">
+          <span class="status-label">Today</span>
+          <span class="status-value">{html.escape(human_date(page_date))}</span>
+        </div>
+        <div class="status-pill">
+          <span class="status-label">Edition</span>
+          <span class="status-value">#{edition}</span>
+        </div>
+        <div class="status-pill">
+          <span class="status-label">Market Card</span>
+          <span class="status-value">{html.escape(str(markets.get("generated_at_ct", "")))}</span>
+        </div>
       </div>
     </header>
 
-    <section class="card markets" aria-labelledby="markets-heading">
-      <div class="section-head">
-        <h2 id="markets-heading">US Markets Today</h2>
-        {render_badge(markets.get("badge"))}
-      </div>
-      <ul>
-        {markets_items}
-      </ul>
-      <p class="stamp">Generated {html.escape(str(markets.get("generated_at_ct", "")))}</p>
-      {sources_html}
+    <nav class="view-tabs" aria-label="Daily views">
+      <button class="tab-button" type="button" id="overview-tab" aria-selected="true" aria-controls="overview-panel" data-tab-target="overview-panel">Overview</button>
+      <button class="tab-button" type="button" id="deep-read-tab" aria-selected="false" aria-controls="deep-read-panel" data-tab-target="deep-read-panel">Deep Read</button>
+    </nav>
+
+    <section class="tab-panel" id="overview-panel" role="tabpanel" aria-labelledby="overview-tab">
+      <section class="dashboard-grid" aria-label="Daily dashboard">
+        <section class="panel markets-panel" aria-labelledby="markets-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Markets</div>
+              <h2 id="markets-heading">US Market Signals</h2>
+            </div>
+            {render_badge(markets.get("badge"))}
+          </div>
+          <ul class="markets-list">
+            {markets_items}
+          </ul>
+          {sources_html}
+        </section>
+
+        <section class="panel amd-panel" aria-labelledby="amd-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Watchlist</div>
+              <h2 id="amd-heading">AMD Live Chart</h2>
+            </div>
+            <span class="badge">NASDAQ: AMD</span>
+          </div>
+          <div class="chart-frame">
+            <div class="tradingview-widget-container" aria-label="AMD live stock chart">
+              <div class="tradingview-widget-container__widget"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+                {amd_chart_config}
+              </script>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Sports</div>
+              <h2 id="trivia-heading">Daily Trivia</h2>
+            </div>
+            {render_badge(trivia.get("badge"))}
+          </div>
+          <div class="trivia-meta">{html.escape(str(trivia.get("sport", "")))} · {html.escape(str(trivia.get("difficulty", "")).title())}</div>
+          <p class="question">{trivia_question}</p>
+          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
+          <div id="trivia-answer" class="answer">
+            <p><strong>{trivia_answer}</strong></p>
+            <p>{trivia_story}</p>
+          </div>
+        </section>
+
+        <section class="panel deep-link-card" aria-labelledby="deep-link-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Historical Read</div>
+              <h2 id="deep-link-heading">Today's Deep Read</h2>
+            </div>
+            {render_badge(article.get("badge"))}
+          </div>
+          <h3 class="feature-title">{html.escape(str(article.get("title", "")))}</h3>
+          <p class="feature-copy">Long-form history, spatial context, and the full daily narrative.</p>
+          <button class="text-button" type="button" data-tab-target="deep-read-panel">Open Deep Read</button>
+        </section>
+      </section>
     </section>
 
-    <section class="card trivia" aria-labelledby="trivia-heading">
-      <div class="section-head">
-        <h2 id="trivia-heading">Daily Sports Trivia</h2>
-        {render_badge(trivia.get("badge"))}
+    <section class="tab-panel" id="deep-read-panel" role="tabpanel" aria-labelledby="deep-read-tab" hidden>
+      <div class="deep-read-layout">
+        <aside class="panel read-map-panel" aria-labelledby="article-heading">
+          <div class="read-header">
+            <div>
+              <div class="kicker">Deep Read</div>
+              <h2 id="article-heading" class="read-title">{html.escape(str(article.get("title", "")))}</h2>
+            </div>
+            <a href="{archive_prefix}">Archive</a>
+          </div>
+          {map_html}
+        </aside>
+        <article class="panel">
+          {article_html}
+        </article>
       </div>
-      <div class="trivia-meta">{html.escape(str(trivia.get("sport", "")))} · {html.escape(str(trivia.get("difficulty", "")).title())}</div>
-      <p class="question">{trivia_question}</p>
-      <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
-      <div id="trivia-answer" class="answer">
-        <p><strong>{trivia_answer}</strong></p>
-        <p>{trivia_story}</p>
-      </div>
-    </section>
-
-    <section class="article-shell" aria-labelledby="article-heading">
-      <div class="section-head">
-        <div>
-          <div class="kicker">Today's Historical Read</div>
-          <h2 id="article-heading" class="article-title">{html.escape(str(article.get("title", "")))}</h2>
-        </div>
-        {render_badge(article.get("badge"))}
-      </div>
-      {map_html}
-      <article>
-        {article_html}
-      </article>
     </section>
 
     <footer>
@@ -1123,6 +1360,26 @@ def render_page(
       '"': '&quot;',
       "'": '&#39;'
     }}[char]));
+
+    const tabButtons = Array.from(document.querySelectorAll('[data-tab-target]'));
+    const tabPanels = Array.from(document.querySelectorAll('.tab-panel'));
+    const setActiveTab = (targetId) => {{
+      tabPanels.forEach((panel) => {{
+        panel.hidden = panel.id !== targetId;
+      }});
+      tabButtons.forEach((button) => {{
+        const selected = button.dataset.tabTarget === targetId;
+        if (button.classList.contains('tab-button')) {{
+          button.setAttribute('aria-selected', String(selected));
+        }}
+      }});
+      if (targetId === 'deep-read-panel') {{
+        initializeHistoryMap();
+      }}
+    }};
+    tabButtons.forEach((button) => {{
+      button.addEventListener('click', () => setActiveTab(button.dataset.tabTarget));
+    }});
 
     const answerButton = document.getElementById('reveal-answer');
     const answer = document.getElementById('trivia-answer');
@@ -1154,11 +1411,19 @@ def render_page(
 
     const mapEl = document.getElementById('history-map');
     const mapWrap = mapEl?.closest('[data-map-wrap]');
+    let historyMap = null;
     const showMapFallback = () => {{
       mapWrap?.classList.remove('is-ready');
       mapWrap?.classList.add('is-fallback');
     }};
-    if (mapEl) {{
+    function initializeHistoryMap() {{
+      if (historyMap) {{
+        setTimeout(() => historyMap.invalidateSize(), 0);
+        return;
+      }}
+      if (!mapEl) {{
+        return;
+      }}
       try {{
         if (!window.L) {{
           throw new Error('Leaflet did not load');
@@ -1168,12 +1433,12 @@ def render_page(
           throw new Error('No map locations');
         }}
         mapWrap?.classList.add('is-ready');
-        const map = L.map(mapEl, {{ scrollWheelZoom: false }});
+        historyMap = L.map(mapEl, {{ scrollWheelZoom: false }});
         L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png', {{
           maxZoom: 19,
           subdomains: 'abcd',
           attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
-        }}).addTo(map);
+        }}).addTo(historyMap);
         const colors = {{
           capital: '#e6b450',
           battle: '#ef7d7d',
@@ -1188,12 +1453,12 @@ def render_page(
             fillColor: colors[loc.role] || colors.site,
             fillOpacity: 0.9,
             weight: 2
-          }}).addTo(map);
+          }}).addTo(historyMap);
           marker.bindPopup(`<strong>${{escapeHtml(loc.name)}}</strong><br>${{escapeHtml(loc.caption || '')}}`);
           bounds.push([loc.lat, loc.lng]);
         }});
-        map.fitBounds(bounds, {{ padding: [28, 28], maxZoom: 6 }});
-        setTimeout(() => map.invalidateSize(), 0);
+        historyMap.fitBounds(bounds, {{ padding: [28, 28], maxZoom: 6 }});
+        setTimeout(() => historyMap.invalidateSize(), 0);
       }} catch (error) {{
         showMapFallback();
       }}
@@ -1201,7 +1466,7 @@ def render_page(
   </script>
 </body>
 </html>
-"""
+""")
 
 
 def render_archive_index(entries: list[tuple[str, str]], generated_at: datetime) -> str:
