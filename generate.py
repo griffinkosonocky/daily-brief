@@ -26,6 +26,7 @@ ARCHIVE_DIR = SITE_DIR / "archive"
 TOPICS_FILE = ROOT / "topics.json"
 TRIVIA_FILE = ROOT / "trivia_history.json"
 STATE_FILE = ROOT / "state.json"
+SPORTS_FILE = SITE_DIR / "sports.json"
 
 CENTRAL = ZoneInfo("America/Chicago")
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
@@ -597,6 +598,23 @@ def odds_api_url(sport_key: str, endpoint: str, params: dict[str, Any]) -> str:
     return build_url(path, params)
 
 
+def odds_force_refresh_enabled() -> bool:
+    return os.getenv("ODDS_FORCE_REFRESH", "").strip().lower() in {"1", "true", "yes"}
+
+
+def load_today_sports_cache(now: datetime) -> dict | None:
+    data = load_json(SPORTS_FILE, None)
+    if not isinstance(data, dict):
+        return None
+    if data.get("date_key") != now.date().isoformat():
+        return None
+    if data.get("source") != "odds-api":
+        return None
+    cached = copy.deepcopy(data)
+    cached["reused_cache"] = True
+    return cached
+
+
 def format_american_price(value: Any) -> str:
     try:
         number = int(float(value))
@@ -734,7 +752,47 @@ def auth_error(message: str) -> bool:
     return "HTTP 401" in message or "HTTP 403" in message
 
 
-def collect_sport_games(sport: dict, api_key: str, now: datetime) -> tuple[dict, list[dict[str, str]]]:
+def fetch_active_sport_keys(api_key: str) -> set[str] | None:
+    try:
+        data, _ = fetch_json(
+            build_url(f"{ODDS_API_BASE}/sports/", {"apiKey": api_key}),
+            timeout=30,
+        )
+    except RuntimeError as exc:
+        message = str(exc)
+        if auth_error(message):
+            raise
+        print(f"Could not check active sports: {message}. Continuing with watchlist.")
+        return None
+    if not isinstance(data, list):
+        return None
+    return {
+        str(item.get("key"))
+        for item in data
+        if isinstance(item, dict) and item.get("active") and item.get("key")
+    }
+
+
+def collect_sport_games(
+    sport: dict,
+    api_key: str,
+    now: datetime,
+    active_keys: set[str] | None,
+) -> tuple[dict, list[dict[str, str]]]:
+    if active_keys is not None and sport["key"] not in active_keys:
+        return (
+            {
+                "key": sport["key"],
+                "label": sport["label"],
+                "full_name": sport["full_name"],
+                "games": [],
+                "note": "Out of season.",
+                "errors": [],
+                "active": False,
+            },
+            [],
+        )
+
     headers_seen: list[dict[str, str]] = []
     scores: list[dict] = []
     odds: list[dict] = []
@@ -745,7 +803,7 @@ def collect_sport_games(sport: dict, api_key: str, now: datetime) -> tuple[dict,
             odds_api_url(
                 sport["key"],
                 "scores",
-                {"apiKey": api_key, "daysFrom": 1, "dateFormat": "iso"},
+                {"apiKey": api_key, "dateFormat": "iso"},
             ),
             timeout=30,
         )
@@ -813,6 +871,7 @@ def collect_sport_games(sport: dict, api_key: str, now: datetime) -> tuple[dict,
             "games": games,
             "note": note,
             "errors": errors[:2],
+            "active": True,
         },
         headers_seen,
     )
@@ -869,14 +928,21 @@ def demo_sports(now: datetime, reason: str) -> dict:
 
 
 def generate_sports_dashboard(now: datetime) -> dict:
+    if not odds_force_refresh_enabled():
+        cached = load_today_sports_cache(now)
+        if cached:
+            print("Reused today's cached sports slate.")
+            return cached
+
     api_key = os.getenv("ODDS_API_KEY")
     if not api_key:
         raise RuntimeError("ODDS_API_KEY is not set.")
 
     sports: list[dict] = []
     headers_seen: list[dict[str, str]] = []
+    active_keys = fetch_active_sport_keys(api_key)
     for sport in SPORTS_WATCHLIST:
-        sport_games, sport_headers = collect_sport_games(sport, api_key, now)
+        sport_games, sport_headers = collect_sport_games(sport, api_key, now, active_keys)
         sports.append(sport_games)
         headers_seen.extend(sport_headers)
 
@@ -2499,7 +2565,7 @@ def main() -> None:
     write_json(STATE_FILE, state)
     write_json(TOPICS_FILE, topics)
     write_json(TRIVIA_FILE, trivia_history)
-    write_json(SITE_DIR / "sports.json", sports)
+    write_json(SPORTS_FILE, sports)
     print(f"Wrote {index_path.relative_to(ROOT)} and archive page {archive_path.relative_to(ROOT)}.")
 
 
@@ -2529,11 +2595,13 @@ def render_current_site() -> None:
         print(f"Trivia fetch failed while rendering current site: {exc}")
         trivia = demo_trivia()
 
-    try:
-        sports = generate_sports_dashboard(now)
-    except Exception as exc:
-        print(f"Sports feed failed while rendering current site: {exc}")
-        sports = demo_sports(now, str(exc))
+    sports = load_today_sports_cache(now)
+    if not sports:
+        previous_sports = copy.deepcopy(state.get("last_successful", {}).get("sports"))
+        if isinstance(previous_sports, dict):
+            sports = previous_sports
+        else:
+            sports = demo_sports(now, "Local render does not refresh paid sports data.")
 
     edition = int(state.get("edition", 0))
     index_path = SITE_DIR / "index.html"
@@ -2567,7 +2635,7 @@ def render_current_site() -> None:
         render_archive_index(archive_entries(), now),
         encoding="utf-8",
     )
-    write_json(SITE_DIR / "sports.json", sports)
+    write_json(SPORTS_FILE, sports)
     print(f"Re-rendered {index_path.relative_to(ROOT)} and archive page {archive_path.relative_to(ROOT)}.")
 
 
