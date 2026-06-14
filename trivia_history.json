@@ -16,5 +16,11 @@
     "sport": "NBA",
     "question": "Only two players have won the NBA MVP award while playing for the same franchise in back-to-back seasons since 2000. Name either one of them.",
     "answer": "Stephen Curry (2015, 2016 with Golden State Warriors) or Karl-Anthony Towns (2024, 2025 with Minnesota Timberwolves)"
+  },
+  {
+    "date": "2026-06-14",
+    "sport": "Sports",
+    "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+    "answer": "Shaquille O'Neal"
   }
 ]

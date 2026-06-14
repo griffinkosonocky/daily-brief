@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T12:10:34+00:00",
+  "updated_at": "2026-06-14T12:22:48+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -15,26 +15,6 @@
       "source": "NPR",
       "text": "Here's who's missing at the World Cup: Soccer-playing grannies!",
       "published_at": "2026-06-14T11:17:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel says military attacks Hezbollah targets in Beirut's southern suburbs",
-      "published_at": "2026-06-14T11:17:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Tijuana, Iran's tiny diaspora agrees on little — except Team Melli",
-      "published_at": "2026-06-14T11:07:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
-      "published_at": "2026-06-14T10:56:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraq cancels $764 million Baghdad airport project over corruption concerns",
-      "published_at": "2026-06-14T10:23:05+00:00"
     },
     {
       "source": "BBC",
@@ -62,11 +42,6 @@
       "published_at": "2026-06-14T08:07:55+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Romanian president nominates new candidate for prime minister",
-      "published_at": "2026-06-14T07:22:10+00:00"
-    },
-    {
       "source": "BBC",
       "text": "New York Knicks win NBA championship for first time in over 50 years",
       "published_at": "2026-06-14T07:21:26+00:00"
@@ -75,6 +50,31 @@
       "source": "BBC",
       "text": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "published_at": "2026-06-14T06:39:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+      "published_at": "2026-06-14T06:34:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why the US economy keeps defying the odds",
+      "published_at": "2026-06-14T05:14:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
+      "published_at": "2026-06-14T03:46:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "published_at": "2026-06-14T01:08:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "As Trump turns 80, what's it really like to work as an octogenarian?",
+      "published_at": "2026-06-13T23:22:52+00:00"
     }
   ]
 }

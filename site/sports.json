@@ -1,59 +1,212 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-06-13",
-  "generated_at_ct": "Jun 13, 2026 at 9:16 AM CT",
+  "date_key": "2026-06-14",
+  "generated_at_ct": "Jun 14, 2026 at 7:21 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
       "label": "World Cup",
       "full_name": "FIFA World Cup",
-      "games": [],
-      "note": "Live feed pending.",
-      "errors": []
+      "games": [
+        {
+          "id": "d79edbd6aaeb578d33e313446b18d333",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "12:00 PM CT",
+          "commence_time": "2026-06-14T17:00:00Z",
+          "commence_ct": "12:00 PM CT",
+          "sort_time": "2026-06-14T17:00:00+00:00",
+          "home_team": "Germany",
+          "away_team": "Curaçao",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:22 AM CT",
+            "summary": "Germany -3.5",
+            "outcomes": [
+              {
+                "name": "Curaçao",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": 100,
+                "price_label": "+100"
+              },
+              {
+                "name": "Germany",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -120,
+                "price_label": "-120"
+              }
+            ]
+          }
+        },
+        {
+          "id": "32ec06abda2398ac41501c86eb9aa376",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "3:00 PM CT",
+          "commence_time": "2026-06-14T20:00:00Z",
+          "commence_ct": "3:00 PM CT",
+          "sort_time": "2026-06-14T20:00:00+00:00",
+          "home_team": "Netherlands",
+          "away_team": "Japan",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:22 AM CT",
+            "summary": "Netherlands -0.5",
+            "outcomes": [
+              {
+                "name": "Japan",
+                "point": 0.5,
+                "point_label": "+0.5",
+                "price": -125,
+                "price_label": "-125"
+              },
+              {
+                "name": "Netherlands",
+                "point": -0.5,
+                "point_label": "-0.5",
+                "price": 105,
+                "price_label": "+105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "05752bb341e197001387b64f3a06b9b2",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-06-14T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-06-14T23:00:00+00:00",
+          "home_team": "Ivory Coast",
+          "away_team": "Ecuador",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:22 AM CT",
+            "summary": "Ecuador -0.25",
+            "outcomes": [
+              {
+                "name": "Ecuador",
+                "point": -0.25,
+                "point_label": "-0.25",
+                "price": 113,
+                "price_label": "+113"
+              },
+              {
+                "name": "Ivory Coast",
+                "point": 0.25,
+                "point_label": "+0.25",
+                "price": -136,
+                "price_label": "-136"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b55f9569de3f4d731bc5537ff5ff43e4",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-06-15T02:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-06-15T02:00:00+00:00",
+          "home_team": "Sweden",
+          "away_team": "Tunisia",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:22 AM CT",
+            "summary": "Sweden -0.5",
+            "outcomes": [
+              {
+                "name": "Sweden",
+                "point": -0.5,
+                "point_label": "-0.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Tunisia",
+                "point": 0.5,
+                "point_label": "+0.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
+      "errors": [],
+      "active": true
     },
     {
       "key": "americanfootball_nfl",
       "label": "NFL",
       "full_name": "NFL",
       "games": [],
-      "note": "Live feed pending.",
-      "errors": []
+      "note": "No games today.",
+      "errors": [],
+      "active": true
     },
     {
       "key": "americanfootball_ncaaf",
       "label": "CFB",
       "full_name": "College Football",
       "games": [],
-      "note": "Live feed pending.",
-      "errors": []
+      "note": "No games today.",
+      "errors": [],
+      "active": true
     },
     {
       "key": "basketball_ncaab",
       "label": "NCAAB",
       "full_name": "College Basketball",
       "games": [],
-      "note": "Live feed pending.",
-      "errors": []
+      "note": "Out of season.",
+      "errors": [],
+      "active": false
     },
     {
       "key": "basketball_nba",
       "label": "NBA",
       "full_name": "NBA",
       "games": [],
-      "note": "Live feed pending.",
-      "errors": []
+      "note": "Out of season.",
+      "errors": [],
+      "active": false
     }
   ],
   "summary": {
-    "games": 0,
+    "games": 4,
     "live": 0,
     "final": 0,
-    "upcoming": 0,
-    "spreads": 0
+    "upcoming": 4,
+    "spreads": 4
   },
-  "quota": {},
-  "badge": "setup needed",
-  "source": "preview",
-  "error_reason": "Local render does not refresh paid sports data.",
-  "generated_at": "2026-06-13T14:16:19+00:00"
+  "quota": {
+    "remaining": "496",
+    "used": "4",
+    "last_request": "0"
+  },
+  "badge": null,
+  "source": "odds-api",
+  "generated_at": "2026-06-14T12:22:38+00:00"
 }
