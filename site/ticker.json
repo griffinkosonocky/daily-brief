@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-06-14T15:15:34+00:00",
+  "updated_at": "2026-06-14T17:41:19+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump tells Putin he is ready to help end Ukraine conflict, Kremlin adviser says",
+      "published_at": "2026-06-14T17:20:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
+      "published_at": "2026-06-14T17:06:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Protesters set Tesla ablaze, smash UN office's windows in Geneva anti-G7 march",
+      "published_at": "2026-06-14T17:03:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lazard bids to replace Centerview as Venezuela financial advisor, source says",
+      "published_at": "2026-06-14T17:02:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shelton earns first grass title with win over Fritz in Stuttgart",
+      "published_at": "2026-06-14T16:12:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chaos and confetti settle as New York City prepares Knicks celebration",
+      "published_at": "2026-06-14T16:10:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel attacks Hezbollah targets in Beirut's southern suburbs",
+      "published_at": "2026-06-14T16:03:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.S.-led war in Iran will dominate Trump's G7 trip to France",
+      "published_at": "2026-06-14T16:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "published_at": "2026-06-14T15:34:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
+      "published_at": "2026-06-14T15:31:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK and Japan agree £18bn investment deal",
+      "published_at": "2026-06-14T15:25:33+00:00"
+    },
     {
       "source": "BBC",
       "text": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
@@ -17,64 +72,9 @@
       "published_at": "2026-06-14T14:43:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "published_at": "2026-06-14T14:08:03+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Somali referee denied US entry for World Cup will receive full FIFA fee",
-      "published_at": "2026-06-14T13:50:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia win 2-0 to spoil Turkey's return to World Cup stage",
-      "published_at": "2026-06-14T13:14:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scotland hang on for first World Cup win since 1990 with 1-0 victory over Haiti",
-      "published_at": "2026-06-14T13:12:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rodriguez knocks out Vargas to become world champion in third weight class",
-      "published_at": "2026-06-14T12:58:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Smoke rises from Russian oil facility after Ukrainian drone attack",
-      "published_at": "2026-06-14T12:56:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK anti-Islam activist Robinson briefly detained under terrorism laws",
-      "published_at": "2026-06-14T12:39:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
-      "published_at": "2026-06-14T12:33:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
-      "published_at": "2026-06-14T12:18:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "published_at": "2026-06-14T12:04:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Swiss voters reject 10 million population cap, early projections say",
-      "published_at": "2026-06-14T11:31:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "published_at": "2026-06-14T11:23:36+00:00"
+      "text": "Italian general launches far-right party, threatening Meloni's election hopes",
+      "published_at": "2026-06-14T14:33:43+00:00"
     }
   ]
 }
