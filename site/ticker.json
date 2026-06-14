@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-13T22:16:31+00:00",
+  "updated_at": "2026-06-14T00:18:45+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Switzerland votes on proposal to cap population at 10 million",
+      "published_at": "2026-06-14T00:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, India to tackle trade at G7 but deal not imminent, US officials say",
+      "published_at": "2026-06-13T23:43:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss rue missed chances after Qatar snatch late World Cup draw",
+      "published_at": "2026-06-13T23:35:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Doctors in England call off strikes after last-minute offer in long-running dispute",
+      "published_at": "2026-06-13T22:52:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Moriyasu focused on survival as Japan prepare for Netherlands opener",
+      "published_at": "2026-06-13T22:41:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qatar hail first World Cup point after late header stuns Switzerland​ in 1-1 draw ​",
+      "published_at": "2026-06-13T22:24:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran face New Zealand in politically charged Los Angeles opener",
+      "published_at": "2026-06-13T22:21:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​",
+      "published_at": "2026-06-13T22:20:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "published_at": "2026-06-13T22:17:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "published_at": "2026-06-13T22:05:24+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Sweden set for Tunisia showdown after rocky road to World Cup",
@@ -8,23 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Qatar score late to clinch draw with stunned Switzerland​",
-      "published_at": "2026-06-13T21:46:58+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Beating the heat no problem for World Cup fans in sweltering Houston",
-      "published_at": "2026-06-13T21:45:22+00:00"
+      "published_at": "2026-06-13T21:48:35+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says",
-      "published_at": "2026-06-13T21:28:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil striker Thiago to start World Cup match against Morocco",
-      "published_at": "2026-06-13T21:26:09+00:00"
+      "text": "North Korea says 'denuclearisation' is a matter terminated irreversibly",
+      "published_at": "2026-06-13T21:39:45+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
       "published_at": "2026-06-13T21:06:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "published_at": "2026-06-13T21:02:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Kone plays down pressure on Mbappe, backs him to deliver again at World Cup",
-      "published_at": "2026-06-13T19:47:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Al Qaeda-linked militants curb their brutality in seized Malian territory",
-      "published_at": "2026-06-13T18:58:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "published_at": "2026-06-13T18:39:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Starmer, Trump discuss efforts to end Iran conflict",
-      "published_at": "2026-06-13T17:15:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's name removed from Kennedy Center after court order",
-      "published_at": "2026-06-13T17:00:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran deal to be signed on Sunday",
-      "published_at": "2026-06-13T17:00:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, India to tackle trade at G7 but deal not imminent, US officials say",
-      "published_at": "2026-06-13T16:37:55+00:00"
     }
   ]
 }
