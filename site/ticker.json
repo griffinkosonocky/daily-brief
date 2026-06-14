@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-06-14T09:54:08+00:00",
+  "updated_at": "2026-06-14T12:10:34+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Swiss voters reject 10 million population cap, early projections say",
+      "published_at": "2026-06-14T11:31:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "published_at": "2026-06-14T11:23:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Here's who's missing at the World Cup: Soccer-playing grannies!",
+      "published_at": "2026-06-14T11:17:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel says military attacks Hezbollah targets in Beirut's southern suburbs",
+      "published_at": "2026-06-14T11:17:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Tijuana, Iran's tiny diaspora agrees on little — except Team Melli",
+      "published_at": "2026-06-14T11:07:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
+      "published_at": "2026-06-14T10:56:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraq cancels $764 million Baghdad airport project over corruption concerns",
+      "published_at": "2026-06-14T10:23:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fifa to pay Somali referee Artan full World Cup fee",
+      "published_at": "2026-06-14T09:00:08+00:00"
+    },
     {
       "source": "NPR",
       "text": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
@@ -17,19 +57,9 @@
       "published_at": "2026-06-14T08:45:23+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
-      "published_at": "2026-06-14T08:29:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Armed men kidnap high-ranking security official in Haiti",
       "published_at": "2026-06-14T08:07:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "published_at": "2026-06-14T07:55:16+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "published_at": "2026-06-14T06:39:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-      "published_at": "2026-06-14T06:34:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British forces intercept Russian shadow fleet tanker in the Channel",
-      "published_at": "2026-06-14T06:18:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia win 2-0 to spoil Turkey's return to World Cup stage",
-      "published_at": "2026-06-14T06:06:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Switzerland votes on plan to cap population at 10 million",
-      "published_at": "2026-06-14T05:36:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the US economy keeps defying the odds",
-      "published_at": "2026-06-14T05:14:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shark attack pushes Australian state to review drone curbs",
-      "published_at": "2026-06-14T05:06:00+00:00"
     }
   ]
 }
