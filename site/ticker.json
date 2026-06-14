@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-14T17:41:19+00:00",
+  "updated_at": "2026-06-14T19:53:59+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "12 dead after skydiving plane crashes in Missouri, authorities say",
+      "published_at": "2026-06-14T19:49:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany cruise to 7-1 win over debutants Curacao in Houston",
+      "published_at": "2026-06-14T19:28:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Twelve people killed in Missouri plane crash, state highway patrol says",
+      "published_at": "2026-06-14T19:17:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Senator Mitch McConnell hospitalized on Sunday morning, spokesperson says",
+      "published_at": "2026-06-14T19:04:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia's Putin sends birthday greetings to 'bright, remarkable' Trump",
+      "published_at": "2026-06-14T18:59:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lazard bids to replace Centerview as Venezuela financial adviser, source says",
+      "published_at": "2026-06-14T18:48:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rain sends Germany and Curacao fans on pre-match hunt for umbrellas and beer",
+      "published_at": "2026-06-14T18:28:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Swiss voters reject 10 million population cap",
+      "published_at": "2026-06-14T18:23:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli military says Hezbollah targets struck in Beirut",
+      "published_at": "2026-06-14T17:52:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Tijuana, Iran's tiny diaspora agrees on little — except Team Melli",
+      "published_at": "2026-06-14T17:31:01+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump tells Putin he is ready to help end Ukraine conflict, Kremlin adviser says",
@@ -8,18 +58,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Ukraine's Zelenskiy discussed peace talks in call with Trump",
+      "published_at": "2026-06-14T17:12:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
       "published_at": "2026-06-14T17:06:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Protesters set Tesla ablaze, smash UN office's windows in Geneva anti-G7 march",
-      "published_at": "2026-06-14T17:03:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lazard bids to replace Centerview as Venezuela financial advisor, source says",
-      "published_at": "2026-06-14T17:02:57+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "Chaos and confetti settle as New York City prepares Knicks celebration",
       "published_at": "2026-06-14T16:10:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel attacks Hezbollah targets in Beirut's southern suburbs",
-      "published_at": "2026-06-14T16:03:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S.-led war in Iran will dominate Trump's G7 trip to France",
-      "published_at": "2026-06-14T16:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lebanon says three killed in Israeli strike on Beirut suburb",
-      "published_at": "2026-06-14T15:34:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
-      "published_at": "2026-06-14T15:31:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK and Japan agree £18bn investment deal",
-      "published_at": "2026-06-14T15:25:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "published_at": "2026-06-14T14:52:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England players shelter indoors amid tornado warning in Kansas City",
-      "published_at": "2026-06-14T14:49:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Teenage prodigy Bouaddi strides imperiously onto World Cup stage",
-      "published_at": "2026-06-14T14:43:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italian general launches far-right party, threatening Meloni's election hopes",
-      "published_at": "2026-06-14T14:33:43+00:00"
     }
   ]
 }
