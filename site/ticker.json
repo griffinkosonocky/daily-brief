@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-06-14T06:02:58+00:00",
+  "updated_at": "2026-06-14T09:54:08+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
+      "published_at": "2026-06-14T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's UFC fights bring historic spectacle to White House",
+      "published_at": "2026-06-14T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "published_at": "2026-06-14T08:45:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
+      "published_at": "2026-06-14T08:29:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Armed men kidnap high-ranking security official in Haiti",
+      "published_at": "2026-06-14T08:07:55+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "published_at": "2026-06-14T05:41:07+00:00"
+      "published_at": "2026-06-14T07:55:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Romanian president nominates new candidate for prime minister",
+      "published_at": "2026-06-14T07:22:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New York Knicks win NBA championship for first time in over 50 years",
+      "published_at": "2026-06-14T07:21:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "published_at": "2026-06-14T06:39:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+      "published_at": "2026-06-14T06:34:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British forces intercept Russian shadow fleet tanker in the Channel",
+      "published_at": "2026-06-14T06:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia win 2-0 to spoil Turkey's return to World Cup stage",
+      "published_at": "2026-06-14T06:06:00+00:00"
     },
     {
       "source": "BBC",
@@ -13,68 +68,13 @@
     },
     {
       "source": "BBC",
-      "text": "New York Knicks win NBA championship for first time in over 50 years",
-      "published_at": "2026-06-14T04:59:01+00:00"
+      "text": "Why the US economy keeps defying the odds",
+      "published_at": "2026-06-14T05:14:17+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Scotland's rare opening win takes pressure off, says coach Clarke",
-      "published_at": "2026-06-14T04:52:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Haiti must take belief from narrow Scotland defeat, says coach Migne",
-      "published_at": "2026-06-14T04:19:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
-      "published_at": "2026-06-14T03:46:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Burn has eye on title despite England's long wait to win World Cup",
-      "published_at": "2026-06-14T03:26:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scotland hang on for first World Cup win since 1990 with 1-0 victory over Haiti",
-      "published_at": "2026-06-14T03:06:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Guler to lead Turkey on World Cup return against Australia",
-      "published_at": "2026-06-14T02:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Iran inch closer to deal, timing remains unclear",
-      "published_at": "2026-06-14T01:53:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Curacao have nothing to lose on World Cup debut, says Advocaat",
-      "published_at": "2026-06-14T01:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany chances rest with keeper Neuer, coach says",
-      "published_at": "2026-06-14T01:21:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigerian author accuses hospital of stalling review into her son's death",
-      "published_at": "2026-06-14T01:08:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Fioravanti takes first surfing world tour win in El Salvador as Moore goes back-to-back",
-      "published_at": "2026-06-14T00:57:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swiss misses give them World Cup headache after Qatar slipup",
-      "published_at": "2026-06-14T00:51:00+00:00"
+      "text": "Shark attack pushes Australian state to review drone curbs",
+      "published_at": "2026-06-14T05:06:00+00:00"
     }
   ]
 }
