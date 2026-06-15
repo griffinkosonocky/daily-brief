@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-06-15T18:00:49+00:00",
+  "updated_at": "2026-06-15T21:17:22+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Iranian Americans plan protests as soccer team prepare for their World Cup opener",
-      "published_at": "2026-06-15T17:25:51+00:00"
+      "text": "Trump’s Iran accord offers exit from war — and fresh political risks",
+      "published_at": "2026-06-15T20:23:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's Davies faces race against time ahead of Qatar clash",
+      "published_at": "2026-06-15T20:21:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fox strikes $22 billion deal for Roku to fuel streaming push",
+      "published_at": "2026-06-15T20:06:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's approval ticks up to 36% as price angst eases, Reuters/Ipsos poll finds",
+      "published_at": "2026-06-15T20:02:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
+      "published_at": "2026-06-15T19:59:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stocks of oil in US Strategic Petroleum Reserve falls to lowest since 1983",
+      "published_at": "2026-06-15T19:38:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cape Verde frustrate Spain on stunning World Cup debut as Vozinha stars",
+      "published_at": "2026-06-15T19:32:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Oracle prudently leans into Bayesian reasoning",
+      "published_at": "2026-06-15T19:23:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanon fighting eases after US-Iran deal",
+      "published_at": "2026-06-15T19:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Newsom accuses Trump of directing politically motivated investigation",
+      "published_at": "2026-06-15T19:13:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Putin, Zelenskiy open to 'do something' on Ukraine war",
+      "published_at": "2026-06-15T18:52:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran deal presents political nightmare for Netanyahu",
+      "published_at": "2026-06-15T18:15:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia sports minister vows affordable and safe World Cup in 2034",
+      "published_at": "2026-06-15T17:59:43+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +72,9 @@
       "published_at": "2026-06-15T17:25:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Norwegian crown princess's son found guilty of two counts of rape",
-      "published_at": "2026-06-15T17:10:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly",
-      "published_at": "2026-06-15T17:05:16+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Why Gen Z is paying for silence",
-      "published_at": "2026-06-15T16:55:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran",
-      "published_at": "2026-06-15T16:44:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "MSF staff abused Sudanese refugees in sex-for-food scandal",
-      "published_at": "2026-06-15T16:32:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Highly dangerous plutonium offers no quick fix to US nuclear fuel crunch",
-      "published_at": "2026-06-15T16:25:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Supreme Court rejects Macy's challenge over compensating fired strikers",
-      "published_at": "2026-06-15T16:19:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sweden passes 'good behaviour' law to kick out misbehaving immigrants",
-      "published_at": "2026-06-15T16:17:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
-      "published_at": "2026-06-15T16:09:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ghana face first World Cup test against much-improved Panama",
-      "published_at": "2026-06-15T16:05:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
-      "published_at": "2026-06-15T16:00:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netflix expands iHeartMedia partnership, adds Kate Hudson, Martha Stewart podcast shows",
-      "published_at": "2026-06-15T15:57:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'",
-      "published_at": "2026-06-15T15:42:05+00:00"
+      "published_at": "2026-06-15T17:11:10+00:00"
     }
   ]
 }
