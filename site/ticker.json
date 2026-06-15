@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-15T16:09:20+00:00",
+  "updated_at": "2026-06-15T18:00:49+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iranian Americans plan protests as soccer team prepare for their World Cup opener",
+      "published_at": "2026-06-15T17:25:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "published_at": "2026-06-15T17:25:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Norwegian crown princess's son found guilty of two counts of rape",
-      "published_at": "2026-06-15T16:00:32+00:00"
+      "published_at": "2026-06-15T17:10:30+00:00"
     },
     {
       "source": "Reuters",
-      "text": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly",
-      "published_at": "2026-06-15T15:53:49+00:00"
+      "text": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly",
+      "published_at": "2026-06-15T17:05:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UN Security Council extends Afghan mission, calls for review",
-      "published_at": "2026-06-15T15:51:22+00:00"
+      "text": "Why Gen Z is paying for silence",
+      "published_at": "2026-06-15T16:55:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran",
+      "published_at": "2026-06-15T16:44:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+      "published_at": "2026-06-15T16:32:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Highly dangerous plutonium offers no quick fix to US nuclear fuel crunch",
+      "published_at": "2026-06-15T16:25:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Supreme Court rejects Macy's challenge over compensating fired strikers",
+      "published_at": "2026-06-15T16:19:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sweden passes 'good behaviour' law to kick out misbehaving immigrants",
+      "published_at": "2026-06-15T16:17:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
+      "published_at": "2026-06-15T16:09:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ghana face first World Cup test against much-improved Panama",
+      "published_at": "2026-06-15T16:05:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
+      "published_at": "2026-06-15T16:00:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netflix expands iHeartMedia partnership, adds Kate Hudson, Martha Stewart podcast shows",
+      "published_at": "2026-06-15T15:57:45+00:00"
     },
     {
       "source": "NPR",
       "text": "As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'",
       "published_at": "2026-06-15T15:42:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global shippers cautious on Hormuz transit despite US-Iran deal",
-      "published_at": "2026-06-15T15:28:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF chief says no global slowdown in sight yet, but risks are high",
-      "published_at": "2026-06-15T15:04:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Supreme Court rejects Macy's challenge over compensating fired strikers",
-      "published_at": "2026-06-15T14:52:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance says funds won't be transferred to Iran in exchange for signing deal to halt war",
-      "published_at": "2026-06-15T14:51:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Czech government's media revamp sparks criticism over independence",
-      "published_at": "2026-06-15T14:40:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon fighting eases after US-Iran deal but displaced warned not to rush home",
-      "published_at": "2026-06-15T14:40:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "published_at": "2026-06-15T14:26:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump and thousands of others watch UFC fight on White House lawn",
-      "published_at": "2026-06-15T14:25:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Iran nuclear talks must address these key issues",
-      "published_at": "2026-06-15T14:24:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
-      "published_at": "2026-06-15T13:50:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
-      "published_at": "2026-06-15T13:16:16+00:00"
     }
   ]
 }
