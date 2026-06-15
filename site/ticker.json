@@ -1,20 +1,55 @@
 {
-  "updated_at": "2026-06-15T21:17:22+00:00",
+  "updated_at": "2026-06-15T23:58:29+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Toronto cannabis shop rides high over FIFA legal notice",
+      "published_at": "2026-06-15T23:48:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Former ICE leader lands new job consulting on national security and defense",
+      "published_at": "2026-06-15T23:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Let's give the ball to Haaland, Norway coach says",
+      "published_at": "2026-06-15T23:24:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lukaku's introduction earns Belgium 1-1 draw with Egypt",
+      "published_at": "2026-06-15T22:39:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranian Americans plan protests as soccer team prepare for their World Cup opener",
+      "published_at": "2026-06-15T22:31:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump’s Iran accord offers exit from war — and fresh political risks",
-      "published_at": "2026-06-15T20:23:02+00:00"
+      "published_at": "2026-06-15T22:01:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Newsom accuses Trump of directing politically motivated investigation",
+      "published_at": "2026-06-15T21:43:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanon fighting eases after US-Iran deal",
+      "published_at": "2026-06-15T21:21:58+00:00"
     },
     {
       "source": "Reuters",
       "text": "Canada's Davies faces race against time ahead of Qatar clash",
-      "published_at": "2026-06-15T20:21:45+00:00"
+      "published_at": "2026-06-15T20:41:38+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Fox strikes $22 billion deal for Roku to fuel streaming push",
-      "published_at": "2026-06-15T20:06:11+00:00"
+      "source": "BBC",
+      "text": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "published_at": "2026-06-15T20:33:54+00:00"
     },
     {
       "source": "Reuters",
@@ -38,43 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Oracle prudently leans into Bayesian reasoning",
-      "published_at": "2026-06-15T19:23:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon fighting eases after US-Iran deal",
-      "published_at": "2026-06-15T19:17:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Newsom accuses Trump of directing politically motivated investigation",
-      "published_at": "2026-06-15T19:13:22+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Trump says Putin, Zelenskiy open to 'do something' on Ukraine war",
       "published_at": "2026-06-15T18:52:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran deal presents political nightmare for Netanyahu",
-      "published_at": "2026-06-15T18:15:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia sports minister vows affordable and safe World Cup in 2034",
-      "published_at": "2026-06-15T17:59:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South African jazz legend Abdullah Ibrahim dies at 91",
-      "published_at": "2026-06-15T17:25:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why Gen Z is paying for silence",
-      "published_at": "2026-06-15T17:11:10+00:00"
     }
   ]
 }
