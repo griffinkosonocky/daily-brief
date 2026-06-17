@@ -34,5 +34,11 @@
     "sport": "Sports",
     "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
     "answer": "Tunisia"
+  },
+  {
+    "date": "2026-06-17",
+    "sport": "Sports",
+    "question": "At which race was the 2018 F1 Drivers Championship won?",
+    "answer": "Mexico"
   }
 ]

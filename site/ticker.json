@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-17T11:15:58+00:00",
+  "updated_at": "2026-06-17T14:09:09+00:00",
   "headlines": [
     {
       "source": "NPR",
-      "text": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
-      "published_at": "2026-06-17T11:14:16+00:00"
+      "text": "Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?",
+      "published_at": "2026-06-17T13:46:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "published_at": "2026-06-17T13:41:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
+      "published_at": "2026-06-17T13:41:13+00:00"
     },
     {
       "source": "Reuters",
       "text": "Exclusive: Colombia's ELN open to talks with new president, but says it can survive military offensive",
-      "published_at": "2026-06-17T11:04:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Welcome to the Warsh era",
-      "published_at": "2026-06-17T10:55:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's stock benchmarks log longest winning run in 2 months as oil prices ease",
-      "published_at": "2026-06-17T10:13:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "G7, Messi and the Cape Verde goalie",
-      "published_at": "2026-06-17T10:12:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-      "published_at": "2026-06-17T10:01:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI will lead to labour shortages, Jeff Bezos says at VivaTech",
-      "published_at": "2026-06-17T10:00:56+00:00"
+      "published_at": "2026-06-17T13:23:43+00:00"
     },
     {
       "source": "NPR",
-      "text": "'Rejected': How federal prisons stonewall grievances and deny care for years",
-      "published_at": "2026-06-17T10:00:00+00:00"
+      "text": "Taiwan says Chinese pressure over the island is the \"new normal\"",
+      "published_at": "2026-06-17T13:08:37+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'They came with machetes' - deadline looms for migrants to leave South Africa",
-      "published_at": "2026-06-17T09:56:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Equatorial Guinea government resigns after failing to meet targets",
-      "published_at": "2026-06-17T09:52:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Group planned to attack White House UFC event using snipers and drones, FBI says",
-      "published_at": "2026-06-17T09:46:31+00:00"
+      "source": "Reuters",
+      "text": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says",
+      "published_at": "2026-06-17T13:03:47+00:00"
     },
     {
       "source": "Reuters",
       "text": "IEA sees significant 2027 oil surplus after Hormuz recovery",
-      "published_at": "2026-06-17T09:33:38+00:00"
+      "published_at": "2026-06-17T12:33:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As IMF visits Senegal, more investors view default as inevitable",
+      "published_at": "2026-06-17T12:31:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranian oil tankers pass US blockade after US-Iran deal, data shows",
+      "published_at": "2026-06-17T12:28:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting'",
+      "published_at": "2026-06-17T12:15:02+00:00"
     },
     {
       "source": "BBC",
-      "text": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-      "published_at": "2026-06-17T09:13:34+00:00"
+      "text": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "published_at": "2026-06-17T12:01:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump threatens to resume bombing campaign if Iran does not \"behave\"",
+      "published_at": "2026-06-17T11:44:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI will lead to labour shortages, Bezos says in optimistic talk",
+      "published_at": "2026-06-17T11:28:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "published_at": "2026-06-17T11:26:39+00:00"
     },
     {
       "source": "NPR",
-      "text": "'Coreano Hermano': Ahead of Mexico vs. South Korea, it's all love between the fans",
-      "published_at": "2026-06-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "FAQ: How World Cup fans and workers can stay safe in the heat",
-      "published_at": "2026-06-17T09:00:00+00:00"
+      "text": "President Trump calls to delay nomination of intel pick Jay Clayton",
+      "published_at": "2026-06-17T11:18:03+00:00"
     }
   ]
 }
