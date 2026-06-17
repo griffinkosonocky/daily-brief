@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-06-17T21:19:47+00:00",
+  "updated_at": "2026-06-17T23:48:06+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "published_at": "2026-06-17T22:57:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US would do better without USMCA trade agreement",
+      "published_at": "2026-06-17T22:54:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran MOU was signed on Wednesday by Trump and Iran president, U.S. official says",
+      "published_at": "2026-06-17T22:51:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN warns Israeli settlers could join blacklist for violations against children",
+      "published_at": "2026-06-17T22:11:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump signs memo aimed at ending Iran war, White House official says",
+      "published_at": "2026-06-17T21:59:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump ties Iran deal to market swings, warns war risked 'catastrophe'",
+      "published_at": "2026-06-17T21:58:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'",
+      "published_at": "2026-06-17T21:51:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As western fires erupt, Trump's Forest Service says it's now fully staffed",
+      "published_at": "2026-06-17T21:33:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Here's how much the the Iran war cost -- and how its effects will linger",
+      "published_at": "2026-06-17T21:23:54+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump thanks China's Xi, Russia's Putin for being 'neutral' in Iran war",
@@ -8,18 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "France's Macron hosts Trump at Versailles Palace",
-      "published_at": "2026-06-17T20:48:16+00:00"
+      "text": "Scorching Miami heat could push World Cup players to the brink, expert warns",
+      "published_at": "2026-06-17T20:59:23+00:00"
     },
     {
       "source": "Reuters",
       "text": "LatAm assets broadly slide after Fed keeps door open to rate hike",
       "published_at": "2026-06-17T20:25:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Initial US-Iran agreement leaves many key issues to be negotiated",
-      "published_at": "2026-06-17T20:23:13+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "US game on Juneteenth gives chance to showcase team's diversity",
+      "published_at": "2026-06-17T20:06:02+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Portugal held to 1-1 draw by DR Congo in their World Cup opener",
       "published_at": "2026-06-17T19:57:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: What challenges could stand in the way of a final US-Iran deal?",
-      "published_at": "2026-06-17T19:32:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US would do better without USMCA trade agreement",
-      "published_at": "2026-06-17T19:25:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-Nigeria oil minister cleared in UK bribery trial",
-      "published_at": "2026-06-17T19:03:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Madueke starts for England, Modric captains Croatia",
-      "published_at": "2026-06-17T18:57:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Netanyahu could use 'softer touch' in Lebanon",
-      "published_at": "2026-06-17T18:38:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran deal averted 'economic catastrophe' but says he could still restart war",
-      "published_at": "2026-06-17T18:33:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says",
-      "published_at": "2026-06-17T18:12:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran bombing more could have caused 'international depression'",
-      "published_at": "2026-06-17T18:11:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenya, US close in on critical minerals deal, Ruto says",
-      "published_at": "2026-06-17T18:03:43+00:00"
     }
   ]
 }
