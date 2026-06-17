@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-06-17T14:09:09+00:00",
+  "updated_at": "2026-06-17T15:59:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "IEA sees significant 2027 oil surplus after Hormuz recovery",
+      "published_at": "2026-06-17T15:23:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK orders Google to improve search transparency to boost competition",
+      "published_at": "2026-06-17T15:15:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranians see little chance of life improving as interim deal halts war with US",
+      "published_at": "2026-06-17T15:13:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says negotiations with Anthropic are 'going fine'",
+      "published_at": "2026-06-17T15:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As IMF visits Senegal, more investors view default as inevitable",
+      "published_at": "2026-06-17T15:07:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BBC to cut 550 jobs in cost-saving drive, including news division layoffs",
+      "published_at": "2026-06-17T15:06:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he had good meeting with India's Modi, working on trade deals",
+      "published_at": "2026-06-17T14:58:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "G7 sets up critical minerals alliance, platform to cut reliance on China",
+      "published_at": "2026-06-17T14:52:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "While Trump hails Gulf oil flowing, Iran's fleet also gearing up to boost exports",
+      "published_at": "2026-06-17T14:40:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigerian man jailed for storing human faeces outside his home",
+      "published_at": "2026-06-17T14:33:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he talked to Syrian leader about taking on Hezbollah",
+      "published_at": "2026-06-17T14:25:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
+      "published_at": "2026-06-17T14:17:19+00:00"
+    },
     {
       "source": "NPR",
       "text": "Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?",
@@ -13,68 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
-      "published_at": "2026-06-17T13:41:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Exclusive: Colombia's ELN open to talks with new president, but says it can survive military offensive",
-      "published_at": "2026-06-17T13:23:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Taiwan says Chinese pressure over the island is the \"new normal\"",
-      "published_at": "2026-06-17T13:08:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says",
-      "published_at": "2026-06-17T13:03:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IEA sees significant 2027 oil surplus after Hormuz recovery",
-      "published_at": "2026-06-17T12:33:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As IMF visits Senegal, more investors view default as inevitable",
-      "published_at": "2026-06-17T12:31:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iranian oil tankers pass US blockade after US-Iran deal, data shows",
-      "published_at": "2026-06-17T12:28:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting'",
-      "published_at": "2026-06-17T12:15:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
-      "published_at": "2026-06-17T12:01:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump threatens to resume bombing campaign if Iran does not \"behave\"",
-      "published_at": "2026-06-17T11:44:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI will lead to labour shortages, Bezos says in optimistic talk",
-      "published_at": "2026-06-17T11:28:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-      "published_at": "2026-06-17T11:26:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "President Trump calls to delay nomination of intel pick Jay Clayton",
-      "published_at": "2026-06-17T11:18:03+00:00"
+      "text": "Iran sends tankers loaded with oil past US military blockade",
+      "published_at": "2026-06-17T13:27:47+00:00"
     }
   ]
 }
