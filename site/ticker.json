@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-18T13:38:39+00:00",
+  "updated_at": "2026-06-18T13:48:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hegseth announces US review of Europe forces, says some allies will fail",
+      "published_at": "2026-06-18T13:31:01+00:00"
+    },
     {
       "source": "Reuters",
       "text": "ECB's Lane hints at higher rates even after Iran shock",
@@ -45,11 +50,6 @@
       "source": "Reuters",
       "text": "Israel issues new Lebanon occupation map, in talks with US over deployment",
       "published_at": "2026-06-18T12:27:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Exclusive: Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
-      "published_at": "2026-06-18T12:16:16+00:00"
     },
     {
       "source": "Reuters",

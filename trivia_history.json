@@ -40,5 +40,11 @@
     "sport": "Sports",
     "question": "At which race was the 2018 F1 Drivers Championship won?",
     "answer": "Mexico"
+  },
+  {
+    "date": "2026-06-18",
+    "sport": "Sports",
+    "question": "How many soccer players should be on the field at the same time?",
+    "answer": "22"
   }
 ]
