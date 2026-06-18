@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-18T20:37:38+00:00",
+  "updated_at": "2026-06-18T23:01:27+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Norwegian parliament gets behind World Cup team with Viking \"rowing\" display",
+      "published_at": "2026-06-18T22:31:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Manzambi double helps Swiss crush Bosnia 4-1 in World Cup",
+      "published_at": "2026-06-18T22:29:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "MSCI downgrades Indonesia's information flow criterion on transparency concerns",
+      "published_at": "2026-06-18T21:49:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "published_at": "2026-06-18T21:47:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Republicans blast Trump's Iran agreement as details emerge",
+      "published_at": "2026-06-18T21:35:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "published_at": "2026-06-18T21:34:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+      "published_at": "2026-06-18T21:28:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Obamas host star-studded opening of Chicago presidential centre",
+      "published_at": "2026-06-18T21:02:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Minnows make waves as World Cup aristocrats wobble",
+      "published_at": "2026-06-18T20:55:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cuba proposes sweeping reforms to socialist model amid U.S. pressure",
+      "published_at": "2026-06-18T20:48:48+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hegseth renews Nato criticism and says US will review presence in Europe",
@@ -12,69 +62,19 @@
       "published_at": "2026-06-18T20:16:21+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Ivory Coast's Wahi cleared to travel to Canada, country's football federation says",
+      "published_at": "2026-06-18T20:09:07+00:00"
+    },
+    {
       "source": "BBC",
       "text": "What Iran and US get from deal and why both could struggle to keep it",
       "published_at": "2026-06-18T20:04:40+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'Living celebration of community': Obamas open presidential centre in Chicago",
-      "published_at": "2026-06-18T19:55:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "published_at": "2026-06-18T19:54:42+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Traffic flows through Hormuz as U.S.-Iran deal takes effect, questions remain",
-      "published_at": "2026-06-18T19:49:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance warns Israeli critics not to attack US over Trump's Iran deal",
-      "published_at": "2026-06-18T19:41:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance warns Israeli critics over Iran deal: Trump is your only ally",
-      "published_at": "2026-06-18T19:29:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Republicans blast Trump's Iran agreement as details emerge",
-      "published_at": "2026-06-18T19:15:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Philadelphia police deploy real-time translation cameras for World Cup",
-      "published_at": "2026-06-18T18:53:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Parents of Serbia's teenage school shooter given jail terms in retrial",
-      "published_at": "2026-06-18T18:36:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Some EU leaders caution against talks with Russia",
-      "published_at": "2026-06-18T18:35:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine brings the war to Moscow as huge blasts shake refinery",
-      "published_at": "2026-06-18T18:33:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge narrows lawsuits challenging Trump's executive order restricting mail-in voting",
-      "published_at": "2026-06-18T18:09:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Iran deal redraws the Middle East: Iran gains, rivals alarmed",
-      "published_at": "2026-06-18T18:01:50+00:00"
+      "text": "Obama Presidential Center, designed as hub of civic life, celebrated in Chicago",
+      "published_at": "2026-06-18T19:56:14+00:00"
     }
   ]
 }
