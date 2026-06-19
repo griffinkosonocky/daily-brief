@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-06-18T23:01:27+00:00",
+  "updated_at": "2026-06-19T01:51:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "published_at": "2026-06-19T01:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US tells ASML it is concerned China may have top chip tool, Bloomberg News reports",
+      "published_at": "2026-06-19T01:12:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indonesia's Prabowo taps Danantara to drive agenda, testing fund's capacity",
+      "published_at": "2026-06-19T01:11:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indonesia to halt free meals during school break, scale back programme scope",
+      "published_at": "2026-06-19T00:50:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Key FDA committee unanimously recommends its first vaccine since 2023",
+      "published_at": "2026-06-19T00:43:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Obamas host star-studded opening of Chicago presidential centre",
+      "published_at": "2026-06-19T00:01:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In photos: The Knicks celebrate their first NBA championship in more than 50 years",
+      "published_at": "2026-06-19T00:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Euphoria? No euphoria, but Morocco aiming for the final",
+      "published_at": "2026-06-18T23:33:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss wonderkid Manzambi dazzles in World Cup win",
+      "published_at": "2026-06-18T23:29:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Obama celebrates opening of his presidential museum with call to citizenship",
+      "published_at": "2026-06-18T22:44:04+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Norwegian parliament gets behind World Cup team with Viking \"rowing\" display",
       "published_at": "2026-06-18T22:31:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge allows challenges to Trump's mail-in voting order ahead of November elections",
+      "published_at": "2026-06-18T22:29:43+00:00"
     },
     {
       "source": "Reuters",
@@ -13,68 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "MSCI downgrades Indonesia's information flow criterion on transparency concerns",
-      "published_at": "2026-06-18T21:49:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "published_at": "2026-06-18T21:47:25+00:00"
+      "text": "US court rules Ohio can restrict children's use of social media",
+      "published_at": "2026-06-18T22:27:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Republicans blast Trump's Iran agreement as details emerge",
-      "published_at": "2026-06-18T21:35:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "published_at": "2026-06-18T21:34:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
-      "published_at": "2026-06-18T21:28:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Obamas host star-studded opening of Chicago presidential centre",
-      "published_at": "2026-06-18T21:02:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Minnows make waves as World Cup aristocrats wobble",
-      "published_at": "2026-06-18T20:55:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cuba proposes sweeping reforms to socialist model amid U.S. pressure",
-      "published_at": "2026-06-18T20:48:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "published_at": "2026-06-18T20:27:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Is Trump ready to go back to being the ‘peace’ president?",
-      "published_at": "2026-06-18T20:16:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ivory Coast's Wahi cleared to travel to Canada, country's football federation says",
-      "published_at": "2026-06-18T20:09:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What Iran and US get from deal and why both could struggle to keep it",
-      "published_at": "2026-06-18T20:04:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Obama Presidential Center, designed as hub of civic life, celebrated in Chicago",
-      "published_at": "2026-06-18T19:56:14+00:00"
+      "text": "MSCI raises new Indonesia transparency concerns ahead of emerging markets verdict",
+      "published_at": "2026-06-18T21:49:00+00:00"
     }
   ]
 }
