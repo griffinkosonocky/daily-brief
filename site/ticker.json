@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-06-19T12:16:37+00:00",
+  "updated_at": "2026-06-19T13:55:18+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "For Vance, Iran talks could shape political rise",
+      "published_at": "2026-06-19T13:47:43+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-      "published_at": "2026-06-19T12:07:32+00:00"
+      "text": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "published_at": "2026-06-19T13:42:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "More than 70 Congo medics infected with Ebola since outbreak started, WHO says",
+      "published_at": "2026-06-19T12:47:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say",
+      "published_at": "2026-06-19T12:42:50+00:00"
     },
     {
       "source": "Reuters",
       "text": "UAE bourses decline amid US-Iran truce uncertainty",
       "published_at": "2026-06-19T12:05:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo",
+      "published_at": "2026-06-19T11:53:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada stock futures fall on fresh Middle East uncertainty",
+      "published_at": "2026-06-19T11:45:43+00:00"
     },
     {
       "source": "Reuters",
@@ -27,34 +52,14 @@
       "published_at": "2026-06-19T11:31:54+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Hawkish Fed signals send gold to third straight weekly loss",
-      "published_at": "2026-06-19T11:30:39+00:00"
-    },
-    {
       "source": "NPR",
       "text": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
       "published_at": "2026-06-19T11:27:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Brent heads for 9% weekly loss as traders weigh US-Iran truce outlook",
-      "published_at": "2026-06-19T11:06:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meloni fights back after Trump tells Italian TV she 'begged' for photo with him at G7",
-      "published_at": "2026-06-19T10:59:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico edge South Korea to win Group A, secure home last-32 tie",
-      "published_at": "2026-06-19T10:41:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares snap 5-session rally on IT drag; log weekly gains on oil slide",
-      "published_at": "2026-06-19T10:35:43+00:00"
+      "text": "Amazon points to water conservation steps in India amid data centre scrutiny",
+      "published_at": "2026-06-19T10:49:59+00:00"
     },
     {
       "source": "BBC",
@@ -62,19 +67,14 @@
       "published_at": "2026-06-19T10:35:08+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: White House delays release of US voting machine study as midterms near",
+      "published_at": "2026-06-19T10:31:58+00:00"
+    },
+    {
       "source": "NPR",
       "text": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
       "published_at": "2026-06-19T10:30:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Asia's richest man Ambani announces what could be India's biggest share sale",
-      "published_at": "2026-06-19T10:13:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ASML denies selling EUV chipmaking tool to China after report of US concern",
-      "published_at": "2026-06-19T10:13:18+00:00"
     }
   ]
 }
