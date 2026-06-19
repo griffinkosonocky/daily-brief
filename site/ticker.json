@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-19T20:45:52+00:00",
+  "updated_at": "2026-06-19T22:12:36+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Israeli envoy and UN official clash at hearing on children in conflict",
+      "published_at": "2026-06-19T21:59:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US advance to World Cup round of 32 with dominant 2-0 win over Australia",
+      "published_at": "2026-06-19T21:49:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "published_at": "2026-06-19T21:46:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump unveils Qatari 747 ahead of joining Air Force One fleet",
+      "published_at": "2026-06-19T21:41:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium face Iran in pivotal Group G clash amid travel row",
+      "published_at": "2026-06-19T21:32:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "published_at": "2026-06-19T21:16:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "published_at": "2026-06-19T21:01:21+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Pitch not perfect: World Cup players find weirdness underfoot on innovative grass",
@@ -8,7 +43,7 @@
     },
     {
       "source": "NPR",
-      "text": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
+      "text": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
       "published_at": "2026-06-19T20:32:35+00:00"
     },
     {
@@ -32,11 +67,6 @@
       "published_at": "2026-06-19T19:56:03+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Japan seek winning edge against Tunisia in landmark World Cup clash",
-      "published_at": "2026-06-19T19:43:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
       "published_at": "2026-06-19T19:36:10+00:00"
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "World Cup delivers uneven fortunes for Vancouver's small businesses",
       "published_at": "2026-06-19T19:27:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "published_at": "2026-06-19T19:27:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ambani's Reliance Jio: businesses and investors of the IPO-bound firm",
-      "published_at": "2026-06-19T19:26:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New Zealand, Egypt searching for elusive first World Cup win in key Group G clash",
-      "published_at": "2026-06-19T18:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morales waits in wings as Bolivia crisis tests Trump-backed government",
-      "published_at": "2026-06-19T18:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU to propose diversification law to drive de-risking from China",
-      "published_at": "2026-06-19T17:48:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump heads to Camp David as Iran talks falter",
-      "published_at": "2026-06-19T17:39:43+00:00"
     }
   ]
 }
