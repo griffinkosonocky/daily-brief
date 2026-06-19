@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-06-19T13:55:18+00:00",
+  "updated_at": "2026-06-19T16:12:52+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "From Trump whisperer to Trump basher: Meloni takes on US president",
+      "published_at": "2026-06-19T15:59:22+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How and why algae clouded Trump's vision for an 'American flag blue' Reflecting Pool",
+      "published_at": "2026-06-19T15:43:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ambani's Reliance Jio: businesses and investors of the IPO-bound firm",
+      "published_at": "2026-06-19T14:56:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanon ceasefire agreed after US-Iran talks in Switzerland scrapped",
+      "published_at": "2026-06-19T14:55:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "published_at": "2026-06-19T14:45:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ICC chief prosecutor Khan suspended by British lawyers' regulator",
+      "published_at": "2026-06-19T13:49:45+00:00"
+    },
     {
       "source": "Reuters",
       "text": "For Vance, Iran talks could shape political rise",
@@ -13,8 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "More than 70 Congo medics infected with Ebola since outbreak started, WHO says",
-      "published_at": "2026-06-19T12:47:33+00:00"
+      "text": "Israel, Hezbollah agree to ceasefire starting on Friday -U.S. official",
+      "published_at": "2026-06-19T13:18:55+00:00"
     },
     {
       "source": "Reuters",
@@ -33,18 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada stock futures fall on fresh Middle East uncertainty",
-      "published_at": "2026-06-19T11:45:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Russia tells Europe: Yes to talks, no to ultimatums",
       "published_at": "2026-06-19T11:42:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway plans to ban trade with Israeli settlements in Palestinian territories",
-      "published_at": "2026-06-19T11:34:09+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
       "published_at": "2026-06-19T11:27:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Amazon points to water conservation steps in India amid data centre scrutiny",
-      "published_at": "2026-06-19T10:49:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Obama moved to tears by wife Michelle's speech",
-      "published_at": "2026-06-19T10:35:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: White House delays release of US voting machine study as midterms near",
-      "published_at": "2026-06-19T10:31:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
-      "published_at": "2026-06-19T10:30:52+00:00"
     }
   ]
 }
