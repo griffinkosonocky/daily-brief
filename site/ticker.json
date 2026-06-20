@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-06-20T12:15:26+00:00",
+  "updated_at": "2026-06-20T14:28:39+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+      "published_at": "2026-06-20T14:24:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One dead after freight trains collide in Munich",
+      "published_at": "2026-06-20T13:57:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
+      "published_at": "2026-06-20T13:50:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rescuers look for survivors after deadly Russian strike on Kharkiv",
+      "published_at": "2026-06-20T13:39:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
+      "published_at": "2026-06-20T13:25:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "published_at": "2026-06-20T13:23:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip",
+      "published_at": "2026-06-20T13:23:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bolivia's Paz declares state of emergency to break protest gridlock",
+      "published_at": "2026-06-20T13:07:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
+      "published_at": "2026-06-20T12:23:27+00:00"
+    },
     {
       "source": "NPR",
       "text": "Opinion: Algae doesn't care about our party lines",
@@ -10,11 +55,6 @@
       "source": "Reuters",
       "text": "Switzerland says US-Iran talks continue at Bürgenstock, declines to identify participants",
       "published_at": "2026-06-20T11:45:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli strikes kill 10 in Lebanon after truce, with prospect of U.S.-Iran talks unclear",
-      "published_at": "2026-06-20T11:07:13+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
       "published_at": "2026-06-20T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venice like a local",
-      "published_at": "2026-06-20T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How a warm World Cup welcome is endearing the US to fans",
-      "published_at": "2026-06-20T09:25:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
-      "published_at": "2026-06-20T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "published_at": "2026-06-20T08:53:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay no underdogs after World Cup turnaround, coach says",
-      "published_at": "2026-06-20T07:47:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bolivia's Paz declares state of emergency over blockade crisis, paving way to deploy military",
-      "published_at": "2026-06-20T07:42:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tourist dies in Dominican Republic luxury resort fire",
-      "published_at": "2026-06-20T07:40:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
-      "published_at": "2026-06-20T07:36:57+00:00"
     }
   ]
 }
