@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-20T18:23:52+00:00",
+  "updated_at": "2026-06-20T20:24:03+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden",
+      "published_at": "2026-06-20T20:03:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says no toll on Strait of Hormuz unless US imposes one",
+      "published_at": "2026-06-20T19:42:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "published_at": "2026-06-20T18:39:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain shock and Vozinha fame, but all still chill in camp Cape Verde",
+      "published_at": "2026-06-20T18:35:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Islamic State claims responsibility for northeastern Aleppo attack that killed two Syrian soldiers",
+      "published_at": "2026-06-20T18:29:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina face Austria with knockout stage in sight",
+      "published_at": "2026-06-20T18:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands rally in Serbia's north to demand early elections",
+      "published_at": "2026-06-20T18:23:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
@@ -23,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Brazil´s President Lula maintains poll lead over right-wing Senator Bolsonaro",
+      "published_at": "2026-06-20T17:08:57+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US forces monitoring Strait of Hormuz to ensure it stays open",
       "published_at": "2026-06-20T16:55:11+00:00"
     },
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Italy's Meloni tells Trump to focus on his own popularity as row rumbles on",
       "published_at": "2026-06-20T16:37:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky returns highest Polish honour after award stripped",
-      "published_at": "2026-06-20T16:34:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "published_at": "2026-06-20T16:07:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain feels the heat, with Madrid World Cup fan zone cancelled",
-      "published_at": "2026-06-20T15:34:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dalot hits back at Portugal critics, defends Ronaldo",
-      "published_at": "2026-06-20T15:34:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "published_at": "2026-06-20T15:31:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bolivian president declares state of emergency",
-      "published_at": "2026-06-20T15:27:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "One dead after freight trains collide in Munich",
-      "published_at": "2026-06-20T13:57:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
-      "published_at": "2026-06-20T13:50:01+00:00"
     }
   ]
 }
