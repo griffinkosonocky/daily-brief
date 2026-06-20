@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-06-20T05:41:55+00:00",
+  "updated_at": "2026-06-20T09:34:39+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
+      "published_at": "2026-06-20T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How a warm World Cup welcome is endearing the US to fans",
+      "published_at": "2026-06-20T08:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paraguay no underdogs after World Cup turnaround, coach says",
+      "published_at": "2026-06-20T07:47:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
+      "published_at": "2026-06-20T07:36:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ambani's Reliance Jio: businesses and investors of the IPO-bound firm",
+      "published_at": "2026-06-20T05:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least five killed in Israeli strikes on south Lebanon despite ceasefire",
+      "published_at": "2026-06-20T05:28:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Paraguay's Almiron sent off for covering his mouth with his hand against Turkey",
@@ -17,16 +47,6 @@
       "published_at": "2026-06-20T04:08:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
-      "published_at": "2026-06-20T03:40:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "‘Play with your heart’: Saibari’s rise fuels Morocco dream",
-      "published_at": "2026-06-20T03:32:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
       "published_at": "2026-06-20T03:13:18+00:00"
@@ -38,43 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Toronto beer prices a test for German fans at World Cup",
-      "published_at": "2026-06-20T03:05:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "published_at": "2026-06-20T02:33:30+00:00"
+      "text": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
+      "published_at": "2026-06-20T03:08:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump envoy, Iranian minister head to Switzerland for talks",
-      "published_at": "2026-06-20T02:32:00+00:00"
+      "text": "Mexico City looks to rein in street drinking after massive World Cup party",
+      "published_at": "2026-06-20T03:06:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Costa Rica arrests man over suspected death threat to president",
-      "published_at": "2026-06-20T01:11:52+00:00"
+      "text": "Brazil's Cunha scores twice in 3-0 win as Haiti eliminated at World Cup",
+      "published_at": "2026-06-20T03:04:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tears, anthems and history: Curacao celebrate unlikely World Cup journey",
-      "published_at": "2026-06-20T00:56:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany preparing for speedy challenge against Ivory Coast at World Cup",
-      "published_at": "2026-06-20T00:30:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "published_at": "2026-06-20T00:23:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morocco bully Scotland into submission for 1-0 win, take control of Group C",
-      "published_at": "2026-06-20T00:05:00+00:00"
+      "text": "Japan to target $2.3 trillion public-private investment by 2040, Nikkei reports",
+      "published_at": "2026-06-20T02:51:00+00:00"
     }
   ]
 }
