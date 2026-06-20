@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-06-19T22:12:36+00:00",
+  "updated_at": "2026-06-20T00:21:20+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Israeli envoy and UN official clash at hearing on children in conflict",
-      "published_at": "2026-06-19T21:59:44+00:00"
+      "text": "Focus: As China gorges on homegrown foie gras, France faces a new rival",
+      "published_at": "2026-06-19T23:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cape Verde young guns ready to deliver against Uruguay",
+      "published_at": "2026-06-19T23:46:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US to stop funding HIV programmes in South Africa",
+      "published_at": "2026-06-19T23:35:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "United States have to keep believing they can win, Pochettino says",
+      "published_at": "2026-06-19T22:44:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Canadian lender TD tells some employees it will use software to monitor their work",
+      "published_at": "2026-06-19T22:12:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sweden's super strikers are vital to World Cup cause, says coach",
+      "published_at": "2026-06-19T22:09:57+00:00"
     },
     {
       "source": "Reuters",
@@ -32,6 +57,11 @@
       "published_at": "2026-06-19T21:16:15+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Lebanese villagers return to find homes in ruins",
+      "published_at": "2026-06-19T21:15:46+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
       "published_at": "2026-06-19T21:01:21+00:00"
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
       "published_at": "2026-06-19T20:32:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo",
-      "published_at": "2026-06-19T20:28:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kansas City reassures fans after eventful World Cup start",
-      "published_at": "2026-06-19T20:13:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon ceasefire agreed after US-Iran talks in Switzerland scrapped",
-      "published_at": "2026-06-19T19:58:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump tells Axios he no longer views Anthropic as national security threat",
-      "published_at": "2026-06-19T19:56:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "published_at": "2026-06-19T19:36:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup delivers uneven fortunes for Vancouver's small businesses",
-      "published_at": "2026-06-19T19:27:47+00:00"
     }
   ]
 }
