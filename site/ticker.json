@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-20T20:24:03+00:00",
+  "updated_at": "2026-06-20T22:20:03+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "U.S. defends Iran World Cup travel restrictions, says discussions ongoing",
+      "published_at": "2026-06-20T22:03:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "published_at": "2026-06-20T21:57:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil keep faith with injured Raphinha after latest hamstring setback",
+      "published_at": "2026-06-20T21:48:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France may tweak, not tinker, as Iraq World Cup test looms",
+      "published_at": "2026-06-20T21:47:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France are preparing for intense battle against cornered Iraq-Saliba",
+      "published_at": "2026-06-20T21:25:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+      "published_at": "2026-06-20T21:11:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sweden will learn from thrashing against Netherlands, coach says",
+      "published_at": "2026-06-20T21:03:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says he returned state decoration to Polish president",
+      "published_at": "2026-06-20T20:54:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brobbey double makes him strong candidate to be lead attacker for the Dutch",
+      "published_at": "2026-06-20T20:37:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+      "published_at": "2026-06-20T20:33:14+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden",
@@ -9,12 +59,12 @@
     {
       "source": "Reuters",
       "text": "Trump says no toll on Strait of Hormuz unless US imposes one",
-      "published_at": "2026-06-20T19:42:53+00:00"
+      "published_at": "2026-06-20T20:01:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "published_at": "2026-06-20T18:39:55+00:00"
+      "source": "Reuters",
+      "text": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire",
+      "published_at": "2026-06-20T19:26:07+00:00"
     },
     {
       "source": "Reuters",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Islamic State claims responsibility for northeastern Aleppo attack that killed two Syrian soldiers",
-      "published_at": "2026-06-20T18:29:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina face Austria with knockout stage in sight",
-      "published_at": "2026-06-20T18:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Thousands rally in Serbia's north to demand early elections",
       "published_at": "2026-06-20T18:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
-      "published_at": "2026-06-20T18:13:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "published_at": "2026-06-20T17:40:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy sends back Polish award as rift over history simmers on",
-      "published_at": "2026-06-20T17:38:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tourist dies in Dominican Republic luxury resort fire",
-      "published_at": "2026-06-20T17:33:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil´s President Lula maintains poll lead over right-wing Senator Bolsonaro",
-      "published_at": "2026-06-20T17:08:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US forces monitoring Strait of Hormuz to ensure it stays open",
-      "published_at": "2026-06-20T16:55:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says he returned state decoration to Polish president",
-      "published_at": "2026-06-20T16:47:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Meloni tells Trump to focus on his own popularity as row rumbles on",
-      "published_at": "2026-06-20T16:37:43+00:00"
     }
   ]
 }
