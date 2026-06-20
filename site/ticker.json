@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-20T16:43:58+00:00",
+  "updated_at": "2026-06-20T18:23:52+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
+      "published_at": "2026-06-20T18:13:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "published_at": "2026-06-20T17:40:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy sends back Polish award as rift over history simmers on",
+      "published_at": "2026-06-20T17:38:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tourist dies in Dominican Republic luxury resort fire",
+      "published_at": "2026-06-20T17:33:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US forces monitoring Strait of Hormuz to ensure it stays open",
+      "published_at": "2026-06-20T16:55:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says he returned state decoration to Polish president",
+      "published_at": "2026-06-20T16:47:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy's Meloni tells Trump to focus on his own popularity as row rumbles on",
+      "published_at": "2026-06-20T16:37:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zelensky returns highest Polish honour after award stripped",
@@ -10,6 +45,16 @@
       "source": "BBC",
       "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
       "published_at": "2026-06-20T16:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain feels the heat, with Madrid World Cup fan zone cancelled",
+      "published_at": "2026-06-20T15:34:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dalot hits back at Portugal critics, defends Ronaldo",
+      "published_at": "2026-06-20T15:34:09+00:00"
     },
     {
       "source": "BBC",
@@ -23,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
-      "published_at": "2026-06-20T14:33:14+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "One dead after freight trains collide in Munich",
       "published_at": "2026-06-20T13:57:41+00:00"
     },
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
       "published_at": "2026-06-20T13:50:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paris police arrest 20 as demonstrators defy ban on Iran opposition rally",
-      "published_at": "2026-06-20T13:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
-      "published_at": "2026-06-20T13:25:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "published_at": "2026-06-20T13:23:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip",
-      "published_at": "2026-06-20T13:23:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Algae doesn't care about our party lines",
-      "published_at": "2026-06-20T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Switzerland says US-Iran talks continue at Bürgenstock, declines to identify participants",
-      "published_at": "2026-06-20T11:45:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia says it repelled drone attack on oil refinery in Tyumen region",
-      "published_at": "2026-06-20T11:42:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-      "published_at": "2026-06-20T10:45:09+00:00"
     }
   ]
 }
