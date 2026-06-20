@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-06-20T14:28:39+00:00",
+  "updated_at": "2026-06-20T16:43:58+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
-      "published_at": "2026-06-20T14:24:35+00:00"
+      "text": "Zelensky returns highest Polish honour after award stripped",
+      "published_at": "2026-06-20T16:34:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "published_at": "2026-06-20T16:07:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "published_at": "2026-06-20T15:31:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bolivian president declares state of emergency",
+      "published_at": "2026-06-20T15:27:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
+      "published_at": "2026-06-20T14:33:14+00:00"
     },
     {
       "source": "Reuters",
@@ -18,8 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Rescuers look for survivors after deadly Russian strike on Kharkiv",
-      "published_at": "2026-06-20T13:39:17+00:00"
+      "text": "Paris police arrest 20 as demonstrators defy ban on Iran opposition rally",
+      "published_at": "2026-06-20T13:46:09+00:00"
     },
     {
       "source": "Reuters",
@@ -37,16 +57,6 @@
       "published_at": "2026-06-20T13:23:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Bolivia's Paz declares state of emergency to break protest gridlock",
-      "published_at": "2026-06-20T13:07:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
-      "published_at": "2026-06-20T12:23:27+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Opinion: Algae doesn't care about our party lines",
       "published_at": "2026-06-20T12:00:00+00:00"
@@ -57,24 +67,14 @@
       "published_at": "2026-06-20T11:45:48+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Russia says it repelled drone attack on oil refinery in Tyumen region",
+      "published_at": "2026-06-20T11:42:25+00:00"
+    },
+    {
       "source": "NPR",
       "text": "These nuns spent a lifetime helping others. In their last years, who will help them?",
       "published_at": "2026-06-20T10:45:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "published_at": "2026-06-20T10:19:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fighting persists in Lebanon despite a ceasefire as U.S.-Iran deal is under threat",
-      "published_at": "2026-06-20T10:02:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
-      "published_at": "2026-06-20T10:00:00+00:00"
     }
   ]
 }
