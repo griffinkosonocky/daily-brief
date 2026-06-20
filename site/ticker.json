@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-06-20T09:34:39+00:00",
+  "updated_at": "2026-06-20T12:06:33+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Opinion: Algae doesn't care about our party lines",
+      "published_at": "2026-06-20T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Suspected hacker sends unauthorized alert across Brazil",
+      "published_at": "2026-06-20T11:43:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strikes kill 10 in Lebanon after truce, with prospect of U.S.-Iran talks unclear",
+      "published_at": "2026-06-20T11:07:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "These nuns spent a lifetime helping others. In their last years, who will help them?",
+      "published_at": "2026-06-20T10:45:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "published_at": "2026-06-20T10:19:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Fighting persists in Lebanon despite a ceasefire as U.S.-Iran deal is under threat",
+      "published_at": "2026-06-20T10:02:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
+      "published_at": "2026-06-20T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venice like a local",
+      "published_at": "2026-06-20T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How a warm World Cup welcome is endearing the US to fans",
+      "published_at": "2026-06-20T09:25:59+00:00"
+    },
     {
       "source": "NPR",
       "text": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
       "published_at": "2026-06-20T09:00:00+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "published_at": "2026-06-20T08:53:53+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "How a warm World Cup welcome is endearing the US to fans",
-      "published_at": "2026-06-20T08:03:43+00:00"
+      "text": "China's May refined oil exports rise from April under restrictions, Australia receives agreed volume",
+      "published_at": "2026-06-20T08:48:16+00:00"
     },
     {
       "source": "Reuters",
@@ -17,64 +67,14 @@
       "published_at": "2026-06-20T07:47:43+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Tourist dies in Dominican Republic luxury resort fire",
+      "published_at": "2026-06-20T07:40:20+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Zelenskiy's chief of staff renounces Polish medal amid WW2 dispute",
       "published_at": "2026-06-20T07:36:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ambani's Reliance Jio: businesses and investors of the IPO-bound firm",
-      "published_at": "2026-06-20T05:44:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least five killed in Israeli strikes on south Lebanon despite ceasefire",
-      "published_at": "2026-06-20T05:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay's Almiron sent off for covering his mouth with his hand against Turkey",
-      "published_at": "2026-06-20T04:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Haiti exit World Cup but coach Migne says team proved they belong",
-      "published_at": "2026-06-20T04:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ancelotti expects Neymar back for Brazil's Scotland World Cup showdown",
-      "published_at": "2026-06-20T04:08:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "published_at": "2026-06-20T03:13:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-      "published_at": "2026-06-20T03:12:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
-      "published_at": "2026-06-20T03:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico City looks to rein in street drinking after massive World Cup party",
-      "published_at": "2026-06-20T03:06:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's Cunha scores twice in 3-0 win as Haiti eliminated at World Cup",
-      "published_at": "2026-06-20T03:04:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan to target $2.3 trillion public-private investment by 2040, Nikkei reports",
-      "published_at": "2026-06-20T02:51:00+00:00"
     }
   ]
 }
