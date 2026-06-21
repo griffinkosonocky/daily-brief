@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-20T22:20:03+00:00",
+  "updated_at": "2026-06-21T00:19:00+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+      "published_at": "2026-06-20T23:58:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran negotiators, Vance head for Switzerland but Lebanon fighting continues",
+      "published_at": "2026-06-20T23:51:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bazeley calls for cutting edge as New Zealand eye historic first World Cup win",
+      "published_at": "2026-06-20T23:22:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+      "published_at": "2026-06-20T23:06:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How a warm World Cup welcome is endearing the US to fans",
+      "published_at": "2026-06-20T22:52:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain living in a bubble but motivated by criticism, says De la Fuente",
+      "published_at": "2026-06-20T22:45:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former US coach Arena sees warning signs despite World Cup win over Australia",
+      "published_at": "2026-06-20T22:45:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli fire kills nine people in Gaza, including a child and journalist, medics say",
+      "published_at": "2026-06-20T22:38:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "High stakes for Jordan or Algeria in game of World Cup jeopardy",
+      "published_at": "2026-06-20T22:37:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy again urges Belarus to dismantle relay stations",
+      "published_at": "2026-06-20T22:25:32+00:00"
+    },
     {
       "source": "Reuters",
       "text": "U.S. defends Iran World Cup travel restrictions, says discussions ongoing",
@@ -13,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Brazil keep faith with injured Raphinha after latest hamstring setback",
-      "published_at": "2026-06-20T21:48:12+00:00"
+      "text": "Thousands rally in Serbia's north to demand early elections",
+      "published_at": "2026-06-20T21:54:11+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "France are preparing for intense battle against cornered Iraq-Saliba",
       "published_at": "2026-06-20T21:25:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "published_at": "2026-06-20T21:11:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sweden will learn from thrashing against Netherlands, coach says",
-      "published_at": "2026-06-20T21:03:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says he returned state decoration to Polish president",
-      "published_at": "2026-06-20T20:54:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brobbey double makes him strong candidate to be lead attacker for the Dutch",
-      "published_at": "2026-06-20T20:37:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
-      "published_at": "2026-06-20T20:33:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden",
-      "published_at": "2026-06-20T20:03:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says no toll on Strait of Hormuz unless US imposes one",
-      "published_at": "2026-06-20T20:01:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire",
-      "published_at": "2026-06-20T19:26:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain shock and Vozinha fame, but all still chill in camp Cape Verde",
-      "published_at": "2026-06-20T18:35:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands rally in Serbia's north to demand early elections",
-      "published_at": "2026-06-20T18:23:43+00:00"
     }
   ]
 }
