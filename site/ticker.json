@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-06-21T10:40:54+00:00",
+  "updated_at": "2026-06-21T12:25:40+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Erdogan orders talks to reopen Orthodox Christian seminary in Turkey, a focus for Trump",
+      "published_at": "2026-06-21T12:16:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says",
+      "published_at": "2026-06-21T12:03:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK minister says Starmer is considering 'political realities' as position under threat",
+      "published_at": "2026-06-21T11:23:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
+      "published_at": "2026-06-21T11:19:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tight security as Indian students resit medical exam after alleged paper leak",
+      "published_at": "2026-06-21T11:06:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Yamal says the best is yet to come",
+      "published_at": "2026-06-21T11:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "published_at": "2026-06-21T10:55:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
+      "published_at": "2026-06-21T10:38:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "King Charles to reveal tax details for the first time, palace says",
+      "published_at": "2026-06-21T10:11:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
@@ -12,19 +57,14 @@
       "published_at": "2026-06-21T10:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Taiwan to stage five days of combat readiness drills",
-      "published_at": "2026-06-21T09:26:28+00:00"
+      "source": "BBC",
+      "text": "Dutch royals enjoy two big results in one World Cup day",
+      "published_at": "2026-06-21T09:45:57+00:00"
     },
     {
       "source": "NPR",
       "text": "Want to improve your agility? Try these 'explosive power' exercises",
       "published_at": "2026-06-21T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK business minister says he has no reason to think PM Starmer will resign on Monday",
-      "published_at": "2026-06-21T08:12:23+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Japan coach Moriyasu praises Kamada after standout performance in new role",
       "published_at": "2026-06-21T07:38:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Heavy defeat reflects Japan's dominance, says Tunisia coach Renard",
-      "published_at": "2026-06-21T07:23:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-      "published_at": "2026-06-21T07:16:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan's firepower comes to the fore as Ueda bags a double at World Cup",
-      "published_at": "2026-06-21T07:13:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan rout Tunisia 4-0 as Ueda shines in World Cup's 1,000th match",
-      "published_at": "2026-06-21T06:09:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US VP Vance arrives in Switzerland for peace talks with Iran",
-      "published_at": "2026-06-21T04:36:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "published_at": "2026-06-21T04:34:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fifteen saves, one point: Room leads Curacao to World Cup history",
-      "published_at": "2026-06-21T04:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New Zealand need collective effort to stop Salah, says former coach Herbert",
-      "published_at": "2026-06-21T03:49:00+00:00"
     }
   ]
 }

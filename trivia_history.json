@@ -58,5 +58,11 @@
     "sport": "Sports",
     "question": "Which football manager won more trophies than any other during his tenure at English football club Manchester United?",
     "answer": "Sir Alex Ferguson"
+  },
+  {
+    "date": "2026-06-21",
+    "sport": "Sports",
+    "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+    "answer": "Wayne Rooney"
   }
 ]
