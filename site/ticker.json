@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-06-21T12:25:40+00:00",
+  "updated_at": "2026-06-21T13:16:41+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "'Impending human rights disaster': UN fears for Sudan’s al-Obeid",
+      "published_at": "2026-06-21T12:38:27+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Erdogan orders talks to reopen Orthodox Christian seminary in Turkey, a focus for Trump",
-      "published_at": "2026-06-21T12:16:48+00:00"
+      "published_at": "2026-06-21T12:35:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "King Charles to reveal tax details for the first time, palace says",
+      "published_at": "2026-06-21T12:31:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "No-fly zone for Iran talks disrupted flights at Zurich airport, authorities say",
+      "published_at": "2026-06-21T12:29:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK minister says Starmer is considering 'political realities' as position under threat",
+      "published_at": "2026-06-21T12:12:25+00:00"
     },
     {
       "source": "Reuters",
@@ -13,13 +33,13 @@
     },
     {
       "source": "Reuters",
-      "text": "UK minister says Starmer is considering 'political realities' as position under threat",
-      "published_at": "2026-06-21T11:23:06+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
       "published_at": "2026-06-21T11:19:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "published_at": "2026-06-21T11:10:21+00:00"
     },
     {
       "source": "BBC",
@@ -37,14 +57,9 @@
       "published_at": "2026-06-21T10:55:05+00:00"
     },
     {
-      "source": "NPR",
-      "text": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
-      "published_at": "2026-06-21T10:38:48+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "King Charles to reveal tax details for the first time, palace says",
-      "published_at": "2026-06-21T10:11:43+00:00"
+      "text": "Moschino names Loris Messina and Simone Rizzo as creative directors",
+      "published_at": "2026-06-21T10:51:43+00:00"
     },
     {
       "source": "Reuters",
@@ -52,29 +67,14 @@
       "published_at": "2026-06-21T10:03:43+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
-      "published_at": "2026-06-21T10:00:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Dutch royals enjoy two big results in one World Cup day",
       "published_at": "2026-06-21T09:45:57+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Want to improve your agility? Try these 'explosive power' exercises",
-      "published_at": "2026-06-21T09:00:00+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "After Samurai Blue sweep aside Tunisia, Japan fans clean up Monterrey stadium",
-      "published_at": "2026-06-21T08:00:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan coach Moriyasu praises Kamada after standout performance in new role",
-      "published_at": "2026-06-21T07:38:09+00:00"
+      "text": "Taiwan to stage five days of combat readiness drills",
+      "published_at": "2026-06-21T09:26:28+00:00"
     }
   ]
 }
