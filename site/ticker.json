@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-06-21T17:51:00+00:00",
+  "updated_at": "2026-06-21T19:58:51+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+      "published_at": "2026-06-21T19:33:09+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Ukrainian in tears as he's forced to flee without his pets",
-      "published_at": "2026-06-21T17:37:58+00:00"
+      "text": "Solbakken doubts statistics that put Norway in knockout round already",
+      "published_at": "2026-06-21T19:28:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
+      "published_at": "2026-06-21T19:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Majority of Britons disappointed by Brexit, according to ECFR poll",
+      "published_at": "2026-06-21T19:01:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ramiro Valdes, lauded as hero of Cuban revolution, dies at 94",
+      "published_at": "2026-06-21T19:01:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yamal-inspired Spain stride to one-sided victory over Saudi Arabia",
+      "published_at": "2026-06-21T18:23:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
+      "published_at": "2026-06-21T18:08:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swedes suffer midsummer hangover in Dutch World Cup drubbing",
+      "published_at": "2026-06-21T17:51:43+00:00"
     },
     {
       "source": "NPR",
       "text": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
       "published_at": "2026-06-21T17:29:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hodgkinson withdraws from 400m final at UK championships",
-      "published_at": "2026-06-21T17:22:36+00:00"
     },
     {
       "source": "Reuters",
@@ -25,6 +55,11 @@
       "source": "Reuters",
       "text": "Colombia seek second World Cup win as DR Congo eye another upset",
       "published_at": "2026-06-21T17:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ethiopian prime minister's party gets another big parliamentary majority",
+      "published_at": "2026-06-21T16:41:37+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "UK's Starmer considers political future, could decide as soon as Monday",
       "published_at": "2026-06-21T15:26:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Half of France under red heat alert as alcohol banned at street music festival",
-      "published_at": "2026-06-21T15:22:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland PM Tusk says political row with Ukraine is a 'strategic mistake'",
-      "published_at": "2026-06-21T15:17:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "published_at": "2026-06-21T15:01:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopian prime minister's party easily wins parliamentary election",
-      "published_at": "2026-06-21T14:53:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran begin talks on initial peace deal in Switzerland",
-      "published_at": "2026-06-21T14:41:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "published_at": "2026-06-21T13:55:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies",
-      "published_at": "2026-06-21T13:48:32+00:00"
     }
   ]
 }
