@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-06-21T06:16:17+00:00",
+  "updated_at": "2026-06-21T10:40:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
+      "published_at": "2026-06-21T10:03:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
+      "published_at": "2026-06-21T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan to stage five days of combat readiness drills",
+      "published_at": "2026-06-21T09:26:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Want to improve your agility? Try these 'explosive power' exercises",
+      "published_at": "2026-06-21T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK business minister says he has no reason to think PM Starmer will resign on Monday",
+      "published_at": "2026-06-21T08:12:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After Samurai Blue sweep aside Tunisia, Japan fans clean up Monterrey stadium",
+      "published_at": "2026-06-21T08:00:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan coach Moriyasu praises Kamada after standout performance in new role",
+      "published_at": "2026-06-21T07:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Heavy defeat reflects Japan's dominance, says Tunisia coach Renard",
+      "published_at": "2026-06-21T07:23:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "published_at": "2026-06-21T07:16:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan's firepower comes to the fore as Ueda bags a double at World Cup",
+      "published_at": "2026-06-21T07:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan rout Tunisia 4-0 as Ueda shines in World Cup's 1,000th match",
+      "published_at": "2026-06-21T06:09:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US VP Vance arrives in Switzerland for peace talks with Iran",
@@ -13,68 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Ecuador coach says World Cup hopes 'not over yet' after shock Curacao draw",
-      "published_at": "2026-06-21T04:12:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Fifteen saves, one point: Room leads Curacao to World Cup history",
-      "published_at": "2026-06-21T04:02:49+00:00"
+      "published_at": "2026-06-21T04:01:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "New Zealand need collective effort to stop Salah, says former coach Herbert",
       "published_at": "2026-06-21T03:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran coach questions inconsistency as preparation for Belgium match cut short",
-      "published_at": "2026-06-21T03:21:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Curacao keeper Room shines in historic World Cup draw with Ecuador",
-      "published_at": "2026-06-21T02:20:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
-      "published_at": "2026-06-21T01:14:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hydration breaks at World Cup add nothing but take away a lot, says Bielsa",
-      "published_at": "2026-06-21T01:04:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ivory Coast coach says experience was the difference in World Cup loss to Germany",
-      "published_at": "2026-06-21T00:33:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France bans alcohol at music festival events under red heatwave alert",
-      "published_at": "2026-06-21T00:29:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cape Verde's World Cup campaign for underdogs all over Africa, says coach",
-      "published_at": "2026-06-21T00:27:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's Undav may get World Cup start after rescue act against Ivory Coast",
-      "published_at": "2026-06-21T00:09:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance arrives in Switzerland for Iran peace talks with Hormuz in spotlight",
-      "published_at": "2026-06-20T23:49:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At CrimeCon true crime obsessives come face-to-face with real loss",
-      "published_at": "2026-06-20T23:26:45+00:00"
     }
   ]
 }
