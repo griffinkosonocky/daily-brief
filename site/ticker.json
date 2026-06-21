@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-21T16:06:08+00:00",
+  "updated_at": "2026-06-21T17:51:00+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ukrainian in tears as he's forced to flee without his pets",
+      "published_at": "2026-06-21T17:37:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
+      "published_at": "2026-06-21T17:29:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hodgkinson withdraws from 400m final at UK championships",
+      "published_at": "2026-06-21T17:22:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
+      "published_at": "2026-06-21T17:22:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia seek second World Cup win as DR Congo eye another upset",
+      "published_at": "2026-06-21T17:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Portugal's Conceicao eyes different World Cup story than father's 2002 exit",
+      "published_at": "2026-06-21T16:20:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah chief says would respond to any violation from Israel",
+      "published_at": "2026-06-21T16:15:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "UK's Starmer considers political future, could decide as soon as Monday",
@@ -18,7 +53,7 @@
     },
     {
       "source": "BBC",
-      "text": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "text": "Ethiopia PM's party wins landslide as fears grow of new conflict",
       "published_at": "2026-06-21T15:01:28+00:00"
     },
     {
@@ -32,16 +67,6 @@
       "published_at": "2026-06-21T14:41:02+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Key Netherlands duo hopeful of facing Tunisia in final pool game",
-      "published_at": "2026-06-21T14:12:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
-      "published_at": "2026-06-21T14:00:41+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
       "published_at": "2026-06-21T13:55:06+00:00"
@@ -50,31 +75,6 @@
       "source": "Reuters",
       "text": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies",
       "published_at": "2026-06-21T13:48:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
-      "published_at": "2026-06-21T13:46:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bolivia crisis begins to ease after lawmakers back state of emergency",
-      "published_at": "2026-06-21T13:35:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Low-key funeral held for giant of the art world David Hockney",
-      "published_at": "2026-06-21T13:08:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says",
-      "published_at": "2026-06-21T13:01:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Impending human rights disaster': UN fears for Sudan’s al-Obeid",
-      "published_at": "2026-06-21T12:38:27+00:00"
     }
   ]
 }
