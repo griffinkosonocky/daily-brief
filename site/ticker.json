@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-06-21T19:58:51+00:00",
+  "updated_at": "2026-06-21T21:39:25+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Watkins embracing supporting role as Tuchel taps England's bench strength",
+      "published_at": "2026-06-21T21:28:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Uruguay drop Nunez for Cape Verde clash as Bielsa packs midfield",
+      "published_at": "2026-06-21T21:22:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran hold Belgium to goalless draw in Los Angeles",
+      "published_at": "2026-06-21T21:21:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England's Watkins defends Doku over baby birth World Cup dilemma",
+      "published_at": "2026-06-21T20:44:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Neymar? No problem, says Scotland defender Hendry",
+      "published_at": "2026-06-21T20:39:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
+      "published_at": "2026-06-21T20:26:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain boss calls critics 'crazy' after Saudi Arabia rout silences doubters",
+      "published_at": "2026-06-21T20:21:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yamal starts for Spain and sparkles but then saved for another day",
+      "published_at": "2026-06-21T20:20:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia lacked necessary strength to implement their defensive plan",
+      "published_at": "2026-06-21T19:43:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
       "published_at": "2026-06-21T19:33:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Solbakken doubts statistics that put Norway in knockout round already",
-      "published_at": "2026-06-21T19:28:39+00:00"
     },
     {
       "source": "Reuters",
@@ -28,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Yamal-inspired Spain stride to one-sided victory over Saudi Arabia",
-      "published_at": "2026-06-21T18:23:51+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Bolivia crisis begins easing, air force jet on assistance flight crashes",
       "published_at": "2026-06-21T18:08:03+00:00"
     },
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Swedes suffer midsummer hangover in Dutch World Cup drubbing",
       "published_at": "2026-06-21T17:51:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
-      "published_at": "2026-06-21T17:29:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Colombia votes in runoff pitting leftist reformer against law-and-order newcomer",
-      "published_at": "2026-06-21T17:22:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Colombia seek second World Cup win as DR Congo eye another upset",
-      "published_at": "2026-06-21T17:13:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopian prime minister's party gets another big parliamentary majority",
-      "published_at": "2026-06-21T16:41:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Portugal's Conceicao eyes different World Cup story than father's 2002 exit",
-      "published_at": "2026-06-21T16:20:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hezbollah chief says would respond to any violation from Israel",
-      "published_at": "2026-06-21T16:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Starmer considers political future, could decide as soon as Monday",
-      "published_at": "2026-06-21T15:26:16+00:00"
     }
   ]
 }
