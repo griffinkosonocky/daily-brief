@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-22T12:23:55+00:00",
+  "updated_at": "2026-06-22T15:37:12+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Iran energy crisis will drive global electrification, IEA chief says",
+      "published_at": "2026-06-22T15:23:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine says it struck Russian missile electronics plant",
+      "published_at": "2026-06-22T15:21:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's ex-transport minister sentenced to 24 years for corruption",
+      "published_at": "2026-06-22T15:18:03+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "published_at": "2026-06-22T12:10:37+00:00"
+      "text": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "published_at": "2026-06-22T15:15:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
+      "published_at": "2026-06-22T15:04:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US authorizes Iranian oil sales amid talks on final peace deal",
+      "published_at": "2026-06-22T14:46:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Senegal trade minister says government ready to restructure if necessary",
+      "published_at": "2026-06-22T14:36:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanon ceasefire largely holds but fears persist it may collapse",
+      "published_at": "2026-06-22T14:18:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Vance says Iran will allow nuclear inspectors back into the country",
+      "published_at": "2026-06-22T14:18:19+00:00"
     },
     {
       "source": "NPR",
-      "text": "8 things to know about the gut microbiome and keeping yours healthy",
-      "published_at": "2026-06-22T12:00:00+00:00"
+      "text": "2 students in custody after shooting at high school in Philippines kills 3",
+      "published_at": "2026-06-22T14:10:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PM Magyar moves to oust Hungary's president, launch anti-graft office",
+      "published_at": "2026-06-22T14:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gulf markets mixed as Iran reports progress in peace talks",
+      "published_at": "2026-06-22T13:45:58+00:00"
     },
     {
       "source": "BBC",
-      "text": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "published_at": "2026-06-22T11:55:36+00:00"
+      "text": "Guinea bans exports of raw gold to boost local refining",
+      "published_at": "2026-06-22T13:41:22+00:00"
     },
     {
       "source": "NPR",
-      "text": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
-      "published_at": "2026-06-22T11:53:51+00:00"
+      "text": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states",
+      "published_at": "2026-06-22T13:32:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Climate fight will not stall because certain countries drop out, China says",
-      "published_at": "2026-06-22T11:44:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sudan's army takes in Darfur paramilitary defectors, stirring anger",
-      "published_at": "2026-06-22T11:29:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal",
-      "published_at": "2026-06-22T11:27:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia has plenty of crude oil, but refined fuels remain tight",
-      "published_at": "2026-06-22T11:00:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Seventh in a decade",
-      "published_at": "2026-06-22T10:55:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "published_at": "2026-06-22T10:46:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Schools close as more than half of France under red heat alerts",
-      "published_at": "2026-06-22T10:32:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU courts Brazil as strategic partner in global race for critical minerals",
-      "published_at": "2026-06-22T10:27:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Late singer Oliver Tree's body returned to US after helicopter crash",
-      "published_at": "2026-06-22T10:19:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo decries leaders who 'feed' wars while millions go hungry",
-      "published_at": "2026-06-22T10:03:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three dead in Philippines high school shooting over bullying 'grudge'",
-      "published_at": "2026-06-22T09:45:52+00:00"
+      "text": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows",
+      "published_at": "2026-06-22T13:10:22+00:00"
     }
   ]
 }

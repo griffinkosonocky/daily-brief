@@ -64,5 +64,11 @@
     "sport": "Sports",
     "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
     "answer": "Wayne Rooney"
+  },
+  {
+    "date": "2026-06-22",
+    "sport": "Sports",
+    "question": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
+    "answer": "Cue"
   }
 ]
