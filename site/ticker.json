@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-06-22T15:37:12+00:00",
+  "updated_at": "2026-06-22T17:46:59+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "published_at": "2026-06-22T17:19:16+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Iran energy crisis will drive global electrification, IEA chief says",
-      "published_at": "2026-06-22T15:23:43+00:00"
+      "text": "The president will see you now: Mexico's World Cup duck meets Sheinbaum",
+      "published_at": "2026-06-22T17:15:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "published_at": "2026-06-22T17:06:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Did you know? Alan Greenspan and Ayn Rand were close friends",
+      "published_at": "2026-06-22T17:05:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African rand gains on US-Iran peace optimism",
+      "published_at": "2026-06-22T16:43:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "published_at": "2026-06-22T16:42:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "published_at": "2026-06-22T16:34:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Twins marry twins in joyous Nigerian joint wedding",
+      "published_at": "2026-06-22T16:01:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+      "published_at": "2026-06-22T15:57:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Myanmar army killed over 700 civilians in six months, UN says",
+      "published_at": "2026-06-22T15:31:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EV maker Lucid to cut about 18% of US workforce, COO Winterhoff exits",
+      "published_at": "2026-06-22T15:28:09+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
       "published_at": "2026-06-22T15:04:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US authorizes Iranian oil sales amid talks on final peace deal",
-      "published_at": "2026-06-22T14:46:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Senegal trade minister says government ready to restructure if necessary",
-      "published_at": "2026-06-22T14:36:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon ceasefire largely holds but fears persist it may collapse",
-      "published_at": "2026-06-22T14:18:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Vance says Iran will allow nuclear inspectors back into the country",
-      "published_at": "2026-06-22T14:18:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "2 students in custody after shooting at high school in Philippines kills 3",
-      "published_at": "2026-06-22T14:10:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PM Magyar moves to oust Hungary's president, launch anti-graft office",
-      "published_at": "2026-06-22T14:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gulf markets mixed as Iran reports progress in peace talks",
-      "published_at": "2026-06-22T13:45:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Guinea bans exports of raw gold to boost local refining",
-      "published_at": "2026-06-22T13:41:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states",
-      "published_at": "2026-06-22T13:32:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows",
-      "published_at": "2026-06-22T13:10:22+00:00"
     }
   ]
 }
