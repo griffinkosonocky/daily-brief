@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-06-23T12:14:15+00:00",
+  "updated_at": "2026-06-23T13:23:11+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "published_at": "2026-06-23T13:16:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Markets hear Greenspan echo as Warsh Fed goes quiet",
+      "published_at": "2026-06-23T13:08:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel fire kills two in Lebanon, testing Iran-linked ceasefire",
+      "published_at": "2026-06-23T12:39:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia discusses importing fuel amid Ukrainian strikes, Crimea restricts public life",
+      "published_at": "2026-06-23T12:36:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "published_at": "2026-06-23T12:14:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The health risks of extreme heat",
+      "published_at": "2026-06-23T12:07:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
       "published_at": "2026-06-23T12:02:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump insists Iran has agreed to nuclear inspections",
+      "published_at": "2026-06-23T11:53:12+00:00"
     },
     {
       "source": "BBC",
@@ -13,28 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump insists Iran has agreed to nuclear inspections",
-      "published_at": "2026-06-23T11:49:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: The health risks of extreme heat",
-      "published_at": "2026-06-23T11:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia discusses importing fuel amid Ukrainian strikes, Crimea restricts public life",
-      "published_at": "2026-06-23T11:22:31+00:00"
+      "text": "UK overseas development body urges Egypt to 'level playing field' for private sector",
+      "published_at": "2026-06-23T11:26:53+00:00"
     },
     {
       "source": "NPR",
       "text": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
       "published_at": "2026-06-23T11:17:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar rises to one-year high on Fed hike bets; yen hovers near 40-year low",
-      "published_at": "2026-06-23T11:11:32+00:00"
     },
     {
       "source": "BBC",
@@ -43,38 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Morning Bid: SpaceXhaust",
+      "published_at": "2026-06-23T11:03:15+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "EU to ramp up Meta probe into addictive design, Bloomberg News reports",
       "published_at": "2026-06-23T10:58:59+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "published_at": "2026-06-23T10:53:10+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Morning Bid: SpaceXhaust",
-      "published_at": "2026-06-23T10:44:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "When falling housing prices are good news — and when they're not",
-      "published_at": "2026-06-23T10:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump anticipates better relationship with Colombia under new leader",
-      "published_at": "2026-06-23T10:27:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to pay visit to closely divided Pennsylvania in return to campaigning",
-      "published_at": "2026-06-23T10:25:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spider which uses spring trap to capture prey discovered in Australia",
-      "published_at": "2026-06-23T10:05:53+00:00"
+      "text": "India pivots to Russian crude and coal to mitigate Iran war fallout",
+      "published_at": "2026-06-23T10:49:00+00:00"
     }
   ]
 }
