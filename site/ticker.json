@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-23T21:06:00+00:00",
+  "updated_at": "2026-06-23T22:36:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+      "published_at": "2026-06-23T22:14:39+00:00"
+    },
     {
       "source": "BBC",
       "text": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
@@ -12,59 +17,9 @@
       "published_at": "2026-06-23T20:50:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "World Cup turnout defies concerns, as Americans flock for the spectacle",
-      "published_at": "2026-06-23T20:49:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life",
-      "published_at": "2026-06-23T20:36:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Few in US say Iran war was worth it; Trump approval ties lowest of term, Reuters/Ipsos poll finds",
-      "published_at": "2026-06-23T20:33:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "U.S. look to keep World Cup momentum going against eliminated Turkey",
-      "published_at": "2026-06-23T20:07:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "U.S. Senate votes to halt Iran war, bucking Trump",
-      "published_at": "2026-06-23T20:00:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Journalist loses World Cup credentials after on-air outburst over Almiron red card",
-      "published_at": "2026-06-23T19:58:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "published_at": "2026-06-23T19:46:42+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "Is AI 'one big bubble?' Behind the tech selloff",
+      "text": "Is AI 'one big bubble'? Behind the tech sell-off",
       "published_at": "2026-06-23T19:31:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US eases restrictions on Iran's world cup team, allowing them in a day earlier",
-      "published_at": "2026-06-23T19:26:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump visits politically divided Pennsylvania in return to campaign trail",
-      "published_at": "2026-06-23T19:25:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy to skip reconstruction forum in Poland amid row",
-      "published_at": "2026-06-23T19:24:04+00:00"
     },
     {
       "source": "NPR",
@@ -72,9 +27,54 @@
       "published_at": "2026-06-23T18:59:56+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "In Mexico, World Cup jerseys fit all shapes, sizes - and species",
-      "published_at": "2026-06-23T18:50:32+00:00"
+      "source": "BBC",
+      "text": "Ransom note claims Nancy Guthrie died after abduction",
+      "published_at": "2026-06-23T17:59:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "published_at": "2026-06-23T17:30:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "published_at": "2026-06-23T16:47:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Have World Cup changes made final group stage games unfair?",
+      "published_at": "2026-06-23T16:44:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "published_at": "2026-06-23T16:27:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A Revolutionary War soldier's DNA links him to living relatives",
+      "published_at": "2026-06-23T15:59:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "published_at": "2026-06-23T15:57:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "published_at": "2026-06-23T15:34:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "published_at": "2026-06-23T14:55:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+      "published_at": "2026-06-23T14:19:21+00:00"
     }
   ]
 }
