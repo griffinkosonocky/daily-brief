@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-24T18:04:57+00:00",
+  "updated_at": "2026-06-24T20:04:02+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump to seek more than $1.4 billion in Ebola funding from Congress",
+      "published_at": "2026-06-24T19:16:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump badgers US Senate Republicans on voter ID law after spurning housing bill",
+      "published_at": "2026-06-24T19:05:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zimbabwe's upper house approves bill to extend President Mnangwana's rule to 2030",
+      "published_at": "2026-06-24T18:59:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
+      "published_at": "2026-06-24T18:56:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil markets start to signal near-term oversupply as tankers exit Strait of Hormuz",
+      "published_at": "2026-06-24T18:55:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
+      "published_at": "2026-06-24T18:47:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meta plans to release AI-powered prediction market app, documents show",
+      "published_at": "2026-06-24T18:39:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US air fares rose 4.7% in early 2026 as oil prices spiked",
+      "published_at": "2026-06-24T18:34:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
+      "published_at": "2026-06-24T18:27:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil flows through Hormuz Strait close to normal, US energy secretary says",
+      "published_at": "2026-06-24T18:26:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio defends Iran deal on Gulf tour, Israel insists on troops in southern Lebanon",
+      "published_at": "2026-06-24T18:24:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Mexico, World Cup revives pain of missing loved ones",
+      "published_at": "2026-06-24T18:15:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Clear-bag rule at World Cup venues catches some fans unawares",
+      "published_at": "2026-06-24T18:04:07+00:00"
+    },
     {
       "source": "NPR",
       "text": "A judge says the Kennedy Center must update him on its plans — and address that tarp",
       "published_at": "2026-06-24T18:02:47+00:00"
     },
     {
-      "source": "BBC",
-      "text": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "published_at": "2026-06-24T17:31:48+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Trump pressures US Senate Republicans to pass voter ID law after canceling housing bill signing",
-      "published_at": "2026-06-24T17:30:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Power outages hit France as it records hottest day since measurements began",
-      "published_at": "2026-06-24T17:29:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Europe swelters under deadly 'Omega' heatwave, more records expected",
-      "published_at": "2026-06-24T16:36:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Walmart's Flipkart, Amazon step up India 'quick commerce' bet as competition heats up",
-      "published_at": "2026-06-24T16:27:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India says it discussed pathways to interim trade deal with US",
-      "published_at": "2026-06-24T16:23:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Postal Service says its cash crisis is delayed until at least 2031, but problems loom",
-      "published_at": "2026-06-24T16:19:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Clear-bag rule at World Cup venues catches some fans unawares",
-      "published_at": "2026-06-24T16:12:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK Hynix targets $29 billion US listing as AI demand surges",
-      "published_at": "2026-06-24T16:11:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump cancels signing of bipartisan US housing bill",
-      "published_at": "2026-06-24T16:05:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold hits over seven-month low as dollar firms, rate hike bets rise",
-      "published_at": "2026-06-24T16:03:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
-      "published_at": "2026-06-24T15:50:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Colombia's left-wing presidential candidate concedes defeat",
-      "published_at": "2026-06-24T15:50:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sudan's war refugees describe horrors in Egyptian jails, surging deportations",
-      "published_at": "2026-06-24T15:36:14+00:00"
+      "text": "Egypt, Iran face crunch World Cup game in shadow of geopolitics",
+      "published_at": "2026-06-24T17:47:45+00:00"
     }
   ]
 }
