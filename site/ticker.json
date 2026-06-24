@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-24T20:04:02+00:00",
+  "updated_at": "2026-06-24T21:45:29+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+      "published_at": "2026-06-24T21:39:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump asks Congress for $1 billion to boost pensions of former GM parts company workers",
+      "published_at": "2026-06-24T21:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump, Republican senator in shouting match over unpopular Iran war",
+      "published_at": "2026-06-24T21:01:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Renault plans 800 job cuts in engineering in France",
+      "published_at": "2026-06-24T20:53:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World court judges sue Trump administration over sanctions",
+      "published_at": "2026-06-24T20:37:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Unconvincing Uruguay seek first win against revitalised Spain",
+      "published_at": "2026-06-24T20:32:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scientists seek clues to longevity from three Brazilian sisters over 100",
+      "published_at": "2026-06-24T20:29:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Millions lose food stamps under Trump cuts. Arizona is hardest hit",
+      "published_at": "2026-06-24T20:12:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump badgers US Senate Republicans on voter ID law after spurning housing bill",
+      "published_at": "2026-06-24T20:05:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
+      "published_at": "2026-06-24T19:44:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Trump to seek more than $1.4 billion in Ebola funding from Congress",
@@ -8,23 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump badgers US Senate Republicans on voter ID law after spurning housing bill",
-      "published_at": "2026-06-24T19:05:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zimbabwe's upper house approves bill to extend President Mnangwana's rule to 2030",
-      "published_at": "2026-06-24T18:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
-      "published_at": "2026-06-24T18:56:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil markets start to signal near-term oversupply as tankers exit Strait of Hormuz",
-      "published_at": "2026-06-24T18:55:56+00:00"
+      "text": "US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan",
+      "published_at": "2026-06-24T19:13:04+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "US air fares rose 4.7% in early 2026 as oil prices spiked",
       "published_at": "2026-06-24T18:34:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
-      "published_at": "2026-06-24T18:27:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil flows through Hormuz Strait close to normal, US energy secretary says",
-      "published_at": "2026-06-24T18:26:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio defends Iran deal on Gulf tour, Israel insists on troops in southern Lebanon",
-      "published_at": "2026-06-24T18:24:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Mexico, World Cup revives pain of missing loved ones",
-      "published_at": "2026-06-24T18:15:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Clear-bag rule at World Cup venues catches some fans unawares",
-      "published_at": "2026-06-24T18:04:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A judge says the Kennedy Center must update him on its plans — and address that tarp",
-      "published_at": "2026-06-24T18:02:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt, Iran face crunch World Cup game in shadow of geopolitics",
-      "published_at": "2026-06-24T17:47:45+00:00"
     }
   ]
 }
