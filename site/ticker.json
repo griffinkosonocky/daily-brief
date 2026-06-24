@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-06-24T00:07:27+00:00",
+  "updated_at": "2026-06-24T05:09:54+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "published_at": "2026-06-24T05:07:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Head‑to‑head rule brings early winners and losers while third-place lifeline keeps groups alive",
+      "published_at": "2026-06-24T04:27:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+      "published_at": "2026-06-24T04:06:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "published_at": "2026-06-24T03:57:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Mamdani's political gamble pays off as his endorsed candidates sweep their primaries",
+      "published_at": "2026-06-24T02:41:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung",
+      "published_at": "2026-06-24T02:40:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "published_at": "2026-06-24T01:42:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea discussing new chip investments with Samsung, SK Hynix, presidential adviser says",
+      "published_at": "2026-06-24T01:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil extends slide on expectations of smoother crude flows via Hormuz",
+      "published_at": "2026-06-24T01:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Budimir strike gives Croatia 1-0 win and ends Panama's hopes",
+      "published_at": "2026-06-24T01:06:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "published_at": "2026-06-24T00:00:06+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Rio Tinto sees lithium as fastest-growing division, executive says",
-      "published_at": "2026-06-23T23:52:07+00:00"
+      "published_at": "2026-06-23T23:51:00+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +67,14 @@
       "published_at": "2026-06-23T23:46:01+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China's foreign minister calls on BRICS to strengthen strategic minerals cooperation",
+      "published_at": "2026-06-23T23:31:44+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
       "published_at": "2026-06-23T23:25:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Stanford was their golden ticket - could AI help or hinder that?",
-      "published_at": "2026-06-23T23:16:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England fail to break down stubborn Ghana in 0-0 draw",
-      "published_at": "2026-06-23T22:56:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court rules that prison guards can't be sued for shaving Rastafarian's head",
-      "published_at": "2026-06-23T22:33:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tech selloff drags global stocks lower",
-      "published_at": "2026-06-23T22:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
-      "published_at": "2026-06-23T22:15:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SpaceX's wild ride is just getting started",
-      "published_at": "2026-06-23T22:10:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Climate-vulnerable countries push for global funding framework",
-      "published_at": "2026-06-23T21:54:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Senate votes to halt Iran war in latest rebuke of Trump",
-      "published_at": "2026-06-23T21:34:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: SPS Commerce explores sale amid activist pressure, sources say",
-      "published_at": "2026-06-23T21:23:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Chip wreck",
-      "published_at": "2026-06-23T21:19:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "published_at": "2026-06-23T21:04:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
-      "published_at": "2026-06-23T20:50:44+00:00"
     }
   ]
 }
