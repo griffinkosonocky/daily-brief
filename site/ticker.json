@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-06-24T23:18:53+00:00",
+  "updated_at": "2026-06-25T04:20:25+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup",
+      "published_at": "2026-06-25T04:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "2 major earthquakes strike northern Venezuela, near Caracas",
+      "published_at": "2026-06-25T03:11:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asian stocks surge as Micron earnings ease AI fears",
+      "published_at": "2026-06-25T02:28:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities",
+      "published_at": "2026-06-25T01:22:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
+      "published_at": "2026-06-25T01:06:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lithium producers bet on battery storage as demand shifts beyond EVs",
+      "published_at": "2026-06-24T23:52:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump asks Congress for $1 billion to boost pensions of former GM parts company workers",
+      "published_at": "2026-06-24T23:43:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
+      "published_at": "2026-06-24T23:31:26+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Why some young Brazilian voters are abandoning Lula",
-      "published_at": "2026-06-24T23:06:06+00:00"
+      "published_at": "2026-06-24T23:30:17+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bosnia end Qatar’s World Cup dream, all but seal knockout berth",
-      "published_at": "2026-06-24T22:41:31+00:00"
+      "text": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
+      "published_at": "2026-06-24T23:29:56+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Scientists seek clues to longevity from three Brazilian sisters over 100",
-      "published_at": "2026-06-24T22:40:23+00:00"
+      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
+      "published_at": "2026-06-24T23:23:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump badgers US Senate Republicans on voter ID law but barriers remain",
+      "published_at": "2026-06-24T23:23:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Comcast-owned Sky reaches terms to buy ITV's broadcast unit, sources say",
+      "published_at": "2026-06-24T22:49:37+00:00"
     },
     {
       "source": "Reuters",
@@ -22,59 +72,9 @@
       "published_at": "2026-06-24T22:32:19+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump asks Congress for $1 billion to boost pensions of former GM parts company workers",
-      "published_at": "2026-06-24T22:13:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
-      "published_at": "2026-06-24T22:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Judge tosses Trump administration's challenge to New Jersey cities' 'sanctuary' policies",
-      "published_at": "2026-06-24T21:52:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration asks Congress for $87.6 billion, mostly for Iran war",
-      "published_at": "2026-06-24T21:49:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump, Republican senator in shouting match over unpopular Iran war",
-      "published_at": "2026-06-24T21:45:32+00:00"
-    },
-    {
       "source": "BBC",
       "text": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "published_at": "2026-06-24T21:39:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance says review underway to see how Turkey can get F-35 fighter jets",
-      "published_at": "2026-06-24T21:12:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Renault plans 800 job cuts in engineering in France",
-      "published_at": "2026-06-24T20:53:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trump to seek more than $1.4 billion in Ebola funding from Congress",
-      "published_at": "2026-06-24T20:44:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Europe swelters under deadly 'Omega' heatwave, more records broken",
-      "published_at": "2026-06-24T20:38:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World court judges sue Trump administration over sanctions",
-      "published_at": "2026-06-24T20:37:15+00:00"
     }
   ]
 }
