@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-25T12:38:42+00:00",
+  "updated_at": "2026-06-25T14:51:00+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Oil price falls back to pre-Iran war levels",
-      "published_at": "2026-06-25T12:37:12+00:00"
+      "source": "NPR",
+      "text": "The Viking chant that became Norway's World Cup rallying cry",
+      "published_at": "2026-06-25T14:46:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump row with Republican senator clouds US drive to sell Iran deal to Gulf allies",
+      "published_at": "2026-06-25T14:36:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Supreme Court lets Trump end deportation protections for Syrians and Haitians",
+      "published_at": "2026-06-25T14:32:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court bars 'vampire rules' on gun ownership",
+      "published_at": "2026-06-25T14:22:26+00:00"
     },
     {
       "source": "BBC",
       "text": "Europe's heatwave shifts east as France raises health alert to highest level",
-      "published_at": "2026-06-25T12:35:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Truce brings no relief for displaced from Lebanon's destroyed, occupied towns",
-      "published_at": "2026-06-25T12:19:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swedish minister brings baby to EU meeting, a first for the bloc",
-      "published_at": "2026-06-25T12:09:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ryanair says it will reluctantly let parents sit with children for free",
-      "published_at": "2026-06-25T12:08:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies",
-      "published_at": "2026-06-25T11:38:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kremlin demands explanation from Apple after Russian apps removed from App Store",
-      "published_at": "2026-06-25T11:33:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-      "published_at": "2026-06-25T11:23:10+00:00"
+      "published_at": "2026-06-25T14:18:45+00:00"
     },
     {
       "source": "NPR",
-      "text": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
-      "published_at": "2026-06-25T11:09:35+00:00"
+      "text": "U.S. Supreme Court backs Monsanto in its fight against liability from popular weed killer",
+      "published_at": "2026-06-25T14:18:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Key figure in South Africa police corruption scandal pleads guilty",
+      "published_at": "2026-06-25T14:00:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oil price falls back to pre-Iran war levels",
+      "published_at": "2026-06-25T13:57:31+00:00"
     },
     {
       "source": "Reuters",
-      "text": "ITF becomes World Tennis, outlines vision to grow participation",
-      "published_at": "2026-06-25T11:03:43+00:00"
+      "text": "US DFC and World Bank's MIGA to set up political risk insurance for Ukraine fund",
+      "published_at": "2026-06-25T13:54:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge blocks Trump's mail-in voting executive order",
+      "published_at": "2026-06-25T13:47:35+00:00"
     },
     {
       "source": "Reuters",
       "text": "Bumper World Cup tipped to smash betting records",
-      "published_at": "2026-06-25T11:02:13+00:00"
+      "published_at": "2026-06-25T13:43:50+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Palestinians decry Israeli push for control over ancient West Bank sites",
-      "published_at": "2026-06-25T10:59:13+00:00"
+      "text": "Neymar sheds tears in dressing room after emotional Brazil comeback",
+      "published_at": "2026-06-25T13:43:24+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-      "published_at": "2026-06-25T10:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland and Ukraine's difficult history creates political minefield for Tusk",
-      "published_at": "2026-06-25T10:43:45+00:00"
+      "source": "NPR",
+      "text": "A federal judge in Boston has blocked parts of Trump's order to limit voting by mail",
+      "published_at": "2026-06-25T13:38:20+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Dubai enlists businesses to help secure hub status after Iran war shock",
-      "published_at": "2026-06-25T10:41:20+00:00"
+      "text": "Russia denies pressuring Belarus to widen Ukraine conflict; Minsk blames West",
+      "published_at": "2026-06-25T13:26:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
+      "published_at": "2026-06-25T13:24:41+00:00"
     }
   ]
 }
