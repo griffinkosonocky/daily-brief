@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-25T04:20:25+00:00",
+  "updated_at": "2026-06-25T08:30:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "ITF becomes World Tennis, outlines vision to grow participation",
+      "published_at": "2026-06-25T08:07:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ECB will need to raise rates further, Schnabel says",
+      "published_at": "2026-06-25T07:15:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How can the next UK PM revive the economy? Channel Richard Nixon",
+      "published_at": "2026-06-25T07:05:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran peace deal no silver bullet for Fed's inflation dilemma",
+      "published_at": "2026-06-25T06:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Indonesia weighs $2 billion cut to Prabowo's signature free meals programme",
+      "published_at": "2026-06-25T05:37:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: U.S. defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
+      "published_at": "2026-06-25T05:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio visits Bahrain seeking Gulf backing for Iran deal",
+      "published_at": "2026-06-25T05:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Brazil plans largest panda bond debut to 'test' waters",
+      "published_at": "2026-06-25T04:50:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Micron puts chips back on the table",
+      "published_at": "2026-06-25T04:46:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup",
       "published_at": "2026-06-25T04:00:00+00:00"
     },
     {
-      "source": "NPR",
-      "text": "2 major earthquakes strike northern Venezuela, near Caracas",
-      "published_at": "2026-06-25T03:11:54+00:00"
+      "source": "Reuters",
+      "text": "Mexico stay perfect and bounce Czechs out of World Cup with 3-0 win",
+      "published_at": "2026-06-25T04:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Asian stocks surge as Micron earnings ease AI fears",
-      "published_at": "2026-06-25T02:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities",
-      "published_at": "2026-06-25T01:22:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
-      "published_at": "2026-06-25T01:06:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lithium producers bet on battery storage as demand shifts beyond EVs",
-      "published_at": "2026-06-24T23:52:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump asks Congress for $1 billion to boost pensions of former GM parts company workers",
-      "published_at": "2026-06-24T23:43:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
-      "published_at": "2026-06-24T23:31:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why some young Brazilian voters are abandoning Lula",
-      "published_at": "2026-06-24T23:30:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
-      "published_at": "2026-06-24T23:29:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump set to mark nation's 250th birthday with campaign-style rally",
-      "published_at": "2026-06-24T23:23:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump badgers US Senate Republicans on voter ID law but barriers remain",
-      "published_at": "2026-06-24T23:23:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Comcast-owned Sky reaches terms to buy ITV's broadcast unit, sources say",
-      "published_at": "2026-06-24T22:49:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to meet munitions makers amid push to replenish weapons stockpiles",
-      "published_at": "2026-06-24T22:32:19+00:00"
+      "text": "US says China trying to discourage states, businesses from engaging with Taiwan",
+      "published_at": "2026-06-25T03:33:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-      "published_at": "2026-06-24T21:39:18+00:00"
+      "text": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "published_at": "2026-06-25T03:12:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At least 32 killed, 700 injured in 2 major earthquakes in Venezuela, says acting president",
+      "published_at": "2026-06-25T03:11:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Independent MPs launch new Australian centrist party",
+      "published_at": "2026-06-25T02:41:28+00:00"
     }
   ]
 }
