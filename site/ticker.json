@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-25T08:30:07+00:00",
+  "updated_at": "2026-06-25T11:48:17+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies",
+      "published_at": "2026-06-25T11:38:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
+      "published_at": "2026-06-25T11:23:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+      "published_at": "2026-06-25T11:09:35+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "ITF becomes World Tennis, outlines vision to grow participation",
-      "published_at": "2026-06-25T08:07:49+00:00"
+      "published_at": "2026-06-25T11:03:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "ECB will need to raise rates further, Schnabel says",
-      "published_at": "2026-06-25T07:15:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How can the next UK PM revive the economy? Channel Richard Nixon",
-      "published_at": "2026-06-25T07:05:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran peace deal no silver bullet for Fed's inflation dilemma",
-      "published_at": "2026-06-25T06:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Indonesia weighs $2 billion cut to Prabowo's signature free meals programme",
-      "published_at": "2026-06-25T05:37:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: U.S. defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
-      "published_at": "2026-06-25T05:09:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio visits Bahrain seeking Gulf backing for Iran deal",
-      "published_at": "2026-06-25T05:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Brazil plans largest panda bond debut to 'test' waters",
-      "published_at": "2026-06-25T04:50:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Micron puts chips back on the table",
-      "published_at": "2026-06-25T04:46:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "With a Round of 32 spot already clinched, the U.S. takes on Turkey in the World Cup",
-      "published_at": "2026-06-25T04:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico stay perfect and bounce Czechs out of World Cup with 3-0 win",
-      "published_at": "2026-06-25T04:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says China trying to discourage states, businesses from engaging with Taiwan",
-      "published_at": "2026-06-25T03:33:00+00:00"
+      "text": "Bumper World Cup tipped to smash betting records",
+      "published_at": "2026-06-25T11:02:13+00:00"
     },
     {
       "source": "BBC",
-      "text": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "published_at": "2026-06-25T03:12:17+00:00"
+      "text": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "published_at": "2026-06-25T10:48:09+00:00"
     },
     {
-      "source": "NPR",
-      "text": "At least 32 killed, 700 injured in 2 major earthquakes in Venezuela, says acting president",
-      "published_at": "2026-06-25T03:11:54+00:00"
+      "source": "Reuters",
+      "text": "Russia says US understands you can't mediate in war while supporting one side",
+      "published_at": "2026-06-25T10:40:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Poland and Ukraine's difficult history creates political minefield for Tusk",
+      "published_at": "2026-06-25T10:34:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WhatsApp's pick of Indian fintech founder signals scale of payment ambitions",
+      "published_at": "2026-06-25T10:14:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
+      "published_at": "2026-06-25T10:13:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hungary rights groups criticise legislation to oust president",
+      "published_at": "2026-06-25T09:43:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Defence spending chokes Russia to stagnation",
+      "published_at": "2026-06-25T09:28:13+00:00"
     },
     {
       "source": "BBC",
-      "text": "Independent MPs launch new Australian centrist party",
-      "published_at": "2026-06-25T02:41:28+00:00"
+      "text": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "published_at": "2026-06-25T09:06:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
+      "published_at": "2026-06-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump keeps sabotaging legislation over a voting bill. Here's what's in it",
+      "published_at": "2026-06-25T09:00:00+00:00"
     }
   ]
 }
