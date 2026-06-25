@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-06-25T11:48:17+00:00",
+  "updated_at": "2026-06-25T12:38:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Oil price falls back to pre-Iran war levels",
+      "published_at": "2026-06-25T12:37:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "published_at": "2026-06-25T12:35:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Truce brings no relief for displaced from Lebanon's destroyed, occupied towns",
+      "published_at": "2026-06-25T12:19:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swedish minister brings baby to EU meeting, a first for the bloc",
+      "published_at": "2026-06-25T12:09:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ryanair says it will reluctantly let parents sit with children for free",
+      "published_at": "2026-06-25T12:08:33+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies",
       "published_at": "2026-06-25T11:38:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kremlin demands explanation from Apple after Russian apps removed from App Store",
+      "published_at": "2026-06-25T11:33:19+00:00"
     },
     {
       "source": "BBC",
@@ -27,54 +57,24 @@
       "published_at": "2026-06-25T11:02:13+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Palestinians decry Israeli push for control over ancient West Bank sites",
+      "published_at": "2026-06-25T10:59:13+00:00"
+    },
+    {
       "source": "BBC",
       "text": "'I thought I was going to die' - Venezuelans describe earthquake panic",
       "published_at": "2026-06-25T10:48:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Russia says US understands you can't mediate in war while supporting one side",
-      "published_at": "2026-06-25T10:40:25+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Poland and Ukraine's difficult history creates political minefield for Tusk",
-      "published_at": "2026-06-25T10:34:01+00:00"
+      "published_at": "2026-06-25T10:43:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "WhatsApp's pick of Indian fintech founder signals scale of payment ambitions",
-      "published_at": "2026-06-25T10:14:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
-      "published_at": "2026-06-25T10:13:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hungary rights groups criticise legislation to oust president",
-      "published_at": "2026-06-25T09:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Defence spending chokes Russia to stagnation",
-      "published_at": "2026-06-25T09:28:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "published_at": "2026-06-25T09:06:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
-      "published_at": "2026-06-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump keeps sabotaging legislation over a voting bill. Here's what's in it",
-      "published_at": "2026-06-25T09:00:00+00:00"
+      "text": "EXCLUSIVE: Dubai enlists businesses to help secure hub status after Iran war shock",
+      "published_at": "2026-06-25T10:41:20+00:00"
     }
   ]
 }
