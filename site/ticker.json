@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-06-26T18:01:56+00:00",
+  "updated_at": "2026-06-26T20:05:18+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Venezuelans race to find survivors, foreign rescuers join search as frustration mounts",
+      "published_at": "2026-06-26T19:39:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he will repair National Mall reflecting pool after July 4",
+      "published_at": "2026-06-26T19:18:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU defends digital tax approach, says ready to act if Turmp takes measures",
+      "published_at": "2026-06-26T19:05:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ICC prosecutor Khan says his suspension violated procedures",
+      "published_at": "2026-06-26T19:02:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Burkina Faso breaks off diplomatic relations with France",
+      "published_at": "2026-06-26T18:37:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mother dies saving daughter in Venezuela earthquakes",
+      "published_at": "2026-06-26T18:36:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe on high alert as killer heat set to move east and south",
+      "published_at": "2026-06-26T18:19:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "published_at": "2026-06-26T18:03:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump chides Iran for ship attack after Tehran insists on control of the strait",
+      "published_at": "2026-06-26T17:57:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hakimi to appeal ruling to stand trial for rape, lawyer says",
+      "published_at": "2026-06-26T17:48:33+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. pledges generous earthquake relief to Venezuela",
@@ -13,6 +63,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Congressional panel investigating Epstein subpoenas Leon Black",
+      "published_at": "2026-06-26T17:26:28+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "IMF chief economist Gourinchas says global economy remains firmly 'dollar-centered'",
       "published_at": "2026-06-26T17:07:17+00:00"
     },
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "DR Congo takes Rwanda to international court over decades of conflict",
       "published_at": "2026-06-26T17:05:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump chides Iran for ship attack after Tehran insists on control of the strait",
-      "published_at": "2026-06-26T17:04:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mother dies saving daughter in Venezuela earthquakes",
-      "published_at": "2026-06-26T17:00:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel and Lebanon expected to sign framework agreement in Washington, Israeli officials say",
-      "published_at": "2026-06-26T16:55:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Financial regulators scramble to counter AI rise with own tools",
-      "published_at": "2026-06-26T16:53:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Atlanta Stadium bucks World Cup pricing trend with Southern hospitality",
-      "published_at": "2026-06-26T16:46:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "published_at": "2026-06-26T16:45:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Foreign rescue teams arrive in quake-hit Venezuela as death toll nears 600, thousands missing",
-      "published_at": "2026-06-26T16:15:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "World Cup fans are missing games after their resale tickets fall through",
-      "published_at": "2026-06-26T16:13:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Healthy competition for places helping Ivory Coast's World Cup cause",
-      "published_at": "2026-06-26T16:09:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
-      "published_at": "2026-06-26T15:58:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Leon Black tells Congress that Epstein 'duped and deceived' him",
-      "published_at": "2026-06-26T15:57:56+00:00"
     }
   ]
 }
