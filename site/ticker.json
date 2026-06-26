@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-26T15:33:45+00:00",
+  "updated_at": "2026-06-26T18:01:56+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "U.S. pledges generous earthquake relief to Venezuela",
+      "published_at": "2026-06-26T17:42:40+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Tanzania bans political rallies ahead of youth-led protests",
-      "published_at": "2026-06-26T15:20:28+00:00"
+      "text": "Rubio announces framework agreement between Israel and Lebanon after talks in Washington",
+      "published_at": "2026-06-26T17:42:09+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-      "published_at": "2026-06-26T15:08:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Plane crashes into Beijing's tallest building; damage reported",
-      "published_at": "2026-06-26T15:05:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
-      "published_at": "2026-06-26T15:00:18+00:00"
+      "source": "Reuters",
+      "text": "IMF chief economist Gourinchas says global economy remains firmly 'dollar-centered'",
+      "published_at": "2026-06-26T17:07:17+00:00"
     },
     {
       "source": "BBC",
-      "text": "Four men held over child-marriage in Sierra Leone set to appear in landmark court case",
-      "published_at": "2026-06-26T14:56:26+00:00"
+      "text": "DR Congo takes Rwanda to international court over decades of conflict",
+      "published_at": "2026-06-26T17:05:22+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman",
-      "published_at": "2026-06-26T14:55:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Budget committee backs Germany's 40% stake in KNDS",
-      "published_at": "2026-06-26T14:48:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany loss is timely warning ahead of World Cup knockout stage",
-      "published_at": "2026-06-26T14:03:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy to join US-led Pax Silica AI initiative despite Trump spat",
-      "published_at": "2026-06-26T13:54:53+00:00"
+      "text": "Trump chides Iran for ship attack after Tehran insists on control of the strait",
+      "published_at": "2026-06-26T17:04:30+00:00"
     },
     {
       "source": "BBC",
-      "text": "Canada eligible to join Eurovision competition",
-      "published_at": "2026-06-26T13:41:36+00:00"
+      "text": "Mother dies saving daughter in Venezuela earthquakes",
+      "published_at": "2026-06-26T17:00:31+00:00"
     },
     {
       "source": "Reuters",
-      "text": "South Korea says it will train 500,000 'drone warriors' to counter North Korea",
-      "published_at": "2026-06-26T13:13:13+00:00"
+      "text": "Israel and Lebanon expected to sign framework agreement in Washington, Israeli officials say",
+      "published_at": "2026-06-26T16:55:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Israel's Netanyahu faces election challenge from hawkish ex-general",
-      "published_at": "2026-06-26T13:09:43+00:00"
+      "text": "Financial regulators scramble to counter AI rise with own tools",
+      "published_at": "2026-06-26T16:53:48+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Australia plans to strengthen laws banning children from social media",
-      "published_at": "2026-06-26T13:09:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "published_at": "2026-06-26T13:03:20+00:00"
+      "source": "Reuters",
+      "text": "Atlanta Stadium bucks World Cup pricing trend with Southern hospitality",
+      "published_at": "2026-06-26T16:46:58+00:00"
     },
     {
       "source": "BBC",
-      "text": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "published_at": "2026-06-26T12:54:18+00:00"
+      "text": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "published_at": "2026-06-26T16:45:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Foreign rescue teams arrive in quake-hit Venezuela as death toll nears 600, thousands missing",
+      "published_at": "2026-06-26T16:15:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "World Cup fans are missing games after their resale tickets fall through",
+      "published_at": "2026-06-26T16:13:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Healthy competition for places helping Ivory Coast's World Cup cause",
+      "published_at": "2026-06-26T16:09:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
+      "published_at": "2026-06-26T15:58:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Leon Black tells Congress that Epstein 'duped and deceived' him",
+      "published_at": "2026-06-26T15:57:56+00:00"
     }
   ]
 }
