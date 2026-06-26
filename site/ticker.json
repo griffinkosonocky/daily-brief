@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-06-26T20:05:18+00:00",
+  "updated_at": "2026-06-26T21:39:05+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "published_at": "2026-06-26T21:33:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US conducts strikes on Iran after attack on cargo ship",
+      "published_at": "2026-06-26T21:30:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
+      "published_at": "2026-06-26T21:18:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "published_at": "2026-06-26T21:15:37+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Venezuelans race to find survivors, foreign rescuers join search as frustration mounts",
-      "published_at": "2026-06-26T19:39:44+00:00"
+      "text": "Venezuela quake toll tops 900, search intensifies for hundreds trapped",
+      "published_at": "2026-06-26T21:07:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US strikes Iran following attack on cargo ship in Strait of Hormuz",
+      "published_at": "2026-06-26T21:06:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US military conducted strikes against Iran",
+      "published_at": "2026-06-26T20:53:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
+      "published_at": "2026-06-26T20:43:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "She posted about ICE. Five months later, DHS agents told her to take her post down",
+      "published_at": "2026-06-26T20:21:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Prediction market platform Polymarket tops $1 billion in annualized revenue, source says",
+      "published_at": "2026-06-26T20:08:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World stocks edge lower as tech selloff drags markets",
+      "published_at": "2026-06-26T20:04:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel-Lebanon framework agreement sets process to disarm Hezbollah, Rubio says",
+      "published_at": "2026-06-26T19:52:34+00:00"
     },
     {
       "source": "Reuters",
@@ -13,68 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Ghana's Semenyo says team must pressure World Cup referees more",
+      "published_at": "2026-06-26T19:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "EU defends digital tax approach, says ready to act if Turmp takes measures",
       "published_at": "2026-06-26T19:05:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ICC prosecutor Khan says his suspension violated procedures",
-      "published_at": "2026-06-26T19:02:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Burkina Faso breaks off diplomatic relations with France",
-      "published_at": "2026-06-26T18:37:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mother dies saving daughter in Venezuela earthquakes",
-      "published_at": "2026-06-26T18:36:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Europe on high alert as killer heat set to move east and south",
-      "published_at": "2026-06-26T18:19:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "published_at": "2026-06-26T18:03:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump chides Iran for ship attack after Tehran insists on control of the strait",
-      "published_at": "2026-06-26T17:57:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hakimi to appeal ruling to stand trial for rape, lawyer says",
-      "published_at": "2026-06-26T17:48:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. pledges generous earthquake relief to Venezuela",
-      "published_at": "2026-06-26T17:42:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio announces framework agreement between Israel and Lebanon after talks in Washington",
-      "published_at": "2026-06-26T17:42:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Congressional panel investigating Epstein subpoenas Leon Black",
-      "published_at": "2026-06-26T17:26:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF chief economist Gourinchas says global economy remains firmly 'dollar-centered'",
-      "published_at": "2026-06-26T17:07:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "DR Congo takes Rwanda to international court over decades of conflict",
-      "published_at": "2026-06-26T17:05:22+00:00"
     }
   ]
 }
