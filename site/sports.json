@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-06-25",
-  "generated_at_ct": "Jun 25, 2026 at 7:36 AM CT",
+  "date_key": "2026-06-26",
+  "generated_at_ct": "Jun 26, 2026 at 7:30 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -9,179 +9,35 @@
       "full_name": "FIFA World Cup",
       "games": [
         {
-          "id": "0ec28b84ec399bd4dffbe8d1bc72b3c4",
+          "id": "7e6aee294ea1a4792c59558791084528",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "3:00 PM CT",
-          "commence_time": "2026-06-25T20:00:00Z",
-          "commence_ct": "3:00 PM CT",
-          "sort_time": "2026-06-25T20:00:00+00:00",
-          "home_team": "Ecuador",
-          "away_team": "Germany",
+          "status_label": "2:00 PM CT",
+          "commence_time": "2026-06-26T19:00:00Z",
+          "commence_ct": "2:00 PM CT",
+          "sort_time": "2026-06-26T19:00:00+00:00",
+          "home_team": "Senegal",
+          "away_team": "Iraq",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "Germany -1",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Senegal -2",
             "outcomes": [
               {
-                "name": "Ecuador",
-                "point": 1.0,
-                "point_label": "+1",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Germany",
-                "point": -1.0,
-                "point_label": "-1",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "a5a0b544a984ab16e564264f3e859b43",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "3:00 PM CT",
-          "commence_time": "2026-06-25T20:00:00Z",
-          "commence_ct": "3:00 PM CT",
-          "sort_time": "2026-06-25T20:00:00+00:00",
-          "home_team": "Curaçao",
-          "away_team": "Ivory Coast",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "Ivory Coast -2.25",
-            "outcomes": [
-              {
-                "name": "Curaçao",
-                "point": 2.25,
-                "point_label": "+2.25",
-                "price": -120,
-                "price_label": "-120"
-              },
-              {
-                "name": "Ivory Coast",
-                "point": -2.25,
-                "point_label": "-2.25",
-                "price": 100,
-                "price_label": "+100"
-              }
-            ]
-          }
-        },
-        {
-          "id": "0ed0233bddc4eafc8507f86a9c17b998",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-06-25T23:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-06-25T23:00:00+00:00",
-          "home_team": "Japan",
-          "away_team": "Sweden",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "Japan -0.5",
-            "outcomes": [
-              {
-                "name": "Japan",
-                "point": -0.5,
-                "point_label": "-0.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Sweden",
-                "point": 0.5,
-                "point_label": "+0.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f3c4657daa143a0c5bd62cb370d01ce4",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-06-25T23:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-06-25T23:00:00+00:00",
-          "home_team": "Tunisia",
-          "away_team": "Netherlands",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "Netherlands -2.75",
-            "outcomes": [
-              {
-                "name": "Netherlands",
-                "point": -2.75,
-                "point_label": "-2.75",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Tunisia",
-                "point": 2.75,
-                "point_label": "+2.75",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "22f6ac06dfcc88a847920f62633e6459",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "9:00 PM CT",
-          "commence_time": "2026-06-26T02:00:00Z",
-          "commence_ct": "9:00 PM CT",
-          "sort_time": "2026-06-26T02:00:00+00:00",
-          "home_team": "Paraguay",
-          "away_team": "Australia",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "Paraguay -0.25",
-            "outcomes": [
-              {
-                "name": "Australia",
-                "point": 0.25,
-                "point_label": "+0.25",
+                "name": "Iraq",
+                "point": 2.0,
+                "point_label": "+2",
                 "price": -125,
                 "price_label": "-125"
               },
               {
-                "name": "Paraguay",
-                "point": -0.25,
-                "point_label": "-0.25",
+                "name": "Senegal",
+                "point": -2.0,
+                "point_label": "-2",
                 "price": 105,
                 "price_label": "+105"
               }
@@ -189,35 +45,179 @@
           }
         },
         {
-          "id": "f41aeac9a8343a84b4950f15ea25fba2",
+          "id": "b86b4d60f773e9e3c46c00e9a6496e79",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "9:00 PM CT",
-          "commence_time": "2026-06-26T02:00:00Z",
-          "commence_ct": "9:00 PM CT",
-          "sort_time": "2026-06-26T02:00:00+00:00",
-          "home_team": "Turkey",
-          "away_team": "USA",
+          "status_label": "2:00 PM CT",
+          "commence_time": "2026-06-26T19:00:00Z",
+          "commence_ct": "2:00 PM CT",
+          "sort_time": "2026-06-26T19:00:00+00:00",
+          "home_team": "Norway",
+          "away_team": "France",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "7:36 AM CT",
-            "summary": "USA -0.5",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "France -1",
             "outcomes": [
               {
-                "name": "Turkey",
-                "point": 0.5,
-                "point_label": "+0.5",
+                "name": "France",
+                "point": -1.0,
+                "point_label": "-1",
+                "price": 105,
+                "price_label": "+105"
+              },
+              {
+                "name": "Norway",
+                "point": 1.0,
+                "point_label": "+1",
+                "price": -125,
+                "price_label": "-125"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dcff2e31c0bce001a4db5caaf4fa8822",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-06-27T00:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-06-27T00:00:00+00:00",
+          "home_team": "Uruguay",
+          "away_team": "Spain",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Spain -0.75",
+            "outcomes": [
+              {
+                "name": "Spain",
+                "point": -0.75,
+                "point_label": "-0.75",
+                "price": -120,
+                "price_label": "-120"
+              },
+              {
+                "name": "Uruguay",
+                "point": 0.75,
+                "point_label": "+0.75",
+                "price": 100,
+                "price_label": "+100"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e07b1926be5a4d515c7eb108dbcee9c5",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-06-27T00:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-06-27T00:00:00+00:00",
+          "home_team": "Cape Verde",
+          "away_team": "Saudi Arabia",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Cape Verde PK",
+            "outcomes": [
+              {
+                "name": "Cape Verde",
+                "point": 0.0,
+                "point_label": "PK",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Saudi Arabia",
+                "point": 0.0,
+                "point_label": "PK",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3e3b5fa2b3c963e74cf044c60db0b573",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "10:00 PM CT",
+          "commence_time": "2026-06-27T03:00:00Z",
+          "commence_ct": "10:00 PM CT",
+          "sort_time": "2026-06-27T03:00:00+00:00",
+          "home_team": "Egypt",
+          "away_team": "Iran",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Egypt -0.25",
+            "outcomes": [
+              {
+                "name": "Egypt",
+                "point": -0.25,
+                "point_label": "-0.25",
+                "price": 100,
+                "price_label": "+100"
+              },
+              {
+                "name": "Iran",
+                "point": 0.25,
+                "point_label": "+0.25",
+                "price": -120,
+                "price_label": "-120"
+              }
+            ]
+          }
+        },
+        {
+          "id": "581691da05dcd75b5c6d3be91ee9d2ab",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "10:00 PM CT",
+          "commence_time": "2026-06-27T03:00:00Z",
+          "commence_ct": "10:00 PM CT",
+          "sort_time": "2026-06-27T03:00:00+00:00",
+          "home_team": "New Zealand",
+          "away_team": "Belgium",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Belgium -2.25",
+            "outcomes": [
+              {
+                "name": "Belgium",
+                "point": -2.25,
+                "point_label": "-2.25",
                 "price": -105,
                 "price_label": "-105"
               },
               {
-                "name": "USA",
-                "point": -0.5,
-                "point_label": "-0.5",
+                "name": "New Zealand",
+                "point": 2.25,
+                "point_label": "+2.25",
                 "price": -115,
                 "price_label": "-115"
               }
@@ -274,11 +274,11 @@
     "spreads": 6
   },
   "quota": {
-    "remaining": "452",
-    "used": "48",
+    "remaining": "448",
+    "used": "52",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-06-25T12:38:39+00:00"
+  "generated_at": "2026-06-26T12:31:46+00:00"
 }

@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-06-26T12:23:56+00:00",
+  "updated_at": "2026-06-26T12:31:49+00:00",
   "headlines": [
     {
       "source": "Reuters",
       "text": "Earthquake shifts political ground for Venezuelan leader Delcy Rodriguez",
       "published_at": "2026-06-26T12:09:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman",
+      "published_at": "2026-06-26T11:56:27+00:00"
     },
     {
       "source": "Reuters",
@@ -38,8 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman",
-      "published_at": "2026-06-26T10:50:56+00:00"
+      "text": "Parliament's budget committee backs Germany's stake in KNDS, sources say",
+      "published_at": "2026-06-26T10:52:34+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "EU's von der Leyen to go to Armenia and Azerbaijan next week",
       "published_at": "2026-06-26T10:27:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rescuers comb Venezuelan quake rubble, thousands reported missing",
-      "published_at": "2026-06-26T10:25:01+00:00"
     }
   ]
 }
