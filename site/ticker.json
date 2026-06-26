@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-06-26T21:39:05+00:00",
+  "updated_at": "2026-06-26T23:19:52+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "published_at": "2026-06-26T21:33:34+00:00"
+      "source": "Reuters",
+      "text": "Iran's Revolutionary Guards say it targeted US positions in the region in response to attack",
+      "published_at": "2026-06-26T23:03:48+00:00"
     },
     {
       "source": "BBC",
       "text": "US conducts strikes on Iran after attack on cargo ship",
-      "published_at": "2026-06-26T21:30:59+00:00"
+      "published_at": "2026-06-26T22:57:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "published_at": "2026-06-26T22:55:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "published_at": "2026-06-26T22:54:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saks Global emerges from bankruptcy with new name, less debt",
+      "published_at": "2026-06-26T22:48:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US seizes nearly 400 websites that were illegally streaming World Cup, DOJ says",
+      "published_at": "2026-06-26T22:47:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
+      "published_at": "2026-06-26T22:21:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he will repair National Mall reflecting pool after July 4",
+      "published_at": "2026-06-26T21:41:13+00:00"
     },
     {
       "source": "NPR",
@@ -27,14 +57,9 @@
       "published_at": "2026-06-26T21:07:38+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US strikes Iran following attack on cargo ship in Strait of Hormuz",
-      "published_at": "2026-06-26T21:06:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US military conducted strikes against Iran",
-      "published_at": "2026-06-26T20:53:09+00:00"
+      "source": "NPR",
+      "text": "It's not just Cape Verde: African soccer is having a World Cup moment",
+      "published_at": "2026-06-26T20:49:57+00:00"
     },
     {
       "source": "Reuters",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Prediction market platform Polymarket tops $1 billion in annualized revenue, source says",
-      "published_at": "2026-06-26T20:08:33+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "World stocks edge lower as tech selloff drags markets",
       "published_at": "2026-06-26T20:04:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel-Lebanon framework agreement sets process to disarm Hezbollah, Rubio says",
-      "published_at": "2026-06-26T19:52:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he will repair National Mall reflecting pool after July 4",
-      "published_at": "2026-06-26T19:18:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ghana's Semenyo says team must pressure World Cup referees more",
-      "published_at": "2026-06-26T19:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU defends digital tax approach, says ready to act if Turmp takes measures",
-      "published_at": "2026-06-26T19:05:39+00:00"
     }
   ]
 }
