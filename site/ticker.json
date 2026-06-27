@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-06-27T12:16:01+00:00",
+  "updated_at": "2026-06-27T14:53:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "published_at": "2026-06-27T14:22:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Burkina Faso severs diplomatic ties with France",
+      "published_at": "2026-06-27T14:21:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
+      "published_at": "2026-06-27T14:14:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Kotak Mahindra Bank CEO Vaswani to step down for personal reasons",
+      "published_at": "2026-06-27T13:54:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+      "published_at": "2026-06-27T13:45:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Beijing investigating rare light aircraft crash which killed pilot, injured 13",
+      "published_at": "2026-06-27T13:14:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Newborn baby rescued from Venezuela earthquake rubble",
+      "published_at": "2026-06-27T12:51:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
+      "published_at": "2026-06-27T12:35:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: Ranch dressing is a winner at the World Cup games",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+      "published_at": "2026-06-27T11:58:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "published_at": "2026-06-27T11:40:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France considers measures after Burkina Faso breaks off relations",
+      "published_at": "2026-06-27T11:30:09+00:00"
+    },
     {
       "source": "BBC",
       "text": "US strikes Iran after attack on cargo ship",
@@ -15,66 +75,6 @@
       "source": "NPR",
       "text": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
       "published_at": "2026-06-27T10:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Catholic bishops call for humane treatment of migrants during US-Mexico border Mass",
-      "published_at": "2026-06-27T10:00:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
-      "published_at": "2026-06-27T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
-      "published_at": "2026-06-27T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Isha Johansen on the promise and politics of football",
-      "published_at": "2026-06-27T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says it hits US-linked targets as Bahrain reports drone attack",
-      "published_at": "2026-06-27T09:46:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France considers measures after Burkina Faso breaks off relations",
-      "published_at": "2026-06-27T09:45:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US strikes Iran after cargo ship attack in Strait of Hormuz",
-      "published_at": "2026-06-27T09:42:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "published_at": "2026-06-27T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "4 ways to get creative with your leftovers (and save money on food)",
-      "published_at": "2026-06-27T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
-      "published_at": "2026-06-27T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What would George Washington say? It's a busy year for people who portray him",
-      "published_at": "2026-06-27T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "published_at": "2026-06-27T08:56:30+00:00"
     }
   ]
 }
