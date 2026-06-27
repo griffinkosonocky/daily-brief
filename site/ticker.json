@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-26T23:19:52+00:00",
+  "updated_at": "2026-06-27T04:12:57+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "U.S. strikes Iran in response to a drone attack on a ship",
+      "published_at": "2026-06-27T04:12:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "published_at": "2026-06-27T04:09:24+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Iran's Revolutionary Guards say it targeted US positions in the region in response to attack",
-      "published_at": "2026-06-26T23:03:48+00:00"
+      "text": "'Anything is possible': Cape Verde's fairytale run continues at expanded World Cup",
+      "published_at": "2026-06-27T03:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+      "published_at": "2026-06-27T03:26:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia's failure to create chances sealed fate, coach says",
+      "published_at": "2026-06-27T03:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England, Portugal and Egypt among five teams to seal World Cup knockout spots",
+      "published_at": "2026-06-27T03:18:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "published_at": "2026-06-27T02:57:20+00:00"
     },
     {
       "source": "BBC",
       "text": "US conducts strikes on Iran after attack on cargo ship",
-      "published_at": "2026-06-26T22:57:30+00:00"
+      "published_at": "2026-06-27T02:48:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jubilant Cape Verde set date with Argentina in World Cup round of 32",
+      "published_at": "2026-06-27T02:39:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada embracing hostile environment for South Africa World Cup clash",
+      "published_at": "2026-06-27T02:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF approves nearly $350 million of funding for Congo",
+      "published_at": "2026-06-27T02:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Baena strike sends Spain past Uruguay into World Cup knockouts",
+      "published_at": "2026-06-27T02:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt's Marmoush on the bench for World Cup clash with Iran",
+      "published_at": "2026-06-27T02:09:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "published_at": "2026-06-26T22:55:28+00:00"
+      "text": "Religion row as Texas makes Bible stories required reading in schools",
+      "published_at": "2026-06-27T00:31:42+00:00"
     },
     {
       "source": "NPR",
-      "text": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
-      "published_at": "2026-06-26T22:54:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saks Global emerges from bankruptcy with new name, less debt",
-      "published_at": "2026-06-26T22:48:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US seizes nearly 400 websites that were illegally streaming World Cup, DOJ says",
-      "published_at": "2026-06-26T22:47:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
-      "published_at": "2026-06-26T22:21:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he will repair National Mall reflecting pool after July 4",
-      "published_at": "2026-06-26T21:41:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
-      "published_at": "2026-06-26T21:18:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "published_at": "2026-06-26T21:15:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela quake toll tops 900, search intensifies for hundreds trapped",
-      "published_at": "2026-06-26T21:07:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "It's not just Cape Verde: African soccer is having a World Cup moment",
-      "published_at": "2026-06-26T20:49:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
-      "published_at": "2026-06-26T20:43:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "She posted about ICE. Five months later, DHS agents told her to take her post down",
-      "published_at": "2026-06-26T20:21:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World stocks edge lower as tech selloff drags markets",
-      "published_at": "2026-06-26T20:04:45+00:00"
+      "text": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+      "published_at": "2026-06-27T00:26:52+00:00"
     }
   ]
 }
