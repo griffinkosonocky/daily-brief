@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-06-27T20:17:24+00:00",
+  "updated_at": "2026-06-27T22:13:52+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Heatwave breaks more records in northern and central Europe",
-      "published_at": "2026-06-27T20:08:45+00:00"
+      "source": "NPR",
+      "text": "Trump nominates former Oklahoma state trooper to head ICE",
+      "published_at": "2026-06-27T22:01:36+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "De Bruyne hails Vancouver's BC Place after Belgium cruise into World Cup knockout stage",
-      "published_at": "2026-06-27T19:53:43+00:00"
+      "source": "BBC",
+      "text": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "published_at": "2026-06-27T21:35:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+      "published_at": "2026-06-27T21:33:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "published_at": "2026-06-27T21:12:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "published_at": "2026-06-27T20:48:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's face is added to select US passports for America's 250th birthday",
+      "published_at": "2026-06-27T20:03:26+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +37,44 @@
       "published_at": "2026-06-27T19:40:06+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-      "published_at": "2026-06-27T19:23:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia's World Cup exit puts late coaching gamble under scrutiny",
-      "published_at": "2026-06-27T19:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Injury-hit Spain face winger dilemma before knockout stages",
-      "published_at": "2026-06-27T19:17:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
-      "published_at": "2026-06-27T19:00:10+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: A race against the clock for Venezuela earthquake rescuers",
       "published_at": "2026-06-27T18:41:03+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "In Seattle thank-you note, Iran express frustrations over draw with Egypt",
-      "published_at": "2026-06-27T17:27:43+00:00"
+      "source": "BBC",
+      "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "published_at": "2026-06-27T14:22:37+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iraq's World Cup return ends with hope and hard truths",
-      "published_at": "2026-06-27T17:21:43+00:00"
+      "source": "BBC",
+      "text": "Burkina Faso severs diplomatic ties with France",
+      "published_at": "2026-06-27T14:21:31+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Cape Verde players have shown they can compete at top level, says Vozinha",
-      "published_at": "2026-06-27T17:04:09+00:00"
+      "source": "NPR",
+      "text": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+      "published_at": "2026-06-27T13:45:19+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "49ers' George Kittle: World Cup shows NFL can play on grass",
-      "published_at": "2026-06-27T16:57:43+00:00"
+      "source": "BBC",
+      "text": "Newborn baby rescued from Venezuela earthquake rubble",
+      "published_at": "2026-06-27T12:51:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "At the most expensive World Cup, wealthier fans find ways to pay",
-      "published_at": "2026-06-27T16:51:45+00:00"
+      "source": "NPR",
+      "text": "Opinion: Ranch dressing is a winner at the World Cup games",
+      "published_at": "2026-06-27T12:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Brazil get Japan rematch as Ancelotti's World Cup crash course faces knockout test",
-      "published_at": "2026-06-27T16:49:43+00:00"
+      "source": "NPR",
+      "text": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "published_at": "2026-06-27T11:40:32+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "France considers measures after Burkina Faso breaks off relations",
-      "published_at": "2026-06-27T16:33:22+00:00"
+      "source": "BBC",
+      "text": "US strikes Iran after attack on cargo ship",
+      "published_at": "2026-06-27T10:40:38+00:00"
     }
   ]
 }
