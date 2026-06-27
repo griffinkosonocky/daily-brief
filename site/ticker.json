@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-06-27T18:15:44+00:00",
+  "updated_at": "2026-06-27T20:17:24+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Heatwave breaks more records in northern and central Europe",
+      "published_at": "2026-06-27T20:08:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "De Bruyne hails Vancouver's BC Place after Belgium cruise into World Cup knockout stage",
+      "published_at": "2026-06-27T19:53:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+      "published_at": "2026-06-27T19:40:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+      "published_at": "2026-06-27T19:23:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia's World Cup exit puts late coaching gamble under scrutiny",
+      "published_at": "2026-06-27T19:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Injury-hit Spain face winger dilemma before knockout stages",
+      "published_at": "2026-06-27T19:17:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
+      "published_at": "2026-06-27T19:00:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "published_at": "2026-06-27T18:41:03+00:00"
+    },
     {
       "source": "Reuters",
       "text": "In Seattle thank-you note, Iran express frustrations over draw with Egypt",
@@ -10,11 +50,6 @@
       "source": "Reuters",
       "text": "Iraq's World Cup return ends with hope and hard truths",
       "published_at": "2026-06-27T17:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
-      "published_at": "2026-06-27T17:15:13+00:00"
     },
     {
       "source": "Reuters",
@@ -32,11 +67,6 @@
       "published_at": "2026-06-27T16:51:45+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Europe's deadly heatwave breaks German record and halts public events",
-      "published_at": "2026-06-27T16:51:17+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Brazil get Japan rematch as Ancelotti's World Cup crash course faces knockout test",
       "published_at": "2026-06-27T16:49:43+00:00"
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "France considers measures after Burkina Faso breaks off relations",
       "published_at": "2026-06-27T16:33:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa goalkeeper has strong track record in penalty shootouts",
-      "published_at": "2026-06-27T16:29:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Injury-hit Spain face winger dilemma before knockout stages",
-      "published_at": "2026-06-27T15:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gauff wary of grass record as Wimbledon begins",
-      "published_at": "2026-06-27T15:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands of Hungarians join first Budapest Pride march since Orban's defeat",
-      "published_at": "2026-06-27T15:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm",
-      "published_at": "2026-06-27T14:59:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-      "published_at": "2026-06-27T14:36:35+00:00"
     }
   ]
 }
