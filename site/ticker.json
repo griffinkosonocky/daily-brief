@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-06-27T10:20:10+00:00",
+  "updated_at": "2026-06-27T11:53:00+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "India's Kotak Bank CEO Vaswani to step down for personal reasons",
+      "published_at": "2026-06-27T10:47:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "US strikes Iran after attack on cargo ship",
-      "published_at": "2026-06-27T10:06:32+00:00"
+      "published_at": "2026-06-27T10:40:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "DR Congo president urges team on ahead of must-win World Cup clash with Uzbekistan",
+      "published_at": "2026-06-27T10:34:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
+      "published_at": "2026-06-27T10:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rare light aircraft crash in Beijing kills pilot, injures 13 people",
+      "published_at": "2026-06-27T10:16:28+00:00"
     },
     {
       "source": "NPR",
       "text": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
+      "published_at": "2026-06-27T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
       "published_at": "2026-06-27T10:00:00+00:00"
     },
     {
@@ -19,22 +44,17 @@
     {
       "source": "Reuters",
       "text": "Iran says it hits US-linked targets as Bahrain reports drone attack",
-      "published_at": "2026-06-27T09:26:09+00:00"
+      "published_at": "2026-06-27T09:46:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Small aircraft crash in Beijing kills one person, injures 13, local govt says",
-      "published_at": "2026-06-27T09:03:43+00:00"
+      "text": "France considers measures after Burkina Faso breaks off relations",
+      "published_at": "2026-06-27T09:45:27+00:00"
     },
     {
       "source": "NPR",
       "text": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
       "published_at": "2026-06-27T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What would George Washington say? It's a busy year for people who portray him",
-      "published_at": "2026-06-27T09:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -47,34 +67,14 @@
       "published_at": "2026-06-27T09:00:00+00:00"
     },
     {
+      "source": "NPR",
+      "text": "What would George Washington say? It's a busy year for people who portray him",
+      "published_at": "2026-06-27T09:00:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "published_at": "2026-06-27T08:56:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
-      "published_at": "2026-06-27T08:37:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Salah still the centrepiece of Egypt attack but supporting cast are stepping up",
-      "published_at": "2026-06-27T08:19:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US auto safety regulator closes evaluation of 441,002 Honda Odyssey vehicles after recall",
-      "published_at": "2026-06-27T07:45:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says it struck US-linked targets in response to US attacks",
-      "published_at": "2026-06-27T07:24:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
-      "published_at": "2026-06-27T07:03:18+00:00"
     }
   ]
 }
