@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-06-27T04:12:57+00:00",
+  "updated_at": "2026-06-27T08:03:27+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US auto safety regulator closes evaluation of 441,002 Honda Odyssey vehicles after recall",
+      "published_at": "2026-06-27T07:45:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says it struck US-linked targets in response to US attacks",
+      "published_at": "2026-06-27T07:24:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
+      "published_at": "2026-06-27T07:03:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's Taremi criticises logistical issues, suggests side not welcome in US",
+      "published_at": "2026-06-27T06:52:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand proud but disappointed after World Cup exit",
+      "published_at": "2026-06-27T06:49:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt to assess Salah after he asked to be substituted, says coach",
+      "published_at": "2026-06-27T06:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium burst into life with De Bruyne World Cup masterclass",
+      "published_at": "2026-06-27T06:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
+      "published_at": "2026-06-27T05:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium beat New Zealand 5-1 to advance to World Cup knockout stage",
+      "published_at": "2026-06-27T05:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain fans keep Manolo's drumbeat alive in Mexico",
+      "published_at": "2026-06-27T04:24:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. strikes Iran in response to a drone attack on a ship",
       "published_at": "2026-06-27T04:12:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia 'gutted' as Italiano, Leckie out of World Cup with injuries",
+      "published_at": "2026-06-27T04:10:00+00:00"
     },
     {
       "source": "BBC",
@@ -13,68 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "'Anything is possible': Cape Verde's fairytale run continues at expanded World Cup",
-      "published_at": "2026-06-27T03:30:00+00:00"
+      "text": "Coach Bubista hails Cape Verde's fearless dreamers after World Cup leap",
+      "published_at": "2026-06-27T03:55:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
-      "published_at": "2026-06-27T03:26:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia's failure to create chances sealed fate, coach says",
-      "published_at": "2026-06-27T03:23:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England, Portugal and Egypt among five teams to seal World Cup knockout spots",
-      "published_at": "2026-06-27T03:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "published_at": "2026-06-27T02:57:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US conducts strikes on Iran after attack on cargo ship",
-      "published_at": "2026-06-27T02:48:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jubilant Cape Verde set date with Argentina in World Cup round of 32",
-      "published_at": "2026-06-27T02:39:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada embracing hostile environment for South Africa World Cup clash",
-      "published_at": "2026-06-27T02:36:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF approves nearly $350 million of funding for Congo",
-      "published_at": "2026-06-27T02:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Baena strike sends Spain past Uruguay into World Cup knockouts",
-      "published_at": "2026-06-27T02:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt's Marmoush on the bench for World Cup clash with Iran",
-      "published_at": "2026-06-27T02:09:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Religion row as Texas makes Bible stories required reading in schools",
-      "published_at": "2026-06-27T00:31:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
-      "published_at": "2026-06-27T00:26:52+00:00"
+      "text": "Spain’s De la Fuente praises team's resilience, lauds World Cup progress",
+      "published_at": "2026-06-27T03:46:00+00:00"
     }
   ]
 }
