@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-06-27T11:53:00+00:00",
+  "updated_at": "2026-06-27T12:16:01+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "India's Kotak Bank CEO Vaswani to step down for personal reasons",
-      "published_at": "2026-06-27T10:47:43+00:00"
-    },
     {
       "source": "BBC",
       "text": "US strikes Iran after attack on cargo ship",
@@ -23,8 +18,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Rare light aircraft crash in Beijing kills pilot, injures 13 people",
-      "published_at": "2026-06-27T10:16:28+00:00"
+      "text": "Catholic bishops call for humane treatment of migrants during US-Mexico border Mass",
+      "published_at": "2026-06-27T10:00:48+00:00"
     },
     {
       "source": "NPR",
@@ -50,6 +45,11 @@
       "source": "Reuters",
       "text": "France considers measures after Burkina Faso breaks off relations",
       "published_at": "2026-06-27T09:45:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US strikes Iran after cargo ship attack in Strait of Hormuz",
+      "published_at": "2026-06-27T09:42:27+00:00"
     },
     {
       "source": "NPR",
