@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-06-27T14:53:07+00:00",
+  "updated_at": "2026-06-27T16:17:11+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "At the most expensive World Cup, wealthier fans find ways to pay",
+      "published_at": "2026-06-27T16:03:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gauff wary of grass record as Wimbledon begins",
+      "published_at": "2026-06-27T15:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
+      "published_at": "2026-06-27T14:44:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+      "published_at": "2026-06-27T14:36:35+00:00"
+    },
     {
       "source": "BBC",
       "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
@@ -10,16 +30,6 @@
       "source": "BBC",
       "text": "Burkina Faso severs diplomatic ties with France",
       "published_at": "2026-06-27T14:21:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
-      "published_at": "2026-06-27T14:14:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Kotak Mahindra Bank CEO Vaswani to step down for personal reasons",
-      "published_at": "2026-06-27T13:54:19+00:00"
     },
     {
       "source": "NPR",
@@ -38,18 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Australia toughens kids' social media ban, doubles potential penalties for tech firms",
-      "published_at": "2026-06-27T12:35:43+00:00"
+      "text": "Supreme Court ruling, ECB conference likely to further frame Fed chief Warsh's early tenure",
+      "published_at": "2026-06-27T12:07:35+00:00"
     },
     {
       "source": "NPR",
       "text": "Opinion: Ranch dressing is a winner at the World Cup games",
       "published_at": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-      "published_at": "2026-06-27T11:58:03+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "DR Congo president urges team on ahead of must-win World Cup clash with Uzbekistan",
       "published_at": "2026-06-27T10:34:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
-      "published_at": "2026-06-27T10:30:00+00:00"
     }
   ]
 }
