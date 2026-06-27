@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-06-27T16:17:11+00:00",
+  "updated_at": "2026-06-27T18:15:44+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "In Seattle thank-you note, Iran express frustrations over draw with Egypt",
+      "published_at": "2026-06-27T17:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraq's World Cup return ends with hope and hard truths",
+      "published_at": "2026-06-27T17:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
+      "published_at": "2026-06-27T17:15:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cape Verde players have shown they can compete at top level, says Vozinha",
+      "published_at": "2026-06-27T17:04:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "49ers' George Kittle: World Cup shows NFL can play on grass",
+      "published_at": "2026-06-27T16:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "At the most expensive World Cup, wealthier fans find ways to pay",
-      "published_at": "2026-06-27T16:03:11+00:00"
+      "published_at": "2026-06-27T16:51:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Europe's deadly heatwave breaks German record and halts public events",
+      "published_at": "2026-06-27T16:51:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil get Japan rematch as Ancelotti's World Cup crash course faces knockout test",
+      "published_at": "2026-06-27T16:49:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France considers measures after Burkina Faso breaks off relations",
+      "published_at": "2026-06-27T16:33:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa goalkeeper has strong track record in penalty shootouts",
+      "published_at": "2026-06-27T16:29:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Injury-hit Spain face winger dilemma before knockout stages",
+      "published_at": "2026-06-27T15:59:43+00:00"
     },
     {
       "source": "Reuters",
@@ -13,68 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
-      "published_at": "2026-06-27T14:44:36+00:00"
+      "text": "Thousands of Hungarians join first Budapest Pride march since Orban's defeat",
+      "published_at": "2026-06-27T15:11:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm",
+      "published_at": "2026-06-27T14:59:05+00:00"
     },
     {
       "source": "Reuters",
       "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
       "published_at": "2026-06-27T14:36:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "published_at": "2026-06-27T14:22:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burkina Faso severs diplomatic ties with France",
-      "published_at": "2026-06-27T14:21:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "published_at": "2026-06-27T13:45:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Beijing investigating rare light aircraft crash which killed pilot, injured 13",
-      "published_at": "2026-06-27T13:14:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Newborn baby rescued from Venezuela earthquake rubble",
-      "published_at": "2026-06-27T12:51:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Supreme Court ruling, ECB conference likely to further frame Fed chief Warsh's early tenure",
-      "published_at": "2026-06-27T12:07:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "published_at": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "published_at": "2026-06-27T11:40:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France considers measures after Burkina Faso breaks off relations",
-      "published_at": "2026-06-27T11:30:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US strikes Iran after attack on cargo ship",
-      "published_at": "2026-06-27T10:40:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "DR Congo president urges team on ahead of must-win World Cup clash with Uzbekistan",
-      "published_at": "2026-06-27T10:34:12+00:00"
     }
   ]
 }
