@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-06-28T16:22:08+00:00",
+  "updated_at": "2026-06-28T18:15:49+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Record heatwave disrupts Europe as France warns death toll to rise",
+      "published_at": "2026-06-28T18:12:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah",
+      "published_at": "2026-06-28T18:01:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Africa revel in World Cup success with nine teams into knockout round",
+      "published_at": "2026-06-28T17:55:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "published_at": "2026-06-28T17:32:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jordan go home empty handed but battle-hardened for future campaigns",
+      "published_at": "2026-06-28T17:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Migrants in US on temporary status should seek permanent residence or leave, Homeland Secretary says",
+      "published_at": "2026-06-28T17:23:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Uruguay's Ugarte suffers serious knee injury at World Cup",
+      "published_at": "2026-06-28T16:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Eleven people killed in plane crash in northeastern France",
+      "published_at": "2026-06-28T16:40:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "published_at": "2026-06-28T16:38:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Housing bill will be sent to Trump on Monday, US House speaker says",
+      "published_at": "2026-06-28T16:36:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "published_at": "2026-06-28T16:33:50+00:00"
+    },
     {
       "source": "Reuters",
       "text": "'Decaffeinated' Portugal left with bitter taste after Colombia stalemate",
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "Eleven killed after plane carrying skydivers crashes in eastern France",
       "published_at": "2026-06-28T15:51:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trade tensions shake up Brazil's caipirinha spirit",
-      "published_at": "2026-06-28T15:45:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fourteen killed in Saudi Arabia helicopter crash",
-      "published_at": "2026-06-28T15:42:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Highs and lows of Ben Stokes' international career",
-      "published_at": "2026-06-28T15:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Record heatwave disrupts Europe as France warns death toll set to rise",
-      "published_at": "2026-06-28T15:22:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Uganda's leading media outlets shut down by army chief",
-      "published_at": "2026-06-28T15:19:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eleven people killed in plane crash in northeastern France",
-      "published_at": "2026-06-28T14:52:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
-      "published_at": "2026-06-28T14:46:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian man charged with murder after girl found dead in suitcase in Thailand",
-      "published_at": "2026-06-28T14:30:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Migrants in US on temporary status should seek permanent status or leave, Homeland Secretary says",
-      "published_at": "2026-06-28T13:55:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel damaged heritage sites across south Lebanon, minister says",
-      "published_at": "2026-06-28T12:44:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says",
-      "published_at": "2026-06-28T12:44:29+00:00"
     }
   ]
 }
