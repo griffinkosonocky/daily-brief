@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-06-27T22:13:52+00:00",
+  "updated_at": "2026-06-28T00:12:38+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "South Africa eye more World Cup magic as wife says Broos can stay",
+      "published_at": "2026-06-27T23:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Coach Clarke steps down after Scotland exit World Cup, says Scottish FA",
+      "published_at": "2026-06-27T23:46:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+      "published_at": "2026-06-27T23:38:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vlasic header sends Croatia into World Cup knockouts with 2-1 win over Ghana",
+      "published_at": "2026-06-27T23:27:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bellingham and Kane shine as England sink Panama to top group",
+      "published_at": "2026-06-27T23:20:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kane becomes England's top goalscorer at World Cups",
+      "published_at": "2026-06-27T23:14:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's Davies fit to face South Africa, says coach Marsch",
+      "published_at": "2026-06-27T22:09:44+00:00"
+    },
     {
       "source": "NPR",
       "text": "Trump nominates former Oklahoma state trooper to head ICE",
@@ -22,59 +57,24 @@
       "published_at": "2026-06-27T21:12:51+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+      "published_at": "2026-06-27T21:08:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tanzania has nationwide blackout after power grid failure, Bloomberg News reports",
+      "published_at": "2026-06-27T21:02:44+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Heatwave breaks records in Germany, Denmark and Czech Republic",
       "published_at": "2026-06-27T20:48:16+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump's face is added to select US passports for America's 250th birthday",
-      "published_at": "2026-06-27T20:03:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
-      "published_at": "2026-06-27T19:40:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "published_at": "2026-06-27T18:41:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "published_at": "2026-06-27T14:22:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burkina Faso severs diplomatic ties with France",
-      "published_at": "2026-06-27T14:21:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "published_at": "2026-06-27T13:45:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Newborn baby rescued from Venezuela earthquake rubble",
-      "published_at": "2026-06-27T12:51:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "published_at": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "published_at": "2026-06-27T11:40:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US strikes Iran after attack on cargo ship",
-      "published_at": "2026-06-27T10:40:38+00:00"
+      "source": "Reuters",
+      "text": "New Zealand's early World Cup exit puts Oceania free pass in spotlight",
+      "published_at": "2026-06-27T20:27:43+00:00"
     }
   ]
 }
