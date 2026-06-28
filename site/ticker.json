@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-06-28T09:28:32+00:00",
+  "updated_at": "2026-06-28T11:56:42+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Saudi Aramco helicopter crash kills 14, state new agency says",
+      "published_at": "2026-06-28T11:51:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "These church members disagree on politics. Together they're wiping out medical debt",
+      "published_at": "2026-06-28T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Heatwave watch: smart tech helps keep Rome's elderly safe",
+      "published_at": "2026-06-28T10:49:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel damaged heritage sites across south Lebanon, minister says",
+      "published_at": "2026-06-28T10:31:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Uganda's leading media outlets shut down by army chief",
+      "published_at": "2026-06-28T10:11:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "published_at": "2026-06-28T10:00:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "BIS says debt, AI boom and fragilities raise global risks",
@@ -23,13 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Plastic bags, wraps and pouches face short shelf life",
-      "published_at": "2026-06-28T08:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Heatwave watch: smart tech helps keep Rome's elderly safe",
-      "published_at": "2026-06-28T07:29:16+00:00"
+      "text": "Uganda's military chief orders shutdown of two major media outlets",
+      "published_at": "2026-06-28T08:24:04+00:00"
     },
     {
       "source": "NPR",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Scaloni running out of superlatives as Messi continues to break records",
-      "published_at": "2026-06-28T06:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Petkovic praises Algeria spirit after 'crazy' Austria draw",
       "published_at": "2026-06-28T06:18:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Late drama ends Iran's hopes of reaching World Cup knockouts for first time",
-      "published_at": "2026-06-28T05:34:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina's depth a warning to rivals heading into World Cup knockouts",
-      "published_at": "2026-06-28T05:12:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea, Japan reaffirm denuclearisation goal, closer defence ties",
-      "published_at": "2026-06-28T05:09:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "published_at": "2026-06-28T04:54:50+00:00"
     }
   ]
 }
