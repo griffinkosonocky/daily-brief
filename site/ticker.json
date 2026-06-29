@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-29T11:22:16+00:00",
+  "updated_at": "2026-06-29T14:34:34+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "U.S.-Iran peace talks in question after weekend attacks in the Gulf",
-      "published_at": "2026-06-29T11:14:41+00:00"
+      "source": "Reuters",
+      "text": "Serbia's Vucic eyes new political chapter as he steps down from presidency",
+      "published_at": "2026-06-29T14:27:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "As JPMorgan succession takes shape, insiders say this time it is for real",
-      "published_at": "2026-06-29T11:05:10+00:00"
+      "text": "US Supreme Court rejects Trump's unprecedented bid to fire Fed's Cook",
+      "published_at": "2026-06-29T14:22:35+00:00"
     },
     {
       "source": "BBC",
-      "text": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "published_at": "2026-06-29T10:55:41+00:00"
+      "text": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "published_at": "2026-06-29T14:19:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "published_at": "2026-06-29T14:10:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Supreme Court upholds grace periods for mail-in ballots, siding against the GOP",
+      "published_at": "2026-06-29T14:05:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five dead in shooting at youth welfare centre in northern Germany",
+      "published_at": "2026-06-29T14:01:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ethiopia agrees preliminary deal to restructure $1 billion bond",
-      "published_at": "2026-06-29T10:49:43+00:00"
+      "text": "US Supreme Court rebuffs Trump's appeal in E. Jean Carroll case",
+      "published_at": "2026-06-29T13:49:56+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Weekend wars",
-      "published_at": "2026-06-29T10:37:15+00:00"
+      "text": "US Supreme Court won't revive lawyer Alan Dershowitz's case against CNN",
+      "published_at": "2026-06-29T13:47:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Mediators set up de-escalation channels ahead of US-Iran talks, source says",
-      "published_at": "2026-06-29T10:35:43+00:00"
+      "text": "US Supreme Court to hear Republican bid to revive Arizona voter restrictions",
+      "published_at": "2026-06-29T13:46:34+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant",
-      "published_at": "2026-06-29T10:27:46+00:00"
+      "published_at": "2026-06-29T13:42:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Happy birthday, America? At 250, nation may be too divided to celebrate as one",
-      "published_at": "2026-06-29T10:06:18+00:00"
+      "text": "Five people shot and killed in northern Germany, two suspects detained",
+      "published_at": "2026-06-29T13:27:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Hormuz oil exodus sets stage for chaotic rebalancing act",
-      "published_at": "2026-06-29T10:00:42+00:00"
+      "text": "Ethiopia reaches preliminary deal with bondholders on $1 billion debt overhaul",
+      "published_at": "2026-06-29T13:10:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+      "published_at": "2026-06-29T12:58:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rig explosion in Venezuela leaves at least 8 workers injured, sources say",
+      "published_at": "2026-06-29T12:54:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Senior South African police officer survives assassination attempt",
-      "published_at": "2026-06-29T09:46:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New York launches tariff relief program for farmers",
-      "published_at": "2026-06-29T09:09:24+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why do some U.S. airports have private security, but others use TSA?",
-      "published_at": "2026-06-29T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "3 World Cup rivals find 'Common Ground' in a cross-border beer",
-      "published_at": "2026-06-29T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Could neo-Nazi youth, or 'active clubs,' have played a role in Belfast riots?",
-      "published_at": "2026-06-29T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line",
-      "published_at": "2026-06-29T09:00:00+00:00"
+      "text": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "published_at": "2026-06-29T12:51:58+00:00"
     }
   ]
 }
