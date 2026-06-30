@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-06-30T21:02:53+00:00",
+  "updated_at": "2026-06-30T22:24:48+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "published_at": "2026-06-30T21:30:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "published_at": "2026-06-30T21:24:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Between silence and shouts, rescuers dig for Venezuela twin quake survivors",
+      "published_at": "2026-06-30T21:17:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "NPR discusses error in reporting on the last day of the Supreme Court term",
+      "published_at": "2026-06-30T21:06:04+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Americans react to Supreme Court upholding birthright citizenship",
       "published_at": "2026-06-30T19:36:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "published_at": "2026-06-30T19:36:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-      "published_at": "2026-06-30T19:19:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boeing, engineers' union begin contract talks",
-      "published_at": "2026-06-30T19:11:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "published_at": "2026-06-30T18:59:19+00:00"
     }
   ]
 }
