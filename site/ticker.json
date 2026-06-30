@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-06-29T22:17:52+00:00",
+  "updated_at": "2026-06-30T00:16:18+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Paraguay knock Germany out of World Cup on penalties in major upset",
+      "published_at": "2026-06-29T23:42:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
+      "published_at": "2026-06-29T23:34:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Aguirre says Mexico must be near perfect as Ecuador test awaits",
+      "published_at": "2026-06-29T23:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers",
+      "published_at": "2026-06-29T22:38:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Bank to abandon goal to devote 45% of lending resources to climate change projects",
+      "published_at": "2026-06-29T22:35:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Police, firefighters proudly wear World Cup badges as they provide security",
+      "published_at": "2026-06-29T22:12:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+      "published_at": "2026-06-29T22:11:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US and Iran negotiators head to Doha, but meeting uncertain",
+      "published_at": "2026-06-29T21:59:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Happy birthday, America? At 250, nation may be too divided to celebrate as one",
+      "published_at": "2026-06-29T21:59:13+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Anger mounts over uneven government response after Venezuela quakes",
-      "published_at": "2026-06-29T21:45:49+00:00"
+      "published_at": "2026-06-29T21:55:43+00:00"
     },
     {
       "source": "Reuters",
@@ -18,7 +63,7 @@
     },
     {
       "source": "BBC",
-      "text": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
+      "text": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
       "published_at": "2026-06-29T21:21:15+00:00"
     },
     {
@@ -27,54 +72,9 @@
       "published_at": "2026-06-29T21:19:28+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
-      "published_at": "2026-06-29T21:11:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Temporary Protected Status program may effectively be over. Here's what we know.",
-      "published_at": "2026-06-29T20:54:23+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Supreme Court backs Trump's FTC firing, expands presidential power",
-      "published_at": "2026-06-29T20:48:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US face Bosnia test in World Cup Round of 32",
-      "published_at": "2026-06-29T20:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JetBlue flight hit drone while approaching JFK airport, FAA says",
-      "published_at": "2026-06-29T20:42:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Venezuela's deadly quakes put its U.S.-backed government to the test",
-      "published_at": "2026-06-29T20:19:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US and Iran peace negotiators head to Doha, meeting uncertain",
-      "published_at": "2026-06-29T20:17:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Six killed in shooting at mother-and-child shelter in northern Germany",
-      "published_at": "2026-06-29T20:07:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "published_at": "2026-06-29T20:00:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Six people shot dead at centre for mothers and children in Germany",
-      "published_at": "2026-06-29T19:53:57+00:00"
+      "text": "Lethal shooting near World Cup fan zone an isolated incident, say San Jose police",
+      "published_at": "2026-06-29T21:16:59+00:00"
     }
   ]
 }
