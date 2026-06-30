@@ -112,5 +112,11 @@
     "sport": "Sports",
     "question": "Who won the UEFA Champions League in 2016?",
     "answer": "Real Madrid C.F."
+  },
+  {
+    "date": "2026-06-30",
+    "sport": "Sports",
+    "question": "Who won the \"Champions League\" in 1999?",
+    "answer": "Manchester United"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T12:21:39+00:00",
+  "updated_at": "2026-06-30T12:30:18+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -48,6 +48,11 @@
     },
     {
       "source": "Reuters",
+      "text": "EXCLUSIVE: Turkey says NATO adjusting to security landscape, US not withdrawing",
+      "published_at": "2026-06-30T11:14:27+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "EXCLUSIVE: US House committee opens investigation into Merck, AbbVie China drug trials",
       "published_at": "2026-06-30T11:01:18+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies",
       "published_at": "2026-06-30T10:39:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AfD leader vows to restore German-Russian ties as she eyes chancellery",
-      "published_at": "2026-06-30T10:09:32+00:00"
     }
   ]
 }

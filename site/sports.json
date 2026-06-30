@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-06-29",
-  "generated_at_ct": "Jun 29, 2026 at 9:32 AM CT",
+  "date_key": "2026-06-30",
+  "generated_at_ct": "Jun 30, 2026 at 7:28 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -9,109 +9,109 @@
       "full_name": "FIFA World Cup",
       "games": [
         {
-          "id": "4f3d72fba877939d36a5315618184093",
+          "id": "ce017bea1a26252278053ce759e2416b",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
           "status_label": "12:00 PM CT",
-          "commence_time": "2026-06-29T17:00:00Z",
+          "commence_time": "2026-06-30T17:00:00Z",
           "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-06-29T17:00:00+00:00",
-          "home_team": "Brazil",
-          "away_team": "Japan",
+          "sort_time": "2026-06-30T17:00:00+00:00",
+          "home_team": "Ivory Coast",
+          "away_team": "Norway",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "9:31 AM CT",
-            "summary": "Brazil -0.75",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Norway -0.25",
             "outcomes": [
               {
-                "name": "Brazil",
-                "point": -0.75,
-                "point_label": "-0.75",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Ivory Coast",
+                "point": 0.25,
+                "point_label": "+0.25",
+                "price": 108,
+                "price_label": "+108"
               },
               {
-                "name": "Japan",
-                "point": 0.75,
-                "point_label": "+0.75",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Norway",
+                "point": -0.25,
+                "point_label": "-0.25",
+                "price": -128,
+                "price_label": "-128"
               }
             ]
           }
         },
         {
-          "id": "4930db8e83436874d09e59bd0e29c1a5",
+          "id": "0b5491529142c9bcc3f88bf45ccb0a7b",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "3:30 PM CT",
-          "commence_time": "2026-06-29T20:30:00Z",
-          "commence_ct": "3:30 PM CT",
-          "sort_time": "2026-06-29T20:30:00+00:00",
-          "home_team": "Germany",
-          "away_team": "Paraguay",
+          "status_label": "4:00 PM CT",
+          "commence_time": "2026-06-30T21:00:00Z",
+          "commence_ct": "4:00 PM CT",
+          "sort_time": "2026-06-30T21:00:00+00:00",
+          "home_team": "France",
+          "away_team": "Sweden",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "9:31 AM CT",
-            "summary": "Germany -1.25",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "France -1.75",
             "outcomes": [
               {
-                "name": "Germany",
-                "point": -1.25,
-                "point_label": "-1.25",
-                "price": -122,
-                "price_label": "-122"
-              },
-              {
-                "name": "Paraguay",
-                "point": 1.25,
-                "point_label": "+1.25",
+                "name": "France",
+                "point": -1.75,
+                "point_label": "-1.75",
                 "price": 102,
                 "price_label": "+102"
+              },
+              {
+                "name": "Sweden",
+                "point": 1.75,
+                "point_label": "+1.75",
+                "price": -122,
+                "price_label": "-122"
               }
             ]
           }
         },
         {
-          "id": "5a34afe2de99513ba48360b983cfe80c",
+          "id": "f58c55a9da96af562c31b7c5cca40187",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
           "status_label": "8:00 PM CT",
-          "commence_time": "2026-06-30T01:00:00Z",
+          "commence_time": "2026-07-01T01:00:00Z",
           "commence_ct": "8:00 PM CT",
-          "sort_time": "2026-06-30T01:00:00+00:00",
-          "home_team": "Netherlands",
-          "away_team": "Morocco",
+          "sort_time": "2026-07-01T01:00:00+00:00",
+          "home_team": "Mexico",
+          "away_team": "Ecuador",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "9:31 AM CT",
-            "summary": "Netherlands -0.25",
+            "last_update_ct": "7:29 AM CT",
+            "summary": "Mexico -0.25",
             "outcomes": [
               {
-                "name": "Morocco",
+                "name": "Ecuador",
                 "point": 0.25,
                 "point_label": "+0.25",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Netherlands",
-                "point": -0.25,
-                "point_label": "-0.25",
                 "price": -108,
                 "price_label": "-108"
+              },
+              {
+                "name": "Mexico",
+                "point": -0.25,
+                "point_label": "-0.25",
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
@@ -166,11 +166,11 @@
     "spreads": 3
   },
   "quota": {
-    "remaining": "436",
-    "used": "64",
+    "remaining": "432",
+    "used": "68",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-06-29T14:34:31+00:00"
+  "generated_at": "2026-06-30T12:30:16+00:00"
 }
