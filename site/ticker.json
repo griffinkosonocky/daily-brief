@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-30T00:16:18+00:00",
+  "updated_at": "2026-06-30T05:15:47+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Three people injured after explosion in Monaco",
+      "published_at": "2026-06-30T05:12:26+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Paraguay knock Germany out of World Cup on penalties in major upset",
-      "published_at": "2026-06-29T23:42:03+00:00"
+      "text": "For first time, more central banks are set to shrink dollar holdings, survey finds",
+      "published_at": "2026-06-30T05:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia's crude oil imports tick up in June but uncertainty reigns",
+      "published_at": "2026-06-30T04:36:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "published_at": "2026-06-30T04:21:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morocco advance in World Cup after penalty shootout win over the Netherlands",
+      "published_at": "2026-06-30T04:13:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "A year after USAID shutdown, Americans still back foreign development aid, poll shows",
+      "published_at": "2026-06-30T04:07:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Angry Venezuelans accuse government of negligence and apathy",
+      "published_at": "2026-06-30T03:53:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Keep out of China's clutches, Taiwan's president tells military cadets",
+      "published_at": "2026-06-30T03:44:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US retailers frontload China orders for holiday season, shipping firms say",
+      "published_at": "2026-06-30T02:45:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chinese tycoon sentenced to 30 years in US jail",
+      "published_at": "2026-06-30T02:08:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China factory activity returns to expansion riding AI global boom",
+      "published_at": "2026-06-30T01:55:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
-      "published_at": "2026-06-29T23:34:58+00:00"
+      "text": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+      "published_at": "2026-06-30T01:43:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Aguirre says Mexico must be near perfect as Ecuador test awaits",
-      "published_at": "2026-06-29T23:21:43+00:00"
+      "text": "Yen stumbles to 40-year low as clock ticks on intervention",
+      "published_at": "2026-06-30T01:01:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers",
-      "published_at": "2026-06-29T22:38:45+00:00"
+      "text": "IMF reaches staff-level deal with Egypt that could unlock $1.6 billion",
+      "published_at": "2026-06-30T00:49:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "World Bank to abandon goal to devote 45% of lending resources to climate change projects",
-      "published_at": "2026-06-29T22:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Police, firefighters proudly wear World Cup badges as they provide security",
-      "published_at": "2026-06-29T22:12:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-      "published_at": "2026-06-29T22:11:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US and Iran negotiators head to Doha, but meeting uncertain",
-      "published_at": "2026-06-29T21:59:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Happy birthday, America? At 250, nation may be too divided to celebrate as one",
-      "published_at": "2026-06-29T21:59:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anger mounts over uneven government response after Venezuela quakes",
-      "published_at": "2026-06-29T21:55:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Brazil, a World Cup clash pits homeland against home for vast Japanese community",
-      "published_at": "2026-06-29T21:39:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds",
-      "published_at": "2026-06-29T21:28:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-      "published_at": "2026-06-29T21:21:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "published_at": "2026-06-29T21:19:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lethal shooting near World Cup fan zone an isolated incident, say San Jose police",
-      "published_at": "2026-06-29T21:16:59+00:00"
+      "text": "Argentina's Romero back in full training before World Cup knockout clash",
+      "published_at": "2026-06-30T00:31:00+00:00"
     }
   ]
 }
