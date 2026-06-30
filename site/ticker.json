@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-06-30T09:57:39+00:00",
+  "updated_at": "2026-06-30T12:21:39+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Volkswagen's crisis in five charts",
+      "published_at": "2026-06-30T11:47:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+      "published_at": "2026-06-30T11:46:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll",
+      "published_at": "2026-06-30T11:38:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "published_at": "2026-06-30T11:36:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "published_at": "2026-06-30T11:29:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Newcastle's Tino Livramento expected to return in pre-season after World Cup exit",
+      "published_at": "2026-06-30T11:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In soccer stronghold California, World Cup is a seismic event",
+      "published_at": "2026-06-30T11:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "published_at": "2026-06-30T11:20:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "published_at": "2026-06-30T09:50:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco",
-      "published_at": "2026-06-30T09:38:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Heavy security deployed in South Africa ahead of anti-migrant protests",
-      "published_at": "2026-06-30T09:18:14+00:00"
+      "published_at": "2026-06-30T11:16:20+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UK regulator considers opening Apple, Google app stores to rival payments",
-      "published_at": "2026-06-30T09:08:25+00:00"
+      "text": "EXCLUSIVE: US House committee opens investigation into Merck, AbbVie China drug trials",
+      "published_at": "2026-06-30T11:01:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Nearly one million people worldwide became millionaires in 2025, UBS report finds",
-      "published_at": "2026-06-30T09:07:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Here are Colorado's 2026 primary election results",
-      "published_at": "2026-06-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
-      "published_at": "2026-06-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inside the coordinated strategy to radically reshape U.S. immigration",
-      "published_at": "2026-06-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal money for workforce training begins, but few programs qualify",
-      "published_at": "2026-06-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. murder rate approaches a record low",
-      "published_at": "2026-06-30T09:00:00+00:00"
+      "text": "Morning Bid: Doubled by halftime",
+      "published_at": "2026-06-30T11:00:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Paraguay declares national holiday after team shock Germany at World Cup",
-      "published_at": "2026-06-30T08:58:04+00:00"
+      "text": "US envoy Witkoff and Kushner will be in Qatar, no meeting with Iran, Qatari official says",
+      "published_at": "2026-06-30T10:49:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Why companies are swapping copper for aluminium",
-      "published_at": "2026-06-30T08:47:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-06-30T08:47:41+00:00"
+      "text": "Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell",
+      "published_at": "2026-06-30T10:41:01+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EU unveils new steel import quotas to protect its industry from overcapacity",
-      "published_at": "2026-06-30T08:34:09+00:00"
+      "text": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies",
+      "published_at": "2026-06-30T10:39:33+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bird nests of fibre-optic cables show war's impact on Ukraine",
-      "published_at": "2026-06-30T07:49:10+00:00"
+      "text": "AfD leader vows to restore German-Russian ties as she eyes chancellery",
+      "published_at": "2026-06-30T10:09:32+00:00"
     }
   ]
 }
