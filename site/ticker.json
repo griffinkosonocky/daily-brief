@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-01T13:17:34+00:00",
+  "updated_at": "2026-07-01T13:39:35+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ukrainian troop rotation runs gauntlet of drones in Donetsk",
+      "published_at": "2026-07-01T13:16:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Fire at Antwerp apartment block kills at least six",
@@ -8,8 +13,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
+      "published_at": "2026-07-01T13:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump on financial disclosures: Everyone's profiting because stock market is up",
-      "published_at": "2026-07-01T12:55:43+00:00"
+      "published_at": "2026-07-01T12:58:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada will participate in Eurovision Song Contest in 2027, organisers say",
+      "published_at": "2026-07-01T12:41:59+00:00"
     },
     {
       "source": "BBC",
@@ -38,6 +53,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Breakingviews - Tanker data is better Hormuz gauge than oil prices",
+      "published_at": "2026-07-01T11:25:24+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "BYD's sales rise for second month, buoyed by exports",
       "published_at": "2026-07-01T11:15:02+00:00"
     },
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Morning Bid: Kicking off H2",
       "published_at": "2026-07-01T10:44:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Belarusian leader Lukashenko pardons 32 prisoners, his administration says",
-      "published_at": "2026-07-01T10:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
-      "published_at": "2026-07-01T10:19:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France sets presidential election dates",
-      "published_at": "2026-07-01T10:15:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Greetings from London, where Banksy's flag man is a warning cry",
-      "published_at": "2026-07-01T10:00:00+00:00"
     }
   ]
 }
