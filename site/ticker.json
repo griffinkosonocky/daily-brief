@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-06-30T22:24:48+00:00",
+  "updated_at": "2026-07-01T00:18:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "published_at": "2026-06-30T23:49:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe uncorks France as Sweden are swept aside in Champagne World Cup show",
+      "published_at": "2026-06-30T23:43:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "published_at": "2026-06-30T23:41:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "published_at": "2026-06-30T23:24:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe double as France ease past Sweden 3-0 to reach last 16",
+      "published_at": "2026-06-30T23:20:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand economic recovery delayed and inflation to stay above target, IMF says",
+      "published_at": "2026-06-30T22:54:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "published_at": "2026-06-30T22:29:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What the Supreme Court did on the final day of its term",
+      "published_at": "2026-06-30T21:46:16+00:00"
+    },
     {
       "source": "BBC",
       "text": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
@@ -17,14 +57,14 @@
       "published_at": "2026-06-30T21:17:48+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal",
+      "published_at": "2026-06-30T21:10:07+00:00"
+    },
+    {
       "source": "NPR",
       "text": "NPR discusses error in reporting on the last day of the Supreme Court term",
       "published_at": "2026-06-30T21:06:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal",
-      "published_at": "2026-06-30T20:52:36+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Haaland the hero again as Norway edge Ivory Coast to advance at World Cup",
       "published_at": "2026-06-30T20:27:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Firefighters struggle to contain deadly Greek wildfire",
-      "published_at": "2026-06-30T20:25:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US House committee opens investigation into Merck, AbbVie China drug trials",
-      "published_at": "2026-06-30T20:22:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US expected to not extend USMCA, starting a decade-long countdown for trade pact",
-      "published_at": "2026-06-30T19:56:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of England's Breeden signals new rules to govern agentic AI",
-      "published_at": "2026-06-30T19:49:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Irish regulator reconsidering TikTok data-transfer ban after court ruling",
-      "published_at": "2026-06-30T19:48:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mercosur launches economic partnership talks with Japan, eyes China",
-      "published_at": "2026-06-30T19:44:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "published_at": "2026-06-30T19:39:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Americans react to Supreme Court upholding birthright citizenship",
-      "published_at": "2026-06-30T19:36:51+00:00"
     }
   ]
 }
