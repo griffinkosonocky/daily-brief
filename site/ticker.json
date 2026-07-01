@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-01T20:53:04+00:00",
+  "updated_at": "2026-07-01T22:38:19+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "U.S., Iran talks conclude in Doha, focused on Strait",
-      "published_at": "2026-07-01T20:22:40+00:00"
+      "text": "US, Iran talks conclude in Doha, focused on Strait of Hormuz",
+      "published_at": "2026-07-01T22:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Portugal will approach knockouts like a 'second World Cup', says Martinez",
+      "published_at": "2026-07-01T21:53:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Young survivors of Venezuela quakes run shelters as search drags on",
+      "published_at": "2026-07-01T21:43:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Portugal carry Jota's memory into World Cup clash on anniversary of his death",
+      "published_at": "2026-07-01T21:36:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "published_at": "2026-07-01T21:27:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+      "published_at": "2026-07-01T21:23:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Alibaba to pay $600 million to resolve US drug sales probe",
+      "published_at": "2026-07-01T21:20:25+00:00"
     },
     {
       "source": "BBC",
@@ -13,8 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "DR Congo leave positive image, says coach after epic battle with England",
-      "published_at": "2026-07-01T20:05:43+00:00"
+      "text": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
+      "published_at": "2026-07-01T20:08:24+00:00"
     },
     {
       "source": "Reuters",
@@ -28,18 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-      "published_at": "2026-07-01T19:40:33+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "AI hopes and fears dominate global central bank meet",
       "published_at": "2026-07-01T19:15:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
-      "published_at": "2026-07-01T18:57:52+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Salah fitness race in focus for Egypt ahead of Australia clash",
       "published_at": "2026-07-01T18:42:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kane double rescues England in comeback win over DR Congo",
-      "published_at": "2026-07-01T18:32:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Four dead as huge crowds celebrate Mexico's World Cup win",
-      "published_at": "2026-07-01T18:28:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian charged in Germany over Nord Stream blasts",
-      "published_at": "2026-07-01T18:19:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela earthquake victims' shelters house homeless volunteers and survivors",
-      "published_at": "2026-07-01T18:18:17+00:00"
     }
   ]
 }
