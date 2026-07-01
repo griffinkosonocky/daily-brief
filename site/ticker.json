@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-01T19:07:05+00:00",
+  "updated_at": "2026-07-01T20:53:04+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "U.S., Iran talks conclude in Doha, focused on Strait",
+      "published_at": "2026-07-01T20:22:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four die in Mexico City World Cup celebrations",
+      "published_at": "2026-07-01T20:15:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "DR Congo leave positive image, says coach after epic battle with England",
+      "published_at": "2026-07-01T20:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norway offshore workers, employers enter mediation to avert strike",
+      "published_at": "2026-07-01T19:43:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'It's crazy': Broadcasters toil, and revel, in supersized World Cup",
+      "published_at": "2026-07-01T19:42:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+      "published_at": "2026-07-01T19:40:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI hopes and fears dominate global central bank meet",
+      "published_at": "2026-07-01T19:15:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
+      "published_at": "2026-07-01T18:57:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US blocks long-term renewal of North American trade deal",
+      "published_at": "2026-07-01T18:56:36+00:00"
+    },
     {
       "source": "BBC",
       "text": "Greek politician's mother dies of wounds after arson attack",
@@ -8,13 +53,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada weigh Davies start as Marsch eyes fitness edge over Morocco",
-      "published_at": "2026-07-01T18:44:00+00:00"
+      "text": "Salah fitness race in focus for Egypt ahead of Australia clash",
+      "published_at": "2026-07-01T18:42:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Salah fitness race in focus for Egypt ahead of Australia clash",
-      "published_at": "2026-07-01T18:42:10+00:00"
+      "text": "Kane double rescues England in comeback win over DR Congo",
+      "published_at": "2026-07-01T18:32:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four dead as huge crowds celebrate Mexico's World Cup win",
+      "published_at": "2026-07-01T18:28:24+00:00"
     },
     {
       "source": "BBC",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "AI hopes and fears dominate global central bank meet",
-      "published_at": "2026-07-01T18:08:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kane double rescues England in comeback win over DR Congo",
-      "published_at": "2026-07-01T18:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-      "published_at": "2026-07-01T18:05:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three die of suffocation as huge crowds celebrate Mexico's World Cup win",
-      "published_at": "2026-07-01T17:59:24+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-      "published_at": "2026-07-01T17:54:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN report sees enormous potential benefits and big risks from AI",
-      "published_at": "2026-07-01T17:43:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least 5 people killed in fire in Antwerp apartment tower, Belgian police say",
-      "published_at": "2026-07-01T17:40:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lone star ticks are covering much of the U.S. Here's what you need to know",
-      "published_at": "2026-07-01T17:20:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Businessman goes on trial over murder of Maltese journalist",
-      "published_at": "2026-07-01T17:15:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man guilty of attempted murder of three children in Dublin",
-      "published_at": "2026-07-01T16:59:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former football behemoths tumble in new World Cup order",
-      "published_at": "2026-07-01T16:49:44+00:00"
+      "text": "Venezuela earthquake victims' shelters house homeless volunteers and survivors",
+      "published_at": "2026-07-01T18:18:17+00:00"
     }
   ]
 }
