@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-07-02T19:46:09+00:00",
+  "updated_at": "2026-07-02T21:20:41+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "published_at": "2026-07-02T20:34:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Endrick sleeps easy over Brazil bench role, placing trust in Ancelotti",
+      "published_at": "2026-07-02T20:26:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scaloni wary of World Cup surprise package Cape Verde despite Argentina's form",
+      "published_at": "2026-07-02T20:25:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "published_at": "2026-07-02T20:18:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Christian missionaries have found a new (virtual) mission territory",
+      "published_at": "2026-07-02T20:06:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Across the parking lot from the World Cup, baseball beckons",
+      "published_at": "2026-07-02T20:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ElevenLabs explores employee stock sale at $22 billion valuation, Bloomberg News reports",
+      "published_at": "2026-07-02T19:59:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Queiroz's Colombia past takes centre stage before World Cup clash",
+      "published_at": "2026-07-02T19:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morocco up next as Canada bid to extend dream World Cup run",
+      "published_at": "2026-07-02T19:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium must improve against confident co-hosts US after Senegal late show",
+      "published_at": "2026-07-02T19:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morgan Stanley, Goldman Sachs to match $1,000 contributions to Trump accounts opened for employees' children",
+      "published_at": "2026-07-02T19:01:12+00:00"
+    },
     {
       "source": "BBC",
       "text": "Killers of British couple in South Africa sentenced to life",
       "published_at": "2026-07-02T18:43:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Most massive' Russian attack on Kyiv kills at least 25",
-      "published_at": "2026-07-02T18:35:36+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +67,14 @@
       "published_at": "2026-07-02T18:26:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Scared but staying: migrant digs in as South Africa turns hostile",
-      "published_at": "2026-07-02T18:08:59+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Bomb blast at Damascus cafe kills six, Syrian state media say",
       "published_at": "2026-07-02T17:56:18+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina",
-      "published_at": "2026-07-02T17:51:50+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Canada aims to announce 10 countries backing global defence bank at NATO summit",
-      "published_at": "2026-07-02T17:42:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Vatican excommunicates followers of global Catholic sect",
-      "published_at": "2026-07-02T17:27:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration says the ICC has no jurisdiction over Americans",
-      "published_at": "2026-07-02T17:21:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trial for Bundibugyo Ebola treatment starts in DRC, WHO says",
-      "published_at": "2026-07-02T17:21:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ryanair warns of 'queue chaos' from new EU border system",
-      "published_at": "2026-07-02T17:17:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NATO plans to replace AWACS with Saab GlobalEye jets, sources say",
-      "published_at": "2026-07-02T17:13:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eliminated but not alone: Mexico City cafe becomes haven for World Cup heartbreak",
-      "published_at": "2026-07-02T17:08:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morgan Stanley, Goldman Sachs to match $1,000 contributions to Trump accounts opened for employees' children",
-      "published_at": "2026-07-02T17:06:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France wary of Paraguay revenge mission amid World Cup hype",
-      "published_at": "2026-07-02T16:59:43+00:00"
+      "text": "Pick n Pay launches AI grocery shopping assistant in South Africa",
+      "published_at": "2026-07-02T17:53:21+00:00"
     }
   ]
 }
