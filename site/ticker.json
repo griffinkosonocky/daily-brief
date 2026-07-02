@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-02T09:29:35+00:00",
+  "updated_at": "2026-07-02T12:19:10+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "World Cup, 250th anniversary to help drive up July 4 travel even as high fuel prices bite",
+      "published_at": "2026-07-02T12:02:58+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "At least 13 killed in 'most massive' Russian attack on Kyiv",
-      "published_at": "2026-07-02T09:15:16+00:00"
+      "text": "'Most massive' Russian attack on Kyiv kills at least 18",
+      "published_at": "2026-07-02T11:53:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US keep World Cup dream alive with gutsy win over Bosnia",
-      "published_at": "2026-07-02T09:08:14+00:00"
+      "text": "Yen rallies as traders alert to intervention risk, US payrolls in focus",
+      "published_at": "2026-07-02T11:34:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+      "published_at": "2026-07-02T11:23:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks",
+      "published_at": "2026-07-02T11:02:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Balogun goes from hero to suspended spectator as US advance",
+      "published_at": "2026-07-02T10:50:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Google loses fight against record €4.1 billion EU antitrust fine",
+      "published_at": "2026-07-02T10:46:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Beijing identifies pilot killed in crash into city's tallest building",
+      "published_at": "2026-07-02T10:23:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "EU border delays 'not bearable' over summer, warns airport boss",
+      "published_at": "2026-07-02T10:15:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Tank maker IPO shelving delays valuation reckoning",
+      "published_at": "2026-07-02T10:14:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Going outside in this heat? Follow these guidelines to stay safe",
+      "published_at": "2026-07-02T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon vows action against India delivery partner after fire probe concludes",
+      "published_at": "2026-07-02T09:30:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "published_at": "2026-07-02T09:21:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gueye says unavailable for Senegal duty under current coaching set-up",
+      "published_at": "2026-07-02T09:17:02+00:00"
     },
     {
       "source": "NPR",
       "text": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
       "published_at": "2026-07-02T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
-      "published_at": "2026-07-02T08:54:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Sintra, world's central bankers find ally in new Fed chief",
-      "published_at": "2026-07-02T08:22:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan's yen jumps, with traders twitchy about intervention risk",
-      "published_at": "2026-07-02T08:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Google loses fight against record €4.1 billion EU antitrust fine",
-      "published_at": "2026-07-02T08:05:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-      "published_at": "2026-07-02T07:40:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Aramco ramps up exports from Ras Tanura, switches to spot sales, sources say",
-      "published_at": "2026-07-02T07:23:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina seen managing 2027 debt wall but political risk is key",
-      "published_at": "2026-07-02T07:07:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
-      "published_at": "2026-07-02T05:57:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
-      "published_at": "2026-07-02T05:47:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - A US quincentennial will also hinge on immigrants",
-      "published_at": "2026-07-02T05:01:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "published_at": "2026-07-02T05:00:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "published_at": "2026-07-02T04:59:55+00:00"
     }
   ]
 }
