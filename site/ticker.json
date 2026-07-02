@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-07-01T22:38:19+00:00",
+  "updated_at": "2026-07-02T00:18:10+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Swiss to face familiar foe in Algeria World Cup showdown",
+      "published_at": "2026-07-01T23:11:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
+      "published_at": "2026-07-01T23:08:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "published_at": "2026-07-01T22:36:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup fans sue StubHub over cancelled tickets",
+      "published_at": "2026-07-01T22:35:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US, Iran talks conclude in Doha, focused on Strait of Hormuz",
       "published_at": "2026-07-01T22:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+      "published_at": "2026-07-01T22:13:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+      "published_at": "2026-07-01T22:13:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+      "published_at": "2026-07-01T22:04:01+00:00"
     },
     {
       "source": "Reuters",
@@ -18,8 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Portugal carry Jota's memory into World Cup clash on anniversary of his death",
-      "published_at": "2026-07-01T21:36:11+00:00"
+      "text": "How a free charm bracelet conquered the World Cup",
+      "published_at": "2026-07-01T21:39:44+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-      "published_at": "2026-07-01T21:23:44+00:00"
+      "text": "Alibaba to pay $600 million to resolve US drug sales probe",
+      "published_at": "2026-07-01T21:20:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Alibaba to pay $600 million to resolve US drug sales probe",
-      "published_at": "2026-07-01T21:20:25+00:00"
+      "text": "Judgment expected on July 7 in Prince Harry's legal battle against Mail publisher",
+      "published_at": "2026-07-01T20:25:35+00:00"
     },
     {
       "source": "BBC",
       "text": "Four die in Mexico City World Cup celebrations",
       "published_at": "2026-07-01T20:15:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
-      "published_at": "2026-07-01T20:08:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway offshore workers, employers enter mediation to avert strike",
-      "published_at": "2026-07-01T19:43:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'It's crazy': Broadcasters toil, and revel, in supersized World Cup",
-      "published_at": "2026-07-01T19:42:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI hopes and fears dominate global central bank meet",
-      "published_at": "2026-07-01T19:15:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US blocks long-term renewal of North American trade deal",
-      "published_at": "2026-07-01T18:56:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Greek politician's mother dies of wounds after arson attack",
-      "published_at": "2026-07-01T18:52:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Salah fitness race in focus for Egypt ahead of Australia clash",
-      "published_at": "2026-07-01T18:42:10+00:00"
     }
   ]
 }
