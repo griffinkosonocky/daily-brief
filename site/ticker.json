@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-07-02T00:18:10+00:00",
+  "updated_at": "2026-07-02T05:07:57+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "published_at": "2026-07-02T05:00:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Shares pull back as markets await likely payrolls beat",
+      "published_at": "2026-07-02T04:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US coach Pochettino says Balogun did not deserve red card",
+      "published_at": "2026-07-02T04:19:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "published_at": "2026-07-02T04:16:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Japan shifts to ambush intervention tactics against yen short sellers, sources say",
+      "published_at": "2026-07-02T03:37:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Balogun goes from hero to suspended spectator as US advance",
+      "published_at": "2026-07-02T02:52:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US keep World Cup dream alive with gutsy win over Bosnia",
+      "published_at": "2026-07-02T02:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Shanghai offers warmer welcome to China startups",
+      "published_at": "2026-07-02T02:23:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Did this AI anti-drug video make drugs look appealing?",
+      "published_at": "2026-07-02T01:54:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia trade swings to $2.1 billion deficit in May, largest since 2015",
+      "published_at": "2026-07-02T01:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium's 'remontada' against Senegal can spark improvement, Garcia says",
+      "published_at": "2026-07-02T01:15:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil falls for a third straight day after US, Iran talks conclude in Doha",
+      "published_at": "2026-07-02T01:11:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "published_at": "2026-07-02T00:26:13+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Swiss to face familiar foe in Algeria World Cup showdown",
@@ -10,71 +75,6 @@
       "source": "BBC",
       "text": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
       "published_at": "2026-07-01T23:08:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "published_at": "2026-07-01T22:36:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup fans sue StubHub over cancelled tickets",
-      "published_at": "2026-07-01T22:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Iran talks conclude in Doha, focused on Strait of Hormuz",
-      "published_at": "2026-07-01T22:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-      "published_at": "2026-07-01T22:13:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "published_at": "2026-07-01T22:13:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-      "published_at": "2026-07-01T22:04:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Portugal will approach knockouts like a 'second World Cup', says Martinez",
-      "published_at": "2026-07-01T21:53:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Young survivors of Venezuela quakes run shelters as search drags on",
-      "published_at": "2026-07-01T21:43:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How a free charm bracelet conquered the World Cup",
-      "published_at": "2026-07-01T21:39:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-      "published_at": "2026-07-01T21:27:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Alibaba to pay $600 million to resolve US drug sales probe",
-      "published_at": "2026-07-01T21:20:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Judgment expected on July 7 in Prince Harry's legal battle against Mail publisher",
-      "published_at": "2026-07-01T20:25:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four die in Mexico City World Cup celebrations",
-      "published_at": "2026-07-01T20:15:59+00:00"
     }
   ]
 }
