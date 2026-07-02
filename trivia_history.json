@@ -124,5 +124,11 @@
     "sport": "Sports",
     "question": "The Los Angeles Dodgers were originally from what U.S. city?",
     "answer": "Brooklyn"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "Sports",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "answer": "Eagle"
   }
 ]

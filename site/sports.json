@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-01",
-  "generated_at_ct": "Jul 1, 2026 at 8:15 AM CT",
+  "date_key": "2026-07-02",
+  "generated_at_ct": "Jul 2, 2026 at 7:26 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -9,109 +9,109 @@
       "full_name": "FIFA World Cup",
       "games": [
         {
-          "id": "5ff7744314f224c18d1604ee9cc19263",
+          "id": "a518ac20df8f5c732b881e213ae0c230",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "11:00 AM CT",
-          "commence_time": "2026-07-01T16:00:00Z",
-          "commence_ct": "11:00 AM CT",
-          "sort_time": "2026-07-01T16:00:00+00:00",
-          "home_team": "England",
-          "away_team": "DR Congo",
+          "status_label": "2:00 PM CT",
+          "commence_time": "2026-07-02T19:00:00Z",
+          "commence_ct": "2:00 PM CT",
+          "sort_time": "2026-07-02T19:00:00+00:00",
+          "home_team": "Spain",
+          "away_team": "Austria",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "8:15 AM CT",
-            "summary": "England -1.5",
+            "last_update_ct": "7:23 AM CT",
+            "summary": "Spain -1.5",
             "outcomes": [
               {
-                "name": "DR Congo",
+                "name": "Austria",
                 "point": 1.5,
                 "point_label": "+1.5",
-                "price": -118,
-                "price_label": "-118"
+                "price": -105,
+                "price_label": "-105"
               },
               {
-                "name": "England",
+                "name": "Spain",
                 "point": -1.5,
                 "point_label": "-1.5",
-                "price": -102,
-                "price_label": "-102"
+                "price": -115,
+                "price_label": "-115"
               }
             ]
           }
         },
         {
-          "id": "658ac8cbf214ca3cc150109b4ddc1e74",
+          "id": "852b4baf0be4b9eef2a30596a8d39249",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "3:00 PM CT",
-          "commence_time": "2026-07-01T20:00:00Z",
-          "commence_ct": "3:00 PM CT",
-          "sort_time": "2026-07-01T20:00:00+00:00",
-          "home_team": "Belgium",
-          "away_team": "Senegal",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-07-02T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-07-02T23:00:00+00:00",
+          "home_team": "Portugal",
+          "away_team": "Croatia",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "8:15 AM CT",
-            "summary": "Belgium -0.25",
+            "last_update_ct": "7:23 AM CT",
+            "summary": "Portugal -0.75",
             "outcomes": [
               {
-                "name": "Belgium",
-                "point": -0.25,
-                "point_label": "-0.25",
-                "price": -120,
-                "price_label": "-120"
+                "name": "Croatia",
+                "point": 0.75,
+                "point_label": "+0.75",
+                "price": -108,
+                "price_label": "-108"
               },
               {
-                "name": "Senegal",
-                "point": 0.25,
-                "point_label": "+0.25",
-                "price": 100,
-                "price_label": "+100"
+                "name": "Portugal",
+                "point": -0.75,
+                "point_label": "-0.75",
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
         },
         {
-          "id": "9eeb4876001f5a52ce3c3641bd5f1f2f",
+          "id": "c17fe2e46190d7ab6af01504ff240e82",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-07-02T00:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-07-02T00:00:00+00:00",
-          "home_team": "USA",
-          "away_team": "Bosnia & Herzegovina",
+          "status_label": "10:00 PM CT",
+          "commence_time": "2026-07-03T03:00:00Z",
+          "commence_ct": "10:00 PM CT",
+          "sort_time": "2026-07-03T03:00:00+00:00",
+          "home_team": "Switzerland",
+          "away_team": "Algeria",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "8:15 AM CT",
-            "summary": "USA -1.25",
+            "last_update_ct": "7:23 AM CT",
+            "summary": "Switzerland -0.5",
             "outcomes": [
               {
-                "name": "Bosnia & Herzegovina",
-                "point": 1.25,
-                "point_label": "+1.25",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "USA",
-                "point": -1.25,
-                "point_label": "-1.25",
+                "name": "Algeria",
+                "point": 0.5,
+                "point_label": "+0.5",
                 "price": -118,
                 "price_label": "-118"
+              },
+              {
+                "name": "Switzerland",
+                "point": -0.5,
+                "point_label": "-0.5",
+                "price": -102,
+                "price_label": "-102"
               }
             ]
           }
@@ -166,11 +166,11 @@
     "spreads": 3
   },
   "quota": {
-    "remaining": "496",
-    "used": "4",
+    "remaining": "492",
+    "used": "8",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-01T13:17:32+00:00"
+  "generated_at": "2026-07-02T12:28:04+00:00"
 }
