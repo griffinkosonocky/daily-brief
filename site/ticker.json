@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-03T17:43:19+00:00",
+  "updated_at": "2026-07-03T19:43:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Welcome to 'FIFA Gully': the Kolkata lane transformed by a love for football",
+      "published_at": "2026-07-03T19:19:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada hope healthy captain Alphonso Davies can help shock Morocco",
+      "published_at": "2026-07-03T19:08:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran begins public mourning for Ayatollah killed in February",
+      "published_at": "2026-07-03T19:03:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "It’s all in the numbers: Expanded World Cup brings more shocks, but heavyweights still rule",
+      "published_at": "2026-07-03T18:44:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico chase another slice of World Cup history as England return to the Azteca",
+      "published_at": "2026-07-03T18:20:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico World Cup legacy must include women beyond the stadiums, Afghan activist Popal says",
+      "published_at": "2026-07-03T18:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian attacks kill six in three different regions, officials say",
+      "published_at": "2026-07-03T18:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany to start talks with Klopp after parting ways with Nagelsmann, says DFB",
+      "published_at": "2026-07-03T17:49:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ecstatic Hamilton puts Ferrari on pole for Silverstone sprint",
+      "published_at": "2026-07-03T17:34:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Survivors retrieve belongings from homes wrecked by Russian strike",
@@ -8,8 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Germany to start talks with Klopp after parting ways with Nagelsmann, says DFB",
-      "published_at": "2026-07-03T16:58:54+00:00"
+      "text": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN's Turk",
+      "published_at": "2026-07-03T17:16:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada’s Kone feeling the love in supporting role after horror injury",
+      "published_at": "2026-07-03T16:56:29+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
       "published_at": "2026-07-03T16:31:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies",
-      "published_at": "2026-07-03T16:30:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada’s Kone feeling the love in supporting role after horror injury",
-      "published_at": "2026-07-03T16:24:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland's Tusk says Ukraine wants to lower tension, should confront history",
-      "published_at": "2026-07-03T16:01:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexican president urges responsible World Cup celebrations following deaths after last win",
-      "published_at": "2026-07-03T15:58:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "published_at": "2026-07-03T15:20:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "published_at": "2026-07-03T15:01:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German row over plan for workers to need sick note on first day of illness",
-      "published_at": "2026-07-03T14:56:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Congo cobalt exporters fear losing quotas due to administrative glitch, sources say",
-      "published_at": "2026-07-03T14:45:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US withdraws troops from Nigeria after Islamic State mission",
-      "published_at": "2026-07-03T14:00:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN's Turk",
-      "published_at": "2026-07-03T13:56:59+00:00"
     }
   ]
 }
