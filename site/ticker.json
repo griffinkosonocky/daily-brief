@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-03T07:33:17+00:00",
+  "updated_at": "2026-07-03T10:47:41+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Forty killed as bus falls into ditch in Pakistan's Balochistan",
-      "published_at": "2026-07-03T06:57:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "published_at": "2026-07-03T06:50:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Croatia vs. Portugal: What happened in those final, chaotic minutes",
-      "published_at": "2026-07-03T06:42:15+00:00"
+      "source": "BBC",
+      "text": "Nasa launches mission to save falling space telescope",
+      "published_at": "2026-07-03T10:28:17+00:00"
     },
     {
       "source": "BBC",
-      "text": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-      "published_at": "2026-07-03T06:42:14+00:00"
+      "text": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "published_at": "2026-07-03T10:23:32+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
-      "published_at": "2026-07-03T06:39:51+00:00"
+      "source": "Reuters",
+      "text": "Argentina's plan for AI-run companies can't avoid humans",
+      "published_at": "2026-07-03T10:21:05+00:00"
     },
     {
       "source": "BBC",
-      "text": "Venezuela quake survivor pulled out alive after eight days",
-      "published_at": "2026-07-03T06:38:45+00:00"
+      "text": "Ebola treatments trial begins in DR Congo",
+      "published_at": "2026-07-03T10:11:14+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Swiss steel sees off Algeria World Cup challenge, says Yakin",
-      "published_at": "2026-07-03T06:21:00+00:00"
+      "text": "Germany coach Nagelsmann leaves after World Cup exit, says DFB",
+      "published_at": "2026-07-03T10:09:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+      "published_at": "2026-07-03T09:56:57+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Researchers say EU lawmaker who investigated surveillance was hacked by Israeli spyware",
-      "published_at": "2026-07-03T06:02:00+00:00"
+      "text": "India investigating Tata data leak that exposed Apple iPhone secrets",
+      "published_at": "2026-07-03T09:45:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How drug gangs use social media to recruit Thai air crew as couriers",
+      "published_at": "2026-07-03T09:02:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A hot summer trend in the sharing economy? Rental swimming pools",
+      "published_at": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "But first, coffee: The drink that energized the American Revolution",
+      "published_at": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+      "published_at": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Oregon ER doctors win a 'David and Goliath' battle against a national company",
+      "published_at": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How young people feel about American identity, on the nation's 250th birthday",
+      "published_at": "2026-07-03T09:00:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Iran begins public mourning for Ayatollah killed in February",
-      "published_at": "2026-07-03T05:53:56+00:00"
+      "published_at": "2026-07-03T08:50:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Soccer-Switzerland sweep past Algeria to make World Cup last 16",
-      "published_at": "2026-07-03T05:22:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "published_at": "2026-07-03T04:41:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Stocks shake it off",
-      "published_at": "2026-07-03T04:38:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70",
-      "published_at": "2026-07-03T04:25:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "published_at": "2026-07-03T03:50:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Croatia coach Dalic slams 'bad refereeing' in 2-1 loss to Portugal",
-      "published_at": "2026-07-03T03:43:00+00:00"
+      "text": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN's Turk",
+      "published_at": "2026-07-03T08:40:09+00:00"
     }
   ]
 }
