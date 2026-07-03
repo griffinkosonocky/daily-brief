@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-03T10:47:41+00:00",
+  "updated_at": "2026-07-03T12:26:05+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Poland's Tusk says Ukraine wants to lower tension, should confront history",
+      "published_at": "2026-07-03T12:11:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Added time, added drama: Why more goals are coming later than ever",
+      "published_at": "2026-07-03T12:06:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "published_at": "2026-07-03T11:59:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+      "published_at": "2026-07-03T11:39:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany coach Nagelsmann steps down after World Cup exit; DFB talking to Klopp",
+      "published_at": "2026-07-03T11:16:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How drug gangs use social media to recruit Thai air crew as couriers",
+      "published_at": "2026-07-03T11:15:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US oil companies see big profit jump, gird for clash over pump prices with Trump",
+      "published_at": "2026-07-03T11:12:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chinese independent refiners snap up discounted Mideast oil as supplies rise",
+      "published_at": "2026-07-03T11:11:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Just gave birth or are about to? Share your story and questions about costs",
+      "published_at": "2026-07-03T11:03:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Former USAID head grieves its closure while hoping for its future",
+      "published_at": "2026-07-03T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events",
+      "published_at": "2026-07-03T10:51:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN's Turk",
+      "published_at": "2026-07-03T10:51:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nasa launches mission to save falling space telescope",
@@ -15,66 +75,6 @@
       "source": "Reuters",
       "text": "Argentina's plan for AI-run companies can't avoid humans",
       "published_at": "2026-07-03T10:21:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ebola treatments trial begins in DR Congo",
-      "published_at": "2026-07-03T10:11:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany coach Nagelsmann leaves after World Cup exit, says DFB",
-      "published_at": "2026-07-03T10:09:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-      "published_at": "2026-07-03T09:56:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India investigating Tata data leak that exposed Apple iPhone secrets",
-      "published_at": "2026-07-03T09:45:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How drug gangs use social media to recruit Thai air crew as couriers",
-      "published_at": "2026-07-03T09:02:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A hot summer trend in the sharing economy? Rental swimming pools",
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "But first, coffee: The drink that energized the American Revolution",
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Oregon ER doctors win a 'David and Goliath' battle against a national company",
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How young people feel about American identity, on the nation's 250th birthday",
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran begins public mourning for Ayatollah killed in February",
-      "published_at": "2026-07-03T08:50:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN's Turk",
-      "published_at": "2026-07-03T08:40:09+00:00"
     }
   ]
 }

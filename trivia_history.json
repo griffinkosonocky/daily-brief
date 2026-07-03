@@ -130,5 +130,11 @@
     "sport": "Sports",
     "question": "In golf, what name is given to a hole score of two under par?",
     "answer": "Eagle"
+  },
+  {
+    "date": "2026-07-03",
+    "sport": "Sports",
+    "question": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
+    "answer": "Italian Grand Prix"
   }
 ]
