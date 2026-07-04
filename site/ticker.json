@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-07-04T12:14:20+00:00",
+  "updated_at": "2026-07-04T14:43:43+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "World Cup players facing growing pattern of racist abuse, FIFPRO warns",
+      "published_at": "2026-07-04T14:21:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qualifier Krueger celebrates July 4 with Wimbledon victory",
+      "published_at": "2026-07-04T14:19:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+      "published_at": "2026-07-04T14:07:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "published_at": "2026-07-04T14:07:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Germany as far-right AfD sets sights on power",
+      "published_at": "2026-07-04T13:25:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's auto industry defends ethanol fuel mandate amid backlash",
+      "published_at": "2026-07-04T13:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "F1 leader Antonelli powers past Hamilton for first sprint win",
+      "published_at": "2026-07-04T12:30:20+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Insurgents stage attacks across Mali, army says situation 'under control'",
-      "published_at": "2026-07-04T12:04:32+00:00"
+      "published_at": "2026-07-04T12:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "published_at": "2026-07-04T12:05:41+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
       "published_at": "2026-07-04T08:24:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morocco's football dreams fertilized by phosphate riches",
-      "published_at": "2026-07-04T08:06:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "published_at": "2026-07-04T07:52:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Curran keen to step in as England all-rounder after Stokes' retirement",
-      "published_at": "2026-07-04T07:31:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands protest in Germany against far-right AfD",
-      "published_at": "2026-07-04T07:18:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australian game benefiting from format crossovers, Sevens players say",
-      "published_at": "2026-07-04T07:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
-      "published_at": "2026-07-04T06:06:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ghana's World Cup exit down to a lack of maturity, says Queiroz",
-      "published_at": "2026-07-04T05:48:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-      "published_at": "2026-07-04T05:44:19+00:00"
     }
   ]
 }
