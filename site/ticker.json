@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-04T11:51:33+00:00",
+  "updated_at": "2026-07-04T12:14:20+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Insurgents stage attacks across Mali, army says situation 'under control'",
+      "published_at": "2026-07-04T12:04:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: America is still a work in progress",
+      "published_at": "2026-07-04T12:00:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Pope urges Europe to do more for migrants while visiting gateway island",
@@ -53,11 +63,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Extreme heat could change the mix for European drinks makers",
-      "published_at": "2026-07-04T06:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
       "published_at": "2026-07-04T06:06:00+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "NPR",
       "text": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
       "published_at": "2026-07-04T05:44:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lorenzo praises Colombia's defensive resolve after win over Ghana",
-      "published_at": "2026-07-04T05:40:00+00:00"
     }
   ]
 }
