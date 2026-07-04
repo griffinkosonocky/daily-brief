@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-04T07:11:45+00:00",
+  "updated_at": "2026-07-04T10:22:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "published_at": "2026-07-04T09:45:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Cautiously optimistic': Swing voters describe their view of America at 250",
+      "published_at": "2026-07-04T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "published_at": "2026-07-04T08:24:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morocco's football dreams fertilized by phosphate riches",
+      "published_at": "2026-07-04T08:06:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "published_at": "2026-07-04T07:52:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Curran keen to step in as England all-rounder after Stokes' retirement",
+      "published_at": "2026-07-04T07:31:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Germany against far-right AfD",
+      "published_at": "2026-07-04T07:18:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australian game benefiting from format crossovers, Sevens players say",
+      "published_at": "2026-07-04T07:09:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
@@ -32,49 +72,9 @@
       "published_at": "2026-07-04T04:54:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iran begins public mourning for Ayatollah killed in February",
-      "published_at": "2026-07-04T04:12:06+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Reflections on America's 250th birthday",
       "published_at": "2026-07-04T04:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Tchouameni to miss Paraguay clash with thigh injury, says report",
-      "published_at": "2026-07-04T04:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Colombia edge Ghana 1-0 to set up Switzerland showdown",
-      "published_at": "2026-07-04T03:39:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi answers the call once again as Argentina survive scare",
-      "published_at": "2026-07-04T03:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-      "published_at": "2026-07-04T02:57:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Proud Cape Verde coach Bubista bids bittersweet farewell to World Cup",
-      "published_at": "2026-07-04T02:46:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "published_at": "2026-07-04T02:26:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina made to suffer in Cape Verde World Cup scare, says Scaloni",
-      "published_at": "2026-07-04T01:55:00+00:00"
     }
   ]
 }
