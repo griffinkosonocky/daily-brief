@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-07-04T20:15:31+00:00",
+  "updated_at": "2026-07-04T22:08:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
+      "published_at": "2026-07-04T22:00:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+      "published_at": "2026-07-04T21:38:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada tell fans 'the journey is only just beginning' after Morocco defeat",
+      "published_at": "2026-07-04T21:31:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
+      "published_at": "2026-07-04T20:45:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morocco's ruthless touch and street smarts show evolution into top team",
+      "published_at": "2026-07-04T20:36:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
+      "published_at": "2026-07-04T20:34:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
+      "published_at": "2026-07-04T20:19:11+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US feel fans' belief ahead of Belgium battle, Dest says",
       "published_at": "2026-07-04T20:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Antonelli follows up sprint win with British GP pole",
+      "published_at": "2026-07-04T19:54:22+00:00"
     },
     {
       "source": "Reuters",
@@ -13,8 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Militants on trucks in Mali say 'God is Great' as gunshots ring out",
-      "published_at": "2026-07-04T19:16:18+00:00"
+      "text": "Morocco's football dreams fertilized by phosphate riches",
+      "published_at": "2026-07-04T19:50:32+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
       "published_at": "2026-07-04T18:41:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insurgents stage attacks across Mali, army says situation 'under control'",
-      "published_at": "2026-07-04T18:37:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Renard's short stint as Tunisia coach ends after World Cup group-stage exit",
-      "published_at": "2026-07-04T18:35:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "published_at": "2026-07-04T17:51:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
-      "published_at": "2026-07-04T17:48:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Injury ends Williams' Wimbledon comeback",
-      "published_at": "2026-07-04T17:22:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Antonelli follows up sprint win with British GP pole",
-      "published_at": "2026-07-04T17:13:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina's hard-fought win over Cape Verde raises questions",
-      "published_at": "2026-07-04T17:01:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lack of individual quality at heart of Asia's poor World Cup showing",
-      "published_at": "2026-07-04T16:53:44+00:00"
     }
   ]
 }
