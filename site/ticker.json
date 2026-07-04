@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-07-04T16:13:41+00:00",
+  "updated_at": "2026-07-04T18:11:45+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Argentina's hard-fought win over Cape Verde raises questions",
-      "published_at": "2026-07-04T16:09:43+00:00"
+      "source": "BBC",
+      "text": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "published_at": "2026-07-04T17:51:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Injury ends Williams' Wimbledon comeback",
+      "published_at": "2026-07-04T17:22:46+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Captain Davies on the bench for Canada in last-16 clash with Morocco",
-      "published_at": "2026-07-04T15:52:54+00:00"
+      "text": "Antonelli follows up sprint win with British GP pole",
+      "published_at": "2026-07-04T17:13:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina's hard-fought win over Cape Verde raises questions",
+      "published_at": "2026-07-04T17:01:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lack of individual quality at heart of Asia's poor World Cup showing",
+      "published_at": "2026-07-04T16:53:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "published_at": "2026-07-04T16:49:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Germany as far-right AfD sets sights on power",
+      "published_at": "2026-07-04T16:48:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Magnificent World Cup campaign puts Cape Verde firmly on the map",
+      "published_at": "2026-07-04T16:47:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Washington's July 4 parade is off. The fireworks are still on",
+      "published_at": "2026-07-04T16:42:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain eye revenge as Ronaldo's Portugal loom in Texas last-16 tinderbox",
+      "published_at": "2026-07-04T16:30:49+00:00"
     },
     {
       "source": "NPR",
@@ -17,19 +57,14 @@
       "published_at": "2026-07-04T15:51:49+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Former chess champion Kramnik banned over cheating remarks",
+      "published_at": "2026-07-04T15:45:15+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "World Cup players facing growing pattern of racist abuse, FIFPRO warns",
       "published_at": "2026-07-04T15:26:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands protest in Germany as far-right AfD sets sights on power",
-      "published_at": "2026-07-04T15:13:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Injury ends Williams' Wimbledon comeback",
-      "published_at": "2026-07-04T15:06:26+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Ake leaves Man City after six seasons to join Fenerbahce",
       "published_at": "2026-07-04T14:57:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Qualifier Krueger celebrates July 4 with Wimbledon victory",
-      "published_at": "2026-07-04T14:19:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
-      "published_at": "2026-07-04T14:07:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "published_at": "2026-07-04T14:07:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's auto industry defends ethanol fuel mandate amid backlash",
-      "published_at": "2026-07-04T14:06:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "F1 leader Antonelli powers past Hamilton for first sprint win",
-      "published_at": "2026-07-04T12:30:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insurgents stage attacks across Mali, army says situation 'under control'",
-      "published_at": "2026-07-04T12:05:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "published_at": "2026-07-04T12:05:41+00:00"
     }
   ]
 }
