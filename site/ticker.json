@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-04T10:22:13+00:00",
+  "updated_at": "2026-07-04T11:51:33+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "published_at": "2026-07-04T11:25:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia eye seventh women's T20 World Cup crown as England seek home glory",
+      "published_at": "2026-07-04T10:41:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
@@ -43,6 +53,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Extreme heat could change the mix for European drinks makers",
+      "published_at": "2026-07-04T06:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Ibrahimovic offers support to Australia's Herrington after World Cup penalty heartbreak",
       "published_at": "2026-07-04T06:06:00+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Lorenzo praises Colombia's defensive resolve after win over Ghana",
       "published_at": "2026-07-04T05:40:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-      "published_at": "2026-07-04T05:04:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK Hynix considering 0.5% fee payout in ADR offering, Bloomberg News reports",
-      "published_at": "2026-07-04T04:54:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Reflections on America's 250th birthday",
-      "published_at": "2026-07-04T04:00:00+00:00"
     }
   ]
 }

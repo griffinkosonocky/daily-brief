@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-03",
-  "generated_at_ct": "Jul 3, 2026 at 7:23 AM CT",
+  "date_key": "2026-07-04",
+  "generated_at_ct": "Jul 4, 2026 at 6:50 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -9,109 +9,73 @@
       "full_name": "FIFA World Cup",
       "games": [
         {
-          "id": "fb270a3dac2b682c861bd674a5ff4a04",
+          "id": "9c7073ae2c29ee4881bb695f92168c68",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "1:00 PM CT",
-          "commence_time": "2026-07-03T18:00:00Z",
-          "commence_ct": "1:00 PM CT",
-          "sort_time": "2026-07-03T18:00:00+00:00",
-          "home_team": "Australia",
-          "away_team": "Egypt",
+          "status_label": "12:00 PM CT",
+          "commence_time": "2026-07-04T17:00:00Z",
+          "commence_ct": "12:00 PM CT",
+          "sort_time": "2026-07-04T17:00:00+00:00",
+          "home_team": "Canada",
+          "away_team": "Morocco",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "7:23 AM CT",
-            "summary": "Egypt -0.25",
+            "last_update_ct": "6:48 AM CT",
+            "summary": "Morocco -0.75",
             "outcomes": [
               {
-                "name": "Australia",
-                "point": 0.25,
-                "point_label": "+0.25",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Canada",
+                "point": 0.75,
+                "point_label": "+0.75",
+                "price": -118,
+                "price_label": "-118"
               },
               {
-                "name": "Egypt",
-                "point": -0.25,
-                "point_label": "-0.25",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Morocco",
+                "point": -0.75,
+                "point_label": "-0.75",
+                "price": -102,
+                "price_label": "-102"
               }
             ]
           }
         },
         {
-          "id": "3e161b2448ed76d6b0c0f5bda6fd5bf2",
+          "id": "c798a1ffdeda28e82d930e7145a8ff10",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "5:00 PM CT",
-          "commence_time": "2026-07-03T22:00:00Z",
-          "commence_ct": "5:00 PM CT",
-          "sort_time": "2026-07-03T22:00:00+00:00",
-          "home_team": "Argentina",
-          "away_team": "Cape Verde",
+          "status_label": "4:00 PM CT",
+          "commence_time": "2026-07-04T21:00:00Z",
+          "commence_ct": "4:00 PM CT",
+          "sort_time": "2026-07-04T21:00:00+00:00",
+          "home_team": "Paraguay",
+          "away_team": "France",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "7:23 AM CT",
-            "summary": "Argentina -2.25",
+            "last_update_ct": "6:48 AM CT",
+            "summary": "France -2",
             "outcomes": [
               {
-                "name": "Argentina",
-                "point": -2.25,
-                "point_label": "-2.25",
-                "price": 105,
-                "price_label": "+105"
+                "name": "France",
+                "point": -2.0,
+                "point_label": "-2",
+                "price": 102,
+                "price_label": "+102"
               },
               {
-                "name": "Cape Verde",
-                "point": 2.25,
-                "point_label": "+2.25",
-                "price": -125,
-                "price_label": "-125"
-              }
-            ]
-          }
-        },
-        {
-          "id": "88e032a2b2e5042d26db3f0da1df924a",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "8:30 PM CT",
-          "commence_time": "2026-07-04T01:30:00Z",
-          "commence_ct": "8:30 PM CT",
-          "sort_time": "2026-07-04T01:30:00+00:00",
-          "home_team": "Colombia",
-          "away_team": "Ghana",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "7:23 AM CT",
-            "summary": "Colombia -1.25",
-            "outcomes": [
-              {
-                "name": "Colombia",
-                "point": -1.25,
-                "point_label": "-1.25",
-                "price": 100,
-                "price_label": "+100"
-              },
-              {
-                "name": "Ghana",
-                "point": 1.25,
-                "point_label": "+1.25",
-                "price": -120,
-                "price_label": "-120"
+                "name": "Paraguay",
+                "point": 2.0,
+                "point_label": "+2",
+                "price": -122,
+                "price_label": "-122"
               }
             ]
           }
@@ -159,18 +123,18 @@
     }
   ],
   "summary": {
-    "games": 3,
+    "games": 2,
     "live": 0,
     "final": 0,
-    "upcoming": 3,
-    "spreads": 3
+    "upcoming": 2,
+    "spreads": 2
   },
   "quota": {
-    "remaining": "488",
-    "used": "12",
+    "remaining": "484",
+    "used": "16",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-03T12:26:03+00:00"
+  "generated_at": "2026-07-04T11:51:30+00:00"
 }
