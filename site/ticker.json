@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-07-04T14:43:43+00:00",
+  "updated_at": "2026-07-04T16:13:41+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Argentina's hard-fought win over Cape Verde raises questions",
+      "published_at": "2026-07-04T16:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Captain Davies on the bench for Canada in last-16 clash with Morocco",
+      "published_at": "2026-07-04T15:52:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+      "published_at": "2026-07-04T15:51:49+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "World Cup players facing growing pattern of racist abuse, FIFPRO warns",
-      "published_at": "2026-07-04T14:21:44+00:00"
+      "published_at": "2026-07-04T15:26:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Germany as far-right AfD sets sights on power",
+      "published_at": "2026-07-04T15:13:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Injury ends Williams' Wimbledon comeback",
+      "published_at": "2026-07-04T15:06:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Armenia's top court rejects pro-Russia opposition's request to throw out election result",
+      "published_at": "2026-07-04T14:58:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ake leaves Man City after six seasons to join Fenerbahce",
+      "published_at": "2026-07-04T14:57:12+00:00"
     },
     {
       "source": "Reuters",
@@ -23,13 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Thousands protest in Germany as far-right AfD sets sights on power",
-      "published_at": "2026-07-04T13:25:45+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "India's auto industry defends ethanol fuel mandate amid backlash",
-      "published_at": "2026-07-04T13:17:43+00:00"
+      "published_at": "2026-07-04T14:06:15+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
       "published_at": "2026-07-04T12:05:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: America is still a work in progress",
-      "published_at": "2026-07-04T12:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope urges Europe to do more for migrants while visiting gateway island",
-      "published_at": "2026-07-04T11:25:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia eye seventh women's T20 World Cup crown as England seek home glory",
-      "published_at": "2026-07-04T10:41:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "published_at": "2026-07-04T09:45:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Cautiously optimistic': Swing voters describe their view of America at 250",
-      "published_at": "2026-07-04T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "published_at": "2026-07-04T08:24:17+00:00"
     }
   ]
 }
