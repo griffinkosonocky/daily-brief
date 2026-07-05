@@ -1,9 +1,34 @@
 {
-  "updated_at": "2026-07-05T19:39:51+00:00",
+  "updated_at": "2026-07-05T21:15:59+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump thanks Fifa for overturning USA striker's ban",
+      "text": "Super typhoon Bavi nears Pacific islands with huge wind gusts",
+      "published_at": "2026-07-05T21:04:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+      "published_at": "2026-07-05T20:54:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA makes unprecedented U-turn to clear Balogun for US v Belgium World Cup clash",
+      "published_at": "2026-07-05T20:46:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'It's going to be mental' -- atmosphere sizzles ahead of Mexico v England",
+      "published_at": "2026-07-05T20:05:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "National Guard troops fatally shoot a man in downtown Memphis",
+      "published_at": "2026-07-05T19:40:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump thanks Fifa for spending USA striker's ban",
       "published_at": "2026-07-05T19:36:11+00:00"
     },
     {
@@ -23,7 +48,7 @@
     },
     {
       "source": "NPR",
-      "text": "Folarin Balogun's soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
+      "text": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
       "published_at": "2026-07-05T18:37:19+00:00"
     },
     {
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "EXCLUSIVE: International Swimming League to pay overdue 2021 prize money, eyes comeback",
+      "published_at": "2026-07-05T18:18:21+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Australia dominate England to take T20 World Cup",
       "published_at": "2026-07-05T18:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel government says it will defy Supreme Court ruling on media regulator",
-      "published_at": "2026-07-05T18:01:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "published_at": "2026-07-05T17:58:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-      "published_at": "2026-07-05T17:54:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Emotion and politics merge in Tehran at funeral of former supreme leader",
-      "published_at": "2026-07-05T17:54:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morocco buck African trend as late coaching change pays off again",
-      "published_at": "2026-07-05T17:41:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "published_at": "2026-07-05T17:30:45+00:00"
     }
   ]
 }
