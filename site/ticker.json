@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-07-05T08:14:35+00:00",
+  "updated_at": "2026-07-05T11:10:35+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "published_at": "2026-07-05T07:44:39+00:00"
+      "source": "NPR",
+      "text": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "published_at": "2026-07-05T10:28:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Foxconn second-quarter revenue jumps 40% y/y",
-      "published_at": "2026-07-05T07:43:43+00:00"
+      "text": "International Swimming League to pay overdue 2021 prize money, eyes comeback",
+      "published_at": "2026-07-05T10:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What's in a song? The story behind the music playing at World Cup stadiums",
+      "published_at": "2026-07-05T10:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+      "published_at": "2026-07-05T09:31:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Evacuations in Guam as super typhoon Bavi approaches",
+      "published_at": "2026-07-05T09:26:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pastor freed from prison in China weeks after Trump requested his release",
+      "published_at": "2026-07-05T08:30:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "published_at": "2026-07-05T08:24:32+00:00"
     },
     {
       "source": "Reuters",
@@ -25,16 +50,6 @@
       "source": "BBC",
       "text": "Chinese underground church figure Jin Mingri freed from prison",
       "published_at": "2026-07-05T05:58:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
-      "published_at": "2026-07-05T05:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Christian NGO welcomes release of pastor held in southern China",
-      "published_at": "2026-07-05T04:10:00+00:00"
     },
     {
       "source": "Reuters",
@@ -54,27 +69,12 @@
     {
       "source": "Reuters",
       "text": "Deschamps keeps his cool as France survive Paraguay's provocation",
-      "published_at": "2026-07-05T01:03:43+00:00"
+      "published_at": "2026-07-05T01:02:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "Mexicans balance World Cup joy with worries over domestic issues",
-      "published_at": "2026-07-05T00:24:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France survive Paraguay's prickly test but warning lights flash",
-      "published_at": "2026-07-05T00:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
-      "published_at": "2026-07-04T23:37:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe keeps cool as France survive furnace against Paraguay",
-      "published_at": "2026-07-04T23:36:27+00:00"
+      "published_at": "2026-07-05T00:04:00+00:00"
     }
   ]
 }
