@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-05T00:10:33+00:00",
+  "updated_at": "2026-07-05T05:06:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "published_at": "2026-07-05T04:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
+      "published_at": "2026-07-05T04:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England ready to write their own chapter in iconic match, says Tuchel",
+      "published_at": "2026-07-05T01:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Deschamps keeps his cool as France survive Paraguay's provocation",
+      "published_at": "2026-07-05T01:03:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Mexicans balance World Cup joy with worries over domestic issues",
-      "published_at": "2026-07-05T00:04:00+00:00"
+      "published_at": "2026-07-05T00:24:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ancelotti hopeful of Raphinha return as Brazil plot Haaland shutdown",
+      "published_at": "2026-07-05T00:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France survive Paraguay's prickly test but warning lights flash",
+      "published_at": "2026-07-05T00:13:00+00:00"
     },
     {
       "source": "Reuters",
@@ -13,13 +43,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Deschamps feared Paraguay would 'chop down' Mbappe as France advance",
-      "published_at": "2026-07-04T23:36:09+00:00"
+      "text": "Mbappe keeps cool as France survive furnace against Paraguay",
+      "published_at": "2026-07-04T23:36:27+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Mbappe keeps cool as France survive furnace against Paraguay",
-      "published_at": "2026-07-04T23:24:49+00:00"
+      "source": "BBC",
+      "text": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "published_at": "2026-07-04T23:17:24+00:00"
     },
     {
       "source": "Reuters",
@@ -28,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Jefferson-Wooden edges Richardson in 100m in Eugene",
-      "published_at": "2026-07-04T22:41:53+00:00"
+      "text": "Insurgents stage coordinated attacks on army positions across Mali",
+      "published_at": "2026-07-04T22:58:19+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Eating champion Joey Chestnut defends title but blames heat for lower hot-dog tally",
       "published_at": "2026-07-04T22:24:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Masked Patriot Front white nationalists stage July 4 march through DC",
-      "published_at": "2026-07-04T22:16:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
-      "published_at": "2026-07-04T22:00:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Funeral of Iran's former supreme leader 'intensely political moment'",
-      "published_at": "2026-07-04T21:46:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada tell fans 'the journey is only just beginning' after Morocco defeat",
-      "published_at": "2026-07-04T21:31:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
-      "published_at": "2026-07-04T20:45:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morocco's ruthless touch and street smarts show evolution into top team",
-      "published_at": "2026-07-04T20:36:05+00:00"
     }
   ]
 }
