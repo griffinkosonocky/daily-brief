@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-07-04T22:08:07+00:00",
+  "updated_at": "2026-07-05T00:10:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Mexicans balance World Cup joy with worries over domestic issues",
+      "published_at": "2026-07-05T00:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+      "published_at": "2026-07-04T23:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Deschamps feared Paraguay would 'chop down' Mbappe as France advance",
+      "published_at": "2026-07-04T23:36:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe keeps cool as France survive furnace against Paraguay",
+      "published_at": "2026-07-04T23:24:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe penalty sends France past Paraguay into World Cup quarter-finals",
+      "published_at": "2026-07-04T23:10:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jefferson-Wooden edges Richardson in 100m in Eugene",
+      "published_at": "2026-07-04T22:41:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
+      "published_at": "2026-07-04T22:34:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war",
+      "published_at": "2026-07-04T22:33:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Eating champion Joey Chestnut defends title but blames heat for lower hot-dog tally",
+      "published_at": "2026-07-04T22:24:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Masked Patriot Front white nationalists stage July 4 march through DC",
+      "published_at": "2026-07-04T22:16:25+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
       "published_at": "2026-07-04T22:00:56+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
-      "published_at": "2026-07-04T21:38:30+00:00"
+      "source": "BBC",
+      "text": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "published_at": "2026-07-04T21:46:43+00:00"
     },
     {
       "source": "Reuters",
@@ -18,63 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
-      "published_at": "2026-07-04T20:45:05+00:00"
+      "text": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
+      "published_at": "2026-07-04T20:45:33+00:00"
     },
     {
       "source": "Reuters",
       "text": "Morocco's ruthless touch and street smarts show evolution into top team",
       "published_at": "2026-07-04T20:36:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
-      "published_at": "2026-07-04T20:34:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
-      "published_at": "2026-07-04T20:19:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US feel fans' belief ahead of Belgium battle, Dest says",
-      "published_at": "2026-07-04T20:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Antonelli follows up sprint win with British GP pole",
-      "published_at": "2026-07-04T19:54:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
-      "published_at": "2026-07-04T19:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morocco's football dreams fertilized by phosphate riches",
-      "published_at": "2026-07-04T19:50:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vancouver sunset pickup players hope to build on World Cup legacy",
-      "published_at": "2026-07-04T19:08:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Al-Ahli part ways with Mahrez",
-      "published_at": "2026-07-04T18:59:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US face Belgium in Seattle with World Cup expectations rising",
-      "published_at": "2026-07-04T18:58:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "published_at": "2026-07-04T18:41:25+00:00"
     }
   ]
 }
