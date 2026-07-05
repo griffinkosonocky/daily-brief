@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-05T14:03:36+00:00",
+  "updated_at": "2026-07-05T15:33:36+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
+      "published_at": "2026-07-05T14:59:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Construction is a man's game. These women are demolishing the barriers",
+      "published_at": "2026-07-05T14:10:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What's in a song? The story behind the music playing at World Cup stadiums",
+      "published_at": "2026-07-05T13:37:40+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
@@ -18,13 +33,13 @@
     },
     {
       "source": "NPR",
-      "text": "Pennsylvania's proposed data centers are bringing strangers together in protest",
-      "published_at": "2026-07-05T12:26:06+00:00"
+      "text": "A new law in California will clarify 'sell by' dates to reduce food waste",
+      "published_at": "2026-07-05T12:26:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "What's in a song? The story behind the music playing at World Cup stadiums",
-      "published_at": "2026-07-05T12:10:22+00:00"
+      "source": "NPR",
+      "text": "Pennsylvania's proposed data centers are bringing strangers together in protest",
+      "published_at": "2026-07-05T12:26:06+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Pastor freed from prison in China weeks after Trump requested his release",
       "published_at": "2026-07-05T08:30:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "published_at": "2026-07-05T08:24:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China, Russia navies to hold drills off China coast",
-      "published_at": "2026-07-05T07:20:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Scorching heat and delays: How Washington DC marked America 250",
-      "published_at": "2026-07-05T07:19:08+00:00"
     }
   ]
 }
