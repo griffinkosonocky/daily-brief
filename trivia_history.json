@@ -142,5 +142,11 @@
     "sport": "Sports",
     "question": "What team did England beat to win in the 1966 World Cup final?",
     "answer": "West Germany"
+  },
+  {
+    "date": "2026-07-05",
+    "sport": "Sports",
+    "question": "In a game of snooker, what colour ball is worth 3 points?",
+    "answer": "Green"
   }
 ]
