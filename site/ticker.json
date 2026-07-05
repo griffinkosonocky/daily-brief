@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-07-05T05:06:40+00:00",
+  "updated_at": "2026-07-05T08:14:35+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
-      "published_at": "2026-07-05T04:38:09+00:00"
+      "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "published_at": "2026-07-05T07:44:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Foxconn second-quarter revenue jumps 40% y/y",
+      "published_at": "2026-07-05T07:43:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China, Russia navies to hold drills off China coast",
+      "published_at": "2026-07-05T07:20:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Scorching heat and delays: How Washington DC marked America 250",
+      "published_at": "2026-07-05T07:19:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chinese underground church figure Jin Mingri freed from prison",
+      "published_at": "2026-07-05T05:58:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
+      "published_at": "2026-07-05T05:28:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Christian NGO welcomes release of pastor held in southern China",
+      "published_at": "2026-07-05T04:10:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
       "published_at": "2026-07-05T04:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "No complaints but open wounds for Paraguay coach",
+      "published_at": "2026-07-05T01:58:00+00:00"
     },
     {
       "source": "Reuters",
@@ -28,11 +63,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Ancelotti hopeful of Raphinha return as Brazil plot Haaland shutdown",
-      "published_at": "2026-07-05T00:18:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "France survive Paraguay's prickly test but warning lights flash",
       "published_at": "2026-07-05T00:13:00+00:00"
     },
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Mbappe keeps cool as France survive furnace against Paraguay",
       "published_at": "2026-07-04T23:36:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "published_at": "2026-07-04T23:17:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe penalty sends France past Paraguay into World Cup quarter-finals",
-      "published_at": "2026-07-04T23:10:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insurgents stage coordinated attacks on army positions across Mali",
-      "published_at": "2026-07-04T22:58:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals",
-      "published_at": "2026-07-04T22:34:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war",
-      "published_at": "2026-07-04T22:33:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eating champion Joey Chestnut defends title but blames heat for lower hot-dog tally",
-      "published_at": "2026-07-04T22:24:32+00:00"
     }
   ]
 }
