@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-07-05T21:15:59+00:00",
+  "updated_at": "2026-07-05T23:14:41+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
+      "published_at": "2026-07-05T23:08:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Quansah starts at right back for England in last-16 clash against Mexico",
+      "published_at": "2026-07-05T22:49:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haaland double as Norway stun Brazil to reach World Cup quarter-finals",
+      "published_at": "2026-07-05T22:34:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
+      "published_at": "2026-07-05T22:30:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA makes U-turn to clear Balogun for US v Belgium World Cup clash following call from Trump",
+      "published_at": "2026-07-05T22:21:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey",
+      "published_at": "2026-07-05T22:19:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "De la Fuente seeks Nations League reminder ahead of Portugal clash",
+      "published_at": "2026-07-05T22:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "I just want to get drunk, Sabalenka says, after Wimbledon exit",
+      "published_at": "2026-07-05T21:53:43+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Super typhoon Bavi nears Pacific islands with huge wind gusts",
-      "published_at": "2026-07-05T21:04:55+00:00"
+      "text": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "published_at": "2026-07-05T21:39:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Queiroz steps down as Ghana coach after three months in charge",
+      "published_at": "2026-07-05T21:11:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Y si sí: the phrase uniting Mexico during the World Cup",
+      "published_at": "2026-07-05T21:03:43+00:00"
     },
     {
       "source": "NPR",
@@ -13,13 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "FIFA makes unprecedented U-turn to clear Balogun for US v Belgium World Cup clash",
-      "published_at": "2026-07-05T20:46:33+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "'It's going to be mental' -- atmosphere sizzles ahead of Mexico v England",
-      "published_at": "2026-07-05T20:05:14+00:00"
+      "published_at": "2026-07-05T20:47:13+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "Trump thanks Fifa for spending USA striker's ban",
       "published_at": "2026-07-05T19:36:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jordan part ways with coach Sellami",
-      "published_at": "2026-07-05T19:08:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swiss expect toughest challenge yet from Colombia in last 16",
-      "published_at": "2026-07-05T18:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Martinelli in for Paqueta as Ryerson returns for Norway v Brazil",
-      "published_at": "2026-07-05T18:51:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
-      "published_at": "2026-07-05T18:37:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-      "published_at": "2026-07-05T18:35:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Manzambi the man to watch as Swiss take on Colombia",
-      "published_at": "2026-07-05T18:19:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-      "published_at": "2026-07-05T18:18:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: International Swimming League to pay overdue 2021 prize money, eyes comeback",
-      "published_at": "2026-07-05T18:18:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia dominate England to take T20 World Cup",
-      "published_at": "2026-07-05T18:11:43+00:00"
     }
   ]
 }
