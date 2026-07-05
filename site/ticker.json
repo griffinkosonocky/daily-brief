@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-07-05T15:33:36+00:00",
+  "updated_at": "2026-07-05T17:23:41+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
+      "text": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "published_at": "2026-07-05T15:48:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "published_at": "2026-07-05T15:48:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
       "published_at": "2026-07-05T14:59:10+00:00"
     },
     {
       "source": "NPR",
       "text": "Construction is a man's game. These women are demolishing the barriers",
       "published_at": "2026-07-05T14:10:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What's in a song? The story behind the music playing at World Cup stadiums",
-      "published_at": "2026-07-05T13:37:40+00:00"
     },
     {
       "source": "BBC",
@@ -27,11 +32,6 @@
       "published_at": "2026-07-05T12:55:58+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "published_at": "2026-07-05T12:29:18+00:00"
-    },
-    {
       "source": "NPR",
       "text": "A new law in California will clarify 'sell by' dates to reduce food waste",
       "published_at": "2026-07-05T12:26:17+00:00"
@@ -42,29 +42,9 @@
       "published_at": "2026-07-05T12:26:06+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
-      "published_at": "2026-07-05T12:02:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
-      "published_at": "2026-07-05T11:37:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Real Madrid sign Dutch full-back Dumfries from Inter Milan",
-      "published_at": "2026-07-05T11:04:38+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
       "published_at": "2026-07-05T10:28:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "International Swimming League to pay overdue 2021 prize money, eyes comeback",
-      "published_at": "2026-07-05T10:07:43+00:00"
     },
     {
       "source": "BBC",
@@ -75,6 +55,26 @@
       "source": "NPR",
       "text": "Pastor freed from prison in China weeks after Trump requested his release",
       "published_at": "2026-07-05T08:30:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "published_at": "2026-07-05T08:24:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Scorching heat and delays: How Washington DC marked America 250",
+      "published_at": "2026-07-05T07:19:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chinese underground church figure Jin Mingri freed from prison",
+      "published_at": "2026-07-05T05:58:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How Iran's new regime is very different to what came before",
+      "published_at": "2026-07-05T05:40:07+00:00"
     }
   ]
 }
