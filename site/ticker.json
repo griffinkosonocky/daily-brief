@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-06T13:59:20+00:00",
+  "updated_at": "2026-07-06T14:05:56+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "ITV and Comcast's Sky reshape British TV landscape with $2.1 billion deal",
-      "published_at": "2026-07-06T13:48:19+00:00"
+      "text": "Khamenei funeral signals Iran's defiance and new regional order",
+      "published_at": "2026-07-06T13:59:20+00:00"
     },
     {
       "source": "BBC",
@@ -58,11 +58,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Oil falls after OPEC+ agrees to raise output targets",
-      "published_at": "2026-07-06T12:47:09+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Belgians blast Trump's intervention with FIFA ahead of World Cup clash",
       "published_at": "2026-07-06T12:43:36+00:00"
     },
@@ -75,6 +70,11 @@
       "source": "BBC",
       "text": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "published_at": "2026-07-06T12:28:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kremlin says Russia-China naval drills are not a threat to other nations",
+      "published_at": "2026-07-06T12:22:09+00:00"
     }
   ]
 }

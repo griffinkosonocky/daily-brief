@@ -148,5 +148,11 @@
     "sport": "Sports",
     "question": "In a game of snooker, what colour ball is worth 3 points?",
     "answer": "Green"
+  },
+  {
+    "date": "2026-07-06",
+    "sport": "Sports",
+    "question": "What national team won the first UEFA Nations League?",
+    "answer": "Portugal"
   }
 ]
