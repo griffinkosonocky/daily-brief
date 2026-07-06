@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-06T17:12:15+00:00",
+  "updated_at": "2026-07-06T20:10:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump confirms he asked Fifa to review Balogun ban",
+      "published_at": "2026-07-06T19:06:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "published_at": "2026-07-06T19:06:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In World Cup shadows, Vancouver's vulnerable communities fear sweeps and raids",
+      "published_at": "2026-07-06T19:06:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina wary of Egypt last-16 test after Cape Verde scare",
+      "published_at": "2026-07-06T18:53:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "published_at": "2026-07-06T18:50:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US agencies have seized more than 600 drones near World Cup sites",
+      "published_at": "2026-07-06T18:41:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Khamenei mourners fill Iran's streets, discontent still simmers",
+      "published_at": "2026-07-06T18:30:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant'",
+      "published_at": "2026-07-06T18:29:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street climbs as Broadcom and other chipmakers rally",
+      "published_at": "2026-07-06T18:24:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup",
+      "published_at": "2026-07-06T18:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ancelotti to stay on as coach for Brazil's major rebuild",
+      "published_at": "2026-07-06T17:31:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "published_at": "2026-07-06T17:24:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "published_at": "2026-07-06T17:22:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA rejects Belgium challenge over US striker Balogun's eligibility for World Cup clash",
+      "published_at": "2026-07-06T17:21:56+00:00"
+    },
     {
       "source": "BBC",
       "text": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
       "published_at": "2026-07-06T16:44:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'It's a very sad day' - Mexican fans react to loss to England",
-      "published_at": "2026-07-06T16:43:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
-      "published_at": "2026-07-06T16:23:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump calls Balogun red card U-turn a 'brilliant decision', UEFA says FIFA 'crossed a red line'",
-      "published_at": "2026-07-06T16:20:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt's Hassan enjoying positive spotlight after journeyman coaching career",
-      "published_at": "2026-07-06T16:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Microsoft to cut 4,800 jobs, overhaul Xbox unit",
-      "published_at": "2026-07-06T16:06:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Senegal's Faye plans to form his own political party",
-      "published_at": "2026-07-06T16:02:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge rejects Elon Musk's bid to set aside Twitter fraud verdict",
-      "published_at": "2026-07-06T16:00:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Man sues DHS after agents tracked him down for sending a scathing email to ICE",
-      "published_at": "2026-07-06T15:50:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump confirms he asked Fifa to review Balogun ban",
-      "published_at": "2026-07-06T15:27:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "published_at": "2026-07-06T15:26:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "published_at": "2026-07-06T15:09:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Companies cutting jobs as investments shift toward AI",
-      "published_at": "2026-07-06T15:09:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he asked FIFA chief to review red card foul",
-      "published_at": "2026-07-06T15:04:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French government survives no-confidence vote over heatwave handling",
-      "published_at": "2026-07-06T15:02:07+00:00"
     }
   ]
 }
