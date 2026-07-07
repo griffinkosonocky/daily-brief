@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-07T08:36:14+00:00",
+  "updated_at": "2026-07-07T12:07:44+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Erika Kirk comes face-to-face in court with husband's alleged killer",
-      "published_at": "2026-07-07T08:25:54+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Wall Street warms to SpaceX ahead of Nasdaq 100 inclusion",
-      "published_at": "2026-07-07T08:25:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Orcel wins game and set, but not match, in Germany",
-      "published_at": "2026-07-07T08:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ECB's Panetta says outlook remains fragile",
-      "published_at": "2026-07-07T08:00:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explosions heard in Damascus during Macron visit, security source says",
-      "published_at": "2026-07-07T07:43:34+00:00"
+      "text": "Bomb attack rocks Damascus during Macron visit",
+      "published_at": "2026-07-07T12:04:57+00:00"
     },
     {
       "source": "BBC",
-      "text": "Watch: Moment rare tornado lashes central Chinese cities",
-      "published_at": "2026-07-07T07:27:05+00:00"
+      "text": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "published_at": "2026-07-07T11:42:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
+      "published_at": "2026-07-07T11:40:46+00:00"
     },
     {
       "source": "BBC",
-      "text": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
-      "published_at": "2026-07-07T06:28:56+00:00"
+      "text": "Explosions injure 18 in Damascus during Macron's visit",
+      "published_at": "2026-07-07T11:16:30+00:00"
     },
     {
       "source": "BBC",
-      "text": "India's landmark Ram temple overhauls board after alleged theft of donations",
-      "published_at": "2026-07-07T06:23:04+00:00"
+      "text": "Zimbabwean football star survives gun attack in South Africa",
+      "published_at": "2026-07-07T11:12:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Australia's teen social media ban fails to clear first hurdle in age checks, says study",
-      "published_at": "2026-07-07T06:16:00+00:00"
+      "text": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
+      "published_at": "2026-07-07T11:08:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "OPEC is likely loser in Gulf’s post-war race for market share",
-      "published_at": "2026-07-07T06:05:00+00:00"
+      "text": "Tankers hit in Hormuz as millions mourn Iran's Khamenei",
+      "published_at": "2026-07-07T10:54:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
+      "published_at": "2026-07-07T10:44:47+00:00"
     },
     {
       "source": "Reuters",
       "text": "Saudi Arabia slices crude oil prices, but is it enough?",
-      "published_at": "2026-07-07T06:01:21+00:00"
+      "published_at": "2026-07-07T10:39:06+00:00"
     },
     {
       "source": "NPR",
-      "text": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
-      "published_at": "2026-07-07T05:29:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
-      "published_at": "2026-07-07T05:28:45+00:00"
+      "text": "Meet 'Project 2029' — and its war on the annoyance economy",
+      "published_at": "2026-07-07T10:30:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Samsung boom, market gloom",
-      "published_at": "2026-07-07T04:32:00+00:00"
+      "text": "EXCLUSIVE: India finds Adani's Mumbai airport shops sold nicotine pouches in breach of law",
+      "published_at": "2026-07-07T09:41:58+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "published_at": "2026-07-07T04:18:19+00:00"
+      "source": "Reuters",
+      "text": "Ebola outbreak in Congo still in 'expansion phase', WHO says",
+      "published_at": "2026-07-07T09:26:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explosions in Syria's Damascus during Macron visit",
+      "published_at": "2026-07-07T09:16:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
+      "published_at": "2026-07-07T09:07:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's NATO pressure campaign continues as summit begins",
+      "published_at": "2026-07-07T09:00:00+00:00"
     }
   ]
 }
