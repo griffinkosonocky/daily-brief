@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-06T22:22:55+00:00",
+  "updated_at": "2026-07-07T00:17:48+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "published_at": "2026-07-06T23:55:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe fires back at Paraguayan senator's racist attack after France victory",
+      "published_at": "2026-07-06T23:36:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Companies cutting jobs as investments shift toward AI",
+      "published_at": "2026-07-06T23:33:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Extreme heat on Independence Day will be America's new normal, experts say",
+      "published_at": "2026-07-06T23:24:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "For all his records, Ronaldo could not crack the World Cup",
+      "published_at": "2026-07-06T23:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant'",
+      "published_at": "2026-07-06T23:02:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Samsung estimates 19-fold rise in Q2 operating profit, beating expectations",
+      "published_at": "2026-07-06T22:47:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Substitute Merino hits late winner as Spain end Ronaldo's World Cup career",
+      "published_at": "2026-07-06T22:41:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Portugal coach Martinez to leave after World Cup exit to Spain",
@@ -10,6 +50,16 @@
       "source": "BBC",
       "text": "Why a Diljit Dosanjh film vanished from streaming after two days",
       "published_at": "2026-07-06T22:06:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup",
+      "published_at": "2026-07-06T22:01:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Can China repeat its EV success with robotaxis?",
+      "published_at": "2026-07-06T22:01:07+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "NPR",
       "text": "This World Cup marks end of era for Ronaldo and other soccer greats",
       "published_at": "2026-07-06T21:31:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant'",
-      "published_at": "2026-07-06T21:27:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Merino strikes late as Spain edge Portugal to reach World Cup quarter-finals",
-      "published_at": "2026-07-06T21:19:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "published_at": "2026-07-06T21:02:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The World Cup red card controversy has the world seeing the U.S. in a new light",
-      "published_at": "2026-07-06T21:01:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup",
-      "published_at": "2026-07-06T21:00:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Salah's World Cup breakthrough transforms his Egypt legacy",
-      "published_at": "2026-07-06T20:35:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court lets Texas restrict minors' access to app stores for the time being",
-      "published_at": "2026-07-06T20:15:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BRICS alternatives to dollar no longer a 'fantasy,' economist O'Neill says",
-      "published_at": "2026-07-06T20:13:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Platner denies sexual assault allegation, but says he will assess 'best path forward'",
-      "published_at": "2026-07-06T20:09:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After heartbreak, Marquez inherits Mexico team looking to turn promise into progress",
-      "published_at": "2026-07-06T20:01:43+00:00"
     }
   ]
 }
