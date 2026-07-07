@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-07T00:17:48+00:00",
+  "updated_at": "2026-07-07T05:03:48+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Morning Bid: Samsung boom, market gloom",
+      "published_at": "2026-07-07T04:32:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "published_at": "2026-07-06T23:55:53+00:00"
+      "text": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "published_at": "2026-07-07T04:18:19+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Mbappe fires back at Paraguayan senator's racist attack after France victory",
-      "published_at": "2026-07-06T23:36:22+00:00"
+      "text": "Balogun controversy had little impact on Belgium team, says coach",
+      "published_at": "2026-07-07T04:15:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Companies cutting jobs as investments shift toward AI",
-      "published_at": "2026-07-06T23:33:24+00:00"
+      "text": "Pochettino says US 'not good enough' in World Cup exit",
+      "published_at": "2026-07-07T03:42:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "published_at": "2026-07-07T02:33:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia vows stronger ties with Solomon Islands amid China concerns",
+      "published_at": "2026-07-07T02:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row",
+      "published_at": "2026-07-07T02:10:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Extreme heat on Independence Day will be America's new normal, experts say",
-      "published_at": "2026-07-06T23:24:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "For all his records, Ronaldo could not crack the World Cup",
-      "published_at": "2026-07-06T23:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant'",
-      "published_at": "2026-07-06T23:02:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Samsung estimates 19-fold rise in Q2 operating profit, beating expectations",
-      "published_at": "2026-07-06T22:47:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Substitute Merino hits late winner as Spain end Ronaldo's World Cup career",
-      "published_at": "2026-07-06T22:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Portugal coach Martinez to leave after World Cup exit to Spain",
-      "published_at": "2026-07-06T22:13:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why a Diljit Dosanjh film vanished from streaming after two days",
-      "published_at": "2026-07-06T22:06:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup",
-      "published_at": "2026-07-06T22:01:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Can China repeat its EV success with robotaxis?",
-      "published_at": "2026-07-06T22:01:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "S&P 500, Nasdaq close sharply higher as Broadcom rallies",
-      "published_at": "2026-07-06T21:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Walmart will lower prices on ground beef, other items",
-      "published_at": "2026-07-06T21:37:38+00:00"
+      "text": "What a divorce coach wishes couples knew before ending a marriage",
+      "published_at": "2026-07-07T02:06:13+00:00"
     },
     {
       "source": "NPR",
-      "text": "This World Cup marks end of era for Ronaldo and other soccer greats",
-      "published_at": "2026-07-06T21:31:21+00:00"
+      "text": "The U.S. men's run at the World Cup ends with a 4-1 Round of 16 loss to Belgium",
+      "published_at": "2026-07-07T01:58:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China breaks step with global markets, and investors buy in",
+      "published_at": "2026-07-07T01:10:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fatal Typhoon Maysak floods burst dam wall in China",
+      "published_at": "2026-07-07T00:58:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil prices gain as focus shifts to supply recovery and demand",
+      "published_at": "2026-07-07T00:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why some African nations are turning down Trump aid money",
+      "published_at": "2026-07-07T00:49:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "published_at": "2026-07-07T00:46:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Modi to meet Indonesia's Prabowo for talks on defence, food security",
+      "published_at": "2026-07-07T00:02:00+00:00"
     }
   ]
 }
