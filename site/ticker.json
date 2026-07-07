@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-07-07T20:56:11+00:00",
+  "updated_at": "2026-07-07T22:20:20+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "published_at": "2026-07-07T22:19:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morocco coach Ouahabi not held back by inexperience at international level",
+      "published_at": "2026-07-07T22:14:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia slices crude oil prices, but is it enough?",
+      "published_at": "2026-07-07T21:09:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: A chip on our shoulder: Volatile semis drag U.S. stocks lower, crude jumps",
+      "published_at": "2026-07-07T21:07:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
+      "published_at": "2026-07-07T21:06:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF appoints Silvana Tenreyro as chief economist, head of research",
+      "published_at": "2026-07-07T21:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "When the hype met reality: Why the U.S. World Cup run ended against Belgium",
+      "published_at": "2026-07-07T20:55:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's Carney makes playful pitch for Haaland to Norwegian PM",
+      "published_at": "2026-07-07T20:54:09+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Egypt coach blasts refereeing and turns his back on World Cup",
-      "published_at": "2026-07-07T20:25:43+00:00"
+      "published_at": "2026-07-07T20:41:44+00:00"
     },
     {
       "source": "BBC",
       "text": "Watch: Marine Le Pen confirms run for French presidency",
       "published_at": "2026-07-07T20:21:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+      "published_at": "2026-07-07T20:20:24+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
       "published_at": "2026-07-07T20:00:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "published_at": "2026-07-07T19:55:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Soccer to hold post-World Cup talks with Pochettino over future",
-      "published_at": "2026-07-07T19:53:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "United States revokes license that authorized Iranian oil sales",
-      "published_at": "2026-07-07T19:27:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sheeran keeps up England tradition with World Cup camp visit",
-      "published_at": "2026-07-07T19:26:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tearful Messi inspires Argentina to stunning comeback win over Egypt",
-      "published_at": "2026-07-07T19:10:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Amazon aims to raise $25 billion from bond sale, source says",
-      "published_at": "2026-07-07T19:09:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "published_at": "2026-07-07T18:56:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nine countries commit to global defence bank, Canada says",
-      "published_at": "2026-07-07T18:54:24+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
-      "published_at": "2026-07-07T18:49:12+00:00"
     }
   ]
 }
