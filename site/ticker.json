@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-07T12:07:44+00:00",
+  "updated_at": "2026-07-07T12:43:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "UK's Farage to make statement on his future on Tuesday",
+      "published_at": "2026-07-07T12:16:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brokerages line up bullish calls as SpaceX enters Nasdaq-100",
+      "published_at": "2026-07-07T12:11:20+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Bomb attack rocks Damascus during Macron visit",
@@ -22,6 +32,11 @@
       "published_at": "2026-07-07T11:16:30+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "French shipping group CMA CGM signs deal with Syria",
+      "published_at": "2026-07-07T11:16:13+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Zimbabwean football star survives gun attack in South Africa",
       "published_at": "2026-07-07T11:12:00+00:00"
@@ -30,11 +45,6 @@
       "source": "Reuters",
       "text": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
       "published_at": "2026-07-07T11:08:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tankers hit in Hormuz as millions mourn Iran's Khamenei",
-      "published_at": "2026-07-07T10:54:08+00:00"
     },
     {
       "source": "NPR",
@@ -58,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Ebola outbreak in Congo still in 'expansion phase', WHO says",
-      "published_at": "2026-07-07T09:26:04+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Explosions in Syria's Damascus during Macron visit",
       "published_at": "2026-07-07T09:16:51+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
       "published_at": "2026-07-07T09:07:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's NATO pressure campaign continues as summit begins",
-      "published_at": "2026-07-07T09:00:00+00:00"
     }
   ]
 }
