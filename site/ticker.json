@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-08T07:39:52+00:00",
+  "updated_at": "2026-07-08T10:29:25+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "What's behind the push to make peptide therapies more readily available",
+      "published_at": "2026-07-08T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says at NATO summit he has ordered cutoff of US trade with Spain",
+      "published_at": "2026-07-08T09:45:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
+      "published_at": "2026-07-08T09:12:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mercedes-Benz Q2 sales fall, China competition intensifies",
+      "published_at": "2026-07-08T09:04:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This factory was severely short on workers. Then it offered flexible work",
+      "published_at": "2026-07-08T09:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-07-08T08:53:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Apple loses challenges against EU rules to curb Big Tech",
+      "published_at": "2026-07-08T08:46:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Temasek targets big jump in AI investments as value of portfolio hits record high",
+      "published_at": "2026-07-08T08:06:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tanzania's central bank buys 28 tons of gold over past 18 months for reserves",
+      "published_at": "2026-07-08T08:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "published_at": "2026-07-08T07:53:37+00:00"
+    },
     {
       "source": "BBC",
       "text": "Watch: Gaza football fans watch World Cup from rubble",
@@ -17,64 +67,14 @@
       "published_at": "2026-07-08T07:05:33+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Temasek targets big jump in AI investments as value of portfolio hits record high",
-      "published_at": "2026-07-08T07:03:44+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
       "published_at": "2026-07-08T07:01:03+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "published_at": "2026-07-08T06:36:05+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Russia's Achilles heel, a stockpickers' quarter and Europe's self-esteem issue: Mike Dolan's midweek market musings",
       "published_at": "2026-07-08T06:12:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia dock workers call for 28-hour week in AI talks",
-      "published_at": "2026-07-08T06:06:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil refiners' Hormuz windfall may prove short-lived",
-      "published_at": "2026-07-08T06:05:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nato allies announce £37bn for new missile project",
-      "published_at": "2026-07-08T05:57:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tehran targets Bahrain and Kuwait after U.S. strikes",
-      "published_at": "2026-07-08T05:36:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "published_at": "2026-07-08T05:05:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China lifts fuel export curbs for July, sources say",
-      "published_at": "2026-07-08T04:50:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Ceasefire? What ceasefire?",
-      "published_at": "2026-07-08T04:48:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "published_at": "2026-07-08T03:22:46+00:00"
     }
   ]
 }
