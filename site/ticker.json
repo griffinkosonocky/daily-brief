@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-08T17:49:13+00:00",
+  "updated_at": "2026-07-08T19:50:14+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Egypt depart World Cup with bitter taste despite breaking new ground",
+      "published_at": "2026-07-08T19:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
+      "published_at": "2026-07-08T19:10:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tuchel and Garcia test World Cup's last frontier as national identity gives way to a global game",
+      "published_at": "2026-07-08T18:46:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump decides to remove Syria from US terrorism sponsor list",
+      "published_at": "2026-07-08T18:24:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pentagon seeks to rally Latin America behind new Monroe Doctrine",
+      "published_at": "2026-07-08T18:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+      "published_at": "2026-07-08T18:05:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court financial disclosures reveal how their books add to their income",
+      "published_at": "2026-07-08T18:03:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
+      "published_at": "2026-07-08T17:54:08+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
@@ -22,59 +62,19 @@
       "published_at": "2026-07-08T17:18:14+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Two people killed after Israeli drone strike in southern Lebanon",
+      "published_at": "2026-07-08T17:14:10+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
       "published_at": "2026-07-08T17:07:22+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "published_at": "2026-07-08T17:01:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Odegaard relishes Arsenal reunion as Norway eye England upset at World Cup",
-      "published_at": "2026-07-08T16:48:09+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Family of Nolan Wells, Black teen found dead off Mississippi island, retains lawyer Ben Crump",
       "published_at": "2026-07-08T16:46:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF lowers 2026 global growth forecast to 3%, sees rebound in 2027",
-      "published_at": "2026-07-08T16:29:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inspiration for Trump's arch was sparked long before the design was first approved",
-      "published_at": "2026-07-08T16:28:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How Iran's 'golden weapon' of Hormuz became a bigger priority than its long-disputed nuclear programme",
-      "published_at": "2026-07-08T16:21:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The IOC clears the way for Russian athletes to return to Olympic competition",
-      "published_at": "2026-07-08T16:17:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-      "published_at": "2026-07-08T16:12:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
-      "published_at": "2026-07-08T16:11:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Do you know where your birth certificate is? Journalist warns of new voting barriers",
-      "published_at": "2026-07-08T16:06:45+00:00"
     }
   ]
 }
