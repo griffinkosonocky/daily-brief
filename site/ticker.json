@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-07-07T22:20:20+00:00",
+  "updated_at": "2026-07-08T00:09:08+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "published_at": "2026-07-07T22:19:40+00:00"
+      "published_at": "2026-07-07T23:53:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Magic mortal Messi rescues Argentina and lives to fight another day",
+      "published_at": "2026-07-07T23:19:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tears in Scaloni's eyes as Argentina storm back to sink Egypt",
+      "published_at": "2026-07-07T23:19:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE Beijing is looking at curbing overseas access to China's top AI models, sources say",
+      "published_at": "2026-07-07T23:00:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon aims to raise $25 billion from bond sale",
+      "published_at": "2026-07-07T22:27:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuelan volunteers dig graves for quake victims as US defends government relief effort",
+      "published_at": "2026-07-07T22:24:10+00:00"
     },
     {
       "source": "Reuters",
@@ -13,23 +38,33 @@
     },
     {
       "source": "Reuters",
-      "text": "Saudi Arabia slices crude oil prices, but is it enough?",
-      "published_at": "2026-07-07T21:09:02+00:00"
+      "text": "Sinner snuffs out Struff's Wimbledon dream to reach semi-finals",
+      "published_at": "2026-07-07T22:07:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trading Day: A chip on our shoulder: Volatile semis drag U.S. stocks lower, crude jumps",
-      "published_at": "2026-07-07T21:07:39+00:00"
+      "text": "Columns in Manhattan high-rise buckle, prompting evacuations",
+      "published_at": "2026-07-07T21:47:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
+      "published_at": "2026-07-07T21:40:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF appoints Silvana Tenreyro as chief economist, head of research",
+      "published_at": "2026-07-07T21:22:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jorge Jesus waits in the wings as Portugal digest painful World Cup exit",
+      "published_at": "2026-07-07T21:12:59+00:00"
     },
     {
       "source": "Reuters",
       "text": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
       "published_at": "2026-07-07T21:06:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF appoints Silvana Tenreyro as chief economist, head of research",
-      "published_at": "2026-07-07T21:05:43+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Canada's Carney makes playful pitch for Haaland to Norwegian PM",
       "published_at": "2026-07-07T20:54:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt coach blasts refereeing and turns his back on World Cup",
-      "published_at": "2026-07-07T20:41:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Marine Le Pen confirms run for French presidency",
-      "published_at": "2026-07-07T20:21:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-      "published_at": "2026-07-07T20:20:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway's Solbakken praises unique Haaland as England World Cup clash looms",
-      "published_at": "2026-07-07T20:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuelan volunteers dig graves for quake victims as US defends government relief effort",
-      "published_at": "2026-07-07T20:05:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Magic mortal Messi rescues Argentina and lives to fight another day",
-      "published_at": "2026-07-07T20:01:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "published_at": "2026-07-07T20:00:57+00:00"
     }
   ]
 }
