@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-07-08T10:29:25+00:00",
+  "updated_at": "2026-07-08T12:03:35+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Croatia coach Dalic steps down after nine years, Croatian federation says",
+      "published_at": "2026-07-08T11:26:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "published_at": "2026-07-08T11:18:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
+      "published_at": "2026-07-08T11:15:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
+      "published_at": "2026-07-08T11:06:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump administration abruptly cancels grants for teen pregnancy prevention",
+      "published_at": "2026-07-08T11:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cubans protest after third nationwide power cut this year",
+      "published_at": "2026-07-08T10:56:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Apple loses challenges against EU rules to curb Big Tech",
+      "published_at": "2026-07-08T10:35:54+00:00"
+    },
     {
       "source": "NPR",
       "text": "What's behind the push to make peptide therapies more readily available",
       "published_at": "2026-07-08T10:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump says at NATO summit he has ordered cutoff of US trade with Spain",
-      "published_at": "2026-07-08T09:45:40+00:00"
-    },
-    {
       "source": "NPR",
       "text": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
       "published_at": "2026-07-08T09:12:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mercedes-Benz Q2 sales fall, China competition intensifies",
-      "published_at": "2026-07-08T09:04:12+00:00"
     },
     {
       "source": "NPR",
@@ -30,11 +55,6 @@
       "source": "NPR",
       "text": "Morning news brief",
       "published_at": "2026-07-08T08:53:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple loses challenges against EU rules to curb Big Tech",
-      "published_at": "2026-07-08T08:46:44+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Watch: Gaza football fans watch World Cup from rubble",
       "published_at": "2026-07-08T07:26:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar-selling linked to SK Hynix share offer sends won to over 1-month high, source says",
-      "published_at": "2026-07-08T07:18:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European growth could be a casualty of increased defence spending",
-      "published_at": "2026-07-08T07:05:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
-      "published_at": "2026-07-08T07:01:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia's Achilles heel, a stockpickers' quarter and Europe's self-esteem issue: Mike Dolan's midweek market musings",
-      "published_at": "2026-07-08T06:12:00+00:00"
     }
   ]
 }
