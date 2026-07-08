@@ -1,35 +1,70 @@
 {
-  "updated_at": "2026-07-08T19:50:14+00:00",
+  "updated_at": "2026-07-08T21:20:39+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "published_at": "2026-07-08T21:08:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A new proposal for organ donation sparks concern",
+      "published_at": "2026-07-08T21:00:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US military is conducting fresh strikes on Iran",
+      "published_at": "2026-07-08T20:26:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+      "published_at": "2026-07-08T20:18:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices",
+      "published_at": "2026-07-08T20:11:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "LatAm assets slide after Trump says Iran deal 'over'",
+      "published_at": "2026-07-08T20:10:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Should you sign your kids up for Trump Accounts? Four things to consider",
+      "published_at": "2026-07-08T20:02:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
+      "published_at": "2026-07-08T19:59:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Justin Bieber added to World Cup final halftime show lineup",
+      "published_at": "2026-07-08T19:50:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bieber to co-headline World Cup final halftime show",
+      "published_at": "2026-07-08T19:47:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Egypt depart World Cup with bitter taste despite breaking new ground",
       "published_at": "2026-07-08T19:13:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
-      "published_at": "2026-07-08T19:10:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tuchel and Garcia test World Cup's last frontier as national identity gives way to a global game",
-      "published_at": "2026-07-08T18:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump decides to remove Syria from US terrorism sponsor list",
-      "published_at": "2026-07-08T18:24:50+00:00"
+      "source": "BBC",
+      "text": "Watch: Nato chief asked if there really is 'unity' in Nato",
+      "published_at": "2026-07-08T18:56:36+00:00"
     },
     {
       "source": "Reuters",
       "text": "Pentagon seeks to rally Latin America behind new Monroe Doctrine",
       "published_at": "2026-07-08T18:21:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-      "published_at": "2026-07-08T18:05:31+00:00"
     },
     {
       "source": "NPR",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
       "published_at": "2026-07-08T17:54:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "published_at": "2026-07-08T17:31:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New U.S. passports with Trump's image are available. Here's how to get (or avoid) one",
-      "published_at": "2026-07-08T17:27:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Appeals court denies Trump's request to halt removal of his name from the Kennedy Center",
-      "published_at": "2026-07-08T17:21:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "published_at": "2026-07-08T17:18:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two people killed after Israeli drone strike in southern Lebanon",
-      "published_at": "2026-07-08T17:14:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
-      "published_at": "2026-07-08T17:07:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Family of Nolan Wells, Black teen found dead off Mississippi island, retains lawyer Ben Crump",
-      "published_at": "2026-07-08T16:46:39+00:00"
     }
   ]
 }
