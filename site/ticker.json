@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-08T12:49:01+00:00",
+  "updated_at": "2026-07-08T15:31:11+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Mexico expects economy to outperform IMF projections",
+      "published_at": "2026-07-08T15:19:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF edges 2026 global growth forecast lower to 3%, sees rebound in 2027",
+      "published_at": "2026-07-08T15:14:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Henderson rejoins England squad after surgery in Kansas City",
+      "published_at": "2026-07-08T15:11:45+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "published_at": "2026-07-08T12:43:50+00:00"
+      "text": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "published_at": "2026-07-08T15:09:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Greetings from a Syrian church, infused with a mix of sweet fruit and diverse faiths",
+      "published_at": "2026-07-08T15:05:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+      "published_at": "2026-07-08T14:56:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "MLB teams up with cricket's Suryakumar to reach fans in India",
+      "published_at": "2026-07-08T14:44:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German doctor jailed for murder of 15 patients and suspected of more",
+      "published_at": "2026-07-08T14:25:25+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Former Maine Sen. Troy Jackson says it would be 'self-serving' if Graham Platner runs",
+      "published_at": "2026-07-08T14:15:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight killed after landslide hits girls' school in Bangladesh",
+      "published_at": "2026-07-08T14:02:54+00:00"
     },
     {
       "source": "Reuters",
       "text": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
-      "published_at": "2026-07-08T12:28:59+00:00"
+      "published_at": "2026-07-08T13:34:34+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Apple loses challenges against EU rules to curb Big Tech",
-      "published_at": "2026-07-08T12:09:14+00:00"
+      "text": "Trump-Iran standoff threatens chronic Gulf oil instability",
+      "published_at": "2026-07-08T13:32:26+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Croatia coach Dalic steps down after nine years, Croatian federation says",
-      "published_at": "2026-07-08T11:26:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's central bank pledges to maintain accommodative policy amid weak demand, external shocks",
-      "published_at": "2026-07-08T11:24:48+00:00"
+      "source": "NPR",
+      "text": "Maine Democrats say Platner's campaign is trying to influence replacement process",
+      "published_at": "2026-07-08T13:20:02+00:00"
     },
     {
       "source": "BBC",
-      "text": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "published_at": "2026-07-08T11:18:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
-      "published_at": "2026-07-08T11:15:40+00:00"
+      "text": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "published_at": "2026-07-08T13:05:14+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UN inquiry urges release of Gaza doctor held by Israel since December 2024",
-      "published_at": "2026-07-08T11:08:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
-      "published_at": "2026-07-08T11:06:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration abruptly cancels grants for teen pregnancy prevention",
-      "published_at": "2026-07-08T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Cubans protest after third nationwide power cut this year",
-      "published_at": "2026-07-08T10:56:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China lifts fuel export curbs for July, sources say",
-      "published_at": "2026-07-08T10:02:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What's behind the push to make peptide therapies more readily available",
-      "published_at": "2026-07-08T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
-      "published_at": "2026-07-08T09:12:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mercedes-Benz Q2 sales fall, China competition intensifies",
-      "published_at": "2026-07-08T09:04:12+00:00"
+      "text": "Eight children killed in landslide at Rohingya refugee camp in Bangladesh",
+      "published_at": "2026-07-08T12:29:46+00:00"
     }
   ]
 }
