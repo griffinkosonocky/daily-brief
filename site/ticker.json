@@ -1,20 +1,35 @@
 {
-  "updated_at": "2026-07-08T21:20:39+00:00",
+  "updated_at": "2026-07-08T23:21:02+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices",
+      "published_at": "2026-07-08T23:08:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rights group plans complaint to IOC against Infantino over Trump support",
+      "published_at": "2026-07-08T23:05:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Giuliani defends White house handling of Iran at World Cup",
+      "published_at": "2026-07-08T22:13:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he will ask Supreme Court to rehear birthright citizenship case",
+      "published_at": "2026-07-08T22:09:52+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-      "published_at": "2026-07-08T21:08:26+00:00"
+      "text": "US launches more strikes on Iran with blasts reported in south of country",
+      "published_at": "2026-07-08T21:40:40+00:00"
     },
     {
       "source": "NPR",
       "text": "A new proposal for organ donation sparks concern",
       "published_at": "2026-07-08T21:00:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US military is conducting fresh strikes on Iran",
-      "published_at": "2026-07-08T20:26:25+00:00"
     },
     {
       "source": "BBC",
@@ -23,7 +38,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices",
+      "text": "Reuters Video",
       "published_at": "2026-07-08T20:11:45+00:00"
     },
     {
@@ -38,11 +53,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
-      "published_at": "2026-07-08T19:59:46+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Justin Bieber added to World Cup final halftime show lineup",
       "published_at": "2026-07-08T19:50:44+00:00"
     },
@@ -53,6 +63,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Trump's visit a win for Turkey's Erdogan, NATO tensions aside",
+      "published_at": "2026-07-08T19:14:50+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Egypt depart World Cup with bitter taste despite breaking new ground",
       "published_at": "2026-07-08T19:13:43+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Watch: Nato chief asked if there really is 'unity' in Nato",
       "published_at": "2026-07-08T18:56:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pentagon seeks to rally Latin America behind new Monroe Doctrine",
-      "published_at": "2026-07-08T18:21:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court financial disclosures reveal how their books add to their income",
-      "published_at": "2026-07-08T18:03:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
-      "published_at": "2026-07-08T17:54:08+00:00"
     }
   ]
 }
