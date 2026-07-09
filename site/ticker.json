@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-07-09T18:58:01+00:00",
+  "updated_at": "2026-07-09T20:54:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "published_at": "2026-07-09T20:47:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "published_at": "2026-07-09T19:57:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller",
+      "published_at": "2026-07-09T19:55:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Smithsonian chief emphasizes 'accuracy and integrity' after White House report",
+      "published_at": "2026-07-09T19:46:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei",
+      "published_at": "2026-07-09T19:21:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Doku offers Belgium X-factor they might need against Spain",
+      "published_at": "2026-07-09T19:15:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How to deal with seesawing gas prices",
+      "published_at": "2026-07-09T19:10:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "NEWSLETTER: Trump tackles FIFA, NATO and Iran",
+      "published_at": "2026-07-09T19:10:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "EPA proposes weakening heavy-duty truck pollution rules",
+      "published_at": "2026-07-09T19:03:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN agency says Russian strikes killed at least 265 civilians in Ukraine in June",
+      "published_at": "2026-07-09T18:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haaland mania sweeps the World Cup as Norway rows behind its Viking hero",
+      "published_at": "2026-07-09T18:52:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Turkey's Erdogan gives NATO leaders revolver conundrum after summit",
+      "published_at": "2026-07-09T18:52:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haaland's Norway load pressure on England ahead of Miami showdown",
+      "published_at": "2026-07-09T18:43:42+00:00"
+    },
     {
       "source": "Reuters",
       "text": "New York sues 3M, DuPont, others over toxic 'forever chemicals' in consumer goods",
@@ -8,73 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "From threats to praise, Trump keeps allies guessing at NATO summit",
-      "published_at": "2026-07-09T18:35:32+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75",
       "published_at": "2026-07-09T18:18:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A new kind of robot swims the seas and soars the skies",
-      "published_at": "2026-07-09T18:01:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "OUTDOOR ACCESS FOR DISABLED IN VERMONT",
-      "published_at": "2026-07-09T18:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Costa Rica's new president clashes with judiciary over tackling drug violence",
-      "published_at": "2026-07-09T17:51:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Class action suit against AI makers over deepfake child sexual abuse material expands",
-      "published_at": "2026-07-09T17:49:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Turkey's Erdogan gives NATO leaders revolver conundrum after summit",
-      "published_at": "2026-07-09T17:14:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "published_at": "2026-07-09T17:01:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pulisic suffered fracture, bone bruise in US defeat by Belgium",
-      "published_at": "2026-07-09T16:53:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global M&A activity on track to eclipse 2021 deal boom, Morgan Stanley says",
-      "published_at": "2026-07-09T16:27:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF's Africa director met with Malawi officials this week, IMF says",
-      "published_at": "2026-07-09T16:17:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "published_at": "2026-07-09T16:15:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF's Georgieva, Venezuelan acting president discuss use of SDRs for earthquake needs",
-      "published_at": "2026-07-09T16:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French competition authority's Nvidia probe nearing end",
-      "published_at": "2026-07-09T16:07:55+00:00"
     }
   ]
 }
