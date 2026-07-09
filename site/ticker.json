@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-08T23:21:02+00:00",
+  "updated_at": "2026-07-09T04:09:03+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US launches more strikes on Iran with blasts reported in south of country",
+      "published_at": "2026-07-09T03:58:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Western Europe records hottest June on record, EU scientists say",
+      "published_at": "2026-07-09T02:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Temasek performance transparency gets lost in fog",
+      "published_at": "2026-07-09T01:39:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix US listing more than seven times oversubscribed, source says",
+      "published_at": "2026-07-09T01:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France, Morocco bring post-colonial ties and family feel to Boston",
+      "published_at": "2026-07-09T00:50:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Graham Platner drops his bid for Senate after facing an allegation of rape",
+      "published_at": "2026-07-09T00:23:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt depart World Cup with bitter taste despite breaking new ground",
+      "published_at": "2026-07-08T23:57:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump orders halt to US trade with Spain over NATO spending, Iran",
+      "published_at": "2026-07-08T23:22:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Giuliani defends White house handling of Iran at World Cup",
+      "published_at": "2026-07-08T23:22:17+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices",
@@ -13,68 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Giuliani defends White house handling of Iran at World Cup",
-      "published_at": "2026-07-08T22:13:46+00:00"
+      "text": "Meta to build C$13 billion Alberta data center, its first in Canada",
+      "published_at": "2026-07-08T22:33:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says he will ask Supreme Court to rehear birthright citizenship case",
-      "published_at": "2026-07-08T22:09:52+00:00"
+      "text": "EXCLUSIVE: China lifts fuel export curbs for July, sources say",
+      "published_at": "2026-07-08T22:16:30+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US launches more strikes on Iran with blasts reported in south of country",
-      "published_at": "2026-07-08T21:40:40+00:00"
+      "source": "Reuters",
+      "text": "US coffee industry asks Trump to keep tariff exemption on Brazil beans",
+      "published_at": "2026-07-08T22:09:43+00:00"
     },
     {
       "source": "NPR",
       "text": "A new proposal for organ donation sparks concern",
       "published_at": "2026-07-08T21:00:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-      "published_at": "2026-07-08T20:18:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reuters Video",
-      "published_at": "2026-07-08T20:11:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "LatAm assets slide after Trump says Iran deal 'over'",
-      "published_at": "2026-07-08T20:10:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Should you sign your kids up for Trump Accounts? Four things to consider",
-      "published_at": "2026-07-08T20:02:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Justin Bieber added to World Cup final halftime show lineup",
-      "published_at": "2026-07-08T19:50:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bieber to co-headline World Cup final halftime show",
-      "published_at": "2026-07-08T19:47:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's visit a win for Turkey's Erdogan, NATO tensions aside",
-      "published_at": "2026-07-08T19:14:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt depart World Cup with bitter taste despite breaking new ground",
-      "published_at": "2026-07-08T19:13:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Nato chief asked if there really is 'unity' in Nato",
-      "published_at": "2026-07-08T18:56:36+00:00"
     }
   ]
 }
