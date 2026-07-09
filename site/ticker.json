@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-09T12:19:23+00:00",
+  "updated_at": "2026-07-09T13:27:31+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says it hits US military targets in Gulf, prepares to bury slain leader",
+      "published_at": "2026-07-09T11:55:30+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: Markets remain long TACO",
@@ -8,13 +13,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Citigroup expands cross-border instant payments to partner banks",
-      "published_at": "2026-07-09T11:40:57+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-      "published_at": "2026-07-09T11:23:17+00:00"
+      "published_at": "2026-07-09T11:45:23+00:00"
     },
     {
       "source": "NPR",
@@ -29,12 +29,22 @@
     {
       "source": "Reuters",
       "text": "Google appeals Indian ruling over its ads platform, citing consumer harm",
-      "published_at": "2026-07-09T10:37:34+00:00"
+      "published_at": "2026-07-09T10:57:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan pushes back at China patrols with Coast Guard trip for foreign lawmakers",
+      "published_at": "2026-07-09T10:53:57+00:00"
     },
     {
       "source": "Reuters",
       "text": "Russia challenges World Athletics ban at top court",
       "published_at": "2026-07-09T10:19:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Putin likely to escalate Ukraine war, despite Trump peace push, sources say",
+      "published_at": "2026-07-09T10:11:46+00:00"
     },
     {
       "source": "BBC",
@@ -52,11 +62,6 @@
       "published_at": "2026-07-09T09:05:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Philippines rejects Chinese scholars' claim over its island province near Taiwan",
-      "published_at": "2026-07-09T09:05:13+00:00"
-    },
-    {
       "source": "NPR",
       "text": "A Florida airport is officially renamed for Trump. What does he stand to gain?",
       "published_at": "2026-07-09T09:01:00+00:00"
@@ -64,11 +69,6 @@
     {
       "source": "NPR",
       "text": "How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister",
-      "published_at": "2026-07-09T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
       "published_at": "2026-07-09T09:00:00+00:00"
     },
     {

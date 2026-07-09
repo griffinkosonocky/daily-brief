@@ -166,5 +166,11 @@
     "sport": "Sports",
     "question": "Who is Manchester United's leading appearance maker?",
     "answer": "Ryan Giggs"
+  },
+  {
+    "date": "2026-07-09",
+    "sport": "Sports",
+    "question": "In Canadian football, scoring a rouge is worth how many points?",
+    "answer": "1"
   }
 ]

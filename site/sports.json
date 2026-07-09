@@ -1,14 +1,51 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-08",
-  "generated_at_ct": "Jul 8, 2026 at 7:01 AM CT",
+  "date_key": "2026-07-09",
+  "generated_at_ct": "Jul 9, 2026 at 8:25 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
       "label": "World Cup",
       "full_name": "FIFA World Cup",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "b6e926d7f026782b9cab2fa02b823d92",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "3:00 PM CT",
+          "commence_time": "2026-07-09T20:00:00Z",
+          "commence_ct": "3:00 PM CT",
+          "sort_time": "2026-07-09T20:00:00+00:00",
+          "home_team": "France",
+          "away_team": "Morocco",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "8:26 AM CT",
+            "summary": "France -1",
+            "outcomes": [
+              {
+                "name": "France",
+                "point": -1.0,
+                "point_label": "-1",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Morocco",
+                "point": 1.0,
+                "point_label": "+1",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     },
@@ -50,18 +87,18 @@
     }
   ],
   "summary": {
-    "games": 0,
+    "games": 1,
     "live": 0,
     "final": 0,
-    "upcoming": 0,
-    "spreads": 0
+    "upcoming": 1,
+    "spreads": 1
   },
   "quota": {
-    "remaining": "469",
-    "used": "31",
+    "remaining": "465",
+    "used": "35",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-08T12:03:33+00:00"
+  "generated_at": "2026-07-09T13:27:28+00:00"
 }
