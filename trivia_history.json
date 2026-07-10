@@ -172,5 +172,11 @@
     "sport": "Sports",
     "question": "In Canadian football, scoring a rouge is worth how many points?",
     "answer": "1"
+  },
+  {
+    "date": "2026-07-10",
+    "sport": "Sports",
+    "question": "Who won the 2015 Formula 1 World Championship?",
+    "answer": "Lewis Hamilton"
   }
 ]

@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-07-10T12:07:28+00:00",
+  "updated_at": "2026-07-10T12:41:18+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes",
-      "published_at": "2026-07-10T12:01:59+00:00"
+      "source": "BBC",
+      "text": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "published_at": "2026-07-10T12:38:38+00:00"
     },
     {
       "source": "BBC",
-      "text": "Passenger 'nearly sucked out of window mid-air' on Ryanair-owned plane",
-      "published_at": "2026-07-10T11:57:27+00:00"
+      "text": "Passenger 'nearly sucked out of window mid-air' on Ryanair plane",
+      "published_at": "2026-07-10T12:31:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global equity fund inflows surge to three-week high on AI optimism",
+      "published_at": "2026-07-10T12:19:43+00:00"
     },
     {
       "source": "Reuters",
@@ -55,11 +60,6 @@
       "source": "Reuters",
       "text": "EU tells Instagram, Facebook to change addictive features or risk fines",
       "published_at": "2026-07-10T10:04:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Iran escalation could threaten 2027 oil market surplus, IEA says",
-      "published_at": "2026-07-10T10:04:10+00:00"
     },
     {
       "source": "Reuters",
