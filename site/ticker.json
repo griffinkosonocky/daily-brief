@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-09T22:41:15+00:00",
+  "updated_at": "2026-07-10T00:15:56+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "published_at": "2026-07-09T23:48:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Coach Broos confirms he is leaving South Africa job",
+      "published_at": "2026-07-09T23:37:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "All the best looks from Paris Haute Couture Week 2026",
+      "published_at": "2026-07-09T23:07:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Geopolitical shifts drive sovereign funds towards national priorities, study finds",
+      "published_at": "2026-07-09T23:07:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade attacks as Khamenei is buried",
+      "published_at": "2026-07-09T23:02:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pressure builds on Europe's biggest port to be greener",
+      "published_at": "2026-07-09T23:00:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "We saved £6,000 on holidays by swapping homes with strangers",
+      "published_at": "2026-07-09T23:00:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals",
+      "published_at": "2026-07-09T22:55:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
+      "published_at": "2026-07-09T22:41:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Software firm CCC exploring sale, sources say",
+      "published_at": "2026-07-09T22:35:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico to file criminal complaints in US over deaths of Mexicans in immigration enforcement",
+      "published_at": "2026-07-09T22:18:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran buries late Supreme Leader Ayatollah Ali Khamenei",
+      "published_at": "2026-07-09T22:14:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei",
+      "published_at": "2026-07-09T22:12:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "How an app in South Korea will let victims track their stalkers",
       "published_at": "2026-07-09T22:09:57+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Mbappe leads France to comfortable 2-0 win over Morocco",
-      "published_at": "2026-07-09T22:09:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "France downs Morocco 2-0 to advance to the World Cup semifinal",
       "published_at": "2026-07-09T22:01:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tehran launches more strikes after second round of US attacks in southern Iran",
-      "published_at": "2026-07-09T21:13:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Palm Beach, Florida airport officially changes name to honor Trump",
-      "published_at": "2026-07-09T21:07:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England frustrated by Quansah's two-game ban ahead of Norway quarter-final, says Saka",
-      "published_at": "2026-07-09T21:05:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "published_at": "2026-07-09T21:04:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "published_at": "2026-07-09T20:47:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentine archbishop reads out Messi's words at Independence Day Mass",
-      "published_at": "2026-07-09T20:36:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What's next for Iran after the funeral of their late supreme leader?",
-      "published_at": "2026-07-09T20:16:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's football system is broken, says Pele's daughter",
-      "published_at": "2026-07-09T19:59:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says it hits US military targets in Gulf",
-      "published_at": "2026-07-09T19:58:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-      "published_at": "2026-07-09T19:57:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller",
-      "published_at": "2026-07-09T19:55:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Smithsonian chief emphasizes 'accuracy and integrity' after White House report",
-      "published_at": "2026-07-09T19:46:02+00:00"
     }
   ]
 }
