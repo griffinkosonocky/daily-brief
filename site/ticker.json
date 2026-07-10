@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-10T05:03:48+00:00",
+  "updated_at": "2026-07-10T08:35:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "We've saved £6,000 on holidays by swapping homes with strangers",
+      "published_at": "2026-07-10T08:26:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 11 dead and 19 missing in wildfire in southern Spain",
+      "published_at": "2026-07-10T08:23:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One million women lose aid access due to funding cuts, UN Women says",
+      "published_at": "2026-07-10T08:11:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix set for marquee US debut in test for AI appetite",
+      "published_at": "2026-07-10T07:59:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UNESCO urges wider use of debt-for-education swaps",
+      "published_at": "2026-07-10T07:32:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African rand edges up as softer dollar offsets Middle East jitters",
+      "published_at": "2026-07-10T07:05:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
+      "published_at": "2026-07-10T06:33:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ASIA GOLD Gold discounts in India deepen as volatility hurts demand; purchases in China steady",
+      "published_at": "2026-07-10T06:13:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+      "published_at": "2026-07-10T06:12:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "From curiosity to cornerstone - how batteries went mainstream",
+      "published_at": "2026-07-10T06:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Successor Mojtaba absent as father Khamenei laid to rest",
+      "published_at": "2026-07-10T05:10:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anti-migrant protests risk economic blowback for South Africa",
+      "published_at": "2026-07-10T05:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU regulators hit US wall in quest for private credit data",
+      "published_at": "2026-07-10T05:03:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: Japan calling capital home",
       "published_at": "2026-07-10T04:33:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US and Iran trade attacks as Khamenei is buried",
-      "published_at": "2026-07-10T04:18:14+00:00"
-    },
-    {
       "source": "NPR",
       "text": "President Trump cleans house at the bipartisan Election Assistance Commission",
       "published_at": "2026-07-10T02:52:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "published_at": "2026-07-10T02:48:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
-      "published_at": "2026-07-10T02:44:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Factory fire kills at least 28 in China's 'shoe capital'",
-      "published_at": "2026-07-10T01:12:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
-      "published_at": "2026-07-10T01:03:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain face toughest World Cup test against Belgium, coach says",
-      "published_at": "2026-07-10T00:45:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's arch clears another hurdle, setting up a big debate: Do height limits apply?",
-      "published_at": "2026-07-10T00:44:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen rises as Japan encourages pension funds to invest in domestic assets",
-      "published_at": "2026-07-10T00:43:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-      "published_at": "2026-07-09T23:48:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Coach Broos confirms he is leaving South Africa job",
-      "published_at": "2026-07-09T23:37:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "All the best looks from Paris Haute Couture Week 2026",
-      "published_at": "2026-07-09T23:07:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pressure builds on Europe's biggest port to be greener",
-      "published_at": "2026-07-09T23:00:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "We saved £6,000 on holidays by swapping homes with strangers",
-      "published_at": "2026-07-09T23:00:38+00:00"
     }
   ]
 }
