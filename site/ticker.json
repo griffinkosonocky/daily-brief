@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-10T08:35:16+00:00",
+  "updated_at": "2026-07-10T12:07:28+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes",
+      "published_at": "2026-07-10T12:01:59+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "published_at": "2026-07-10T08:26:00+00:00"
+      "text": "Passenger 'nearly sucked out of window mid-air' on Ryanair-owned plane",
+      "published_at": "2026-07-10T11:57:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IEA cuts Russian oil output forecasts on Ukrainian attacks",
+      "published_at": "2026-07-10T11:44:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "published_at": "2026-07-10T11:43:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix's marquee US debut to test AI appetite",
+      "published_at": "2026-07-10T11:30:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Taliban declares war on smartphones",
+      "published_at": "2026-07-10T11:12:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'You made us proud': Egypt gives heroes' welcome to World Cup team",
+      "published_at": "2026-07-10T10:49:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "At least 11 dead and 19 missing in wildfire in southern Spain",
-      "published_at": "2026-07-10T08:23:45+00:00"
+      "text": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "published_at": "2026-07-10T10:42:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "One million women lose aid access due to funding cuts, UN Women says",
-      "published_at": "2026-07-10T08:11:43+00:00"
+      "text": "'Potential for chaos', German union warns on Commerzbank and UniCredit",
+      "published_at": "2026-07-10T10:20:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "SK Hynix set for marquee US debut in test for AI appetite",
-      "published_at": "2026-07-10T07:59:04+00:00"
+      "text": "Rare earths startup ReElement no longer seeking $80 million Pentagon loan, administration sources say",
+      "published_at": "2026-07-10T10:14:30+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UNESCO urges wider use of debt-for-education swaps",
-      "published_at": "2026-07-10T07:32:13+00:00"
+      "text": "EU tells Instagram, Facebook to change addictive features or risk fines",
+      "published_at": "2026-07-10T10:04:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "South African rand edges up as softer dollar offsets Middle East jitters",
-      "published_at": "2026-07-10T07:05:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
-      "published_at": "2026-07-10T06:33:38+00:00"
+      "text": "US-Iran escalation could threaten 2027 oil market surplus, IEA says",
+      "published_at": "2026-07-10T10:04:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "ASIA GOLD Gold discounts in India deepen as volatility hurts demand; purchases in China steady",
-      "published_at": "2026-07-10T06:13:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
-      "published_at": "2026-07-10T06:12:36+00:00"
+      "text": "China's Xi meets North Korea's premier ahead of treaty anniversary",
+      "published_at": "2026-07-10T09:59:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "From curiosity to cornerstone - how batteries went mainstream",
-      "published_at": "2026-07-10T06:09:00+00:00"
+      "text": "China and US-Mexico border experienced record dust storms in 2025, UN agency says",
+      "published_at": "2026-07-10T09:56:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Successor Mojtaba absent as father Khamenei laid to rest",
-      "published_at": "2026-07-10T05:10:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anti-migrant protests risk economic blowback for South Africa",
-      "published_at": "2026-07-10T05:04:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU regulators hit US wall in quest for private credit data",
-      "published_at": "2026-07-10T05:03:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Japan calling capital home",
-      "published_at": "2026-07-10T04:33:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "President Trump cleans house at the bipartisan Election Assistance Commission",
-      "published_at": "2026-07-10T02:52:32+00:00"
+      "text": "India's NSE to pitch IPO to 30 global investors as play on deepening capital markets, sources say",
+      "published_at": "2026-07-10T09:53:19+00:00"
     }
   ]
 }
