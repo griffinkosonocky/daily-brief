@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-10T19:47:46+00:00",
+  "updated_at": "2026-07-10T21:16:39+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
+      "published_at": "2026-07-10T20:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's High Court widens graft inquiry to include PM's close ally",
+      "published_at": "2026-07-10T19:44:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+      "published_at": "2026-07-10T19:39:42+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
@@ -10,6 +25,11 @@
       "source": "Reuters",
       "text": "FAA extends flight cuts at Chicago O'Hare for another year",
       "published_at": "2026-07-10T19:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
+      "published_at": "2026-07-10T19:11:14+00:00"
     },
     {
       "source": "Reuters",
@@ -47,11 +67,6 @@
       "published_at": "2026-07-10T16:59:16+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-      "published_at": "2026-07-10T16:54:50+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
       "published_at": "2026-07-10T16:42:35+00:00"
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "published_at": "2026-07-10T16:42:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zulu king expresses regret after video captures tirade against his wife",
-      "published_at": "2026-07-10T16:42:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eliminated Morocco turn attention to co-hosting 2030 World Cup",
-      "published_at": "2026-07-10T16:11:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - World Cup nets an economic draw",
-      "published_at": "2026-07-10T15:56:40+00:00"
     }
   ]
 }
