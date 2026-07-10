@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-10T21:16:39+00:00",
+  "updated_at": "2026-07-10T23:10:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "published_at": "2026-07-10T22:54:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "De la Fuente hails Spain's strength in depth after super-sub Merino strikes again",
+      "published_at": "2026-07-10T22:47:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tears for two Belgium goalkeepers",
+      "published_at": "2026-07-10T22:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Soccer-Magic Merino strikes again as Spain down Belgium to reach World Cup semis",
+      "published_at": "2026-07-10T22:44:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "published_at": "2026-07-10T22:38:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Xi says China’s commitment to North Korea friendship will not change, KCNA reports",
+      "published_at": "2026-07-10T22:11:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Inside the 30-hour dating retreat run by monks",
+      "published_at": "2026-07-10T22:02:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US issues fresh Iran-related sanctions as conflict flares",
+      "published_at": "2026-07-10T21:37:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "published_at": "2026-07-10T21:30:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+      "published_at": "2026-07-10T21:22:01+00:00"
+    },
     {
       "source": "NPR",
       "text": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
@@ -8,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Spain's High Court widens graft inquiry to include PM's close ally",
-      "published_at": "2026-07-10T19:44:28+00:00"
+      "text": "Britain's Prince Harry plays wheelchair rugby at Invictus Games venue",
+      "published_at": "2026-07-10T19:59:43+00:00"
     },
     {
       "source": "Reuters",
@@ -18,63 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
-      "published_at": "2026-07-10T19:31:16+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "FAA extends flight cuts at Chicago O'Hare for another year",
       "published_at": "2026-07-10T19:19:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-      "published_at": "2026-07-10T19:11:14+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "China can help end Ukraine war by pressuring Russia, U.S. Senator Graham says",
       "published_at": "2026-07-10T19:09:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-      "published_at": "2026-07-10T19:08:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swiss without injured Manzambi for Argentina quarter-final, Yakin says",
-      "published_at": "2026-07-10T19:01:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Superb Sinner ends Djokovic's latest bid for history",
-      "published_at": "2026-07-10T18:36:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-      "published_at": "2026-07-10T18:04:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe keeps France’s greats comparison on ice as semi-final beckons",
-      "published_at": "2026-07-10T17:11:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'You made us proud': Egypt gives heroes' welcome to World Cup team",
-      "published_at": "2026-07-10T16:59:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "published_at": "2026-07-10T16:42:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "published_at": "2026-07-10T16:42:24+00:00"
     }
   ]
 }
