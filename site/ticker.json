@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-10T00:15:56+00:00",
+  "updated_at": "2026-07-10T05:03:48+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Japan calling capital home",
+      "published_at": "2026-07-10T04:33:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade attacks as Khamenei is buried",
+      "published_at": "2026-07-10T04:18:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "President Trump cleans house at the bipartisan Election Assistance Commission",
+      "published_at": "2026-07-10T02:52:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "published_at": "2026-07-10T02:48:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
+      "published_at": "2026-07-10T02:44:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "published_at": "2026-07-10T01:12:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
+      "published_at": "2026-07-10T01:03:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain face toughest World Cup test against Belgium, coach says",
+      "published_at": "2026-07-10T00:45:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's arch clears another hurdle, setting up a big debate: Do height limits apply?",
+      "published_at": "2026-07-10T00:44:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yen rises as Japan encourages pension funds to invest in domestic assets",
+      "published_at": "2026-07-10T00:43:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
@@ -17,16 +67,6 @@
       "published_at": "2026-07-09T23:07:47+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Geopolitical shifts drive sovereign funds towards national priorities, study finds",
-      "published_at": "2026-07-09T23:07:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade attacks as Khamenei is buried",
-      "published_at": "2026-07-09T23:02:18+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Pressure builds on Europe's biggest port to be greener",
       "published_at": "2026-07-09T23:00:51+00:00"
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "We saved £6,000 on holidays by swapping homes with strangers",
       "published_at": "2026-07-09T23:00:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe strikes again after missing penalty as France outclass Morocco to reach semi-finals",
-      "published_at": "2026-07-09T22:55:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
-      "published_at": "2026-07-09T22:41:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Software firm CCC exploring sale, sources say",
-      "published_at": "2026-07-09T22:35:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico to file criminal complaints in US over deaths of Mexicans in immigration enforcement",
-      "published_at": "2026-07-09T22:18:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran buries late Supreme Leader Ayatollah Ali Khamenei",
-      "published_at": "2026-07-09T22:14:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei",
-      "published_at": "2026-07-09T22:12:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How an app in South Korea will let victims track their stalkers",
-      "published_at": "2026-07-09T22:09:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "France downs Morocco 2-0 to advance to the World Cup semifinal",
-      "published_at": "2026-07-09T22:01:54+00:00"
     }
   ]
 }
