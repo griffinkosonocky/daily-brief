@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-10T17:57:06+00:00",
+  "updated_at": "2026-07-10T19:47:46+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+      "published_at": "2026-07-10T19:31:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FAA extends flight cuts at Chicago O'Hare for another year",
+      "published_at": "2026-07-10T19:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China can help end Ukraine war by pressuring Russia, U.S. Senator Graham says",
+      "published_at": "2026-07-10T19:09:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "published_at": "2026-07-10T19:08:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss without injured Manzambi for Argentina quarter-final, Yakin says",
+      "published_at": "2026-07-10T19:01:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Superb Sinner ends Djokovic's latest bid for history",
+      "published_at": "2026-07-10T18:36:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "published_at": "2026-07-10T18:04:39+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Mbappe keeps France’s greats comparison on ice as semi-final beckons",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - World Cup nets an economic draw",
       "published_at": "2026-07-10T15:56:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nolan Wells' family demands answers about US teen's death after boating trip",
-      "published_at": "2026-07-10T15:50:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Angola allows banks to use China's yuan for reserve requirements",
-      "published_at": "2026-07-10T15:37:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Boxy forms and odd lights: US declassifies more UFO files",
-      "published_at": "2026-07-10T15:28:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
-      "published_at": "2026-07-10T15:26:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Viking enthusiasts hail spirit, if not technique, of Norway fans' \"Viking row\"",
-      "published_at": "2026-07-10T15:19:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Potential for chaos', German union warns on Commerzbank and UniCredit",
-      "published_at": "2026-07-10T15:03:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
-      "published_at": "2026-07-10T14:55:21+00:00"
     }
   ]
 }
