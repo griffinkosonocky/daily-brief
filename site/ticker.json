@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-11T06:23:34+00:00",
+  "updated_at": "2026-07-11T08:56:46+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Newly-released video shows Peter Falconio's killer questioned",
+      "published_at": "2026-07-11T08:35:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "published_at": "2026-07-11T08:23:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "published_at": "2026-07-11T07:46:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Spain edges Belgium and will face France in World Cup semifinal",
+      "published_at": "2026-07-11T06:58:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "published_at": "2026-07-11T06:34:09+00:00"
+    },
     {
       "source": "NPR",
       "text": "Trump administration rolls back a key protection for imperiled wildlife",
@@ -17,14 +42,9 @@
       "published_at": "2026-07-11T04:47:37+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "published_at": "2026-07-11T04:06:56+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "England's Kane confirms golf outing with Trump, praises president's game",
-      "published_at": "2026-07-11T02:50:00+00:00"
+      "text": "Australia striker Mitch Duke ends international career",
+      "published_at": "2026-07-11T04:03:00+00:00"
     },
     {
       "source": "BBC",
@@ -47,34 +67,14 @@
       "published_at": "2026-07-11T00:46:15+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "World Cup referees doing excellent job, says Argentina's Martinez",
+      "published_at": "2026-07-11T00:31:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
       "published_at": "2026-07-11T00:17:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spanish wildfire victims burned in cars while attempting to flee",
-      "published_at": "2026-07-11T00:10:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "published_at": "2026-07-11T00:00:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Magic Merino strikes again as Spain down Belgium to reach World Cup semis",
-      "published_at": "2026-07-10T23:46:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-      "published_at": "2026-07-10T23:36:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meet the crypto billionaires building a world where money buys you a vote",
-      "published_at": "2026-07-10T23:03:11+00:00"
     }
   ]
 }
