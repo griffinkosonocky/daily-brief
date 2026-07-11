@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-11T19:21:26+00:00",
+  "updated_at": "2026-07-11T21:01:30+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "published_at": "2026-07-11T19:32:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran supreme leader calls for revenge for father's killing",
+      "published_at": "2026-07-11T19:30:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15",
@@ -25,11 +35,6 @@
       "source": "BBC",
       "text": "China's second typhoon in a week makes landfall",
       "published_at": "2026-07-11T17:41:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-      "published_at": "2026-07-11T16:55:57+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "published_at": "2026-07-11T14:19:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "published_at": "2026-07-11T13:44:03+00:00"
     }
   ]
 }
