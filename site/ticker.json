@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-11T03:35:40+00:00",
+  "updated_at": "2026-07-11T06:23:34+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Trump administration rolls back a key protection for imperiled wildlife",
+      "published_at": "2026-07-11T05:48:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "published_at": "2026-07-11T04:56:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Small plane crash in Bahamas kills 10 people",
+      "published_at": "2026-07-11T04:47:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "published_at": "2026-07-11T04:06:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England's Kane confirms golf outing with Trump, praises president's game",
+      "published_at": "2026-07-11T02:50:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Meta pulls new AI image feature after days of backlash",
@@ -10,11 +35,6 @@
       "source": "Reuters",
       "text": "Russia's diesel export ban deepens global supply crunch",
       "published_at": "2026-07-11T01:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "published_at": "2026-07-11T01:24:49+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Meet the crypto billionaires building a world where money buys you a vote",
       "published_at": "2026-07-10T23:03:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
-      "published_at": "2026-07-10T23:02:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "published_at": "2026-07-10T22:54:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "De la Fuente hails Spain's strength in depth after super-sub Merino strikes again",
-      "published_at": "2026-07-10T22:47:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "published_at": "2026-07-10T22:38:03+00:00"
     }
   ]
 }
