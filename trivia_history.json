@@ -178,5 +178,11 @@
     "sport": "Sports",
     "question": "Who won the 2015 Formula 1 World Championship?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "date": "2026-07-11",
+    "sport": "Sports",
+    "question": "What is “The Sport of Kings”?",
+    "answer": "Horse Racing"
   }
 ]
