@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-11T15:10:10+00:00",
+  "updated_at": "2026-07-11T17:10:57+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
+      "published_at": "2026-07-11T16:55:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+      "published_at": "2026-07-11T16:35:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German FA says it has started talks with coach Klopp for national team post, confident of a deal",
+      "published_at": "2026-07-11T16:29:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "published_at": "2026-07-11T16:11:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "published_at": "2026-07-11T15:14:42+00:00"
+    },
     {
       "source": "BBC",
       "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
@@ -12,14 +37,14 @@
       "published_at": "2026-07-11T14:47:47+00:00"
     },
     {
-      "source": "BBC",
-      "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "published_at": "2026-07-11T14:19:34+00:00"
+      "source": "Reuters",
+      "text": "Patten, Heliovaara win second Wimbledon men's doubles title",
+      "published_at": "2026-07-11T14:44:11+00:00"
     },
     {
       "source": "BBC",
-      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "published_at": "2026-07-11T14:08:07+00:00"
+      "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "published_at": "2026-07-11T14:19:34+00:00"
     },
     {
       "source": "BBC",
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role",
-      "published_at": "2026-07-11T13:01:44+00:00"
+      "text": "Iran's supreme leader pledges revenge for slain father and predecessor",
+      "published_at": "2026-07-11T13:08:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15",
-      "published_at": "2026-07-11T12:52:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "published_at": "2026-07-11T12:06:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Is democracy a joke? Count Binface says no.",
-      "published_at": "2026-07-11T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Most people who need glasses don't have them. Can the post office change that?",
-      "published_at": "2026-07-11T11:49:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We escaped Spanish wildfire, but our friends lost their lives'",
-      "published_at": "2026-07-11T11:45:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "published_at": "2026-07-11T10:00:00+00:00"
+      "text": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role",
+      "published_at": "2026-07-11T13:01:44+00:00"
     }
   ]
 }
