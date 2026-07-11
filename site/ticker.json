@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-11T17:10:57+00:00",
+  "updated_at": "2026-07-11T19:21:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15",
+      "published_at": "2026-07-11T18:26:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium coach Garcia's tenure in doubt after Courtois substitution",
+      "published_at": "2026-07-11T18:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White Sox draft UCLA SS Roch Cholowsky at No. 1",
+      "published_at": "2026-07-11T18:03:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "published_at": "2026-07-11T18:00:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China's second typhoon in a week makes landfall",
+      "published_at": "2026-07-11T17:41:56+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
@@ -38,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Patten, Heliovaara win second Wimbledon men's doubles title",
-      "published_at": "2026-07-11T14:44:11+00:00"
+      "text": "Floods in Bangladesh kill 44, leave over a million stranded",
+      "published_at": "2026-07-11T14:26:29+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "published_at": "2026-07-11T13:44:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Landmark US housing bill becomes law despite Trump protest",
-      "published_at": "2026-07-11T13:35:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Marc Marquez cruises to German Grand Prix sprint victory from pole",
-      "published_at": "2026-07-11T13:33:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "published_at": "2026-07-11T13:11:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran's supreme leader pledges revenge for slain father and predecessor",
-      "published_at": "2026-07-11T13:08:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role",
-      "published_at": "2026-07-11T13:01:44+00:00"
     }
   ]
 }
