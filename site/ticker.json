@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-11T22:02:01+00:00",
+  "updated_at": "2026-07-11T23:04:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Man arrested on suspicion of murdering former UK minister Ann Widdecombe",
+      "published_at": "2026-07-11T22:44:49+00:00"
+    },
     {
       "source": "BBC",
       "text": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "published_at": "2026-07-11T21:56:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Argentina World Cup captain Rattin dies aged 89",
+      "published_at": "2026-07-11T21:47:43+00:00"
     },
     {
       "source": "Reuters",
@@ -37,9 +47,19 @@
       "published_at": "2026-07-11T20:43:35+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Wreckage shows charred cars used by victims of Spain's deadly wildfire",
+      "published_at": "2026-07-11T20:03:08+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Iran supreme leader calls for revenge for father's killing",
       "published_at": "2026-07-11T19:30:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
+      "published_at": "2026-07-11T19:08:12+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "White Sox draft UCLA SS Roch Cholowsky at No. 1",
       "published_at": "2026-07-11T18:03:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "published_at": "2026-07-11T18:00:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China's second typhoon in a week makes landfall",
-      "published_at": "2026-07-11T17:41:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
-      "published_at": "2026-07-11T16:35:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German FA says it has started talks with coach Klopp for national team post, confident of a deal",
-      "published_at": "2026-07-11T16:29:24+00:00"
     }
   ]
 }
