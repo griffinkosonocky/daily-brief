@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-11T12:01:09+00:00",
+  "updated_at": "2026-07-11T13:48:02+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "published_at": "2026-07-11T13:44:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Landmark US housing bill becomes law despite Trump protest",
+      "published_at": "2026-07-11T13:35:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa World Cup midfielder Adams dies aged 25",
+      "published_at": "2026-07-11T13:29:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "published_at": "2026-07-11T13:14:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "published_at": "2026-07-11T13:11:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role",
+      "published_at": "2026-07-11T13:01:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15",
+      "published_at": "2026-07-11T12:52:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "published_at": "2026-07-11T12:06:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: Is democracy a joke? Count Binface says no.",
+      "published_at": "2026-07-11T12:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Most people who need glasses don't have them. Can the post office change that?",
@@ -10,11 +55,6 @@
       "source": "BBC",
       "text": "'We escaped Spanish wildfire, but our friends lost their lives'",
       "published_at": "2026-07-11T11:45:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "published_at": "2026-07-11T11:42:46+00:00"
     },
     {
       "source": "NPR",
@@ -28,53 +68,13 @@
     },
     {
       "source": "NPR",
-      "text": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
-      "published_at": "2026-07-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "With the white nationalist group Patriot Front, what you see is not what you get",
       "published_at": "2026-07-11T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Newly-released video shows Peter Falconio's killer questioned",
-      "published_at": "2026-07-11T08:35:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "published_at": "2026-07-11T08:23:45+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "Spain edges Belgium and will face France in World Cup semifinal",
-      "published_at": "2026-07-11T06:58:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "published_at": "2026-07-11T06:34:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration rolls back a key protection for imperiled wildlife",
-      "published_at": "2026-07-11T05:48:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Small plane crash in Bahamas kills 10 people",
-      "published_at": "2026-07-11T04:47:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia striker Mitch Duke ends international career",
-      "published_at": "2026-07-11T04:03:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meta pulls new AI image feature after days of backlash",
-      "published_at": "2026-07-11T01:45:59+00:00"
+      "text": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "published_at": "2026-07-11T09:00:00+00:00"
     }
   ]
 }
