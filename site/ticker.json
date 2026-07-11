@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-10T23:10:52+00:00",
+  "updated_at": "2026-07-11T03:35:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Meta pulls new AI image feature after days of backlash",
+      "published_at": "2026-07-11T01:45:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia's diesel export ban deepens global supply crunch",
+      "published_at": "2026-07-11T01:27:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "published_at": "2026-07-11T01:24:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England's Kane dodges Haaland comparisons, plays down Golden Boot race",
+      "published_at": "2026-07-11T00:50:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "published_at": "2026-07-11T00:46:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "published_at": "2026-07-11T00:17:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spanish wildfire victims burned in cars while attempting to flee",
+      "published_at": "2026-07-11T00:10:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "published_at": "2026-07-11T00:00:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Magic Merino strikes again as Spain down Belgium to reach World Cup semis",
+      "published_at": "2026-07-10T23:46:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
+      "published_at": "2026-07-10T23:36:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meet the crypto billionaires building a world where money buys you a vote",
+      "published_at": "2026-07-10T23:03:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "published_at": "2026-07-10T23:02:59+00:00"
+    },
     {
       "source": "BBC",
       "text": "Apple sues OpenAI, its employees claiming theft of trade secrets",
@@ -12,69 +72,9 @@
       "published_at": "2026-07-10T22:47:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Tears for two Belgium goalkeepers",
-      "published_at": "2026-07-10T22:45:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Soccer-Magic Merino strikes again as Spain down Belgium to reach World Cup semis",
-      "published_at": "2026-07-10T22:44:16+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Man fatally shot by ICE in Houston was not intended target, DHS says",
       "published_at": "2026-07-10T22:38:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xi says China’s commitment to North Korea friendship will not change, KCNA reports",
-      "published_at": "2026-07-10T22:11:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Inside the 30-hour dating retreat run by monks",
-      "published_at": "2026-07-10T22:02:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US issues fresh Iran-related sanctions as conflict flares",
-      "published_at": "2026-07-10T21:37:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "published_at": "2026-07-10T21:30:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-      "published_at": "2026-07-10T21:22:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
-      "published_at": "2026-07-10T20:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain's Prince Harry plays wheelchair rugby at Invictus Games venue",
-      "published_at": "2026-07-10T19:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
-      "published_at": "2026-07-10T19:39:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FAA extends flight cuts at Chicago O'Hare for another year",
-      "published_at": "2026-07-10T19:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China can help end Ukraine war by pressuring Russia, U.S. Senator Graham says",
-      "published_at": "2026-07-10T19:09:55+00:00"
     }
   ]
 }
