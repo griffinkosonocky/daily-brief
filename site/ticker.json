@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-11T13:48:02+00:00",
+  "updated_at": "2026-07-11T15:10:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "published_at": "2026-07-11T15:03:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa World Cup midfielder Adams dies aged 25",
+      "published_at": "2026-07-11T14:47:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "published_at": "2026-07-11T14:19:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "published_at": "2026-07-11T14:08:07+00:00"
+    },
     {
       "source": "BBC",
       "text": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
@@ -12,14 +32,9 @@
       "published_at": "2026-07-11T13:35:09+00:00"
     },
     {
-      "source": "BBC",
-      "text": "South Africa World Cup midfielder Adams dies aged 25",
-      "published_at": "2026-07-11T13:29:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "published_at": "2026-07-11T13:14:19+00:00"
+      "source": "Reuters",
+      "text": "Marc Marquez cruises to German Grand Prix sprint victory from pole",
+      "published_at": "2026-07-11T13:33:43+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
       "published_at": "2026-07-11T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "published_at": "2026-07-11T09:01:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "With the white nationalist group Patriot Front, what you see is not what you get",
-      "published_at": "2026-07-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
-      "published_at": "2026-07-11T09:00:00+00:00"
     }
   ]
 }
