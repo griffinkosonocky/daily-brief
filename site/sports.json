@@ -1,87 +1,14 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-11",
-  "generated_at_ct": "Jul 11, 2026 at 6:28 AM CT",
+  "date_key": "2026-07-12",
+  "generated_at_ct": "Jul 12, 2026 at 6:35 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
       "label": "World Cup",
       "full_name": "FIFA World Cup",
-      "games": [
-        {
-          "id": "e66e4478b739fa0657a7a11235e1fcee",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "4:00 PM CT",
-          "commence_time": "2026-07-11T21:00:00Z",
-          "commence_ct": "4:00 PM CT",
-          "sort_time": "2026-07-11T21:00:00+00:00",
-          "home_team": "Norway",
-          "away_team": "England",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "6:27 AM CT",
-            "summary": "England -0.5",
-            "outcomes": [
-              {
-                "name": "England",
-                "point": -0.5,
-                "point_label": "-0.5",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Norway",
-                "point": 0.5,
-                "point_label": "+0.5",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "200d9cd5eda092c7eb778cc104cd2fd2",
-          "sport_key": "soccer_fifa_world_cup",
-          "league": "World Cup",
-          "league_name": "FIFA World Cup",
-          "status_key": "upcoming",
-          "status_label": "8:00 PM CT",
-          "commence_time": "2026-07-12T01:00:00Z",
-          "commence_ct": "8:00 PM CT",
-          "sort_time": "2026-07-12T01:00:00+00:00",
-          "home_team": "Argentina",
-          "away_team": "Switzerland",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "Bovada",
-            "last_update_ct": "6:27 AM CT",
-            "summary": "Argentina -0.75",
-            "outcomes": [
-              {
-                "name": "Argentina",
-                "point": -0.75,
-                "point_label": "-0.75",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Switzerland",
-                "point": 0.75,
-                "point_label": "+0.75",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        }
-      ],
-      "note": "",
+      "games": [],
+      "note": "No games today.",
       "errors": [],
       "active": true
     },
@@ -123,18 +50,18 @@
     }
   ],
   "summary": {
-    "games": 2,
+    "games": 0,
     "live": 0,
     "final": 0,
-    "upcoming": 2,
-    "spreads": 2
+    "upcoming": 0,
+    "spreads": 0
   },
   "quota": {
-    "remaining": "457",
-    "used": "43",
+    "remaining": "454",
+    "used": "46",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-11T11:29:48+00:00"
+  "generated_at": "2026-07-12T11:37:17+00:00"
 }

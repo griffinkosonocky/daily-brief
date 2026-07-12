@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-12T11:21:44+00:00",
+  "updated_at": "2026-07-12T11:37:19+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Badly burned British couple rescued from ravine during Spain wildfires",
-      "published_at": "2026-07-12T11:15:11+00:00"
+      "text": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "published_at": "2026-07-12T11:23:09+00:00"
     },
     {
       "source": "NPR",
@@ -23,17 +23,17 @@
     },
     {
       "source": "NPR",
-      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "published_at": "2026-07-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
       "published_at": "2026-07-12T09:00:00+00:00"
     },
     {
       "source": "NPR",
       "text": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "published_at": "2026-07-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
       "published_at": "2026-07-12T09:00:00+00:00"
     },
     {
@@ -63,11 +63,6 @@
     },
     {
       "source": "Reuters",
-      "text": "South China Sea joint statement says China's maritime claims have no basis",
-      "published_at": "2026-07-12T06:44:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Scaloni says suffering is in Argentina's DNA after extra-time win over Switzerland",
       "published_at": "2026-07-12T06:08:00+00:00"
     },
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
       "published_at": "2026-07-12T05:27:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "published_at": "2026-07-12T05:00:15+00:00"
     }
   ]
 }
