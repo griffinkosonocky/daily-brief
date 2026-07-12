@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-07-12T11:37:19+00:00",
+  "updated_at": "2026-07-12T13:50:14+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "published_at": "2026-07-12T11:23:09+00:00"
+      "published_at": "2026-07-12T13:35:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "published_at": "2026-07-12T13:10:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany funds 50,000 strike drones for Ukraine, source says",
+      "published_at": "2026-07-12T12:46:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says he will replace Prime Minister Svyrydenko",
+      "published_at": "2026-07-12T12:37:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "published_at": "2026-07-12T11:57:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norwegian Air wears BA's colours for a day after World Cup social media wager",
+      "published_at": "2026-07-12T11:56:09+00:00"
     },
     {
       "source": "NPR",
@@ -12,9 +37,9 @@
       "published_at": "2026-07-12T10:49:40+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "published_at": "2026-07-12T09:47:43+00:00"
+      "source": "Reuters",
+      "text": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died",
+      "published_at": "2026-07-12T10:25:49+00:00"
     },
     {
       "source": "BBC",
@@ -28,13 +53,18 @@
     },
     {
       "source": "NPR",
-      "text": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
       "published_at": "2026-07-12T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "text": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
       "published_at": "2026-07-12T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's batting under the microscope after T20 defeats by England, Ireland",
+      "published_at": "2026-07-12T08:23:43+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "published_at": "2026-07-12T07:39:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. Sen. Lindsey Graham has died after a brief, unexpected illness, his office says",
-      "published_at": "2026-07-12T07:10:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "One Indian national missing after attack on vessel off Oman, foreign ministry says",
-      "published_at": "2026-07-12T07:10:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "published_at": "2026-07-12T06:49:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scaloni says suffering is in Argentina's DNA after extra-time win over Switzerland",
-      "published_at": "2026-07-12T06:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
-      "published_at": "2026-07-12T05:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "published_at": "2026-07-12T05:00:15+00:00"
     }
   ]
 }
