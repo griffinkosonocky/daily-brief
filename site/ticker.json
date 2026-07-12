@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-12T09:59:52+00:00",
+  "updated_at": "2026-07-12T11:21:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Badly burned British couple rescued from ravine during Spain wildfires",
+      "published_at": "2026-07-12T11:15:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
+      "published_at": "2026-07-12T10:49:40+00:00"
+    },
     {
       "source": "BBC",
       "text": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
@@ -38,7 +48,7 @@
     },
     {
       "source": "NPR",
-      "text": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "text": "U.S. Sen. Lindsey Graham has died after a brief, unexpected illness, his office says",
       "published_at": "2026-07-12T07:10:41+00:00"
     },
     {
@@ -53,6 +63,11 @@
     },
     {
       "source": "Reuters",
+      "text": "South China Sea joint statement says China's maritime claims have no basis",
+      "published_at": "2026-07-12T06:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Scaloni says suffering is in Argentina's DNA after extra-time win over Switzerland",
       "published_at": "2026-07-12T06:08:00+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
       "published_at": "2026-07-12T05:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "published_at": "2026-07-12T05:00:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
-      "published_at": "2026-07-12T04:58:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-      "published_at": "2026-07-12T04:10:30+00:00"
     }
   ]
 }
