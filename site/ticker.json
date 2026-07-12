@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-12T19:19:56+00:00",
+  "updated_at": "2026-07-12T21:02:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "published_at": "2026-07-12T20:13:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+      "published_at": "2026-07-12T19:53:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "published_at": "2026-07-12T19:42:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Death toll from Venezuela earthquakes rises to 4,490",
+      "published_at": "2026-07-12T19:33:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England's resilience faces ultimate test against Argentina in World Cup semi-final",
+      "published_at": "2026-07-12T19:23:16+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Dallas talent factory confident World Cup will deliver development dividend",
@@ -15,11 +40,6 @@
       "source": "Reuters",
       "text": "At 34, Burn emerges as England's unlikely World Cup warrior",
       "published_at": "2026-07-12T18:56:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England's resilience faces ultimate test against Argentina in World Cup semi-final",
-      "published_at": "2026-07-12T18:43:59+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Argentina cool rivalry talk ahead of England World Cup semi-final",
       "published_at": "2026-07-12T16:48:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
-      "published_at": "2026-07-12T16:48:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "published_at": "2026-07-12T16:46:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "published_at": "2026-07-12T16:35:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
-      "published_at": "2026-07-12T15:33:27+00:00"
     }
   ]
 }
