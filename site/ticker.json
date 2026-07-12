@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-07-12T21:02:26+00:00",
+  "updated_at": "2026-07-12T22:04:04+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Georgia's unique in the American Revolution told through its historical markers",
+      "published_at": "2026-07-12T21:08:15+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "text": "At least 27 killed in Bangkok bar fire",
       "published_at": "2026-07-12T20:13:14+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Iran coach Ghalenoei to remain in charge for Asian Cup challenge",
       "published_at": "2026-07-12T16:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina cool rivalry talk ahead of England World Cup semi-final",
-      "published_at": "2026-07-12T16:48:49+00:00"
     }
   ]
 }
