@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-07-12T15:10:06+00:00",
+  "updated_at": "2026-07-12T17:12:35+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran coach Ghalenoei to remain in charge for Asian Cup challenge",
+      "published_at": "2026-07-12T16:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina cool rivalry talk ahead of England World Cup semi-final",
+      "published_at": "2026-07-12T16:48:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+      "published_at": "2026-07-12T16:48:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "published_at": "2026-07-12T16:46:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England's resilience faces ultimate test against Argentina in World Cup semi-final",
+      "published_at": "2026-07-12T16:38:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "published_at": "2026-07-12T16:35:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island",
+      "published_at": "2026-07-12T16:29:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "published_at": "2026-07-12T15:34:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "published_at": "2026-07-12T15:33:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "published_at": "2026-07-12T15:22:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli attacks in Gaza kill six people, including a girl, medics say",
+      "published_at": "2026-07-12T15:12:33+00:00"
+    },
     {
       "source": "Reuters",
       "text": "New Syrian parliament meets for first time in Damascus",
@@ -8,73 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "As 2026 World Cup winds down, potential 2030 expansion to be discussed",
+      "published_at": "2026-07-12T14:55:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Norway embrace Viking pride on fairytale World Cup return",
       "published_at": "2026-07-12T14:50:35+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "published_at": "2026-07-12T14:18:45+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Dominant Marquez seals landmark German GP win to reignite title challenge",
-      "published_at": "2026-07-12T14:13:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy dismisses Prime Minister Svyrydenko after only a year",
-      "published_at": "2026-07-12T13:38:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "published_at": "2026-07-12T13:35:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Strait of Hormuz open to commercial traffic",
-      "published_at": "2026-07-12T13:30:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli attacks in Gaza kill five people, including a girl, say medics",
-      "published_at": "2026-07-12T12:47:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "published_at": "2026-07-12T11:57:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norwegian Air wears BA's colours for a day after World Cup social media wager",
-      "published_at": "2026-07-12T11:56:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
-      "published_at": "2026-07-12T10:49:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died",
-      "published_at": "2026-07-12T10:25:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "People flee as Russian strike hits near Ukraine coffee shop",
-      "published_at": "2026-07-12T09:03:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
-      "published_at": "2026-07-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "published_at": "2026-07-12T09:00:00+00:00"
+      "text": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
+      "published_at": "2026-07-12T14:25:22+00:00"
     }
   ]
 }
