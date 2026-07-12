@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-12T07:35:57+00:00",
+  "updated_at": "2026-07-12T09:59:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "published_at": "2026-07-12T09:47:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "People flee as Russian strike hits near Ukraine coffee shop",
+      "published_at": "2026-07-12T09:03:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "published_at": "2026-07-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+      "published_at": "2026-07-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "published_at": "2026-07-12T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss fans salute team after World Cup run ends in defeat by Argentina",
+      "published_at": "2026-07-12T07:47:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "published_at": "2026-07-12T07:39:45+00:00"
+    },
     {
       "source": "NPR",
       "text": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
@@ -17,16 +52,6 @@
       "published_at": "2026-07-12T06:49:46+00:00"
     },
     {
-      "source": "BBC",
-      "text": "China's second typhoon in a week makes landfall",
-      "published_at": "2026-07-12T06:44:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South China Sea joint statement says China's maritime claims have no basis",
-      "published_at": "2026-07-12T06:44:00+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Scaloni says suffering is in Argentina's DNA after extra-time win over Switzerland",
       "published_at": "2026-07-12T06:08:00+00:00"
@@ -34,7 +59,7 @@
     {
       "source": "Reuters",
       "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
-      "published_at": "2026-07-12T05:26:00+00:00"
+      "published_at": "2026-07-12T05:27:43+00:00"
     },
     {
       "source": "BBC",
@@ -42,39 +67,14 @@
       "published_at": "2026-07-12T05:00:15+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
+      "published_at": "2026-07-12T04:58:53+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
       "published_at": "2026-07-12T04:10:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least two killed in Toronto street festival shooting",
-      "published_at": "2026-07-12T03:56:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
-      "published_at": "2026-07-12T03:51:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Messi and Argentina survive another close call to reach the World Cup semifinals",
-      "published_at": "2026-07-12T03:45:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Senegal fire coach Thiaw after disappointing World Cup",
-      "published_at": "2026-07-12T02:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bellingham is not wrong but England must play better, says Tuchel",
-      "published_at": "2026-07-12T01:44:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
-      "published_at": "2026-07-12T01:38:29+00:00"
     }
   ]
 }
