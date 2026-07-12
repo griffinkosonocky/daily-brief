@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-07-12T04:33:28+00:00",
+  "updated_at": "2026-07-12T07:35:57+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "published_at": "2026-07-12T07:10:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One Indian national missing after attack on vessel off Oman, foreign ministry says",
+      "published_at": "2026-07-12T07:10:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "published_at": "2026-07-12T04:17:07+00:00"
+      "published_at": "2026-07-12T06:49:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China's second typhoon in a week makes landfall",
+      "published_at": "2026-07-12T06:44:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South China Sea joint statement says China's maritime claims have no basis",
+      "published_at": "2026-07-12T06:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scaloni says suffering is in Argentina's DNA after extra-time win over Switzerland",
+      "published_at": "2026-07-12T06:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
+      "published_at": "2026-07-12T05:26:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "published_at": "2026-07-12T05:00:15+00:00"
     },
     {
       "source": "NPR",
@@ -18,7 +53,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Argentina beat Swiss 3-1 after extra time to reach World Cup semi-finals",
+      "text": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
       "published_at": "2026-07-12T03:51:00+00:00"
     },
     {
@@ -33,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "UKMTO says crew abandon container ship near Oman after fire onboard",
-      "published_at": "2026-07-12T02:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Bellingham is not wrong but England must play better, says Tuchel",
       "published_at": "2026-07-12T01:44:00+00:00"
     },
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
       "published_at": "2026-07-12T01:38:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-      "published_at": "2026-07-12T01:32:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China's second typhoon in a week makes landfall",
-      "published_at": "2026-07-12T01:22:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says it launched strikes against Iran after attack on Cyprus-flagged container ship",
-      "published_at": "2026-07-12T00:51:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-      "published_at": "2026-07-12T00:49:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two children die after ferry hits bridge in eastern Syria",
-      "published_at": "2026-07-12T00:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Enough said': Midfield engine Bellingham stamps his authority as England advance",
-      "published_at": "2026-07-12T00:42:00+00:00"
     }
   ]
 }
