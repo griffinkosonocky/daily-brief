@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-07-12T22:04:04+00:00",
+  "updated_at": "2026-07-12T23:05:46+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 27 killed in Bangkok bar fire",
+      "published_at": "2026-07-12T22:57:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bangkok pub fire kills at least 27 people, officials say",
+      "published_at": "2026-07-12T22:37:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "published_at": "2026-07-12T22:17:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "published_at": "2026-07-12T22:08:07+00:00"
+    },
     {
       "source": "NPR",
       "text": "Georgia's unique in the American Revolution told through its historical markers",
       "published_at": "2026-07-12T21:08:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "At least 27 killed in Bangkok bar fire",
-      "published_at": "2026-07-12T20:13:14+00:00"
+      "source": "Reuters",
+      "text": "Messi set for long-awaited first England clash in World Cup semi-final",
+      "published_at": "2026-07-12T21:04:09+00:00"
     },
     {
       "source": "NPR",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Potential World Cup expansion to be discussed after 2026 edition - Infantino",
       "published_at": "2026-07-12T18:10:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "published_at": "2026-07-12T17:40:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Toronto police looking for suspects after deadly shooting at festival",
-      "published_at": "2026-07-12T17:22:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli attacks in Gaza kill six people, including a girl, medics say",
-      "published_at": "2026-07-12T17:03:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran coach Ghalenoei to remain in charge for Asian Cup challenge",
-      "published_at": "2026-07-12T16:53:43+00:00"
     }
   ]
 }
