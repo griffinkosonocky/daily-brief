@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-12T23:05:46+00:00",
+  "updated_at": "2026-07-13T00:08:37+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "At least 27 killed in Bangkok bar fire",
-      "published_at": "2026-07-12T22:57:20+00:00"
+      "published_at": "2026-07-12T23:40:50+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bangkok pub fire kills at least 27 people, officials say",
-      "published_at": "2026-07-12T22:37:01+00:00"
+      "text": "Iran expands Gulf attacks after US strikes, says Strait of Hormuz shut",
+      "published_at": "2026-07-12T23:05:54+00:00"
     },
     {
       "source": "BBC",
@@ -27,11 +27,6 @@
       "published_at": "2026-07-12T21:08:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Messi set for long-awaited first England clash in World Cup semi-final",
-      "published_at": "2026-07-12T21:04:09+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
       "published_at": "2026-07-12T19:53:24+00:00"
@@ -40,11 +35,6 @@
       "source": "BBC",
       "text": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
       "published_at": "2026-07-12T19:42:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Death toll from Venezuela earthquakes rises to 4,490",
-      "published_at": "2026-07-12T19:33:43+00:00"
     },
     {
       "source": "Reuters",
@@ -75,6 +65,16 @@
       "source": "Reuters",
       "text": "Potential World Cup expansion to be discussed after 2026 edition - Infantino",
       "published_at": "2026-07-12T18:10:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Toronto police looking for suspects after deadly shooting at festival",
+      "published_at": "2026-07-12T17:22:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli attacks in Gaza kill six people, including a girl, medics say",
+      "published_at": "2026-07-12T17:03:47+00:00"
     }
   ]
 }
