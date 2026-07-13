@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-07-13T18:03:43+00:00",
+  "updated_at": "2026-07-13T19:44:11+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Spain bank on midfield control to contain French Fab Four",
-      "published_at": "2026-07-13T17:39:44+00:00"
+      "text": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
+      "published_at": "2026-07-13T19:29:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump reinstating naval blockade of Iranian ports",
+      "published_at": "2026-07-13T19:20:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'No way out': Survivors describe deadly Bangkok bar inferno",
+      "published_at": "2026-07-13T18:59:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Messi, Bellingham and history collide in Argentina-England semi-final",
+      "published_at": "2026-07-13T18:30:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One killed in encounter with US immigration agents in Maine, lawmaker says",
+      "published_at": "2026-07-13T17:54:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "published_at": "2026-07-13T17:31:54+00:00"
     },
     {
       "source": "Reuters",
       "text": "Rivalry and revenge: the long, bitter relationship between England and Argentina",
-      "published_at": "2026-07-13T17:01:46+00:00"
+      "published_at": "2026-07-13T17:15:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Development banks' climate funding hits record, but World Bank pullback looms",
+      "published_at": "2026-07-13T16:59:46+00:00"
     },
     {
       "source": "Reuters",
@@ -17,13 +47,8 @@
       "published_at": "2026-07-13T16:57:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Ukraine awaits new government after prime minister's shock dismissal",
-      "published_at": "2026-07-13T16:55:13+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "text": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
       "published_at": "2026-07-13T16:53:40+00:00"
     },
     {
@@ -37,44 +62,19 @@
       "published_at": "2026-07-13T16:36:20+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Asia's LNG imports recover, drawing cargoes from needy Europe",
-      "published_at": "2026-07-13T16:33:20+00:00"
-    },
-    {
       "source": "NPR",
       "text": "States sue to stop Paramount-Warner Bros blockbuster merger",
       "published_at": "2026-07-13T16:30:12+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Watch: Horses evacuated as fire approaches riding centre near Paris",
+      "published_at": "2026-07-13T16:28:19+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Explainer: Venezuela's complex and contested debt puzzle",
       "published_at": "2026-07-13T16:08:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House to rally utilities, data centers for AI power cost pledge, sources say",
-      "published_at": "2026-07-13T16:05:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "published_at": "2026-07-13T16:05:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Person killed in ICE-involved shooting in Maine, state lawmaker says",
-      "published_at": "2026-07-13T16:04:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Development banks' climate pledges hit record, but World Bank pullback looms",
-      "published_at": "2026-07-13T15:37:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Lindsey Graham's sister should be interim South Carolina senator",
-      "published_at": "2026-07-13T15:08:43+00:00"
     }
   ]
 }
