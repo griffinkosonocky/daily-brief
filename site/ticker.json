@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-13T08:25:56+00:00",
+  "updated_at": "2026-07-13T12:15:31+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "OPEC further lowers 2026 global oil demand growth forecast",
+      "published_at": "2026-07-13T12:07:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Development banks boost climate finance to record $163 billion, but World Bank pullback looms",
+      "published_at": "2026-07-13T12:05:43+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
-      "published_at": "2026-07-13T07:20:30+00:00"
+      "text": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+      "published_at": "2026-07-13T12:02:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "published_at": "2026-07-13T11:52:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "published_at": "2026-07-13T11:46:09+00:00"
     },
     {
       "source": "BBC",
       "text": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "published_at": "2026-07-13T07:19:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China allows private crushers to import Australian canola, sources say",
-      "published_at": "2026-07-13T07:06:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African rand slides as renewed Gulf conflict fuels risk-off mood",
-      "published_at": "2026-07-13T06:54:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
-      "published_at": "2026-07-13T06:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "S.Korea court sentences ex-president to 2 years in jail in political funding case, media says",
-      "published_at": "2026-07-13T06:34:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Turkey informed Canada that it will participate in global defence bank, Turkish official says",
-      "published_at": "2026-07-13T06:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cheap drones turn energy into the global economy's weak spot",
-      "published_at": "2026-07-13T06:12:00+00:00"
+      "published_at": "2026-07-13T11:45:25+00:00"
     },
     {
       "source": "BBC",
-      "text": "At least 27 killed, 22 critically injured after fire engulfs Bangkok bar",
-      "published_at": "2026-07-13T06:07:17+00:00"
+      "text": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "published_at": "2026-07-13T11:36:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Extreme heat threatens Italy's Parmesan heartland",
-      "published_at": "2026-07-13T06:03:00+00:00"
+      "text": "UK proscribes Iran's IRGC as a terrorist organisation, Sky News reports",
+      "published_at": "2026-07-13T11:29:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "New Zealand actor Sam Neill dies aged 78",
-      "published_at": "2026-07-13T05:55:00+00:00"
+      "text": "Air Canada reaches new tentative agreement with IAMAW union",
+      "published_at": "2026-07-13T11:16:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "published_at": "2026-07-13T10:30:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shipping in Sea of Azov, major Russian grains trade route, still restricted, sources say",
+      "published_at": "2026-07-13T10:29:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "published_at": "2026-07-13T10:29:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "People flee Bangkok bar as huge flames shoot out from doorway",
+      "published_at": "2026-07-13T10:17:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "published_at": "2026-07-13T10:14:01+00:00"
     },
     {
       "source": "NPR",
-      "text": "McConnell says a fall led to his hospitalization, breaking weeks of silence",
-      "published_at": "2026-07-13T05:49:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia's LNG imports recover, drawing cargoes from needy Europe",
-      "published_at": "2026-07-13T05:22:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare",
-      "published_at": "2026-07-13T05:03:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
-      "published_at": "2026-07-13T04:58:01+00:00"
+      "text": "Pythons' extreme biology may hold clues for treating human disease",
+      "published_at": "2026-07-13T10:00:00+00:00"
     }
   ]
 }
