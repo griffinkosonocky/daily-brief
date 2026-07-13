@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-13T21:09:48+00:00",
+  "updated_at": "2026-07-13T23:07:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Norway turn World Cup heartbreak into celebration as huge crowds pack capital",
+      "published_at": "2026-07-13T22:55:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "published_at": "2026-07-13T20:57:08+00:00"
+      "published_at": "2026-07-13T22:47:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "published_at": "2026-07-13T22:38:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "published_at": "2026-07-13T21:37:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix plunges after Nasdaq debut as memory chip euphoria cools",
+      "published_at": "2026-07-13T21:32:56+00:00"
     },
     {
       "source": "BBC",
@@ -12,19 +32,24 @@
       "published_at": "2026-07-13T20:39:14+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "published_at": "2026-07-13T20:26:15+00:00"
+      "source": "Reuters",
+      "text": "Air Canada reaches new tentative agreement with IAMAW union",
+      "published_at": "2026-07-13T20:37:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One person killed in encounter with US immigration agents in Maine",
+      "published_at": "2026-07-13T20:29:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN official says Hamas obstructing aid in Gaza",
+      "published_at": "2026-07-13T20:27:53+00:00"
     },
     {
       "source": "NPR",
       "text": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
       "published_at": "2026-07-13T20:22:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brown-Forman CEO Lawson Whiting plans to retire, WSJ reports",
-      "published_at": "2026-07-13T20:22:04+00:00"
     },
     {
       "source": "Reuters",
@@ -47,34 +72,9 @@
       "published_at": "2026-07-13T20:15:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
-      "published_at": "2026-07-13T19:55:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'VARgentina' reach semi-finals under cloud of complaints",
-      "published_at": "2026-07-13T19:49:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man wanted in connection with murder arrested in Jordan",
-      "published_at": "2026-07-13T19:49:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "One person killed in encounter with US immigration agents in Maine",
-      "published_at": "2026-07-13T19:06:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "U.S. judge finds Trump misused court in IRS case, refers lawyers for discipline",
-      "published_at": "2026-07-13T19:05:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'No way out': Survivors describe deadly Bangkok bar inferno",
-      "published_at": "2026-07-13T18:59:18+00:00"
+      "source": "NPR",
+      "text": "On foreign policy, Graham's influence may have been felt the most",
+      "published_at": "2026-07-13T20:05:24+00:00"
     }
   ]
 }
