@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-13T12:15:31+00:00",
+  "updated_at": "2026-07-13T12:45:56+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "published_at": "2026-07-13T12:32:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "OPEC further lowers 2026 global oil demand growth forecast",
@@ -23,11 +28,6 @@
     },
     {
       "source": "BBC",
-      "text": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "published_at": "2026-07-13T11:46:09+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "The SpaceX IPO made history. One month on has it lost momentum?",
       "published_at": "2026-07-13T11:45:25+00:00"
     },
@@ -35,6 +35,11 @@
       "source": "BBC",
       "text": "German court convicts Iraqi couple of enslaving Yazidi girls",
       "published_at": "2026-07-13T11:36:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'No way out': Survivors describe deadly Bangkok bar inferno",
+      "published_at": "2026-07-13T11:34:43+00:00"
     },
     {
       "source": "Reuters",
@@ -50,11 +55,6 @@
       "source": "BBC",
       "text": "Men disguised as police kill Ecuadorean drug lord's brother",
       "published_at": "2026-07-13T10:30:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shipping in Sea of Azov, major Russian grains trade route, still restricted, sources say",
-      "published_at": "2026-07-13T10:29:46+00:00"
     },
     {
       "source": "BBC",
