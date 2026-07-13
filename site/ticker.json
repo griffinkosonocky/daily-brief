@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-07-13T15:48:51+00:00",
+  "updated_at": "2026-07-13T18:03:43+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Spain bank on midfield control to contain French Fab Four",
+      "published_at": "2026-07-13T17:39:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rivalry and revenge: the long, bitter relationship between England and Argentina",
+      "published_at": "2026-07-13T17:01:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scaloni's quiet revolution carries Argentina towards England showdown",
+      "published_at": "2026-07-13T16:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine awaits new government after prime minister's shock dismissal",
+      "published_at": "2026-07-13T16:55:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "published_at": "2026-07-13T16:53:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian PM Svyrydenko has submitted resignation, parliament speaker says",
+      "published_at": "2026-07-13T16:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranian-born engineer convicted in US of exporting technology to Iran",
+      "published_at": "2026-07-13T16:36:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia's LNG imports recover, drawing cargoes from needy Europe",
+      "published_at": "2026-07-13T16:33:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "States sue to stop Paramount-Warner Bros blockbuster merger",
+      "published_at": "2026-07-13T16:30:12+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Explainer: Venezuela's complex and contested debt puzzle",
-      "published_at": "2026-07-13T15:39:43+00:00"
+      "published_at": "2026-07-13T16:08:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House to rally utilities, data centers for AI power cost pledge, sources say",
+      "published_at": "2026-07-13T16:05:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "published_at": "2026-07-13T16:05:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Person killed in ICE-involved shooting in Maine, state lawmaker says",
+      "published_at": "2026-07-13T16:04:53+00:00"
     },
     {
       "source": "Reuters",
@@ -13,68 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Bosch begins sample production at its first US semiconductor plant",
-      "published_at": "2026-07-13T15:33:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed",
-      "published_at": "2026-07-13T15:07:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "published_at": "2026-07-13T15:04:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Person killed in ICE-involved shooting in Maine, state lawmaker says",
-      "published_at": "2026-07-13T15:00:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US forces strike Iranian submarine, ship maintenance facility",
-      "published_at": "2026-07-13T14:58:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain and Switzerland look to boost services with new trade deal",
-      "published_at": "2026-07-13T14:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK bans support for two Iranian groups over antisemitic attacks in Britain",
-      "published_at": "2026-07-13T13:58:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Striker Sorloth faces online abuse after Norway's exit from World Cup",
-      "published_at": "2026-07-13T12:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "OPEC further lowers 2026 global oil demand growth forecast",
-      "published_at": "2026-07-13T12:46:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Irish police to engage with Jordanian force in murder investigation",
-      "published_at": "2026-07-13T12:32:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's Merz pushes China currency talks, urges freer yuan",
-      "published_at": "2026-07-13T12:13:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "published_at": "2026-07-13T12:10:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "published_at": "2026-07-13T12:02:33+00:00"
+      "text": "Trump says Lindsey Graham's sister should be interim South Carolina senator",
+      "published_at": "2026-07-13T15:08:43+00:00"
     }
   ]
 }
