@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-13T12:45:56+00:00",
+  "updated_at": "2026-07-13T15:48:51+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Explainer: Venezuela's complex and contested debt puzzle",
+      "published_at": "2026-07-13T15:39:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Development banks' climate pledges hit record, but World Bank pullback looms",
+      "published_at": "2026-07-13T15:37:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bosch begins sample production at its first US semiconductor plant",
+      "published_at": "2026-07-13T15:33:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed",
+      "published_at": "2026-07-13T15:07:25+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "published_at": "2026-07-13T12:32:08+00:00"
+      "published_at": "2026-07-13T15:04:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Person killed in ICE-involved shooting in Maine, state lawmaker says",
+      "published_at": "2026-07-13T15:00:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US forces strike Iranian submarine, ship maintenance facility",
+      "published_at": "2026-07-13T14:58:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain and Switzerland look to boost services with new trade deal",
+      "published_at": "2026-07-13T14:15:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK bans support for two Iranian groups over antisemitic attacks in Britain",
+      "published_at": "2026-07-13T13:58:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Striker Sorloth faces online abuse after Norway's exit from World Cup",
+      "published_at": "2026-07-13T12:49:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "OPEC further lowers 2026 global oil demand growth forecast",
-      "published_at": "2026-07-13T12:07:55+00:00"
+      "published_at": "2026-07-13T12:46:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Irish police to engage with Jordanian force in murder investigation",
+      "published_at": "2026-07-13T12:32:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Development banks boost climate finance to record $163 billion, but World Bank pullback looms",
-      "published_at": "2026-07-13T12:05:43+00:00"
+      "text": "Germany's Merz pushes China currency talks, urges freer yuan",
+      "published_at": "2026-07-13T12:13:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
+      "published_at": "2026-07-13T12:10:38+00:00"
     },
     {
       "source": "NPR",
       "text": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
       "published_at": "2026-07-13T12:02:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "published_at": "2026-07-13T11:52:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "published_at": "2026-07-13T11:45:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "published_at": "2026-07-13T11:36:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'No way out': Survivors describe deadly Bangkok bar inferno",
-      "published_at": "2026-07-13T11:34:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK proscribes Iran's IRGC as a terrorist organisation, Sky News reports",
-      "published_at": "2026-07-13T11:29:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air Canada reaches new tentative agreement with IAMAW union",
-      "published_at": "2026-07-13T11:16:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Men disguised as police kill Ecuadorean drug lord's brother",
-      "published_at": "2026-07-13T10:30:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "published_at": "2026-07-13T10:29:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "People flee Bangkok bar as huge flames shoot out from doorway",
-      "published_at": "2026-07-13T10:17:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "published_at": "2026-07-13T10:14:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pythons' extreme biology may hold clues for treating human disease",
-      "published_at": "2026-07-13T10:00:00+00:00"
     }
   ]
 }
