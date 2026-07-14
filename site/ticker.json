@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-14T11:41:25+00:00",
+  "updated_at": "2026-07-14T14:08:25+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Perpetuals.com ends acquisition talks with Trump-linked crypto firm",
+      "published_at": "2026-07-14T13:54:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "published_at": "2026-07-14T13:49:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tech companies join Prince William’s fight against wildlife crime",
+      "published_at": "2026-07-14T13:43:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ireland boosted by players returning from injury",
+      "published_at": "2026-07-14T13:01:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "published_at": "2026-07-14T12:18:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Goldman's profit tops estimates on trading boom, corporate deal spree",
+      "published_at": "2026-07-14T12:14:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI finance startup Flex doubles valuation to about $1.2 billion, source says",
+      "published_at": "2026-07-14T11:41:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stellantis' Alfa Romeo plans launch of new mid-sized SUV by end 2027",
+      "published_at": "2026-07-14T11:13:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK's BBC warns its current funding model is not sustainable",
+      "published_at": "2026-07-14T11:10:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "Colombian national killed by ICE agent during operation in Maine",
@@ -8,13 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Bank of America profit rises on trading boost",
-      "published_at": "2026-07-14T10:52:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "KPMG Australia to cut hundreds of jobs, slash partner pay, AFR reports",
-      "published_at": "2026-07-14T10:46:46+00:00"
+      "text": "Trump exempts certain chemical companies from Biden-era emissions rules",
+      "published_at": "2026-07-14T10:50:47+00:00"
     },
     {
       "source": "Reuters",
@@ -33,48 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Congo's planned mining law reform could dent investor confidence, industry warns",
-      "published_at": "2026-07-14T10:27:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "published_at": "2026-07-14T10:02:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
-      "published_at": "2026-07-14T09:56:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "published_at": "2026-07-14T09:40:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China does not seek 'sphere of influence' in ties with Pacific island nations, foreign minister says",
-      "published_at": "2026-07-14T09:15:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-07-14T09:02:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "published_at": "2026-07-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's National Guard deployment in D.C. has been extended until 2029",
-      "published_at": "2026-07-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Some states will ask voters to make it harder to pass constitutional amendments",
-      "published_at": "2026-07-14T09:00:00+00:00"
+      "text": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
+      "published_at": "2026-07-14T10:16:06+00:00"
     }
   ]
 }
