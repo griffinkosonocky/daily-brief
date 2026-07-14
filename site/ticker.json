@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-14T20:20:07+00:00",
+  "updated_at": "2026-07-14T22:09:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Atlanta beefs up security ahead of England-Argentina World Cup semi-final",
+      "published_at": "2026-07-14T21:29:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
+      "published_at": "2026-07-14T20:59:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US striker Balogun expected controversy over suspended red-card ban",
+      "published_at": "2026-07-14T20:47:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
       "published_at": "2026-07-14T20:10:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How soccer has helped shape national identities in England and Argentina",
+      "published_at": "2026-07-14T20:00:51+00:00"
     },
     {
       "source": "NPR",
@@ -17,14 +37,19 @@
       "published_at": "2026-07-14T19:54:53+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "How soccer has helped shape national identities in England and Argentina",
-      "published_at": "2026-07-14T19:45:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "published_at": "2026-07-14T19:40:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Death toll from Venezuela quakes rises to 4,734, government says",
+      "published_at": "2026-07-14T19:32:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "CVS settles with FTC, agrees to count TrumpRx drug purchases towards insurance",
+      "published_at": "2026-07-14T19:31:52+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "Reuters",
       "text": "Nigeria to lead humanitarian response as UN support evolves, minister says",
       "published_at": "2026-07-14T18:59:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ICE halts most traffic stops in wake of Maine fatal shooting, sources say",
-      "published_at": "2026-07-14T18:46:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BHP workers to proceed with strike after talks fail, union says",
-      "published_at": "2026-07-14T18:35:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
-      "published_at": "2026-07-14T18:00:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New York becomes the first state to impose a data center moratorium",
-      "published_at": "2026-07-14T17:52:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How flammable decor and lax rules turned Bangkok pub into a death trap",
-      "published_at": "2026-07-14T17:38:01+00:00"
     }
   ]
 }
