@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-07-14T09:14:33+00:00",
+  "updated_at": "2026-07-14T11:41:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Colombian national killed by ICE agent during operation in Maine",
+      "published_at": "2026-07-14T11:09:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of America profit rises on trading boost",
+      "published_at": "2026-07-14T10:52:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "KPMG Australia to cut hundreds of jobs, slash partner pay, AFR reports",
+      "published_at": "2026-07-14T10:46:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says it has less than half funding needed to fight Ebola",
+      "published_at": "2026-07-14T10:46:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Oil boils",
+      "published_at": "2026-07-14T10:35:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+      "published_at": "2026-07-14T10:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Congo's planned mining law reform could dent investor confidence, industry warns",
+      "published_at": "2026-07-14T10:27:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "published_at": "2026-07-14T10:02:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "published_at": "2026-07-14T09:56:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "published_at": "2026-07-14T09:40:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China does not seek 'sphere of influence' in ties with Pacific island nations, foreign minister says",
+      "published_at": "2026-07-14T09:15:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "Morning news brief",
@@ -20,61 +75,6 @@
       "source": "NPR",
       "text": "Some states will ask voters to make it harder to pass constitutional amendments",
       "published_at": "2026-07-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Your cheat sheet to the teams headed to the World Cup semi-finals",
-      "published_at": "2026-07-14T08:16:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
-      "published_at": "2026-07-14T08:12:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Samsung explores potential US listing via ADRs, Bloomberg News reports",
-      "published_at": "2026-07-14T07:39:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BHP workers to proceed with strike after talks fail, union says",
-      "published_at": "2026-07-14T07:34:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China urges Europe to stop backing 'illegal' South China Sea ruling to avoid harming ties",
-      "published_at": "2026-07-14T07:33:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-      "published_at": "2026-07-14T06:43:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "A hidden pipeline brings Amazon and Walmart to African shoppers",
-      "published_at": "2026-07-14T06:32:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
-      "published_at": "2026-07-14T06:13:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk",
-      "published_at": "2026-07-14T05:20:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China blunted Iran war oil shock, but can it do the same for fuels?",
-      "published_at": "2026-07-14T05:09:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "published_at": "2026-07-14T05:00:03+00:00"
     }
   ]
 }
