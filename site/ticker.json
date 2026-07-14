@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-14T18:14:23+00:00",
+  "updated_at": "2026-07-14T20:20:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "published_at": "2026-07-14T20:10:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How do young people feel about AI? 7 teens weigh in",
+      "published_at": "2026-07-14T20:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "published_at": "2026-07-14T19:54:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How soccer has helped shape national identities in England and Argentina",
+      "published_at": "2026-07-14T19:45:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "published_at": "2026-07-14T19:40:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England lacking Premier League physicality, says Mac Allister",
+      "published_at": "2026-07-14T19:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
+      "published_at": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "published_at": "2026-07-14T19:13:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Colombian national killed by ICE agent during operation in Maine",
+      "published_at": "2026-07-14T19:11:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria to lead humanitarian response as UN support evolves, minister says",
+      "published_at": "2026-07-14T18:59:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ICE halts most traffic stops in wake of Maine fatal shooting, sources say",
+      "published_at": "2026-07-14T18:46:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BHP workers to proceed with strike after talks fail, union says",
+      "published_at": "2026-07-14T18:35:56+00:00"
+    },
     {
       "source": "NPR",
       "text": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
@@ -12,69 +72,9 @@
       "published_at": "2026-07-14T17:52:10+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Colombian national killed by ICE agent during operation in Maine",
-      "published_at": "2026-07-14T17:33:56+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
-      "published_at": "2026-07-14T17:18:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "published_at": "2026-07-14T17:13:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "published_at": "2026-07-14T17:07:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump steps back from Hormuz fee plan in favour of Gulf investment deals",
-      "published_at": "2026-07-14T16:57:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "published_at": "2026-07-14T16:54:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
-      "published_at": "2026-07-14T16:51:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Environmental groups sue government to stop a big change to the Endangered Species Act",
-      "published_at": "2026-07-14T16:46:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JPMorgan posts record profit on big gains from dealmaking, stock trading",
-      "published_at": "2026-07-14T16:33:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says it has less than half funding needed to fight Ebola",
-      "published_at": "2026-07-14T16:16:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Investigative journalist reports on the abuse inside ICE's largest detention facility",
-      "published_at": "2026-07-14T15:41:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tyrannosaurus rex most expensive dinosaur ever sold",
-      "published_at": "2026-07-14T15:37:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sudan risks deeper hunger crisis due to war, aid cuts and Hormuz disruption, says WFP",
-      "published_at": "2026-07-14T15:32:44+00:00"
+      "text": "How flammable decor and lax rules turned Bangkok pub into a death trap",
+      "published_at": "2026-07-14T17:38:01+00:00"
     }
   ]
 }
