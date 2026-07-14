@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-07-14T14:08:25+00:00",
+  "updated_at": "2026-07-14T16:24:18+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+      "published_at": "2026-07-14T15:47:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Investigative journalist reports on the abuse inside ICE's largest detention facility",
+      "published_at": "2026-07-14T15:41:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "published_at": "2026-07-14T15:37:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sudan risks deeper hunger crisis due to war, aid cuts and Hormuz disruption, says WFP",
+      "published_at": "2026-07-14T15:29:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Angola slashes key interest rate as inflation keeps slowing",
+      "published_at": "2026-07-14T15:29:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scheffler hopes missed cut will aid Open defence",
+      "published_at": "2026-07-14T15:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Winger Trossard to join Besiktas from Arsenal",
+      "published_at": "2026-07-14T14:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says it has less than half funding needed to fight Ebola",
+      "published_at": "2026-07-14T14:46:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "published_at": "2026-07-14T14:46:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's exports ride AI boom as domestic economy struggles",
+      "published_at": "2026-07-14T14:45:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Inflation slowed sharply -- but it may not last",
+      "published_at": "2026-07-14T14:40:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New York becomes the first state to impose a data center moratorium",
+      "published_at": "2026-07-14T14:24:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BHP workers to proceed with strike after talks fail, union says",
+      "published_at": "2026-07-14T14:01:30+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Perpetuals.com ends acquisition talks with Trump-linked crypto firm",
@@ -10,71 +75,6 @@
       "source": "BBC",
       "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "published_at": "2026-07-14T13:49:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tech companies join Prince William’s fight against wildlife crime",
-      "published_at": "2026-07-14T13:43:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ireland boosted by players returning from injury",
-      "published_at": "2026-07-14T13:01:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "published_at": "2026-07-14T12:18:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Goldman's profit tops estimates on trading boom, corporate deal spree",
-      "published_at": "2026-07-14T12:14:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI finance startup Flex doubles valuation to about $1.2 billion, source says",
-      "published_at": "2026-07-14T11:41:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stellantis' Alfa Romeo plans launch of new mid-sized SUV by end 2027",
-      "published_at": "2026-07-14T11:13:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's BBC warns its current funding model is not sustainable",
-      "published_at": "2026-07-14T11:10:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Colombian national killed by ICE agent during operation in Maine",
-      "published_at": "2026-07-14T11:09:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump exempts certain chemical companies from Biden-era emissions rules",
-      "published_at": "2026-07-14T10:50:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says it has less than half funding needed to fight Ebola",
-      "published_at": "2026-07-14T10:46:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Oil boils",
-      "published_at": "2026-07-14T10:35:06+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
-      "published_at": "2026-07-14T10:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
-      "published_at": "2026-07-14T10:16:06+00:00"
     }
   ]
 }
