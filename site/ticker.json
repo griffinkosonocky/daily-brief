@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-07-14T03:27:02+00:00",
+  "updated_at": "2026-07-14T06:21:25+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "TSMC seen riding AI boom to fifth straight quarter of record profit",
-      "published_at": "2026-07-14T03:11:00+00:00"
+      "text": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
+      "published_at": "2026-07-14T06:13:57+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China's June trade tops forecasts buoyed by AI boom",
+      "text": "SoftBank's Son says AI will need $5 trillion per year by 2040, dismisses bubble talk",
+      "published_at": "2026-07-14T05:20:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China blunted Iran war oil shock, but can it do the same for fuels?",
+      "published_at": "2026-07-14T05:09:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "published_at": "2026-07-14T05:00:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The star-studded World Cup semifinals kick off with France vs. Spain",
+      "published_at": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Fed in the spotlight as Warsh faces Congress",
+      "published_at": "2026-07-14T04:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "published_at": "2026-07-14T03:47:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia halves Asia AI chip customer list, FT reports",
+      "published_at": "2026-07-14T03:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold recovers from two-week low ahead of US inflation figures",
+      "published_at": "2026-07-14T03:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's exports ride AI boom as domestic economy struggles",
       "published_at": "2026-07-14T02:57:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "published_at": "2026-07-14T02:27:50+00:00"
+      "text": "US burrito giant Chipotle opening first outlet in Mexico",
+      "published_at": "2026-07-14T02:42:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares decline as Middle East conflict raises inflation worries",
+      "published_at": "2026-07-14T02:36:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "published_at": "2026-07-14T02:26:45+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
       "published_at": "2026-07-14T01:43:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "published_at": "2026-07-14T01:29:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "KKR joins US consortium to buy Australia's Steadfast in $5.3 billion deal",
-      "published_at": "2026-07-14T01:20:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Development banks' climate funding hits record, but World Bank pullback looms",
-      "published_at": "2026-07-13T23:29:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK Hynix plunges after Nasdaq debut as memory chip euphoria cools",
-      "published_at": "2026-07-13T23:07:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed",
-      "published_at": "2026-07-13T22:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian activist on hunger strike at 'cockroach' protest loses 8.2kg",
-      "published_at": "2026-07-13T22:03:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "published_at": "2026-07-13T21:37:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway turn World Cup heartbreak into celebration as huge crowds pack capital",
-      "published_at": "2026-07-13T20:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hungary parliament votes to remove president from office",
-      "published_at": "2026-07-13T20:39:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air Canada reaches new tentative agreement with IAMAW union",
-      "published_at": "2026-07-13T20:37:58+00:00"
     }
   ]
 }
