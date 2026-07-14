@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-07-14T06:21:25+00:00",
+  "updated_at": "2026-07-14T09:14:33+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-07-14T09:02:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "published_at": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's National Guard deployment in D.C. has been extended until 2029",
+      "published_at": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Some states will ask voters to make it harder to pass constitutional amendments",
+      "published_at": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Your cheat sheet to the teams headed to the World Cup semi-finals",
+      "published_at": "2026-07-14T08:16:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
+      "published_at": "2026-07-14T08:12:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Samsung explores potential US listing via ADRs, Bloomberg News reports",
+      "published_at": "2026-07-14T07:39:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BHP workers to proceed with strike after talks fail, union says",
+      "published_at": "2026-07-14T07:34:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China urges Europe to stop backing 'illegal' South China Sea ruling to avoid harming ties",
+      "published_at": "2026-07-14T07:33:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+      "published_at": "2026-07-14T06:43:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "A hidden pipeline brings Amazon and Walmart to African shoppers",
+      "published_at": "2026-07-14T06:32:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
       "published_at": "2026-07-14T05:00:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The star-studded World Cup semifinals kick off with France vs. Spain",
-      "published_at": "2026-07-14T05:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Fed in the spotlight as Warsh faces Congress",
-      "published_at": "2026-07-14T04:32:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-      "published_at": "2026-07-14T03:47:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia halves Asia AI chip customer list, FT reports",
-      "published_at": "2026-07-14T03:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold recovers from two-week low ahead of US inflation figures",
-      "published_at": "2026-07-14T03:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's exports ride AI boom as domestic economy struggles",
-      "published_at": "2026-07-14T02:57:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US burrito giant Chipotle opening first outlet in Mexico",
-      "published_at": "2026-07-14T02:42:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares decline as Middle East conflict raises inflation worries",
-      "published_at": "2026-07-14T02:36:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "published_at": "2026-07-14T02:26:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Colombian national killed by ICE agent during operation in Maine",
-      "published_at": "2026-07-14T01:50:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "published_at": "2026-07-14T01:43:57+00:00"
     }
   ]
 }
