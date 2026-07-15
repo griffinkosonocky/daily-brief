@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-15T06:25:05+00:00",
+  "updated_at": "2026-07-15T09:19:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "published_at": "2026-07-15T09:15:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "published_at": "2026-07-15T09:06:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+      "published_at": "2026-07-15T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Todd Blanche's confirmation brings one Epstein survivor to center stage",
+      "published_at": "2026-07-15T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "published_at": "2026-07-15T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "published_at": "2026-07-15T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-07-15T08:50:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African rand flat as traders await more US inflation data",
+      "published_at": "2026-07-15T07:27:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
+      "published_at": "2026-07-15T06:25:26+00:00"
+    },
     {
       "source": "Reuters",
       "text": "China's latest 'shock', German auto pain and the euro/yuan pressure cooker",
@@ -23,58 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "So you want to build your own metals smelter? Andy Home",
+      "text": "So you want to build your own metals smelter?",
       "published_at": "2026-07-15T05:09:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Big Blue's bad day raises the bar for ASML",
-      "published_at": "2026-07-15T04:32:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insight: Cambodian tycoon was landlord to Chinese scammers and human traffickers",
-      "published_at": "2026-07-15T04:02:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "published_at": "2026-07-15T03:57:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court Justices give chilling accounts of threats to their safety",
-      "published_at": "2026-07-15T03:19:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kylian Mbappe calls France 'sloppy' after semifinal loss",
-      "published_at": "2026-07-15T02:38:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China detains US scientist who studied North Korea nuclear tests",
-      "published_at": "2026-07-15T02:14:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen",
-      "published_at": "2026-07-15T02:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stocks gain on drop in US inflation rate; ASML tops forecasts",
-      "published_at": "2026-07-15T01:48:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seven Britons among those killed in Spain wildfires",
-      "published_at": "2026-07-15T01:03:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Haiti part ways with coach Migne after World Cup campaign",
-      "published_at": "2026-07-14T23:49:43+00:00"
+      "text": "ASML raises 2026 forecast, expands capacity on AI chip demand",
+      "published_at": "2026-07-15T05:07:00+00:00"
     }
   ]
 }
