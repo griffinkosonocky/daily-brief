@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-15T00:01:55+00:00",
+  "updated_at": "2026-07-15T03:26:22+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "China's Q2 GDP growth cools to 3-1/2-year low, missing market forecast",
+      "published_at": "2026-07-15T02:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China June new home prices fall at slower pace",
+      "published_at": "2026-07-15T01:42:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Seven Britons among those killed in Spain wildfires",
+      "published_at": "2026-07-15T01:03:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England together and blocking out the noise ahead of Argentina showdown",
+      "published_at": "2026-07-15T00:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haiti part ways with coach Migne after World Cup campaign",
+      "published_at": "2026-07-14T23:49:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "published_at": "2026-07-14T23:17:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Congress takes next step to make daylight saving time permanent",
+      "published_at": "2026-07-14T23:15:53+00:00"
+    },
     {
       "source": "BBC",
       "text": "How a former 'street kid' is key to South Africa's police corruption inquiry",
@@ -13,13 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Spain’s anaconda grip crushes French World Cup dream",
-      "published_at": "2026-07-14T22:59:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ICE suspends traffic stops in wake of Maine fatal shooting, border czar says",
-      "published_at": "2026-07-14T22:51:07+00:00"
+      "text": "US House passes bill to make daylight saving time permanent",
+      "published_at": "2026-07-14T22:46:19+00:00"
     },
     {
       "source": "BBC",
@@ -37,44 +67,14 @@
       "published_at": "2026-07-14T21:54:03+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Spain’s anaconda grip crushes French World Cup dream",
+      "published_at": "2026-07-14T21:29:00+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
       "published_at": "2026-07-14T20:59:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US striker Balogun expected controversy over suspended red-card ban",
-      "published_at": "2026-07-14T20:47:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-      "published_at": "2026-07-14T20:10:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How soccer has helped shape national identities in England and Argentina",
-      "published_at": "2026-07-14T20:00:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How do young people feel about AI? 7 teens weigh in",
-      "published_at": "2026-07-14T20:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-      "published_at": "2026-07-14T19:54:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "published_at": "2026-07-14T19:40:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CVS settles with FTC, agrees to count TrumpRx drug purchases towards insurance",
-      "published_at": "2026-07-14T19:31:52+00:00"
     }
   ]
 }
