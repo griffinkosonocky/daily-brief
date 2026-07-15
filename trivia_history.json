@@ -202,5 +202,11 @@
     "sport": "Sports",
     "question": "The song \"Three Lions\" by the Lightning Seeds was made for which major football event in 1996?",
     "answer": "European Championships"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "Sports",
+    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+    "answer": "Fastball"
   }
 ]
