@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-15T17:34:46+00:00",
+  "updated_at": "2026-07-15T19:33:25+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran summons British envoy over IRGC designation",
+      "published_at": "2026-07-15T19:18:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Some ships refusing US-military guided Hormuz transits after attacks, sources say",
+      "published_at": "2026-07-15T19:01:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OECD says global minimum tax boosted revenue, not job losses",
+      "published_at": "2026-07-15T18:59:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street banks enjoy record windfalls from prime brokerage business",
+      "published_at": "2026-07-15T18:58:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
+      "published_at": "2026-07-15T18:56:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Uber nears €12.5bn deal to acquire Delivery Hero, FT reports",
+      "published_at": "2026-07-15T18:50:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "published_at": "2026-07-15T18:41:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What if Bluey spoke one of the world's oldest living languages?",
+      "published_at": "2026-07-15T18:07:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England bring in James, Spence and Rogers, Argentina make one change",
+      "published_at": "2026-07-15T18:01:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+      "published_at": "2026-07-15T17:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says",
+      "published_at": "2026-07-15T17:45:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria launches $500 million farm fund to drive food security",
+      "published_at": "2026-07-15T17:40:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt has procured nearly 4.9 million tonnes of wheat since start of procurement season, PM says",
+      "published_at": "2026-07-15T17:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "French MPs approve assisted dying law with strict rules after years of argument",
+      "published_at": "2026-07-15T17:29:26+00:00"
+    },
     {
       "source": "Reuters",
       "text": "EU seals deal with Ukraine for drone production",
       "published_at": "2026-07-15T17:18:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Atlanta police prepare for Argentina-England World Cup semi-final",
-      "published_at": "2026-07-15T15:51:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hong Kong booksellers arrested for allegedly selling seditious books",
-      "published_at": "2026-07-15T15:37:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-      "published_at": "2026-07-15T15:33:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli veterans see shadows of old war in new Lebanon 'buffer zone'",
-      "published_at": "2026-07-15T15:18:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cancer disparities researchers say federal funding changes have disrupted their work",
-      "published_at": "2026-07-15T15:16:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dramatic video shows wildfire surround freight train in Canada",
-      "published_at": "2026-07-15T15:11:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's ICC order violates free speech, advocacy groups say in lawsuit",
-      "published_at": "2026-07-15T14:46:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EQT sweetens pursuit of Australia's Perpetual with $1.75 billion bid",
-      "published_at": "2026-07-15T14:34:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
-      "published_at": "2026-07-15T14:29:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The US army veteran and the mystery Boeings flying Sudan’s war routes",
-      "published_at": "2026-07-15T14:24:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "China's economy grows 4.3% in Q2, slowest since late 2022",
-      "published_at": "2026-07-15T14:11:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
-      "published_at": "2026-07-15T14:05:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Merz reaches out to AfD voters before pivotal German regional election",
-      "published_at": "2026-07-15T14:04:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF strategy chief urges countries to maintain price stability",
-      "published_at": "2026-07-15T14:02:21+00:00"
     }
   ]
 }
