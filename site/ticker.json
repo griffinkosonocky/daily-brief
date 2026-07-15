@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-15T14:04:36+00:00",
+  "updated_at": "2026-07-15T15:45:18+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Sheinbaum rejects DEA comments of \"deadly connection\" between her government and cartels",
+      "published_at": "2026-07-15T15:37:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+      "published_at": "2026-07-15T15:33:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli veterans see shadows of old war in new Lebanon 'buffer zone'",
+      "published_at": "2026-07-15T15:18:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Cancer disparities researchers say federal funding changes have disrupted their work",
+      "published_at": "2026-07-15T15:16:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dramatic video shows wildfire surround freight train in Canada",
+      "published_at": "2026-07-15T15:11:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The US army veteran and the mystery Boeings flying Sudan’s war routes",
+      "published_at": "2026-07-15T14:24:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "China's economy grows 4.3% in Q2, slowest since late 2022",
+      "published_at": "2026-07-15T14:11:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
+      "published_at": "2026-07-15T14:05:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Merz reaches out to AfD voters before pivotal German regional election",
+      "published_at": "2026-07-15T14:04:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF strategy chief urges countries to maintain price stability",
+      "published_at": "2026-07-15T14:02:21+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Czech citizen detained in China, Czech foreign ministry says",
@@ -18,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Air India crash probe enters final stages after cockpit recorder, psychology reviews",
-      "published_at": "2026-07-15T13:14:24+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Dimon-led JPMorgan poised to become world's first $1 trillion bank",
       "published_at": "2026-07-15T12:50:20+00:00"
     },
@@ -30,51 +75,6 @@
       "source": "NPR",
       "text": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
       "published_at": "2026-07-15T12:40:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "published_at": "2026-07-15T12:26:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seven Britons among those killed in Spain wildfires",
-      "published_at": "2026-07-15T12:21:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN warns Sudan gum arabic trade helps sustain civil war",
-      "published_at": "2026-07-15T12:21:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuela government to launch formal talks with opposition members",
-      "published_at": "2026-07-15T12:21:21+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
-      "published_at": "2026-07-15T12:04:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India approves $13.3 billion for fresh semiconductor push",
-      "published_at": "2026-07-15T11:50:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "published_at": "2026-07-15T11:44:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sierra Leone drops treason charge against ex-president over attempted coup",
-      "published_at": "2026-07-15T11:43:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says",
-      "published_at": "2026-07-15T11:39:44+00:00"
     }
   ]
 }
