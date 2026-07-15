@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-15T15:45:18+00:00",
+  "updated_at": "2026-07-15T17:34:46+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Sheinbaum rejects DEA comments of \"deadly connection\" between her government and cartels",
-      "published_at": "2026-07-15T15:37:43+00:00"
+      "text": "EU seals deal with Ukraine for drone production",
+      "published_at": "2026-07-15T17:18:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Atlanta police prepare for Argentina-England World Cup semi-final",
+      "published_at": "2026-07-15T15:51:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hong Kong booksellers arrested for allegedly selling seditious books",
+      "published_at": "2026-07-15T15:37:22+00:00"
     },
     {
       "source": "BBC",
@@ -25,6 +35,21 @@
       "source": "BBC",
       "text": "Dramatic video shows wildfire surround freight train in Canada",
       "published_at": "2026-07-15T15:11:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's ICC order violates free speech, advocacy groups say in lawsuit",
+      "published_at": "2026-07-15T14:46:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EQT sweetens pursuit of Australia's Perpetual with $1.75 billion bid",
+      "published_at": "2026-07-15T14:34:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
+      "published_at": "2026-07-15T14:29:23+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "Reuters",
       "text": "IMF strategy chief urges countries to maintain price stability",
       "published_at": "2026-07-15T14:02:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Czech citizen detained in China, Czech foreign ministry says",
-      "published_at": "2026-07-15T13:51:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-      "published_at": "2026-07-15T13:32:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-      "published_at": "2026-07-15T13:16:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dimon-led JPMorgan poised to become world's first $1 trillion bank",
-      "published_at": "2026-07-15T12:50:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-      "published_at": "2026-07-15T12:40:50+00:00"
     }
   ]
 }
