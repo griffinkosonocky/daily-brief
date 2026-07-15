@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-07-15T11:57:48+00:00",
+  "updated_at": "2026-07-15T14:04:36+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Czech citizen detained in China, Czech foreign ministry says",
+      "published_at": "2026-07-15T13:51:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+      "published_at": "2026-07-15T13:32:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+      "published_at": "2026-07-15T13:16:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Air India crash probe enters final stages after cockpit recorder, psychology reviews",
+      "published_at": "2026-07-15T13:14:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dimon-led JPMorgan poised to become world's first $1 trillion bank",
+      "published_at": "2026-07-15T12:50:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+      "published_at": "2026-07-15T12:40:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "published_at": "2026-07-15T12:26:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Seven Britons among those killed in Spain wildfires",
+      "published_at": "2026-07-15T12:21:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN warns Sudan gum arabic trade helps sustain civil war",
+      "published_at": "2026-07-15T12:21:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuela government to launch formal talks with opposition members",
+      "published_at": "2026-07-15T12:21:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+      "published_at": "2026-07-15T12:04:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India approves $13.3 billion for fresh semiconductor push",
+      "published_at": "2026-07-15T11:50:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "published_at": "2026-07-15T11:44:28+00:00"
+    },
     {
       "source": "BBC",
       "text": "Sierra Leone drops treason charge against ex-president over attempted coup",
@@ -10,71 +75,6 @@
       "source": "Reuters",
       "text": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says",
       "published_at": "2026-07-15T11:39:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US Congress takes next step to make daylight saving time permanent",
-      "published_at": "2026-07-15T11:30:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-      "published_at": "2026-07-15T11:19:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How to keep cool in this year's extreme summer heat even without air conditioning",
-      "published_at": "2026-07-15T11:19:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "published_at": "2026-07-15T11:08:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-      "published_at": "2026-07-15T10:50:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Melting core",
-      "published_at": "2026-07-15T10:39:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India approves $13.3 billion for fresh semiconductor push",
-      "published_at": "2026-07-15T10:22:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China economic growth falls sharply, missing target",
-      "published_at": "2026-07-15T10:21:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Celebrations as Gibraltar-Spain border fence removed",
-      "published_at": "2026-07-15T10:19:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three killed as Russian bombing of Odesa continues",
-      "published_at": "2026-07-15T10:17:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The US army veteran and the mystery Boeings flying Sudan’s war routes",
-      "published_at": "2026-07-15T10:16:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kremlin rejects Lithuanian allegations of planned Russian attacks as 'scare stories'",
-      "published_at": "2026-07-15T10:12:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's ICC order violates free speech, advocacy groups say in lawsuit",
-      "published_at": "2026-07-15T10:08:04+00:00"
     }
   ]
 }
