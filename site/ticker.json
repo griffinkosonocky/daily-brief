@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-07-15T03:26:22+00:00",
+  "updated_at": "2026-07-15T06:25:05+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "China's Q2 GDP growth cools to 3-1/2-year low, missing market forecast",
+      "text": "China's latest 'shock', German auto pain and the euro/yuan pressure cooker",
+      "published_at": "2026-07-15T06:11:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump will speak on elections in Thursday primetime address",
+      "published_at": "2026-07-15T06:00:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
+      "published_at": "2026-07-15T05:39:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China economic growth falls sharply, missing target",
+      "published_at": "2026-07-15T05:12:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "So you want to build your own metals smelter? Andy Home",
+      "published_at": "2026-07-15T05:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Big Blue's bad day raises the bar for ASML",
+      "published_at": "2026-07-15T04:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insight: Cambodian tycoon was landlord to Chinese scammers and human traffickers",
+      "published_at": "2026-07-15T04:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "published_at": "2026-07-15T03:57:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court Justices give chilling accounts of threats to their safety",
+      "published_at": "2026-07-15T03:19:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kylian Mbappe calls France 'sloppy' after semifinal loss",
+      "published_at": "2026-07-15T02:38:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China detains US scientist who studied North Korea nuclear tests",
+      "published_at": "2026-07-15T02:14:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen",
       "published_at": "2026-07-15T02:08:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China June new home prices fall at slower pace",
-      "published_at": "2026-07-15T01:42:00+00:00"
+      "text": "Stocks gain on drop in US inflation rate; ASML tops forecasts",
+      "published_at": "2026-07-15T01:48:00+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "England together and blocking out the noise ahead of Argentina showdown",
-      "published_at": "2026-07-15T00:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Haiti part ways with coach Migne after World Cup campaign",
       "published_at": "2026-07-14T23:49:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "published_at": "2026-07-14T23:17:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US Congress takes next step to make daylight saving time permanent",
-      "published_at": "2026-07-14T23:15:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-      "published_at": "2026-07-14T23:13:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Climate extremes increasingly 'normal' in Britain, Met Office says",
-      "published_at": "2026-07-14T23:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US House passes bill to make daylight saving time permanent",
-      "published_at": "2026-07-14T22:46:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "published_at": "2026-07-14T22:17:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge blocks Trump administration's visa limits for social media researchers",
-      "published_at": "2026-07-14T22:12:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Atlanta beefs up security ahead of England-Argentina World Cup semi-final",
-      "published_at": "2026-07-14T21:54:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain’s anaconda grip crushes French World Cup dream",
-      "published_at": "2026-07-14T21:29:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
-      "published_at": "2026-07-14T20:59:10+00:00"
     }
   ]
 }
