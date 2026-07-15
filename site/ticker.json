@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-14T22:09:06+00:00",
+  "updated_at": "2026-07-15T00:01:55+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "published_at": "2026-07-14T23:13:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Climate extremes increasingly 'normal' in Britain, Met Office says",
+      "published_at": "2026-07-14T23:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain’s anaconda grip crushes French World Cup dream",
+      "published_at": "2026-07-14T22:59:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ICE suspends traffic stops in wake of Maine fatal shooting, border czar says",
+      "published_at": "2026-07-14T22:51:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "published_at": "2026-07-14T22:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge blocks Trump administration's visa limits for social media researchers",
+      "published_at": "2026-07-14T22:12:02+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Atlanta beefs up security ahead of England-Argentina World Cup semi-final",
-      "published_at": "2026-07-14T21:29:09+00:00"
+      "published_at": "2026-07-14T21:54:03+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Death toll from Venezuela quakes rises to 4,734, government says",
-      "published_at": "2026-07-14T19:32:39+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "CVS settles with FTC, agrees to count TrumpRx drug purchases towards insurance",
       "published_at": "2026-07-14T19:31:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England lacking Premier League physicality, says Mac Allister",
-      "published_at": "2026-07-14T19:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
-      "published_at": "2026-07-14T19:22:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "published_at": "2026-07-14T19:13:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Colombian national killed by ICE agent during operation in Maine",
-      "published_at": "2026-07-14T19:11:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria to lead humanitarian response as UN support evolves, minister says",
-      "published_at": "2026-07-14T18:59:21+00:00"
     }
   ]
 }
