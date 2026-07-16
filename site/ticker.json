@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-07-16T03:31:08+00:00",
+  "updated_at": "2026-07-16T06:28:25+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+      "published_at": "2026-07-16T06:03:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China’s oil fortress will reshape the global order",
+      "published_at": "2026-07-16T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe's next energy shock is drying up in plain sight",
+      "published_at": "2026-07-16T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Baldwin gets 154th Open underway ahead of Scheffler's defence",
+      "published_at": "2026-07-16T05:52:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+      "published_at": "2026-07-16T05:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says",
+      "published_at": "2026-07-16T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: This AI, it will make a profit, right?",
+      "published_at": "2026-07-16T04:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Actor Sam Neill died from pneumonia, agent confirms",
+      "published_at": "2026-07-16T04:28:22+00:00"
+    },
     {
       "source": "BBC",
       "text": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "published_at": "2026-07-16T03:08:09+00:00"
+      "published_at": "2026-07-16T04:06:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Xi to outline AI diplomacy vision at key Shanghai forum",
+      "published_at": "2026-07-16T03:42:00+00:00"
     },
     {
       "source": "BBC",
@@ -13,7 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Indian shares seen opening flat on Mideast jitters",
+      "text": "Indian shares inch higher as IT rebounds",
       "published_at": "2026-07-16T02:27:00+00:00"
     },
     {
@@ -23,58 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
-      "published_at": "2026-07-16T00:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Orange haze from Canada wildfires seen in Ontario and northern US",
-      "published_at": "2026-07-16T00:33:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Democratic debate to replace Platner in Maine will have 9 candidates",
-      "published_at": "2026-07-15T23:56:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
-      "published_at": "2026-07-15T23:35:39+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "EU seals deal with Ukraine for drone production",
-      "published_at": "2026-07-15T23:28:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New monkey species with orange lips found 'hiding' in DRC forest",
-      "published_at": "2026-07-15T23:02:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "published_at": "2026-07-15T23:02:37+00:00"
+      "published_at": "2026-07-16T01:08:24+00:00"
     },
     {
       "source": "Reuters",
-      "text": "OECD says global minimum tax boosted revenue, not job losses",
-      "published_at": "2026-07-15T22:58:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Argentina face action after waving Falklands banner",
-      "published_at": "2026-07-15T22:49:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Senior Chinese and North Korean officials hold talks in Pyongyang, KCNA reports",
-      "published_at": "2026-07-15T22:13:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I must get out into the free world', dissident who fled China on boat tells BBC",
-      "published_at": "2026-07-15T22:04:12+00:00"
+      "text": "Oil prices turn lower as traders weigh impact of renewed US strikes on Iran",
+      "published_at": "2026-07-16T00:43:00+00:00"
     }
   ]
 }
