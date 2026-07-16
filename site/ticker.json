@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-07-16T16:38:04+00:00",
+  "updated_at": "2026-07-16T18:16:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least one dead in Texas floods ravaging same area where campers died",
+      "published_at": "2026-07-16T17:56:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "published_at": "2026-07-16T17:36:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
+      "published_at": "2026-07-16T17:24:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "published_at": "2026-07-16T17:22:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "published_at": "2026-07-16T17:15:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "published_at": "2026-07-16T17:10:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria launches $552 million education drive backed by World Bank, GPE",
+      "published_at": "2026-07-16T17:07:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria brings home 1,490 citizens from South Africa after xenophobic attacks",
+      "published_at": "2026-07-16T16:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
+      "published_at": "2026-07-16T16:37:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada wildfire smoke blankets US Midwest, Northeast with dangerous orange haze",
+      "published_at": "2026-07-16T16:37:04+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
       "published_at": "2026-07-16T16:36:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yamal and Porro train apart but Spain expect both fit for World Cup final",
+      "published_at": "2026-07-16T16:31:43+00:00"
     },
     {
       "source": "BBC",
@@ -17,64 +72,9 @@
       "published_at": "2026-07-16T16:23:34+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Children among dead at Algeria foster care home blaze - president",
-      "published_at": "2026-07-16T16:14:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "published_at": "2026-07-16T16:10:40+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Verizon to shed 274 stores, lay off another 500 corporate employees",
-      "published_at": "2026-07-16T16:09:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
-      "published_at": "2026-07-16T16:08:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "published_at": "2026-07-16T15:30:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Atlanta moved to a different beat during World Cup filled with memories",
-      "published_at": "2026-07-16T15:23:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Twenty-nine countries sign agreement to establish global AI cooperation body",
-      "published_at": "2026-07-16T15:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria central bank chief signals caution on easing next week",
-      "published_at": "2026-07-16T15:01:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zambia hopes to agree new IMF programme by year-end, finance minister says",
-      "published_at": "2026-07-16T14:38:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nike out of World Cup contention as Adidas-outfitted teams head to final",
-      "published_at": "2026-07-16T13:59:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Defending champion Alcaraz set for Cincinnati return",
-      "published_at": "2026-07-16T13:44:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hong Kong official warns booksellers on security risks after raids",
-      "published_at": "2026-07-16T13:31:33+00:00"
+      "text": "Iran, US step up attacks, though release of American may signal path to climbdown",
+      "published_at": "2026-07-16T16:23:10+00:00"
     }
   ]
 }
