@@ -208,5 +208,11 @@
     "sport": "Sports",
     "question": "What is the most common type of pitch thrown by pitchers in baseball?",
     "answer": "Fastball"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "Sports",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "answer": "The New York Giants & The New England Patriots"
   }
 ]

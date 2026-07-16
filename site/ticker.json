@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-07-16T11:50:39+00:00",
+  "updated_at": "2026-07-16T11:59:36+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Iran targets military bases as US launches wave of strikes",
       "published_at": "2026-07-16T11:48:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria to track poverty, incomes as government seeks proof reforms are working",
-      "published_at": "2026-07-16T11:38:34+00:00"
     },
     {
       "source": "NPR",
@@ -52,11 +47,6 @@
       "published_at": "2026-07-16T10:38:40+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
-      "published_at": "2026-07-16T10:35:39+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Eleven people die in fire at Algerian children's care home",
       "published_at": "2026-07-16T10:34:21+00:00"
@@ -75,6 +65,16 @@
       "source": "Reuters",
       "text": "A place called home: US Soccer's hope for the future",
       "published_at": "2026-07-16T10:27:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chip giant TSMC pledges another $100bn to expand US production",
+      "published_at": "2026-07-16T10:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fire at orphanage in Algiers kills 11, injures 19",
+      "published_at": "2026-07-16T10:22:08+00:00"
     }
   ]
 }
