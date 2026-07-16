@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-07-16T18:16:16+00:00",
+  "updated_at": "2026-07-16T20:09:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Kris Jenner's mother Mary Jo dies aged 91",
+      "published_at": "2026-07-16T20:03:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada wildfires spread smoke across North America, prompting air quality alerts",
+      "published_at": "2026-07-16T19:58:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran and US step up attacks, release of American in dispute",
+      "published_at": "2026-07-16T19:48:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil readies 'tough' retaliation to new Trump tariffs, sources say",
+      "published_at": "2026-07-16T18:58:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "published_at": "2026-07-16T18:52:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: What to know as Genoa bridge disaster trial ends",
+      "published_at": "2026-07-16T18:52:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fifa 'assessing match reports' over Falklands banner",
+      "published_at": "2026-07-16T18:44:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "With midterms on deck, Trump to deliver prime-time speech on election security",
+      "published_at": "2026-07-16T18:15:12+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least one dead in Texas floods ravaging same area where campers died",
       "published_at": "2026-07-16T17:56:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "published_at": "2026-07-16T17:36:43+00:00"
     },
     {
       "source": "NPR",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Nigeria brings home 1,490 citizens from South Africa after xenophobic attacks",
       "published_at": "2026-07-16T16:38:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
-      "published_at": "2026-07-16T16:37:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada wildfire smoke blankets US Midwest, Northeast with dangerous orange haze",
-      "published_at": "2026-07-16T16:37:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "published_at": "2026-07-16T16:36:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yamal and Porro train apart but Spain expect both fit for World Cup final",
-      "published_at": "2026-07-16T16:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan resisting UK attempts to deport grooming gang leader",
-      "published_at": "2026-07-16T16:26:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to tighten visa regulations for foreign students, journalists",
-      "published_at": "2026-07-16T16:23:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran, US step up attacks, though release of American may signal path to climbdown",
-      "published_at": "2026-07-16T16:23:10+00:00"
     }
   ]
 }
