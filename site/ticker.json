@@ -1,45 +1,70 @@
 {
-  "updated_at": "2026-07-17T00:09:13+00:00",
+  "updated_at": "2026-07-17T04:18:57+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Blasts reported in Iran as US launches new wave of strikes",
-      "published_at": "2026-07-16T23:57:26+00:00"
+      "text": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
+      "published_at": "2026-07-17T04:02:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 500 Rohingya vanished at sea - what happened?",
+      "published_at": "2026-07-17T03:07:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "published_at": "2026-07-17T02:56:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Global 'FOMO' keeps fueling Wall Street’s AI exceptionalism",
-      "published_at": "2026-07-16T23:30:21+00:00"
+      "text": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks",
+      "published_at": "2026-07-17T02:39:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Quiet U.S. pullback in Eastern Europe sparks wider allied worries",
-      "published_at": "2026-07-16T23:29:43+00:00"
+      "text": "China's Xi promotes China's commitment to AI access in speech at Shanghai conference",
+      "published_at": "2026-07-17T02:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US appeals court keeps in place Pentagon's escort policy for journalists",
+      "published_at": "2026-07-17T02:25:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+      "published_at": "2026-07-17T02:15:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An analysis of President Trump's address",
+      "published_at": "2026-07-17T01:38:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Messi effect' a dream for MLS after World Cup, says Garber",
+      "published_at": "2026-07-17T01:31:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's fiery China allegations may threaten superpower truce",
+      "published_at": "2026-07-17T01:11:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global energy security at risk if Strait of Hormuz does not open in weeks, IEA chief says",
+      "published_at": "2026-07-17T00:34:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "Brazil readies 'tough' response to new Trump tariffs, sources say",
-      "published_at": "2026-07-16T23:16:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump threatens new Iran escalation and risks repeating old mistakes",
-      "published_at": "2026-07-16T22:54:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar firms as US-Iran tensions renew oil price risk",
-      "published_at": "2026-07-16T22:35:10+00:00"
+      "published_at": "2026-07-16T23:33:43+00:00"
     },
     {
       "source": "BBC",
       "text": "One man's hunger strike changed India's map. Can it still change politics?",
       "published_at": "2026-07-16T22:21:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "North Korean leader Kim Jong Un meets China's Wang Huning",
-      "published_at": "2026-07-16T22:17:44+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "At least one dead in Texas floods ravaging same area where campers died",
       "published_at": "2026-07-16T22:08:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
-      "published_at": "2026-07-16T22:01:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
-      "published_at": "2026-07-16T22:01:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
-      "published_at": "2026-07-16T21:55:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Pfizer suspends sales of Premarin vaginal cream in India, citing supply challenges",
-      "published_at": "2026-07-16T21:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK hackers jailed for London transport cyberattack which cost nearly $40 million",
-      "published_at": "2026-07-16T21:37:24+00:00"
     }
   ]
 }
