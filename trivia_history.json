@@ -214,5 +214,11 @@
     "sport": "Sports",
     "question": "Which two teams played in Super Bowl XLII?",
     "answer": "The New York Giants & The New England Patriots"
+  },
+  {
+    "date": "2026-07-17",
+    "sport": "Sports",
+    "question": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+    "answer": "France"
   }
 ]

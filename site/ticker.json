@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-17T10:08:20+00:00",
+  "updated_at": "2026-07-17T11:50:50+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "published_at": "2026-07-17T11:37:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "published_at": "2026-07-17T11:27:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Photos: When the World Cup came to town",
+      "published_at": "2026-07-17T11:17:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "published_at": "2026-07-17T11:13:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As life expectancy rises, talks start on a UN treaty to protect older people",
+      "published_at": "2026-07-17T11:12:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China hits out at British Steel nationalisation",
+      "published_at": "2026-07-17T11:07:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Superworms' help scientists with a vexing task: Cleaning animal specimens",
+      "published_at": "2026-07-17T11:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US launches new strikes as Iran says civilian infrastructure hit",
+      "published_at": "2026-07-17T10:57:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "published_at": "2026-07-17T10:37:02+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Russian strikes on Ukraine's Odesa kill at least two: official",
@@ -12,24 +57,14 @@
       "published_at": "2026-07-17T10:04:27+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US launches new strikes as Iran says civilian infrastructure hit",
-      "published_at": "2026-07-17T09:27:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump could get a lesson on Iran from an unlikely source — emus",
-      "published_at": "2026-07-17T09:17:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "published_at": "2026-07-17T09:12:06+00:00"
-    },
-    {
       "source": "NPR",
       "text": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
       "published_at": "2026-07-17T09:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
+      "published_at": "2026-07-17T09:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "Kalshi says it's not a sportsbook even as World Cup bets surge",
       "published_at": "2026-07-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
-      "published_at": "2026-07-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "For one father and son, Alaskan blanket toss is a family tradition",
-      "published_at": "2026-07-17T08:41:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump puts election security at center of Republicans' midterm fight",
-      "published_at": "2026-07-17T08:31:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China hits out at British Steel nationalisation",
-      "published_at": "2026-07-17T08:25:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At the World Cup, has 'VAR' gone too far? Some fans say it's ruining the tournament",
-      "published_at": "2026-07-17T08:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "VW workers to grill CEO on overhaul threatening 140,000 jobs, works council says",
-      "published_at": "2026-07-17T07:52:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Bloodbath': Analysts react to Asian shares sinking on tech selloff",
-      "published_at": "2026-07-17T07:27:43+00:00"
     }
   ]
 }

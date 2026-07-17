@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-16",
-  "generated_at_ct": "Jul 16, 2026 at 6:57 AM CT",
+  "date_key": "2026-07-17",
+  "generated_at_ct": "Jul 17, 2026 at 6:49 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -57,11 +57,11 @@
     "spreads": 0
   },
   "quota": {
-    "remaining": "440",
-    "used": "60",
+    "remaining": "437",
+    "used": "63",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-16T11:59:33+00:00"
+  "generated_at": "2026-07-17T11:50:48+00:00"
 }
