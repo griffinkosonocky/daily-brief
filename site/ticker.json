@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-17T11:50:50+00:00",
+  "updated_at": "2026-07-17T12:18:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Rubio expected to discuss Trump-Xi summit in Asia meetings",
+      "published_at": "2026-07-17T12:01:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump could get a lesson on Iran from an unlikely source — emus",
+      "published_at": "2026-07-17T11:38:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
@@ -32,14 +42,24 @@
       "published_at": "2026-07-17T11:07:45+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "How a dispute over e-commerce firm Coupang is testing US-South Korea ties",
+      "published_at": "2026-07-17T11:03:43+00:00"
+    },
+    {
       "source": "NPR",
       "text": "'Superworms' help scientists with a vexing task: Cleaning animal specimens",
       "published_at": "2026-07-17T11:00:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "US launches new strikes as Iran says civilian infrastructure hit",
+      "text": "Iran accuses US of hitting civilian infrastructure",
       "published_at": "2026-07-17T10:57:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stocks drop on deepening semiconductor rout; oil set for weekly gain",
+      "published_at": "2026-07-17T10:38:55+00:00"
     },
     {
       "source": "NPR",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "School bus crash kills at least 20 pupils in Uganda",
       "published_at": "2026-07-17T10:04:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
-      "published_at": "2026-07-17T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
-      "published_at": "2026-07-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Republican campaigns see immigration as a winning issue for midterms",
-      "published_at": "2026-07-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kalshi says it's not a sportsbook even as World Cup bets surge",
-      "published_at": "2026-07-17T09:00:00+00:00"
     }
   ]
 }
