@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-17T16:23:03+00:00",
+  "updated_at": "2026-07-17T18:15:08+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "published_at": "2026-07-17T17:52:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran accuses US of hitting civilian infrastructure",
+      "published_at": "2026-07-17T17:46:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+      "published_at": "2026-07-17T17:04:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Inclusive' World Cup falls short as some fans shut out, rights groups say",
+      "published_at": "2026-07-17T17:01:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "published_at": "2026-07-17T17:01:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
+      "published_at": "2026-07-17T16:50:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China hits out at British Steel nationalisation",
+      "published_at": "2026-07-17T16:44:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China says US will restore Hong Kong's special trade status",
+      "published_at": "2026-07-17T16:37:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Air conditioner sparked deadly blaze at children's orphanage - police",
+      "published_at": "2026-07-17T16:20:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The EU's plan to overhaul its carbon market",
+      "published_at": "2026-07-17T16:17:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "VW workers to grill CEO on overhaul threatening 140,000 jobs, works council says",
+      "published_at": "2026-07-17T16:14:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BofA names senior executives to drive AI adoption in global markets-memo",
+      "published_at": "2026-07-17T16:09:51+00:00"
+    },
     {
       "source": "NPR",
       "text": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
@@ -8,73 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "World Cup final halftime to last more than 15 minutes, broadcasting sources say",
+      "published_at": "2026-07-17T15:12:54+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "As life expectancy rises, talks start on a UN treaty to protect older persons",
       "published_at": "2026-07-17T15:11:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is smoke in your home? Here's how to make an air purifier using a box fan",
-      "published_at": "2026-07-17T15:07:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least two dead in Texas floods ravaging same area where campers died",
-      "published_at": "2026-07-17T14:56:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran accuses US of hitting civilian infrastructure",
-      "published_at": "2026-07-17T14:32:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "From defeat to Downing Street: the rise, fall and return of Andy Burnham",
-      "published_at": "2026-07-17T14:01:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Uganda suspends school trips after 20 pupils die in bus crash",
-      "published_at": "2026-07-17T13:45:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pakistani forces kill 24 militants in border raids near Afghanistan",
-      "published_at": "2026-07-17T13:15:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple closes in on Nvidia in race for world's most valuable company",
-      "published_at": "2026-07-17T13:05:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump could get a lesson on Iran from an unlikely source — emus",
-      "published_at": "2026-07-17T12:37:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The EU's plan to overhaul its carbon market",
-      "published_at": "2026-07-17T12:30:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Burnham says greater public control of essentials needed to tackle inflation",
-      "published_at": "2026-07-17T12:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio expected to discuss Trump-Xi summit in Asia meetings",
-      "published_at": "2026-07-17T12:10:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Sanchez to attend World Cup final alongside Trump amid tensions",
-      "published_at": "2026-07-17T11:49:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Chips and ships",
-      "published_at": "2026-07-17T11:37:39+00:00"
     }
   ]
 }
