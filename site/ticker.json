@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-16T22:12:29+00:00",
+  "updated_at": "2026-07-17T00:09:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Blasts reported in Iran as US launches new wave of strikes",
+      "published_at": "2026-07-16T23:57:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global 'FOMO' keeps fueling Wall Street’s AI exceptionalism",
+      "published_at": "2026-07-16T23:30:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Quiet U.S. pullback in Eastern Europe sparks wider allied worries",
+      "published_at": "2026-07-16T23:29:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil readies 'tough' response to new Trump tariffs, sources say",
+      "published_at": "2026-07-16T23:16:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump threatens new Iran escalation and risks repeating old mistakes",
+      "published_at": "2026-07-16T22:54:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar firms as US-Iran tensions renew oil price risk",
+      "published_at": "2026-07-16T22:35:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "One man's hunger strike changed India's map. Can it still change politics?",
+      "published_at": "2026-07-16T22:21:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korean leader Kim Jong Un meets China's Wang Huning",
+      "published_at": "2026-07-16T22:17:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran and US step up attacks, release of American in dispute",
+      "published_at": "2026-07-16T22:09:06+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least one dead in Texas floods ravaging same area where campers died",
@@ -17,64 +62,19 @@
       "published_at": "2026-07-16T22:01:29+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Blasts reported in Iran as US launches new wave of strikes",
-      "published_at": "2026-07-16T21:44:37+00:00"
+      "source": "Reuters",
+      "text": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
+      "published_at": "2026-07-16T21:55:26+00:00"
     },
     {
       "source": "Reuters",
-      "text": "North Korean leader Kim Jong Un meets China's Wang Huning",
-      "published_at": "2026-07-16T21:41:43+00:00"
+      "text": "EXCLUSIVE: Pfizer suspends sales of Premarin vaginal cream in India, citing supply challenges",
+      "published_at": "2026-07-16T21:43:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump threatens new Iran escalation and risks repeating old mistakes",
-      "published_at": "2026-07-16T21:33:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "White House says ICE traffic stops will continue after deadly shootings",
-      "published_at": "2026-07-16T21:31:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
-      "published_at": "2026-07-16T21:30:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tuchel under fire but England undone by more than manager's tactics",
-      "published_at": "2026-07-16T21:02:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "With midterms on deck, Trump to deliver prime-time speech on election security",
-      "published_at": "2026-07-16T21:01:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After years of false claims on voting, Trump to give an address on election integrity",
-      "published_at": "2026-07-16T20:50:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pele's 1958 World Cup final shirt sells for $4.9 million",
-      "published_at": "2026-07-16T20:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kris Jenner's mother Mary Jo dies aged 91",
-      "published_at": "2026-07-16T20:24:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil readies 'tough' retaliation to new Trump tariffs, sources say",
-      "published_at": "2026-07-16T20:23:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
-      "published_at": "2026-07-16T19:58:55+00:00"
+      "text": "UK hackers jailed for London transport cyberattack which cost nearly $40 million",
+      "published_at": "2026-07-16T21:37:24+00:00"
     }
   ]
 }
