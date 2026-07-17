@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-17T22:03:00+00:00",
+  "updated_at": "2026-07-17T23:02:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US companies face rise in cyber attacks",
+      "published_at": "2026-07-17T22:34:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "published_at": "2026-07-17T22:14:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Smoke, fire, floods: US faces triple extreme summer weather threats",
+      "published_at": "2026-07-17T22:13:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House defends Argentina team over Falklands banner",
+      "published_at": "2026-07-17T22:12:54+00:00"
+    },
     {
       "source": "BBC",
       "text": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
@@ -15,11 +35,6 @@
       "source": "NPR",
       "text": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
       "published_at": "2026-07-17T20:17:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Smoke, fire, floods: US faces triple extreme summer weather threats",
-      "published_at": "2026-07-17T20:17:09+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "published_at": "2026-07-17T18:12:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Leeds sign defender Tarik Muharemovic from Sassuolo",
-      "published_at": "2026-07-17T17:10:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "published_at": "2026-07-17T17:04:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "published_at": "2026-07-17T17:01:16+00:00"
     }
   ]
 }
