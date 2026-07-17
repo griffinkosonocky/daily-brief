@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-17T14:51:38+00:00",
+  "updated_at": "2026-07-17T16:23:03+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
+      "published_at": "2026-07-17T15:24:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As life expectancy rises, talks start on a UN treaty to protect older persons",
+      "published_at": "2026-07-17T15:11:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Is smoke in your home? Here's how to make an air purifier using a box fan",
+      "published_at": "2026-07-17T15:07:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least two dead in Texas floods ravaging same area where campers died",
+      "published_at": "2026-07-17T14:56:26+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iran accuses US of hitting civilian infrastructure",
@@ -28,6 +48,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Trump could get a lesson on Iran from an unlikely source — emus",
+      "published_at": "2026-07-17T12:37:12+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "The EU's plan to overhaul its carbon market",
       "published_at": "2026-07-17T12:30:27+00:00"
     },
@@ -43,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump could get a lesson on Iran from an unlikely source — emus",
-      "published_at": "2026-07-17T12:03:38+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Spain's Sanchez to attend World Cup final alongside Trump amid tensions",
       "published_at": "2026-07-17T11:49:45+00:00"
     },
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Morning Bid: Chips and ships",
       "published_at": "2026-07-17T11:37:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "published_at": "2026-07-17T11:37:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
-      "published_at": "2026-07-17T11:27:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Financial week in five charts: Energy shock, chip winners and Fed relief",
-      "published_at": "2026-07-17T11:23:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Photos: When the World Cup came to town",
-      "published_at": "2026-07-17T11:17:24+00:00"
     }
   ]
 }
