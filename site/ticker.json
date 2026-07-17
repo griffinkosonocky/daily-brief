@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-17T20:13:04+00:00",
+  "updated_at": "2026-07-17T22:03:00+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+      "published_at": "2026-07-17T21:29:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "published_at": "2026-07-17T21:14:02+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
+      "published_at": "2026-07-17T20:17:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Smoke, fire, floods: US faces triple extreme summer weather threats",
+      "published_at": "2026-07-17T20:17:09+00:00"
+    },
     {
       "source": "BBC",
       "text": "One anti-war critic fined, another held as Russia clamps down on opponents",
@@ -17,11 +37,6 @@
       "published_at": "2026-07-17T19:16:16+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers",
-      "published_at": "2026-07-17T19:12:52+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
       "published_at": "2026-07-17T19:04:09+00:00"
@@ -30,11 +45,6 @@
       "source": "NPR",
       "text": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
       "published_at": "2026-07-17T18:59:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit",
-      "published_at": "2026-07-17T18:51:03+00:00"
     },
     {
       "source": "BBC",
@@ -47,14 +57,14 @@
       "published_at": "2026-07-17T18:33:12+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Ontario buying new aircraft to fight fires, pushes back against US criticism",
-      "published_at": "2026-07-17T18:29:58+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "published_at": "2026-07-17T18:12:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Leeds sign defender Tarik Muharemovic from Sassuolo",
+      "published_at": "2026-07-17T17:10:09+00:00"
     },
     {
       "source": "NPR",
@@ -62,19 +72,9 @@
       "published_at": "2026-07-17T17:04:33+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "'Inclusive' World Cup falls short as some fans shut out, rights groups say",
-      "published_at": "2026-07-17T17:01:23+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "published_at": "2026-07-17T17:01:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "published_at": "2026-07-17T16:50:10+00:00"
     }
   ]
 }
