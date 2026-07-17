@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-07-17T18:15:08+00:00",
+  "updated_at": "2026-07-17T20:13:04+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "published_at": "2026-07-17T17:52:06+00:00"
+      "text": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "published_at": "2026-07-17T20:00:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Move over, Super Bowl? There's an even bigger – and splashier – World Cup halftime show coming",
+      "published_at": "2026-07-17T19:24:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "China signals possible return of U.S. trade privileges for Hong Kong",
+      "published_at": "2026-07-17T19:16:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers",
+      "published_at": "2026-07-17T19:12:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "Iran accuses US of hitting civilian infrastructure",
-      "published_at": "2026-07-17T17:46:24+00:00"
+      "text": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "published_at": "2026-07-17T19:04:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+      "published_at": "2026-07-17T18:59:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit",
+      "published_at": "2026-07-17T18:51:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "published_at": "2026-07-17T18:34:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "published_at": "2026-07-17T18:33:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ontario buying new aircraft to fight fires, pushes back against US criticism",
+      "published_at": "2026-07-17T18:29:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "published_at": "2026-07-17T18:12:54+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "NPR",
       "text": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
       "published_at": "2026-07-17T16:50:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China hits out at British Steel nationalisation",
-      "published_at": "2026-07-17T16:44:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China says US will restore Hong Kong's special trade status",
-      "published_at": "2026-07-17T16:37:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Air conditioner sparked deadly blaze at children's orphanage - police",
-      "published_at": "2026-07-17T16:20:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The EU's plan to overhaul its carbon market",
-      "published_at": "2026-07-17T16:17:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "VW workers to grill CEO on overhaul threatening 140,000 jobs, works council says",
-      "published_at": "2026-07-17T16:14:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BofA names senior executives to drive AI adoption in global markets-memo",
-      "published_at": "2026-07-17T16:09:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
-      "published_at": "2026-07-17T15:24:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup final halftime to last more than 15 minutes, broadcasting sources say",
-      "published_at": "2026-07-17T15:12:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As life expectancy rises, talks start on a UN treaty to protect older persons",
-      "published_at": "2026-07-17T15:11:42+00:00"
     }
   ]
 }
