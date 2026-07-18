@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-18T06:14:47+00:00",
+  "updated_at": "2026-07-18T08:56:37+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
+      "published_at": "2026-07-18T07:59:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US strikes hit Iran for seventh consecutive night",
+      "published_at": "2026-07-18T07:33:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Helicopters dump water as huge Norway fire destroys homes",
+      "published_at": "2026-07-18T07:13:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "published_at": "2026-07-18T07:05:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Skyroot launches Vikram-1 in first private orbital rocket mission",
+      "published_at": "2026-07-18T06:42:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. and Iran escalate strikes across Mideast",
@@ -17,14 +42,19 @@
       "published_at": "2026-07-18T05:10:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US strikes hit Iran for seventh consecutive night",
-      "published_at": "2026-07-18T04:40:11+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Fasting Indian activist shifted to hospital, police say",
       "published_at": "2026-07-18T02:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
+      "published_at": "2026-07-18T01:48:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "He made history in Congress - then the Supreme Court changed its mind",
+      "published_at": "2026-07-18T01:35:33+00:00"
     },
     {
       "source": "BBC",
@@ -42,39 +72,9 @@
       "published_at": "2026-07-17T23:32:02+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US companies face rise in cyber attacks",
-      "published_at": "2026-07-17T22:38:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
-      "published_at": "2026-07-17T22:36:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia intensifies strikes on Ukraine Black Sea ports, killing three",
-      "published_at": "2026-07-17T22:27:43+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
-      "published_at": "2026-07-17T22:14:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House defends Argentina team over Falklands banner",
-      "published_at": "2026-07-17T22:12:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
-      "published_at": "2026-07-17T21:29:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-      "published_at": "2026-07-17T20:32:56+00:00"
+      "text": "How these twins' rare growth disorder could provide the key to preventing cancer",
+      "published_at": "2026-07-17T23:24:37+00:00"
     }
   ]
 }
