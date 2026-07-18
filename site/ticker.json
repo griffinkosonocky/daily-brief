@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-07-18T03:26:01+00:00",
+  "updated_at": "2026-07-18T06:14:47+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. and Iran escalate strikes across Mideast",
+      "published_at": "2026-07-18T06:01:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "published_at": "2026-07-18T05:58:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+      "published_at": "2026-07-18T05:10:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "US strikes hit Iran for seventh consecutive night",
-      "published_at": "2026-07-18T03:02:01+00:00"
+      "published_at": "2026-07-18T04:40:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India moves fasting activist to hospital, police say",
+      "text": "Fasting Indian activist shifted to hospital, police say",
       "published_at": "2026-07-18T02:32:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "He made history in Congress - then the Supreme Court changed its mind",
-      "published_at": "2026-07-18T01:35:33+00:00"
     },
     {
       "source": "BBC",
@@ -33,11 +43,6 @@
     },
     {
       "source": "Reuters",
-      "text": "How Reuters has covered the largest FIFA World Cup in history",
-      "published_at": "2026-07-17T23:17:15+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US companies face rise in cyber attacks",
       "published_at": "2026-07-17T22:38:48+00:00"
     },
@@ -50,11 +55,6 @@
       "source": "Reuters",
       "text": "Russia intensifies strikes on Ukraine Black Sea ports, killing three",
       "published_at": "2026-07-17T22:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Smoke, fire, floods: US faces triple extreme summer weather threats",
-      "published_at": "2026-07-17T22:14:19+00:00"
     },
     {
       "source": "BBC",
