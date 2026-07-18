@@ -220,5 +220,11 @@
     "sport": "Sports",
     "question": "Which country won the 2018 FIFA World Cup hosted in Russia?",
     "answer": "France"
+  },
+  {
+    "date": "2026-07-18",
+    "sport": "Sports",
+    "question": "What year was hockey legend Wayne Gretzky born?",
+    "answer": "1961"
   }
 ]

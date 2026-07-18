@@ -1,14 +1,51 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-17",
-  "generated_at_ct": "Jul 17, 2026 at 6:49 AM CT",
+  "date_key": "2026-07-18",
+  "generated_at_ct": "Jul 18, 2026 at 6:28 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
       "label": "World Cup",
       "full_name": "FIFA World Cup",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "7a49e7985534a5ff3428740d0b630fd7",
+          "sport_key": "soccer_fifa_world_cup",
+          "league": "World Cup",
+          "league_name": "FIFA World Cup",
+          "status_key": "upcoming",
+          "status_label": "4:00 PM CT",
+          "commence_time": "2026-07-18T21:00:00Z",
+          "commence_ct": "4:00 PM CT",
+          "sort_time": "2026-07-18T21:00:00+00:00",
+          "home_team": "France",
+          "away_team": "England",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "Bovada",
+            "last_update_ct": "6:27 AM CT",
+            "summary": "France -0.5",
+            "outcomes": [
+              {
+                "name": "England",
+                "point": 0.5,
+                "point_label": "+0.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "France",
+                "point": -0.5,
+                "point_label": "-0.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     },
@@ -50,18 +87,18 @@
     }
   ],
   "summary": {
-    "games": 0,
+    "games": 1,
     "live": 0,
     "final": 0,
-    "upcoming": 0,
-    "spreads": 0
+    "upcoming": 1,
+    "spreads": 1
   },
   "quota": {
-    "remaining": "437",
-    "used": "63",
+    "remaining": "433",
+    "used": "67",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-17T11:50:48+00:00"
+  "generated_at": "2026-07-18T11:29:36+00:00"
 }

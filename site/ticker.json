@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-18T10:36:02+00:00",
+  "updated_at": "2026-07-18T11:29:39+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "published_at": "2026-07-18T11:10:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "published_at": "2026-07-18T10:45:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Ukrainians protest for second day, call to replace army chief",
@@ -20,11 +30,6 @@
       "source": "Reuters",
       "text": "Trump suggests hosting World Cup again",
       "published_at": "2026-07-18T09:58:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "published_at": "2026-07-18T09:30:32+00:00"
     },
     {
       "source": "NPR",
@@ -48,7 +53,7 @@
     },
     {
       "source": "NPR",
-      "text": "U.S. and Iran escalate strikes across Mideast",
+      "text": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
       "published_at": "2026-07-18T06:01:20+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
       "published_at": "2026-07-18T01:48:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "He made history in Congress - then the Supreme Court changed its mind",
-      "published_at": "2026-07-18T01:35:33+00:00"
     }
   ]
 }
