@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-07-18T08:56:37+00:00",
+  "updated_at": "2026-07-18T10:36:02+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
-      "published_at": "2026-07-18T07:59:54+00:00"
+      "text": "Ukrainians protest for second day, call to replace army chief",
+      "published_at": "2026-07-18T10:10:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The 2000s called. They want their digital camera back",
+      "published_at": "2026-07-18T10:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Week in Breakingviews: Shopping for stocks",
+      "published_at": "2026-07-18T10:00:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump suggests hosting World Cup again",
+      "published_at": "2026-07-18T09:58:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "published_at": "2026-07-18T09:30:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
+      "published_at": "2026-07-18T09:00:00+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +45,6 @@
       "source": "BBC",
       "text": "Space start-up launches India’s first commercial rocket designed for orbit",
       "published_at": "2026-07-18T07:05:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Skyroot launches Vikram-1 in first private orbital rocket mission",
-      "published_at": "2026-07-18T06:42:00+00:00"
     },
     {
       "source": "NPR",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "He made history in Congress - then the Supreme Court changed its mind",
       "published_at": "2026-07-18T01:35:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "published_at": "2026-07-18T01:29:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What this desert city can teach the world about tackling heat deaths",
-      "published_at": "2026-07-17T23:56:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
-      "published_at": "2026-07-17T23:32:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How these twins' rare growth disorder could provide the key to preventing cancer",
-      "published_at": "2026-07-17T23:24:37+00:00"
     }
   ]
 }
