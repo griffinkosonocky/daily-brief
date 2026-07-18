@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-18T12:01:34+00:00",
+  "updated_at": "2026-07-18T13:43:31+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "published_at": "2026-07-18T13:06:25+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why is it so hard for the U.S. to win wars?",
+      "published_at": "2026-07-18T12:45:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Antonelli fastest, Hamilton crashes in final Belgian GP practice",
+      "published_at": "2026-07-18T12:07:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: The continued courage of Captain Sully",
+      "published_at": "2026-07-18T12:00:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "US strikes hit Iran for seventh consecutive night",
@@ -8,8 +28,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Senior Merz ally Spahn resigns after coming under pressure in Germany over surrogate baby",
-      "published_at": "2026-07-18T11:45:43+00:00"
+      "text": "Iran renews attacks on Gulf states after another night of US strikes",
+      "published_at": "2026-07-18T11:39:29+00:00"
     },
     {
       "source": "BBC",
@@ -17,14 +37,14 @@
       "published_at": "2026-07-18T11:10:20+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China says it will take measures on UK's nationalisation of British Steel",
+      "published_at": "2026-07-18T10:47:07+00:00"
+    },
+    {
       "source": "NPR",
       "text": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
       "published_at": "2026-07-18T10:45:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainians protest for second day, call to replace army chief",
-      "published_at": "2026-07-18T10:10:17+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Helicopters dump water as huge Norway fire destroys homes",
       "published_at": "2026-07-18T07:13:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "published_at": "2026-07-18T07:05:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "published_at": "2026-07-18T06:01:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-      "published_at": "2026-07-18T05:58:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
-      "published_at": "2026-07-18T05:10:44+00:00"
     }
   ]
 }
