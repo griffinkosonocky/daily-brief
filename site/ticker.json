@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-18T13:43:31+00:00",
+  "updated_at": "2026-07-18T15:09:01+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US strikes hit Iran for seventh consecutive night",
+      "published_at": "2026-07-18T15:04:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Josh Kerr breaks long-standing world mile record",
+      "published_at": "2026-07-18T15:02:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German politician resigns over surrogacy child controversy",
+      "published_at": "2026-07-18T14:20:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "If you bill it, they will come: FIFA wins battle for fans' wallets in pricey World Cup",
+      "published_at": "2026-07-18T14:17:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russian online retail warehouses hit by deadly Ukrainian strikes",
@@ -10,6 +30,11 @@
       "source": "NPR",
       "text": "Why is it so hard for the U.S. to win wars?",
       "published_at": "2026-07-18T12:45:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Police shift fasting Indian activist to hospital against his will",
+      "published_at": "2026-07-18T12:17:43+00:00"
     },
     {
       "source": "Reuters",
@@ -23,18 +48,13 @@
     },
     {
       "source": "BBC",
-      "text": "US strikes hit Iran for seventh consecutive night",
-      "published_at": "2026-07-18T11:48:44+00:00"
+      "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "published_at": "2026-07-18T11:10:20+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iran renews attacks on Gulf states after another night of US strikes",
-      "published_at": "2026-07-18T11:39:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "published_at": "2026-07-18T11:10:20+00:00"
+      "text": "Shanghai Xingshu launches first constellation of its space-based computing project",
+      "published_at": "2026-07-18T10:48:25+00:00"
     },
     {
       "source": "Reuters",
@@ -47,11 +67,6 @@
       "published_at": "2026-07-18T10:45:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "If you bill it, they will come: FIFA wins battle for fans' wallets in pricey World Cup",
-      "published_at": "2026-07-18T10:07:45+00:00"
-    },
-    {
       "source": "NPR",
       "text": "The 2000s called. They want their digital camera back",
       "published_at": "2026-07-18T10:01:00+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "The Week in Breakingviews: Shopping for stocks",
       "published_at": "2026-07-18T10:00:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump suggests hosting World Cup again",
-      "published_at": "2026-07-18T09:58:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
-      "published_at": "2026-07-18T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Helicopters dump water as huge Norway fire destroys homes",
-      "published_at": "2026-07-18T07:13:07+00:00"
     }
   ]
 }
