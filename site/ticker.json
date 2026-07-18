@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-18T11:29:39+00:00",
+  "updated_at": "2026-07-18T12:01:34+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US strikes hit Iran for seventh consecutive night",
+      "published_at": "2026-07-18T11:48:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Senior Merz ally Spahn resigns after coming under pressure in Germany over surrogate baby",
+      "published_at": "2026-07-18T11:45:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Laos says it can't determine cause of tourist deaths linked to methanol",
@@ -15,6 +25,11 @@
       "source": "Reuters",
       "text": "Ukrainians protest for second day, call to replace army chief",
       "published_at": "2026-07-18T10:10:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "If you bill it, they will come: FIFA wins battle for fans' wallets in pricey World Cup",
+      "published_at": "2026-07-18T10:07:45+00:00"
     },
     {
       "source": "NPR",
@@ -35,11 +50,6 @@
       "source": "NPR",
       "text": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
       "published_at": "2026-07-18T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US strikes hit Iran for seventh consecutive night",
-      "published_at": "2026-07-18T07:33:40+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
       "published_at": "2026-07-18T05:10:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fasting Indian activist shifted to hospital, police say",
-      "published_at": "2026-07-18T02:32:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
-      "published_at": "2026-07-18T01:48:16+00:00"
     }
   ]
 }
