@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-19T22:05:25+00:00",
+  "updated_at": "2026-07-19T23:07:39+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Madonna, BTS and Bieber bring star power to World Cup halftime show",
+      "published_at": "2026-07-19T22:28:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain battle past 10-man Argentina 1-0 in extra time to win World Cup",
+      "published_at": "2026-07-19T22:26:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "List of World Cup winners",
+      "published_at": "2026-07-19T22:23:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wildfire on France's Mediterranean coast forces hamlet evacuations",
+      "published_at": "2026-07-19T21:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scheffler defends Dechambeau after two-stroke penalty row",
+      "published_at": "2026-07-19T21:57:08+00:00"
+    },
     {
       "source": "BBC",
       "text": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
@@ -15,11 +40,6 @@
       "source": "Reuters",
       "text": "World Cup final between 10-man Argentina and Spain goes to extra time",
       "published_at": "2026-07-19T21:25:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Madonna, BTS and Bieber bring star power to World Cup halftime show",
-      "published_at": "2026-07-19T21:10:03+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "Who is Andy Burnham, the U.K.'s new prime minister?",
       "published_at": "2026-07-19T16:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boeing focused on production, not new orders at Farnborough Airshow",
-      "published_at": "2026-07-19T15:56:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Health officials identify source of US explosive diarrhoea outbreak",
-      "published_at": "2026-07-19T15:17:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "published_at": "2026-07-19T14:50:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
-      "published_at": "2026-07-19T14:06:08+00:00"
     }
   ]
 }
