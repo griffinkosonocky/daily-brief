@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-07-19T21:03:39+00:00",
+  "updated_at": "2026-07-19T22:05:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "published_at": "2026-07-19T21:43:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+      "published_at": "2026-07-19T21:29:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup final between 10-man Argentina and Spain goes to extra time",
+      "published_at": "2026-07-19T21:25:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Madonna, BTS and Bieber bring star power to World Cup halftime show",
+      "published_at": "2026-07-19T21:10:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "US soldier killed and one injured after Iranian attack in Iraq",
       "published_at": "2026-07-19T19:45:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US service member killed in northern Iraq, U.S. Central Command says",
-      "published_at": "2026-07-19T19:31:29+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
       "published_at": "2026-07-19T14:06:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Burns starts final day of Open with two-shot lead",
-      "published_at": "2026-07-19T12:56:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tate brothers arrested in US as further UK charges take total to 59",
-      "published_at": "2026-07-19T12:53:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows",
-      "published_at": "2026-07-19T11:03:43+00:00"
     }
   ]
 }
