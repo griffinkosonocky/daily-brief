@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-19T03:49:26+00:00",
+  "updated_at": "2026-07-19T06:40:28+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "published_at": "2026-07-19T05:10:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
+      "published_at": "2026-07-19T04:00:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Former China Development Bank president put under anti-graft investigation",
-      "published_at": "2026-07-19T03:15:00+00:00"
+      "published_at": "2026-07-19T03:15:47+00:00"
     },
     {
       "source": "BBC",
@@ -30,11 +40,6 @@
       "source": "Reuters",
       "text": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
       "published_at": "2026-07-19T00:33:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "published_at": "2026-07-19T00:18:47+00:00"
     },
     {
       "source": "BBC",
@@ -65,11 +70,6 @@
       "source": "Reuters",
       "text": "France's Mbappe becomes World Cup's all-time top scorer",
       "published_at": "2026-07-18T22:37:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says two military personnel killed by Iranian attack in Jordan",
-      "published_at": "2026-07-18T21:30:29+00:00"
     },
     {
       "source": "Reuters",
