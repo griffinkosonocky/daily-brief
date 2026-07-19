@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-07-19T06:40:28+00:00",
+  "updated_at": "2026-07-19T09:13:04+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "5 clever design tricks to make a small home look bigger",
+      "published_at": "2026-07-19T09:01:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "text": "Russia launches major ballistic missile attack on Kyiv",
+      "published_at": "2026-07-19T08:37:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Men more likely than women to use job offers for pay rises, study finds",
+      "published_at": "2026-07-19T08:06:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How Olam Food Ingredients is waging a digital fight against deforestation",
+      "published_at": "2026-07-19T08:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "published_at": "2026-07-19T07:47:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Democratic Taiwan must not become 'China's Taiwan', president says",
+      "published_at": "2026-07-19T07:39:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "published_at": "2026-07-19T07:27:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
+      "published_at": "2026-07-19T07:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "published_at": "2026-07-19T05:10:57+00:00"
     },
     {
@@ -15,6 +55,11 @@
       "source": "Reuters",
       "text": "Former China Development Bank president put under anti-graft investigation",
       "published_at": "2026-07-19T03:15:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia pounds Kyiv in major ballistic missile attack",
+      "published_at": "2026-07-19T02:27:00+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "Why the World Cup half-time show may be a taste of things to come",
       "published_at": "2026-07-19T01:11:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "published_at": "2026-07-19T00:57:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
-      "published_at": "2026-07-19T00:33:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "published_at": "2026-07-18T23:59:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Private jets flock to Montana - but locals can't afford the trailer park",
-      "published_at": "2026-07-18T23:44:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England survive France fightback and secure third place in World Cup goalfest",
-      "published_at": "2026-07-18T23:43:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "published_at": "2026-07-18T23:21:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England take World Cup third place with 6-4 win against France",
-      "published_at": "2026-07-18T23:13:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Mbappe becomes World Cup's all-time top scorer",
-      "published_at": "2026-07-18T22:37:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain's Kerr smashes long-standing world mile record",
-      "published_at": "2026-07-18T21:22:54+00:00"
     }
   ]
 }
