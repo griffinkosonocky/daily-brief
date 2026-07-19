@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-07-19T13:46:25+00:00",
+  "updated_at": "2026-07-19T15:09:27+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Marathon runners compete on drifting sea ice at North Pole",
-      "published_at": "2026-07-19T13:32:30+00:00"
+      "text": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "published_at": "2026-07-19T14:50:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Boeing studying new 737 MAX production hikes",
-      "published_at": "2026-07-19T13:23:44+00:00"
+      "text": "Boeing focused on production, not new orders at Farnborough Airshow",
+      "published_at": "2026-07-19T14:25:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
+      "published_at": "2026-07-19T14:06:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "published_at": "2026-07-19T14:00:03+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +35,6 @@
       "source": "BBC",
       "text": "Tate brothers arrested in US as further UK charges take total to 59",
       "published_at": "2026-07-19T12:53:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
-      "published_at": "2026-07-19T11:51:03+00:00"
     },
     {
       "source": "BBC",
@@ -50,11 +55,6 @@
       "source": "NPR",
       "text": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
       "published_at": "2026-07-19T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "published_at": "2026-07-19T09:59:41+00:00"
     },
     {
       "source": "BBC",
