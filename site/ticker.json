@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-07-19T11:36:07+00:00",
+  "updated_at": "2026-07-19T13:46:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Marathon runners compete on drifting sea ice at North Pole",
+      "published_at": "2026-07-19T13:32:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Boeing studying new 737 MAX production hikes",
+      "published_at": "2026-07-19T13:23:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "published_at": "2026-07-19T13:10:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Burns starts final day of Open with two-shot lead",
+      "published_at": "2026-07-19T12:56:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tate brothers arrested in US as further UK charges take total to 59",
+      "published_at": "2026-07-19T12:53:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
+      "published_at": "2026-07-19T11:51:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia launches major ballistic missile attack on Ukrainian cities",
       "published_at": "2026-07-19T11:28:24+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "published_at": "2026-07-19T11:10:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tate brothers arrested in US as further UK charges take total to 59",
-      "published_at": "2026-07-19T11:04:50+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
       "published_at": "2026-07-19T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "A longtime U.S. resident unknowingly cast an illegal ballot in 2016, she was deported",
+      "published_at": "2026-07-19T10:13:27+00:00"
     },
     {
       "source": "NPR",
@@ -32,6 +57,11 @@
       "published_at": "2026-07-19T09:59:41+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Messi on the brink of history - will it be his last World Cup game?",
+      "published_at": "2026-07-19T09:55:22+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Deadly overnight Russian attack on Ukraine targets the capital",
       "published_at": "2026-07-19T09:14:38+00:00"
@@ -42,39 +72,9 @@
       "published_at": "2026-07-19T09:01:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "published_at": "2026-07-19T07:47:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "published_at": "2026-07-19T07:27:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-      "published_at": "2026-07-19T07:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
-      "published_at": "2026-07-19T04:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New EU border system tripling time at passport control, airport boss says",
-      "published_at": "2026-07-19T01:47:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the World Cup half-time show may be a taste of things to come",
-      "published_at": "2026-07-19T01:11:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "published_at": "2026-07-19T00:57:08+00:00"
+      "source": "Reuters",
+      "text": "Men more likely than women to use job offers for pay rises, study finds",
+      "published_at": "2026-07-19T08:06:12+00:00"
     }
   ]
 }
