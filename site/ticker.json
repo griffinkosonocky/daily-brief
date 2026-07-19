@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-07-19T09:13:04+00:00",
+  "updated_at": "2026-07-19T11:19:14+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "published_at": "2026-07-19T11:10:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tate brothers arrested in US as further UK charges take total to 59",
+      "published_at": "2026-07-19T11:04:50+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "5 clever design tricks to make a small home look bigger",
-      "published_at": "2026-07-19T09:01:00+00:00"
+      "text": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+      "published_at": "2026-07-19T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "A longtime U.S. resident unknowingly cast an illegal ballot in 2016, she was deported",
+      "published_at": "2026-07-19T10:13:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "published_at": "2026-07-19T10:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "published_at": "2026-07-19T09:59:41+00:00"
     },
     {
       "source": "BBC",
       "text": "Russia launches major ballistic missile attack on Kyiv",
-      "published_at": "2026-07-19T08:37:48+00:00"
+      "published_at": "2026-07-19T09:54:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "published_at": "2026-07-19T09:14:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "5 clever design tricks to make a small home look bigger",
+      "published_at": "2026-07-19T09:01:00+00:00"
     },
     {
       "source": "Reuters",
@@ -27,11 +62,6 @@
       "published_at": "2026-07-19T07:47:02+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Democratic Taiwan must not become 'China's Taiwan', president says",
-      "published_at": "2026-07-19T07:39:06+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
       "published_at": "2026-07-19T07:27:59+00:00"
@@ -42,39 +72,9 @@
       "published_at": "2026-07-19T07:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "published_at": "2026-07-19T05:10:57+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
       "published_at": "2026-07-19T04:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former China Development Bank president put under anti-graft investigation",
-      "published_at": "2026-07-19T03:15:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia pounds Kyiv in major ballistic missile attack",
-      "published_at": "2026-07-19T02:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "published_at": "2026-07-19T02:17:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New EU border system tripling time at passport control, airport boss says",
-      "published_at": "2026-07-19T01:47:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the World Cup half-time show may be a taste of things to come",
-      "published_at": "2026-07-19T01:11:23+00:00"
     }
   ]
 }
