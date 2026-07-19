@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-19T19:21:19+00:00",
+  "updated_at": "2026-07-19T21:03:39+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US soldier killed and one injured after Iranian attack in Iraq",
+      "published_at": "2026-07-19T19:45:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US service member killed in northern Iraq, U.S. Central Command says",
+      "published_at": "2026-07-19T19:31:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Duckett's big century sets up England series win over India",
+      "published_at": "2026-07-19T19:22:22+00:00"
+    },
     {
       "source": "Reuters",
       "text": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
@@ -20,16 +35,6 @@
       "source": "Reuters",
       "text": "Argentina make three changes, Spain unchanged for World Cup final",
       "published_at": "2026-07-19T17:55:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "published_at": "2026-07-19T17:22:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Democratic Taiwan must not become 'China's Taiwan', president says",
-      "published_at": "2026-07-19T16:26:45+00:00"
     },
     {
       "source": "NPR",
@@ -67,14 +72,9 @@
       "published_at": "2026-07-19T12:53:20+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-      "published_at": "2026-07-19T11:00:00+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "A longtime U.S. resident unknowingly cast an illegal ballot in 2016, she was deported",
-      "published_at": "2026-07-19T10:13:27+00:00"
+      "text": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows",
+      "published_at": "2026-07-19T11:03:43+00:00"
     }
   ]
 }
