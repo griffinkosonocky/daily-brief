@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-07-18",
-  "generated_at_ct": "Jul 18, 2026 at 6:28 AM CT",
+  "date_key": "2026-07-19",
+  "generated_at_ct": "Jul 19, 2026 at 6:34 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -9,37 +9,37 @@
       "full_name": "FIFA World Cup",
       "games": [
         {
-          "id": "7a49e7985534a5ff3428740d0b630fd7",
+          "id": "fb30113e43d113f1ace48b8563ba1ee9",
           "sport_key": "soccer_fifa_world_cup",
           "league": "World Cup",
           "league_name": "FIFA World Cup",
           "status_key": "upcoming",
-          "status_label": "4:00 PM CT",
-          "commence_time": "2026-07-18T21:00:00Z",
-          "commence_ct": "4:00 PM CT",
-          "sort_time": "2026-07-18T21:00:00+00:00",
-          "home_team": "France",
-          "away_team": "England",
+          "status_label": "2:00 PM CT",
+          "commence_time": "2026-07-19T19:00:00Z",
+          "commence_ct": "2:00 PM CT",
+          "sort_time": "2026-07-19T19:00:00+00:00",
+          "home_team": "Spain",
+          "away_team": "Argentina",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "Bovada",
-            "last_update_ct": "6:27 AM CT",
-            "summary": "France -0.5",
+            "last_update_ct": "6:32 AM CT",
+            "summary": "Spain -0.25",
             "outcomes": [
               {
-                "name": "England",
-                "point": 0.5,
-                "point_label": "+0.5",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Argentina",
+                "point": 0.25,
+                "point_label": "+0.25",
+                "price": -108,
+                "price_label": "-108"
               },
               {
-                "name": "France",
-                "point": -0.5,
-                "point_label": "-0.5",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Spain",
+                "point": -0.25,
+                "point_label": "-0.25",
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
@@ -94,11 +94,11 @@
     "spreads": 1
   },
   "quota": {
-    "remaining": "433",
-    "used": "67",
+    "remaining": "429",
+    "used": "71",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-07-18T11:29:36+00:00"
+  "generated_at": "2026-07-19T11:35:59+00:00"
 }

@@ -226,5 +226,11 @@
     "sport": "Sports",
     "question": "What year was hockey legend Wayne Gretzky born?",
     "answer": "1961"
+  },
+  {
+    "date": "2026-07-19",
+    "sport": "Sports",
+    "question": "Who won the 2017 Formula One World Drivers' Championship?",
+    "answer": "Lewis Hamilton"
   }
 ]
