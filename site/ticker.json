@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-07-19T00:05:34+00:00",
+  "updated_at": "2026-07-19T03:49:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Former China Development Bank president put under anti-graft investigation",
+      "published_at": "2026-07-19T03:15:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+      "published_at": "2026-07-19T02:17:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New EU border system tripling time at passport control, airport boss says",
+      "published_at": "2026-07-19T01:47:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why the World Cup half-time show may be a taste of things to come",
+      "published_at": "2026-07-19T01:11:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "published_at": "2026-07-19T00:57:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
+      "published_at": "2026-07-19T00:33:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "published_at": "2026-07-19T00:18:47+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russians turn to cash, putting more strain on slowing wartime economy",
       "published_at": "2026-07-18T23:59:26+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "published_at": "2026-07-18T23:44:04+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation",
-      "published_at": "2026-07-18T23:49:43+00:00"
+      "text": "England survive France fightback and secure third place in World Cup goalfest",
+      "published_at": "2026-07-18T23:43:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+      "published_at": "2026-07-18T23:21:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "England take World Cup third place with 6-4 win against France",
       "published_at": "2026-07-18T23:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's Mbappe becomes World Cup's all-time top scorer",
+      "published_at": "2026-07-18T22:37:00+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Britain's Kerr smashes long-standing world mile record",
       "published_at": "2026-07-18T21:22:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "published_at": "2026-07-18T21:12:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-      "published_at": "2026-07-18T20:06:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hungary's president agrees to stand down after parliament backs removal",
-      "published_at": "2026-07-18T19:34:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hydration breaks did not impact World Cup results but future undecided, says FIFA's Wenger",
-      "published_at": "2026-07-18T19:17:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Flash flood sweeps through Vietnamese village, prompting rescues",
-      "published_at": "2026-07-18T19:11:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt defender Abdelmaguid joins Ludogorets",
-      "published_at": "2026-07-18T18:19:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "published_at": "2026-07-18T18:15:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. fires on Iran after attack in Jordan leaves 2 troops killed, 1 missing",
-      "published_at": "2026-07-18T18:14:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hungary's president signs law change ending his term in office",
-      "published_at": "2026-07-18T17:50:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "published_at": "2026-07-18T17:29:50+00:00"
     }
   ]
 }
