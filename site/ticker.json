@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-18T23:04:33+00:00",
+  "updated_at": "2026-07-19T00:05:34+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "published_at": "2026-07-18T23:59:26+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Ontario premier says Trump's criticism of Canada's efforts to stop wildfires is 'absolutely unacceptable'",
-      "published_at": "2026-07-18T22:07:59+00:00"
+      "text": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation",
+      "published_at": "2026-07-18T23:49:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England take World Cup third place with 6-4 win against France",
+      "published_at": "2026-07-18T23:13:43+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "published_at": "2026-07-18T17:29:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Reporter's Notebook: Finding World Cup joy in speaking to women who love soccer",
-      "published_at": "2026-07-18T15:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German politician resigns over surrogacy child controversy",
-      "published_at": "2026-07-18T15:23:31+00:00"
     }
   ]
 }
