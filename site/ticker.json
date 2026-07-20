@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-20T12:31:44+00:00",
+  "updated_at": "2026-07-20T14:30:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "ASML to offer employees €20,000 retention bonus for staying in 2027-2030",
+      "published_at": "2026-07-20T14:14:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Evenepoel eyes time trial triumph to cement runner-up spot",
+      "published_at": "2026-07-20T14:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rudi Garcia to leave Belgium job at the end of the month",
+      "published_at": "2026-07-20T13:54:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+      "published_at": "2026-07-20T13:33:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian attack on corn ship off Ukraine's Odesa kills 10",
+      "published_at": "2026-07-20T13:20:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Putin meets North Korean foreign minister in diplomatic push",
+      "published_at": "2026-07-20T13:18:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "published_at": "2026-07-20T13:13:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgium national squad coach Rudi Garcia contract not extended",
+      "published_at": "2026-07-20T13:11:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why are thousands of people protesting in Delhi?",
+      "published_at": "2026-07-20T12:33:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "published_at": "2026-07-20T12:31:10+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
@@ -12,6 +62,11 @@
       "published_at": "2026-07-20T12:13:58+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters",
+      "published_at": "2026-07-20T11:48:14+00:00"
+    },
+    {
       "source": "NPR",
       "text": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
       "published_at": "2026-07-20T11:40:28+00:00"
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "Scores feared dead after passenger ferry capsizes off Guyana",
       "published_at": "2026-07-20T11:37:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-      "published_at": "2026-07-20T11:28:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How PayPal went from Wall Street favorite to unwilling merger target",
-      "published_at": "2026-07-20T11:21:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "published_at": "2026-07-20T11:18:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At least 930 people have died in Congo's Ebola outbreak",
-      "published_at": "2026-07-20T10:36:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Construction chemicals companies, trade associations hit with EU cartel charges",
-      "published_at": "2026-07-20T10:34:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
-      "published_at": "2026-07-20T10:04:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Boy, 13, dies during World Cup celebrations in Spain",
-      "published_at": "2026-07-20T10:02:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian attack on corn ship off Ukraine's Odesa kills 10",
-      "published_at": "2026-07-20T09:22:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran strikes 'in honor' of slain US troops in Jordan, Iraq",
-      "published_at": "2026-07-20T09:10:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "So distressed you can't think straight? Lower the intensity with these 4 skills",
-      "published_at": "2026-07-20T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
-      "published_at": "2026-07-20T09:00:00+00:00"
     }
   ]
 }
