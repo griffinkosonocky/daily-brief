@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-20T14:30:06+00:00",
+  "updated_at": "2026-07-20T16:41:21+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis declare naval blockade against Saudi Arabia",
+      "published_at": "2026-07-20T16:37:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'The Odyssey' triumph casts IMAX suitors adrift",
+      "published_at": "2026-07-20T16:29:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "published_at": "2026-07-20T16:26:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "published_at": "2026-07-20T16:10:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US 'deeply concerned' after EU eyes carbon price for international flights",
+      "published_at": "2026-07-20T15:34:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Construction chemicals companies, trade associations hit with EU cartel charges",
+      "published_at": "2026-07-20T14:58:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Newcastle, Liverpool and England legend Keegan dies",
+      "published_at": "2026-07-20T14:38:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rudi Garcia to leave Belgium job at the end of the month",
+      "published_at": "2026-07-20T14:24:17+00:00"
+    },
     {
       "source": "Reuters",
       "text": "ASML to offer employees €20,000 retention bonus for staying in 2027-2030",
@@ -12,9 +52,19 @@
       "published_at": "2026-07-20T14:09:43+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Hamas names Khalil al-Hayya as new overall leader",
+      "published_at": "2026-07-20T14:02:31+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Rudi Garcia to leave Belgium job at the end of the month",
-      "published_at": "2026-07-20T13:54:24+00:00"
+      "text": "Airline executives caution planemakers not to rush release of next generation of aircraft",
+      "published_at": "2026-07-20T14:01:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What is China's next surprise for oil markets? Lower imports, higher fuel exports?",
+      "published_at": "2026-07-20T13:38:23+00:00"
     },
     {
       "source": "BBC",
@@ -22,59 +72,9 @@
       "published_at": "2026-07-20T13:33:19+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Russian attack on corn ship off Ukraine's Odesa kills 10",
-      "published_at": "2026-07-20T13:20:20+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Putin meets North Korean foreign minister in diplomatic push",
       "published_at": "2026-07-20T13:18:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "published_at": "2026-07-20T13:13:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Belgium national squad coach Rudi Garcia contract not extended",
-      "published_at": "2026-07-20T13:11:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why are thousands of people protesting in Delhi?",
-      "published_at": "2026-07-20T12:33:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "published_at": "2026-07-20T12:31:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
-      "published_at": "2026-07-20T12:15:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Utah firefighter and four family members killed in flash flooding",
-      "published_at": "2026-07-20T12:13:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters",
-      "published_at": "2026-07-20T11:48:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-      "published_at": "2026-07-20T11:40:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Scores feared dead after passenger ferry capsizes off Guyana",
-      "published_at": "2026-07-20T11:37:32+00:00"
     }
   ]
 }
