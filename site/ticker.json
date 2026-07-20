@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-19T23:07:39+00:00",
+  "updated_at": "2026-07-20T03:57:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+      "published_at": "2026-07-20T02:35:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's cockroach movement supporters gather to march despite police ban",
+      "published_at": "2026-07-20T02:26:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India FX traders eye oil prices, RBI defence; bonds bulls await index decision",
+      "published_at": "2026-07-20T01:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rodri returns from 'hell' to drive Spain to World Cup glory",
+      "published_at": "2026-07-20T01:12:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Norway opens new memorial for victims of 2011 massacre",
+      "published_at": "2026-07-20T01:11:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "It's tattoo time for Spain defender Cucurella says coach De la Fuente",
+      "published_at": "2026-07-20T00:48:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "published_at": "2026-07-20T00:19:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Emotional Scaloni says Argentina gave utmost, needs to think about what comes next",
+      "published_at": "2026-07-20T00:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentines lament World Cup loss and chance to be champions again",
+      "published_at": "2026-07-20T00:07:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's ball worship delivers World Cup glory and a nation's shared embrace",
+      "published_at": "2026-07-19T23:51:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "published_at": "2026-07-19T23:18:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Substitute Torres rescues grim final to make Spain world champions",
+      "published_at": "2026-07-19T22:42:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Madonna, BTS and Bieber bring star power to World Cup halftime show",
       "published_at": "2026-07-19T22:28:05+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Spain battle past 10-man Argentina 1-0 in extra time to win World Cup",
-      "published_at": "2026-07-19T22:26:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "List of World Cup winners",
-      "published_at": "2026-07-19T22:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildfire on France's Mediterranean coast forces hamlet evacuations",
-      "published_at": "2026-07-19T21:57:43+00:00"
+      "source": "BBC",
+      "text": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "published_at": "2026-07-19T22:16:39+00:00"
     },
     {
       "source": "Reuters",
       "text": "Scheffler defends Dechambeau after two-stroke penalty row",
       "published_at": "2026-07-19T21:57:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-      "published_at": "2026-07-19T21:43:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
-      "published_at": "2026-07-19T21:29:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup final between 10-man Argentina and Spain goes to extra time",
-      "published_at": "2026-07-19T21:25:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US soldier killed and one injured after Iranian attack in Iraq",
-      "published_at": "2026-07-19T19:45:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Duckett's big century sets up England series win over India",
-      "published_at": "2026-07-19T19:22:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "With security lines and star-studded spectacle, World Cup prepares for final showdown",
-      "published_at": "2026-07-19T19:08:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "published_at": "2026-07-19T18:25:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-      "published_at": "2026-07-19T18:18:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina make three changes, Spain unchanged for World Cup final",
-      "published_at": "2026-07-19T17:55:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Who is Andy Burnham, the U.K.'s new prime minister?",
-      "published_at": "2026-07-19T16:00:00+00:00"
     }
   ]
 }
