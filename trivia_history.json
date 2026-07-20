@@ -232,5 +232,11 @@
     "sport": "Sports",
     "question": "Who won the 2017 Formula One World Drivers' Championship?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "date": "2026-07-20",
+    "sport": "Sports",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "answer": "Leicester City"
   }
 ]
