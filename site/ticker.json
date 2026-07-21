@@ -1,20 +1,55 @@
 {
-  "updated_at": "2026-07-21T03:41:41+00:00",
+  "updated_at": "2026-07-21T06:38:07+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Philippines' Marcos names new military chief",
-      "published_at": "2026-07-21T02:48:00+00:00"
-    },
     {
       "source": "BBC",
       "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "published_at": "2026-07-21T02:41:28+00:00"
+      "published_at": "2026-07-21T06:16:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "BHP resumes negotiations with Port Hedland iron ore unions",
-      "published_at": "2026-07-21T02:22:00+00:00"
+      "text": "Volkswagen nears sale of stake in its India unit to JSW Group, Bloomberg News reports",
+      "published_at": "2026-07-21T06:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe bets big on electrification. Now it needs people to plug in",
+      "published_at": "2026-07-21T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's steel sector looks weaker than it is, reverse for iron ore",
+      "published_at": "2026-07-21T05:45:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Powerball ticket sales begin Tuesday in the United Kingdom",
+      "published_at": "2026-07-21T05:28:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Diageo chair plans board shake-up, FT reports",
+      "published_at": "2026-07-21T04:39:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's SBI Funds Management rises nearly 9% in debut after $1.03 billion IPO",
+      "published_at": "2026-07-21T04:20:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally",
+      "published_at": "2026-07-21T04:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's world-leading renewable megabases rely on coal-heavy transmission, report finds",
+      "published_at": "2026-07-21T03:49:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares muted as firmer oil, HDFC Bank losses counter earnings-driven gains",
+      "published_at": "2026-07-21T02:29:00+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Asian stocks rise as Mideast mediation takes oil lower",
+      "published_at": "2026-07-21T02:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Report: WTA to mandate genetic gender test",
       "published_at": "2026-07-21T01:40:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Lionel Messi thanks Argentina fans: ‘Wound will take time to heal’",
-      "published_at": "2026-07-21T01:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three Chinese injured in drone attack on Moscow",
-      "published_at": "2026-07-21T01:33:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-      "published_at": "2026-07-21T00:36:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "published_at": "2026-07-21T00:34:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's steel sector looks weaker than it is, reverse for iron ore",
-      "published_at": "2026-07-21T00:16:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
-      "published_at": "2026-07-20T23:10:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: War clouds darken",
-      "published_at": "2026-07-20T22:15:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hamas names Khalil Al-Hayya as new overall leader",
-      "published_at": "2026-07-20T21:45:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
-      "published_at": "2026-07-20T21:31:54+00:00"
+      "text": "Japan protests Chinese live-fire drill in nearby waters",
+      "published_at": "2026-07-21T00:43:00+00:00"
     }
   ]
 }
