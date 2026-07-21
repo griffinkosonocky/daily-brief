@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-21T18:23:05+00:00",
+  "updated_at": "2026-07-21T20:23:03+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "published_at": "2026-07-21T19:57:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
+      "published_at": "2026-07-21T19:10:42+00:00"
+    },
     {
       "source": "BBC",
       "text": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
@@ -12,39 +22,9 @@
       "published_at": "2026-07-21T18:00:52+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "PGA Tour and DP World Tour announce partnership with Asian Tour",
-      "published_at": "2026-07-21T17:45:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat",
-      "published_at": "2026-07-21T17:38:54+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
       "published_at": "2026-07-21T17:33:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins",
-      "published_at": "2026-07-21T17:16:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
-      "published_at": "2026-07-21T17:14:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanese army enters southern town after Israeli withdrawal, in first test of US-brokered deal",
-      "published_at": "2026-07-21T17:02:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gates Foundation engaged with Epstein but made no payments to him, review finds",
-      "published_at": "2026-07-21T16:54:56+00:00"
     },
     {
       "source": "BBC",
@@ -52,29 +32,49 @@
       "published_at": "2026-07-21T16:44:30+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US, China to hold AI talks in September, sources say",
-      "published_at": "2026-07-21T16:41:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - White House’s strategy of tariff tension may snap",
-      "published_at": "2026-07-21T16:34:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anthony Taylor announces retirement from elite refereeing",
-      "published_at": "2026-07-21T16:29:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall St gains on chip stocks recovery; earnings draw focus",
-      "published_at": "2026-07-21T16:21:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "published_at": "2026-07-21T16:10:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "published_at": "2026-07-21T15:57:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "published_at": "2026-07-21T15:54:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch Texas police officer pull man from burning car",
+      "published_at": "2026-07-21T13:01:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The best games of 2026 so far, picked by NPR's staff",
+      "published_at": "2026-07-21T13:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "published_at": "2026-07-21T12:48:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "published_at": "2026-07-21T12:02:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "published_at": "2026-07-21T12:00:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+      "published_at": "2026-07-21T11:40:53+00:00"
     }
   ]
 }
