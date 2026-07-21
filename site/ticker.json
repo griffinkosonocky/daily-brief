@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-07-20T22:09:36+00:00",
+  "updated_at": "2026-07-21T00:06:26+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Trump imposes 50% tariff on Canadian imports",
-      "published_at": "2026-07-20T22:02:42+00:00"
+      "published_at": "2026-07-21T00:03:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
+      "published_at": "2026-07-20T22:22:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: War clouds darken",
+      "published_at": "2026-07-20T22:15:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hamas names Khalil Al-Hayya as new overall leader",
+      "published_at": "2026-07-20T21:45:05+00:00"
     },
     {
       "source": "Reuters",
@@ -17,19 +32,24 @@
       "published_at": "2026-07-20T21:30:19+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Messi says Argentina's defeat by Spain left immense pain",
+      "published_at": "2026-07-20T21:13:41+00:00"
+    },
+    {
       "source": "BBC",
       "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "published_at": "2026-07-20T21:09:31+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "TRADING DAY War clouds darken",
-      "published_at": "2026-07-20T21:09:29+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
       "published_at": "2026-07-20T21:03:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ASML to offer employees €20,000 retention bonus for staying in 2027-2030",
+      "published_at": "2026-07-20T20:59:11+00:00"
     },
     {
       "source": "Reuters",
@@ -47,11 +67,6 @@
       "published_at": "2026-07-20T20:26:12+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "After deadly weekend for US troops, Trump vows revenge against Iran",
-      "published_at": "2026-07-20T20:19:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "10 things that wowed us at the 2026 World Cup",
       "published_at": "2026-07-20T19:56:44+00:00"
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Merger deal between Paramount and Warner Bros paused by judge",
       "published_at": "2026-07-20T19:48:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
-      "published_at": "2026-07-20T19:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ontario wildfires expand as smoke lingers in parts of the US",
-      "published_at": "2026-07-20T19:45:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How PayPal went from Wall Street favorite to unwilling merger target",
-      "published_at": "2026-07-20T19:29:58+00:00"
     }
   ]
 }
