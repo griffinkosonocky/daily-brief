@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-07-21T00:06:26+00:00",
+  "updated_at": "2026-07-21T03:41:41+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Philippines' Marcos names new military chief",
+      "published_at": "2026-07-21T02:48:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Trump imposes 50% tariff on Canadian imports",
-      "published_at": "2026-07-21T00:03:37+00:00"
+      "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "published_at": "2026-07-21T02:41:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
-      "published_at": "2026-07-20T22:22:51+00:00"
+      "text": "BHP resumes negotiations with Port Hedland iron ore unions",
+      "published_at": "2026-07-21T02:22:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What is China's next surprise for oil markets? Lower imports, higher fuel exports?",
+      "published_at": "2026-07-21T02:12:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "published_at": "2026-07-21T02:07:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Report: WTA to mandate genetic gender test",
+      "published_at": "2026-07-21T01:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lionel Messi thanks Argentina fans: ‘Wound will take time to heal’",
+      "published_at": "2026-07-21T01:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Three Chinese injured in drone attack on Moscow",
+      "published_at": "2026-07-21T01:33:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "published_at": "2026-07-21T00:36:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "published_at": "2026-07-21T00:34:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's steel sector looks weaker than it is, reverse for iron ore",
+      "published_at": "2026-07-21T00:16:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "published_at": "2026-07-20T23:10:32+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
       "published_at": "2026-07-20T21:31:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "published_at": "2026-07-20T21:30:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi says Argentina's defeat by Spain left immense pain",
-      "published_at": "2026-07-20T21:13:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "published_at": "2026-07-20T21:09:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "published_at": "2026-07-20T21:03:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ASML to offer employees €20,000 retention bonus for staying in 2027-2030",
-      "published_at": "2026-07-20T20:59:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis declare naval blockade against Saudi Arabia",
-      "published_at": "2026-07-20T20:56:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scores celebrate Spain's 'Kings of the World' win in exhilarated Madrid",
-      "published_at": "2026-07-20T20:29:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA to investigate World Cup final post-match brawl",
-      "published_at": "2026-07-20T20:26:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "10 things that wowed us at the 2026 World Cup",
-      "published_at": "2026-07-20T19:56:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Merger deal between Paramount and Warner Bros paused by judge",
-      "published_at": "2026-07-20T19:48:13+00:00"
     }
   ]
 }
