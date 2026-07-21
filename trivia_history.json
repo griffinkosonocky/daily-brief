@@ -238,5 +238,11 @@
     "sport": "Sports",
     "question": "Which team won the 2015-16 English Premier League?",
     "answer": "Leicester City"
+  },
+  {
+    "date": "2026-07-21",
+    "sport": "Sports",
+    "question": "What was Sir Donald Bradman's batting average in test matches?",
+    "answer": "99.94"
   }
 ]
