@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-21T22:09:39+00:00",
+  "updated_at": "2026-07-22T00:02:21+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "published_at": "2026-07-21T23:59:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Grupo Mexico profit beats estimates on higher copper prices",
+      "published_at": "2026-07-21T23:19:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+      "published_at": "2026-07-21T22:06:31+00:00"
+    },
     {
       "source": "NPR",
       "text": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
@@ -10,6 +25,16 @@
       "source": "NPR",
       "text": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
       "published_at": "2026-07-21T21:30:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanese army enters southern town after Israeli withdrawal, in first test of US-brokered deal",
+      "published_at": "2026-07-21T21:15:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chelsea sign England's Rogers from Villa in record British deal",
+      "published_at": "2026-07-21T21:13:43+00:00"
     },
     {
       "source": "Reuters",
@@ -27,24 +52,19 @@
       "published_at": "2026-07-21T20:03:14+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "published_at": "2026-07-21T19:57:38+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "US pauses $1 billion in Medicaid payments to California, Minnesota",
       "published_at": "2026-07-21T19:50:34+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "World News",
+      "published_at": "2026-07-21T19:35:37+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
       "published_at": "2026-07-21T19:10:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
-      "published_at": "2026-07-21T19:02:39+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
       "published_at": "2026-07-21T18:07:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
-      "published_at": "2026-07-21T18:05:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is that food really made with 100% avocado oil? Likely not",
-      "published_at": "2026-07-21T18:00:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PGA Tour and DP World Tour announce partnership with Asian Tour",
-      "published_at": "2026-07-21T17:45:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
-      "published_at": "2026-07-21T17:39:42+00:00"
     }
   ]
 }
