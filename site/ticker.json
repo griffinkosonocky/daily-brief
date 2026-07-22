@@ -1,24 +1,44 @@
 {
-  "updated_at": "2026-07-22T16:40:27+00:00",
+  "updated_at": "2026-07-22T18:18:59+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Mamdani walks back pledge to arrest Netanyahu citing lack of authority",
-      "published_at": "2026-07-22T16:29:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada hope for 'hero's welcome' at homecoming friendlies against Chile, Peru",
-      "published_at": "2026-07-22T16:20:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New US 25% tariff hits billions of dollars in Brazilian exports",
-      "published_at": "2026-07-22T16:01:48+00:00"
+      "source": "NPR",
+      "text": "What to know about Ukraine's military shakeup",
+      "published_at": "2026-07-22T18:01:18+00:00"
     },
     {
       "source": "BBC",
-      "text": "French police formally investigate woman over 2025 killing of Briton",
+      "text": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "published_at": "2026-07-22T17:54:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Panama weighs creation of state-owned miner to pave way for Cobre Panama re-opening",
+      "published_at": "2026-07-22T17:54:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A strange transmissible cancer is spreading through the catfish in this lake",
+      "published_at": "2026-07-22T17:33:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+      "published_at": "2026-07-22T17:11:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two Russians handed down jail terms for terrorism and spying in Angola",
+      "published_at": "2026-07-22T16:34:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Union urges investors to pressure BP to end US Midwest refinery lockout",
+      "published_at": "2026-07-22T16:18:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police formally investigate woman after Brit stabbed to death in French village",
       "published_at": "2026-07-22T15:59:03+00:00"
     },
     {
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Bolivia nears $2.5-$2.8 billion IMF financing deal, minister says",
-      "published_at": "2026-07-22T15:26:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "published_at": "2026-07-22T15:19:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Modelling scout linked to Epstein found dead in Paris",
-      "published_at": "2026-07-22T14:54:27+00:00"
+      "text": "Amazon cuts jobs in its artificial general intelligence group",
+      "published_at": "2026-07-22T15:30:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Saudi's Flynas firms up order for 25 additional Airbus jets",
-      "published_at": "2026-07-22T14:53:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "published_at": "2026-07-22T14:52:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US to announce deal allowing Saudi Arabia a nuclear programme",
-      "published_at": "2026-07-22T14:49:12+00:00"
+      "text": "Bolivia nears $2.5-$2.8 billion IMF financing deal, minister says",
+      "published_at": "2026-07-22T15:26:24+00:00"
     }
   ]
 }
