@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-07-22T06:39:35+00:00",
+  "updated_at": "2026-07-22T09:34:47+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Tropical Storm Bertha makes landfall but damage appears limited",
+      "published_at": "2026-07-22T09:15:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Peptides get their regulatory closeup",
+      "published_at": "2026-07-22T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump has campaigned more so far in 2026 midterms than he did at this point in 2018",
+      "published_at": "2026-07-22T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "States want to bring Medicaid behind bars. Federal changes make that harder",
+      "published_at": "2026-07-22T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "published_at": "2026-07-22T08:38:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "published_at": "2026-07-22T08:37:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
+      "published_at": "2026-07-22T08:33:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "published_at": "2026-07-22T08:02:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio says US still willing to negotiate over Iran crisis",
+      "published_at": "2026-07-22T07:01:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Japan temperatures soar over 40C, marking first 'cruelly hot day'",
+      "published_at": "2026-07-22T07:00:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen's CARIZON and Horizon Robotics deepen self-driving partnership in China",
+      "published_at": "2026-07-22T06:36:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
       "published_at": "2026-07-22T06:04:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's steel sector looks weaker than it is, reverse for iron ore",
-      "published_at": "2026-07-22T06:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -18,63 +68,13 @@
     },
     {
       "source": "BBC",
+      "text": "Tunnel collapse in India kills 12 workers",
+      "published_at": "2026-07-22T05:38:22+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Zelensky sacks Ukraine's top army commander after days of protests",
       "published_at": "2026-07-22T05:37:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "published_at": "2026-07-22T05:33:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Randstad beats quarterly organic growth view as labour markets improve",
-      "published_at": "2026-07-22T05:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meet the women breaking world records in lumberjack sports",
-      "published_at": "2026-07-22T05:06:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
-      "published_at": "2026-07-22T04:01:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France passes law banning under-15s from social media",
-      "published_at": "2026-07-22T03:50:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Chinese Innolight’s $7 bln IPO surfs US AI boom",
-      "published_at": "2026-07-22T03:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-      "published_at": "2026-07-22T03:32:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio says US still willing to negotiate over Iran crisis",
-      "published_at": "2026-07-22T03:21:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "published_at": "2026-07-22T03:05:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-      "published_at": "2026-07-22T02:33:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "House votes to extend government funding, aiming to avoid an election year shutdown",
-      "published_at": "2026-07-22T02:20:15+00:00"
     }
   ]
 }
