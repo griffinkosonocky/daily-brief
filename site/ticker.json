@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-07-22T12:12:41+00:00",
+  "updated_at": "2026-07-22T14:18:34+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+      "published_at": "2026-07-22T13:45:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's youth protests persist after clashes",
+      "published_at": "2026-07-22T13:38:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Philip Morris to lift Zyn investment, cigarette demand drives earnings beat",
+      "published_at": "2026-07-22T13:34:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BNP Paribas Italy in talks with unions over workers' protections in planned overhaul",
+      "published_at": "2026-07-22T13:25:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan's policy doom loop sends yen to 40-year low",
+      "published_at": "2026-07-22T13:02:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio meets Wang, discusses laying groundwork for Chinese president's US visit",
+      "published_at": "2026-07-22T12:52:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cameroon's ruling party meets as Biya's long absence draws criticism",
+      "published_at": "2026-07-22T12:43:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+      "published_at": "2026-07-22T12:40:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "published_at": "2026-07-22T12:32:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "A financial therapist on why Gen Z thinks differently about money",
+      "published_at": "2026-07-22T12:13:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "Modelling scout linked to Epstein found dead in Paris suburbs",
@@ -12,69 +62,19 @@
       "published_at": "2026-07-22T12:05:46+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Yen steadies near 40-year low on rate-hike bets, intervention talks",
+      "published_at": "2026-07-22T12:05:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "GE Vernova flags up to $200 million tariff hit after second-quarter profit miss",
+      "published_at": "2026-07-22T11:34:48+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
       "published_at": "2026-07-22T11:32:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why are thousands protesting for education reform in India?",
-      "published_at": "2026-07-22T11:30:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "published_at": "2026-07-22T11:24:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice",
-      "published_at": "2026-07-22T11:20:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio meets Wang, discusses laying groundwork for China President's US visit",
-      "published_at": "2026-07-22T11:02:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Burnham targets cheaper bus fares in cost-of-living drive",
-      "published_at": "2026-07-22T10:46:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-      "published_at": "2026-07-22T10:46:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Alphabetting",
-      "published_at": "2026-07-22T10:38:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says",
-      "published_at": "2026-07-22T10:31:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "published_at": "2026-07-22T10:15:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
-      "published_at": "2026-07-22T10:00:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Amnesty International calls for investigation into Pakistani strikes in Kabul",
-      "published_at": "2026-07-22T09:48:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada FM urges Middle East de-escalation, calls South China Sea confrontation 'troubling'",
-      "published_at": "2026-07-22T09:19:57+00:00"
     }
   ]
 }
