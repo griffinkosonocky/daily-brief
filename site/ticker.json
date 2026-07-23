@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-07-23T00:10:30+00:00",
+  "updated_at": "2026-07-23T04:26:53+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely intervenes as rupee nears record low, traders say",
+      "published_at": "2026-07-23T04:06:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "published_at": "2026-07-23T03:48:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top diplomats gather for security forum in Southeast Asia",
+      "published_at": "2026-07-23T02:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US-Iran tensions underpin dollar as yen nears 40-year low",
+      "published_at": "2026-07-23T00:50:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "US signs landmark nuclear deal with Saudi Arabia",
-      "published_at": "2026-07-23T00:05:12+00:00"
+      "published_at": "2026-07-23T00:21:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "published_at": "2026-07-23T00:15:12+00:00"
     },
     {
       "source": "Reuters",
@@ -23,13 +48,13 @@
     },
     {
       "source": "BBC",
-      "text": "Watch: What we know about the US-Saudi nuclear deal",
-      "published_at": "2026-07-22T22:45:08+00:00"
+      "text": "Google burning through cash with spiralling AI costs",
+      "published_at": "2026-07-22T23:02:32+00:00"
     },
     {
       "source": "BBC",
-      "text": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "published_at": "2026-07-22T22:17:54+00:00"
+      "text": "Watch: What we know about the US-Saudi nuclear deal",
+      "published_at": "2026-07-22T22:45:08+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
       "published_at": "2026-07-22T21:51:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Arsenal defender Saliba out for extended period, says club",
-      "published_at": "2026-07-22T21:37:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why a proposed US-Saudi nuclear deal worries some in Washington and the Middle East",
-      "published_at": "2026-07-22T21:27:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In South Dakota, public media endures a year after federal funding was wiped out",
-      "published_at": "2026-07-22T21:21:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration signs commercial nuclear deal with Saudi Arabia",
-      "published_at": "2026-07-22T21:17:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BNP Paribas Italy in talks with unions over workers' protections in planned overhaul",
-      "published_at": "2026-07-22T21:09:22+00:00"
     }
   ]
 }
