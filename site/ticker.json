@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-07-23T12:10:59+00:00",
+  "updated_at": "2026-07-23T12:46:38+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
+      "published_at": "2026-07-23T12:36:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France evacuates 20,000 as wildfires spread in south-west",
+      "published_at": "2026-07-23T12:17:13+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
       "published_at": "2026-07-23T11:39:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "published_at": "2026-07-23T11:39:11+00:00"
     },
     {
       "source": "NPR",
@@ -17,11 +32,6 @@
       "published_at": "2026-07-23T11:23:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "published_at": "2026-07-23T11:13:13+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Spanish minister enters race to lead UN labour agency, amid US funding concerns",
       "published_at": "2026-07-23T11:05:43+00:00"
@@ -32,11 +42,6 @@
       "published_at": "2026-07-23T10:55:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Thousands evacuated in France fires",
-      "published_at": "2026-07-23T10:53:43+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Morning Bid: Magnificent cash burn",
       "published_at": "2026-07-23T10:39:36+00:00"
@@ -44,17 +49,17 @@
     {
       "source": "Reuters",
       "text": "China's Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe",
-      "published_at": "2026-07-23T09:52:19+00:00"
+      "published_at": "2026-07-23T10:22:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "published_at": "2026-07-23T10:04:56+00:00"
     },
     {
       "source": "BBC",
       "text": "US signs landmark nuclear deal with Saudi Arabia",
       "published_at": "2026-07-23T09:17:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After deadly shootings, police experts question how well ICE officers are vetted",
-      "published_at": "2026-07-23T09:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -69,11 +74,6 @@
     {
       "source": "NPR",
       "text": "How predominantly Black areas in 6 states have been split up by redistricting",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "FDA panel considers easing peptide restrictions",
       "published_at": "2026-07-23T09:00:00+00:00"
     }
   ]
