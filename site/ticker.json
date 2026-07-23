@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-23T17:42:19+00:00",
+  "updated_at": "2026-07-23T19:40:47+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "France evacuates 20,000 as wildfires spread in south-west",
+      "published_at": "2026-07-23T19:17:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Airline group IATA taps World Economic Forum's Zahidi as new chief",
+      "published_at": "2026-07-23T18:37:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Google hit with $1 billion EU fine, in 'constructive' talks to avoid more penalties",
+      "published_at": "2026-07-23T18:06:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "published_at": "2026-07-23T17:58:02+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Wildfires spread rapidly in southeastern France",
       "published_at": "2026-07-23T17:40:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine's ousted defence minister insists on being reinstated",
+      "published_at": "2026-07-23T17:37:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "published_at": "2026-07-23T17:35:02+00:00"
     },
     {
       "source": "BBC",
@@ -27,14 +57,14 @@
       "published_at": "2026-07-23T17:06:08+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "published_at": "2026-07-23T16:50:59+00:00"
+      "source": "Reuters",
+      "text": "Freeport-McMoRan's Q2 profit beats expectations, helped by rising copper prices",
+      "published_at": "2026-07-23T16:51:25+00:00"
     },
     {
       "source": "BBC",
-      "text": "France evacuates 20,000 as wildfires spread in south-west",
-      "published_at": "2026-07-23T16:41:52+00:00"
+      "text": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "published_at": "2026-07-23T16:50:59+00:00"
     },
     {
       "source": "BBC",
@@ -43,38 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "published_at": "2026-07-23T16:17:44+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Ex-governor convicted of murdering a pregnant student in Kenya",
       "published_at": "2026-07-23T16:07:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nicaragua's legislature debates barring opposition from elections",
-      "published_at": "2026-07-23T15:54:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Landslide death toll rises to 11 in southwest China, 50 still missing",
-      "published_at": "2026-07-23T15:31:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil prices hit $100 for the first time since May",
-      "published_at": "2026-07-23T15:31:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "published_at": "2026-07-23T15:22:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kazakhstan slows oil output after drone strikes on export port",
-      "published_at": "2026-07-23T15:17:42+00:00"
     }
   ]
 }
