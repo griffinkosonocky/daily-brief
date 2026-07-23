@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-23T04:26:53+00:00",
+  "updated_at": "2026-07-23T07:42:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Airtel Africa dials up London for mobile money IPO",
+      "published_at": "2026-07-23T07:24:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Google burning through cash with spiralling AI costs",
+      "published_at": "2026-07-23T07:15:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Buyers to press Qatar, UAE for cheaper, more flexible LNG deals after Hormuz shock",
+      "published_at": "2026-07-23T07:05:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British Gas owner Centrica cutting 1,300 jobs; half-year profit falls 18%",
+      "published_at": "2026-07-23T06:54:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Channel Tunnel operator says EU software issues could delay biometric checks",
+      "published_at": "2026-07-23T06:41:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "published_at": "2026-07-23T06:15:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "America's 'mass affluence' is bigger than you think",
+      "published_at": "2026-07-23T06:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cutting off Red Sea oil route may be one crisis too many",
+      "published_at": "2026-07-23T06:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "published_at": "2026-07-23T05:46:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+      "published_at": "2026-07-23T05:23:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hyundai Motor reports 21% drop in Q2 profit, misses forecasts",
+      "published_at": "2026-07-23T05:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI will not trigger employment collapse, staffing company Adecco Group says",
+      "published_at": "2026-07-23T04:48:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Indian central bank likely intervenes as rupee nears record low, traders say",
@@ -15,66 +75,6 @@
       "source": "Reuters",
       "text": "Top diplomats gather for security forum in Southeast Asia",
       "published_at": "2026-07-23T02:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Iran tensions underpin dollar as yen nears 40-year low",
-      "published_at": "2026-07-23T00:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US signs landmark nuclear deal with Saudi Arabia",
-      "published_at": "2026-07-23T00:21:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "published_at": "2026-07-23T00:15:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US aims for interim trade deals with Canada, Mexico by year-end",
-      "published_at": "2026-07-22T23:26:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-      "published_at": "2026-07-22T23:22:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "published_at": "2026-07-22T23:06:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Google burning through cash with spiralling AI costs",
-      "published_at": "2026-07-22T23:02:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What we know about the US-Saudi nuclear deal",
-      "published_at": "2026-07-22T22:45:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
-      "published_at": "2026-07-22T22:13:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "published_at": "2026-07-22T22:04:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "published_at": "2026-07-22T22:03:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "published_at": "2026-07-22T21:51:19+00:00"
     }
   ]
 }
