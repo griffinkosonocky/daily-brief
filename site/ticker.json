@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-23T12:46:38+00:00",
+  "updated_at": "2026-07-23T15:20:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "published_at": "2026-07-23T15:05:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "published_at": "2026-07-23T14:56:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oil prices hit $100 for the first time since May",
+      "published_at": "2026-07-23T14:50:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "published_at": "2026-07-23T14:18:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Cellnex explores strategic options, Bloomberg News reports",
+      "published_at": "2026-07-23T14:14:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "published_at": "2026-07-23T14:12:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+      "published_at": "2026-07-23T13:44:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "U.S. targets Iranian side of Shalamcheh Iraq border crossing",
+      "published_at": "2026-07-23T13:40:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France evacuates 20,000 as wildfires spread in south-west",
+      "published_at": "2026-07-23T13:25:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "published_at": "2026-07-23T12:58:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "published_at": "2026-07-23T12:51:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Liquor store employee narrowly escapes leopard attack",
+      "published_at": "2026-07-23T12:49:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's securities regulator vows to prevent risks, fend off external shocks",
+      "published_at": "2026-07-23T12:49:45+00:00"
+    },
     {
       "source": "NPR",
       "text": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
       "published_at": "2026-07-23T12:36:29+00:00"
     },
     {
-      "source": "BBC",
-      "text": "France evacuates 20,000 as wildfires spread in south-west",
-      "published_at": "2026-07-23T12:17:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-      "published_at": "2026-07-23T11:39:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "published_at": "2026-07-23T11:39:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
-      "published_at": "2026-07-23T11:36:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why health officials do not have a good handle on the current Ebola outbreak",
-      "published_at": "2026-07-23T11:23:43+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Spanish minister enters race to lead UN labour agency, amid US funding concerns",
-      "published_at": "2026-07-23T11:05:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
-      "published_at": "2026-07-23T10:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Magnificent cash burn",
-      "published_at": "2026-07-23T10:39:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe",
-      "published_at": "2026-07-23T10:22:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South Korea woman acquitted of murdering newborn after hospital delivery",
-      "published_at": "2026-07-23T10:04:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US signs landmark nuclear deal with Saudi Arabia",
-      "published_at": "2026-07-23T09:17:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These Catholic sisters want to start a new order with a difficult mission: helping clergy abuse survivors",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How predominantly Black areas in 6 states have been split up by redistricting",
-      "published_at": "2026-07-23T09:00:00+00:00"
+      "text": "EXCLUSIVE: Amazon's Bezos pushes Prime Video redesign focused on AI",
+      "published_at": "2026-07-23T12:01:40+00:00"
     }
   ]
 }
