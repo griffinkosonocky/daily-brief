@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-23T07:42:41+00:00",
+  "updated_at": "2026-07-23T10:33:03+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "China's Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe",
+      "published_at": "2026-07-23T09:52:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US signs landmark nuclear deal with Saudi Arabia",
+      "published_at": "2026-07-23T09:17:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU envoys agree 21st sanctions package against Russia targeting banks",
+      "published_at": "2026-07-23T09:06:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "After deadly shootings, police experts question how well ICE officers are vetted",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "DOT cranks up its campaign to strip bike lane references from federal websites",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "These Catholic sisters want to start a new order with a difficult mission: helping clergy abuse survivors",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How predominantly Black areas in 6 states have been split up by redistricting",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "FDA panel considers easing peptide restrictions",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+      "published_at": "2026-07-23T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands evacuated in France fires",
+      "published_at": "2026-07-23T08:56:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-07-23T08:47:19+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Airtel Africa dials up London for mobile money IPO",
-      "published_at": "2026-07-23T07:24:09+00:00"
+      "published_at": "2026-07-23T07:40:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Google burning through cash with spiralling AI costs",
       "published_at": "2026-07-23T07:15:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Buyers to press Qatar, UAE for cheaper, more flexible LNG deals after Hormuz shock",
-      "published_at": "2026-07-23T07:05:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British Gas owner Centrica cutting 1,300 jobs; half-year profit falls 18%",
-      "published_at": "2026-07-23T06:54:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Channel Tunnel operator says EU software issues could delay biometric checks",
-      "published_at": "2026-07-23T06:41:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "published_at": "2026-07-23T06:15:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "America's 'mass affluence' is bigger than you think",
-      "published_at": "2026-07-23T06:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cutting off Red Sea oil route may be one crisis too many",
-      "published_at": "2026-07-23T06:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "published_at": "2026-07-23T05:46:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
-      "published_at": "2026-07-23T05:23:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hyundai Motor reports 21% drop in Q2 profit, misses forecasts",
-      "published_at": "2026-07-23T05:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI will not trigger employment collapse, staffing company Adecco Group says",
-      "published_at": "2026-07-23T04:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank likely intervenes as rupee nears record low, traders say",
-      "published_at": "2026-07-23T04:06:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "published_at": "2026-07-23T03:48:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Top diplomats gather for security forum in Southeast Asia",
-      "published_at": "2026-07-23T02:13:00+00:00"
     }
   ]
 }
