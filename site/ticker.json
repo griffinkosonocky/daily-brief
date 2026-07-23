@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-07-23T21:18:12+00:00",
+  "updated_at": "2026-07-23T23:08:24+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "TRADING DAY Burn, baby, burn",
-      "published_at": "2026-07-23T21:03:43+00:00"
+      "text": "Brazil says US tariffs related to forced labor are 'arbitrary' and 'unjustified'",
+      "published_at": "2026-07-23T22:52:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump administration to impose new global tariffs",
+      "published_at": "2026-07-23T22:25:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump to impose double-digit tariffs on dozens of countries",
+      "published_at": "2026-07-23T22:06:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Burn, baby, burn",
+      "published_at": "2026-07-23T21:52:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+      "published_at": "2026-07-23T21:46:04+00:00"
     },
     {
       "source": "BBC",
       "text": "India activist ends hunger strike after 26 days",
-      "published_at": "2026-07-23T20:59:54+00:00"
+      "published_at": "2026-07-23T21:27:04+00:00"
     },
     {
       "source": "BBC",
       "text": "Google and Tesla shares plunge as AI spending rattles markets",
       "published_at": "2026-07-23T20:42:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa's deputy finance minister resigns as chair of state asset manager",
+      "published_at": "2026-07-23T20:41:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
+      "published_at": "2026-07-23T20:37:47+00:00"
     },
     {
       "source": "NPR",
@@ -37,44 +67,14 @@
       "published_at": "2026-07-23T20:14:58+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "South Africa's deputy finance minister resigns as chair of state asset manager",
-      "published_at": "2026-07-23T20:11:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "France evacuates 20,000 as wildfires spread in south-west",
       "published_at": "2026-07-23T19:17:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Airline group IATA taps World Economic Forum's Zahidi as new chief",
-      "published_at": "2026-07-23T18:37:17+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Google hit with $1 billion EU fine, in 'constructive' talks to avoid more penalties",
       "published_at": "2026-07-23T18:06:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "published_at": "2026-07-23T17:58:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildfires spread rapidly in southeastern France",
-      "published_at": "2026-07-23T17:40:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine's ousted defence minister insists on being reinstated",
-      "published_at": "2026-07-23T17:37:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "published_at": "2026-07-23T17:35:02+00:00"
     }
   ]
 }
