@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-23T19:40:47+00:00",
+  "updated_at": "2026-07-23T21:18:12+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "TRADING DAY Burn, baby, burn",
+      "published_at": "2026-07-23T21:03:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India activist ends hunger strike after 26 days",
+      "published_at": "2026-07-23T20:59:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Google and Tesla shares plunge as AI spending rattles markets",
+      "published_at": "2026-07-23T20:42:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Egyptian warrior princesses, ancient avocados, and more science news",
+      "published_at": "2026-07-23T20:36:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
+      "published_at": "2026-07-23T20:33:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Invasive species cause more harm in the Global South",
+      "published_at": "2026-07-23T20:33:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
+      "published_at": "2026-07-23T20:14:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa's deputy finance minister resigns as chair of state asset manager",
+      "published_at": "2026-07-23T20:11:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "France evacuates 20,000 as wildfires spread in south-west",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "published_at": "2026-07-23T17:35:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Google and Tesla shares plunge as AI spending rattles markets",
-      "published_at": "2026-07-23T17:25:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU targets Russian banks in new sanctions package over Ukraine war",
-      "published_at": "2026-07-23T17:18:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Blackstone is addressing community concerns around AI, CEO says",
-      "published_at": "2026-07-23T17:17:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-      "published_at": "2026-07-23T17:06:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Freeport-McMoRan's Q2 profit beats expectations, helped by rising copper prices",
-      "published_at": "2026-07-23T16:51:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "published_at": "2026-07-23T16:50:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "published_at": "2026-07-23T16:26:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "published_at": "2026-07-23T16:07:24+00:00"
     }
   ]
 }
