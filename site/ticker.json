@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-23T10:33:03+00:00",
+  "updated_at": "2026-07-23T12:10:59+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "published_at": "2026-07-23T11:39:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
+      "published_at": "2026-07-23T11:36:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why health officials do not have a good handle on the current Ebola outbreak",
+      "published_at": "2026-07-23T11:23:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "published_at": "2026-07-23T11:13:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spanish minister enters race to lead UN labour agency, amid US funding concerns",
+      "published_at": "2026-07-23T11:05:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "published_at": "2026-07-23T10:55:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands evacuated in France fires",
+      "published_at": "2026-07-23T10:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Magnificent cash burn",
+      "published_at": "2026-07-23T10:39:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "China's Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe",
@@ -12,11 +52,6 @@
       "published_at": "2026-07-23T09:17:50+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EU envoys agree 21st sanctions package against Russia targeting banks",
-      "published_at": "2026-07-23T09:06:01+00:00"
-    },
-    {
       "source": "NPR",
       "text": "After deadly shootings, police experts question how well ICE officers are vetted",
       "published_at": "2026-07-23T09:00:00+00:00"
@@ -24,16 +59,6 @@
     {
       "source": "NPR",
       "text": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "DOT cranks up its campaign to strip bike lane references from federal websites",
       "published_at": "2026-07-23T09:00:00+00:00"
     },
     {
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "FDA panel considers easing peptide restrictions",
       "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
-      "published_at": "2026-07-23T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands evacuated in France fires",
-      "published_at": "2026-07-23T08:56:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-07-23T08:47:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airtel Africa dials up London for mobile money IPO",
-      "published_at": "2026-07-23T07:40:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Google burning through cash with spiralling AI costs",
-      "published_at": "2026-07-23T07:15:59+00:00"
     }
   ]
 }
