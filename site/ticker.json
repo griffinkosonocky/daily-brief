@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-24T21:17:04+00:00",
+  "updated_at": "2026-07-24T23:12:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "published_at": "2026-07-24T22:49:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump orders signs outside Smithsonian history museum to correct what he calls 'inaccurate information'",
+      "published_at": "2026-07-24T22:40:53+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "published_at": "2026-07-24T22:26:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Democrats approve new primary election calendar, putting South Carolina first",
+      "published_at": "2026-07-24T21:50:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "published_at": "2026-07-24T21:47:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
+      "published_at": "2026-07-24T21:45:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US to lift ban on Mexican cattle imports, WSJ reports",
+      "published_at": "2026-07-24T21:37:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "ICC member states vote to remove chief prosecutor Karim Khan",
+      "published_at": "2026-07-24T21:37:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen teeters towards renewed war in shadow of Iran conflict",
+      "published_at": "2026-07-24T21:15:54+00:00"
+    },
     {
       "source": "BBC",
       "text": "ICC top prosecutor removed over sexual misconduct allegations",
@@ -8,18 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says he trusts Russia and China's leaders not to enable Iran",
-      "published_at": "2026-07-24T20:37:56+00:00"
+      "text": "Trump says Venezuela is not ready for elections, but has made progress",
+      "published_at": "2026-07-24T20:30:23+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump vows to investigate EU over fining of US tech companies",
       "published_at": "2026-07-24T20:23:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump signs executive order related to Smithsonian Institution, White House says",
-      "published_at": "2026-07-24T20:05:38+00:00"
     },
     {
       "source": "NPR",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "US appeals court blocks part of Texas children's online safety law",
-      "published_at": "2026-07-24T19:49:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "published_at": "2026-07-24T18:51:17+00:00"
+      "text": "Trump vows tariffs on Canada over wildfire smoke",
+      "published_at": "2026-07-24T19:48:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "International Criminal Court members dismiss prosecutor Khan, sources say",
-      "published_at": "2026-07-24T18:49:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brilliant Pogacar climbs Alpe d'Huez in record time to win Tour stage 19",
-      "published_at": "2026-07-24T18:45:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T18:19:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "published_at": "2026-07-24T18:13:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say",
-      "published_at": "2026-07-24T17:59:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
-      "published_at": "2026-07-24T17:34:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US strikes Iran from south to north after Trump threats over Red Sea shipping",
-      "published_at": "2026-07-24T17:33:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US hits network of Iranian financier Zanjani with more sanctions",
-      "published_at": "2026-07-24T17:27:33+00:00"
+      "text": "Sinner, Djokovic withdraw from US Open tune-up in Montreal",
+      "published_at": "2026-07-24T19:29:43+00:00"
     }
   ]
 }
