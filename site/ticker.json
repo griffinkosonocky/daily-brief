@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-23T23:08:24+00:00",
+  "updated_at": "2026-07-24T03:36:59+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "published_at": "2026-07-24T02:10:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "published_at": "2026-07-24T01:59:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "CJP protest: The youth movement India's Modi didn't see coming",
+      "published_at": "2026-07-23T23:41:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "published_at": "2026-07-23T23:19:58+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Brazil says US tariffs related to forced labor are 'arbitrary' and 'unjustified'",
@@ -8,8 +28,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump administration to impose new global tariffs",
-      "published_at": "2026-07-23T22:25:16+00:00"
+      "text": "US warns against excessive yen volatility, calls for BOJ rate hikes",
+      "published_at": "2026-07-23T22:46:47+00:00"
     },
     {
       "source": "NPR",
@@ -17,19 +37,24 @@
       "published_at": "2026-07-23T22:06:50+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Could you run a country on just three hours of sleep? Japan's PM says she does",
+      "published_at": "2026-07-23T22:03:09+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Trading Day: Burn, baby, burn",
       "published_at": "2026-07-23T21:52:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-      "published_at": "2026-07-23T21:46:04+00:00"
-    },
-    {
       "source": "BBC",
       "text": "India activist ends hunger strike after 26 days",
       "published_at": "2026-07-23T21:27:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wildfires spread rapidly in southeastern France",
+      "published_at": "2026-07-23T21:17:47+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Egyptian warrior princesses, ancient avocados, and more science news",
       "published_at": "2026-07-23T20:36:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
-      "published_at": "2026-07-23T20:33:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Invasive species cause more harm in the Global South",
-      "published_at": "2026-07-23T20:33:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
-      "published_at": "2026-07-23T20:14:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France evacuates 20,000 as wildfires spread in south-west",
-      "published_at": "2026-07-23T19:17:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Google hit with $1 billion EU fine, in 'constructive' talks to avoid more penalties",
-      "published_at": "2026-07-23T18:06:30+00:00"
     }
   ]
 }
