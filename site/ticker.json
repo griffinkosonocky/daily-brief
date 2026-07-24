@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-24T17:46:50+00:00",
+  "updated_at": "2026-07-24T19:43:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump signs executive order related to Smithsonian Institution, White House says",
+      "published_at": "2026-07-24T19:35:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian embassy says",
+      "published_at": "2026-07-24T19:30:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sinner, Djokovic withdraw from US Open tune-up in Montreal",
+      "published_at": "2026-07-24T19:29:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump vows to investigate EU over fining of US tech companies",
+      "published_at": "2026-07-24T18:57:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "published_at": "2026-07-24T18:51:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "International Criminal Court members dismiss prosecutor Khan, sources say",
+      "published_at": "2026-07-24T18:49:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "published_at": "2026-07-24T18:19:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ICC dismisses Karim Khan, the barrister at the centre of its internal crisis",
+      "published_at": "2026-07-24T18:15:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "published_at": "2026-07-24T18:13:02+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
@@ -8,13 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Canadian government urged to block Thomson Reuters data deal with US ICE - The Guardian",
-      "published_at": "2026-07-24T16:49:00+00:00"
+      "text": "Magnitude 5.8 earthquake strikes North Island of New Zealand region, EMSC says",
+      "published_at": "2026-07-24T17:19:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T16:37:17+00:00"
+      "source": "Reuters",
+      "text": "China places former deputy chief of securities regulator under investigation",
+      "published_at": "2026-07-24T16:58:25+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "World chess chief faces endgame after EU announces Russia war sanctions",
       "published_at": "2026-07-24T16:08:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
-      "published_at": "2026-07-24T15:50:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria's president approves largest military expansion in recent times",
-      "published_at": "2026-07-24T15:22:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "published_at": "2026-07-24T15:22:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Wildfires rage across Spain and France",
-      "published_at": "2026-07-24T15:13:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Merck licenses experimental HIV pill to generic makers in 129 countries",
-      "published_at": "2026-07-24T15:08:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A former nun explains why she ran away from her 'Cloistered' life",
-      "published_at": "2026-07-24T13:48:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "published_at": "2026-07-24T13:33:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China places former deputy chief of securities regulator under investigation",
-      "published_at": "2026-07-24T13:32:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
-      "published_at": "2026-07-24T13:14:08+00:00"
     }
   ]
 }
