@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-24T15:42:17+00:00",
+  "updated_at": "2026-07-24T17:46:50+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
+      "published_at": "2026-07-24T17:34:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canadian government urged to block Thomson Reuters data deal with US ICE - The Guardian",
+      "published_at": "2026-07-24T16:49:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T15:36:18+00:00"
+      "published_at": "2026-07-24T16:37:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "JPMorgan warns 'super' El Niño and oil shock could prop up global inflation",
+      "published_at": "2026-07-24T16:18:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "published_at": "2026-07-24T16:12:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "published_at": "2026-07-24T16:08:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
+      "published_at": "2026-07-24T15:50:35+00:00"
     },
     {
       "source": "BBC",
@@ -17,24 +47,14 @@
       "published_at": "2026-07-24T15:22:40+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say",
-      "published_at": "2026-07-24T15:16:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JPMorgan warns 'super' El Niño and oil shock could prop up global inflation",
-      "published_at": "2026-07-24T15:15:45+00:00"
+      "source": "BBC",
+      "text": "Watch: Wildfires rage across Spain and France",
+      "published_at": "2026-07-24T15:13:46+00:00"
     },
     {
       "source": "Reuters",
       "text": "Merck licenses experimental HIV pill to generic makers in 129 countries",
       "published_at": "2026-07-24T15:08:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "published_at": "2026-07-24T14:59:24+00:00"
     },
     {
       "source": "NPR",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
-      "published_at": "2026-07-24T13:14:48+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
       "published_at": "2026-07-24T13:14:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-      "published_at": "2026-07-24T12:55:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US hits dozens of countries with new wave of tariffs",
-      "published_at": "2026-07-24T12:40:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "published_at": "2026-07-24T11:53:49+00:00"
     }
   ]
 }
