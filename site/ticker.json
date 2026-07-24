@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-24T12:01:51+00:00",
+  "updated_at": "2026-07-24T14:06:19+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "A former nun explains why she ran away from her 'Cloistered' life",
+      "published_at": "2026-07-24T13:48:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "published_at": "2026-07-24T13:33:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China places former deputy chief of securities regulator under investigation",
+      "published_at": "2026-07-24T13:32:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tens of thousands flee fires in France, blazes merge outside Madrid",
+      "published_at": "2026-07-24T13:31:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "published_at": "2026-07-24T13:21:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
+      "published_at": "2026-07-24T13:14:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "published_at": "2026-07-24T12:55:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US hits dozens of countries with new wave of tariffs",
+      "published_at": "2026-07-24T12:40:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
+      "published_at": "2026-07-24T11:56:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
@@ -18,63 +63,18 @@
     },
     {
       "source": "NPR",
-      "text": "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
+      "text": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
       "published_at": "2026-07-24T11:30:08+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
-      "published_at": "2026-07-24T11:09:30+00:00"
+      "text": "Global equity funds attract ninth weekly inflow amid upbeat earnings expectations",
+      "published_at": "2026-07-24T11:29:36+00:00"
     },
     {
       "source": "BBC",
       "text": "India's 'cockroach' protesters hold talks with government as stalemate continues",
       "published_at": "2026-07-24T10:31:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "published_at": "2026-07-24T10:31:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Are Trump's tariffs delivering on his objectives?",
-      "published_at": "2026-07-24T10:21:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup boom, Middle East gloom could split earnings for US travel firms",
-      "published_at": "2026-07-24T10:02:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "published_at": "2026-07-24T09:20:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
-      "published_at": "2026-07-24T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-      "published_at": "2026-07-24T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
-      "published_at": "2026-07-24T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "West Virginia paid digital nomads to move there during COVID. Many are staying",
-      "published_at": "2026-07-24T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump refuses to give up on tariffs — a pillar of his economic legacy",
-      "published_at": "2026-07-24T09:00:00+00:00"
     }
   ]
 }
