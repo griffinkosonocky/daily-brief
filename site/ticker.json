@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-07-24T19:43:07+00:00",
+  "updated_at": "2026-07-24T21:17:04+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Trump signs executive order related to Smithsonian Institution, White House says",
-      "published_at": "2026-07-24T19:35:19+00:00"
+      "source": "BBC",
+      "text": "ICC top prosecutor removed over sexual misconduct allegations",
+      "published_at": "2026-07-24T21:02:30+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian embassy says",
-      "published_at": "2026-07-24T19:30:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sinner, Djokovic withdraw from US Open tune-up in Montreal",
-      "published_at": "2026-07-24T19:29:43+00:00"
+      "text": "Trump says he trusts Russia and China's leaders not to enable Iran",
+      "published_at": "2026-07-24T20:37:56+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump vows to investigate EU over fining of US tech companies",
-      "published_at": "2026-07-24T18:57:39+00:00"
+      "published_at": "2026-07-24T20:23:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump signs executive order related to Smithsonian Institution, White House says",
+      "published_at": "2026-07-24T20:05:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
+      "published_at": "2026-07-24T20:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US appeals court blocks part of Texas children's online safety law",
+      "published_at": "2026-07-24T19:49:11+00:00"
     },
     {
       "source": "BBC",
@@ -32,14 +42,14 @@
       "published_at": "2026-07-24T18:49:45+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Brilliant Pogacar climbs Alpe d'Huez in record time to win Tour stage 19",
+      "published_at": "2026-07-24T18:45:44+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Four Palestinians and two Israelis killed in West Bank shooting",
       "published_at": "2026-07-24T18:19:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ICC dismisses Karim Khan, the barrister at the centre of its internal crisis",
-      "published_at": "2026-07-24T18:15:43+00:00"
     },
     {
       "source": "BBC",
@@ -48,33 +58,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say",
+      "published_at": "2026-07-24T17:59:38+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
       "published_at": "2026-07-24T17:34:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Magnitude 5.8 earthquake strikes North Island of New Zealand region, EMSC says",
-      "published_at": "2026-07-24T17:19:00+00:00"
+      "text": "US strikes Iran from south to north after Trump threats over Red Sea shipping",
+      "published_at": "2026-07-24T17:33:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China places former deputy chief of securities regulator under investigation",
-      "published_at": "2026-07-24T16:58:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JPMorgan warns 'super' El Niño and oil shock could prop up global inflation",
-      "published_at": "2026-07-24T16:18:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "published_at": "2026-07-24T16:12:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "published_at": "2026-07-24T16:08:51+00:00"
+      "text": "US hits network of Iranian financier Zanjani with more sanctions",
+      "published_at": "2026-07-24T17:27:33+00:00"
     }
   ]
 }
