@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-24T14:06:19+00:00",
+  "updated_at": "2026-07-24T15:42:17+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "published_at": "2026-07-24T15:36:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigeria's president approves largest military expansion in recent times",
+      "published_at": "2026-07-24T15:22:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "published_at": "2026-07-24T15:22:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say",
+      "published_at": "2026-07-24T15:16:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "JPMorgan warns 'super' El Niño and oil shock could prop up global inflation",
+      "published_at": "2026-07-24T15:15:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Merck licenses experimental HIV pill to generic makers in 129 countries",
+      "published_at": "2026-07-24T15:08:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "published_at": "2026-07-24T14:59:24+00:00"
+    },
     {
       "source": "NPR",
       "text": "A former nun explains why she ran away from her 'Cloistered' life",
@@ -18,18 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Tens of thousands flee fires in France, blazes merge outside Madrid",
-      "published_at": "2026-07-24T13:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T13:21:15+00:00"
+      "text": "EXCLUSIVE Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
+      "published_at": "2026-07-24T13:14:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE Defense tech company Anduril in talks to raise funding at about $100 billion valuation",
-      "published_at": "2026-07-24T13:14:48+00:00"
+      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
+      "published_at": "2026-07-24T13:14:08+00:00"
     },
     {
       "source": "BBC",
@@ -42,39 +72,9 @@
       "published_at": "2026-07-24T12:40:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
-      "published_at": "2026-07-24T11:56:02+00:00"
-    },
-    {
       "source": "BBC",
       "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
       "published_at": "2026-07-24T11:53:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "published_at": "2026-07-24T11:50:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "published_at": "2026-07-24T11:37:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
-      "published_at": "2026-07-24T11:30:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global equity funds attract ninth weekly inflow amid upbeat earnings expectations",
-      "published_at": "2026-07-24T11:29:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-      "published_at": "2026-07-24T10:31:10+00:00"
     }
   ]
 }
