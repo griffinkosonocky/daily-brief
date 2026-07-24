@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-07-24T03:36:59+00:00",
+  "updated_at": "2026-07-24T06:36:27+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-      "published_at": "2026-07-24T02:10:00+00:00"
+      "text": "US hits dozens of trading partners with new wave of tariffs",
+      "published_at": "2026-07-24T06:35:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "published_at": "2026-07-24T06:30:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
+      "published_at": "2026-07-24T05:56:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Families still search for bodies a month after Venezuela earthquakes",
+      "published_at": "2026-07-24T05:47:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "published_at": "2026-07-24T05:45:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China’s memory chip makers ride AI boom to new power — and U.S. scrutiny",
+      "published_at": "2026-07-24T05:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US weapons makers confront Europe's drive for local control",
+      "published_at": "2026-07-24T05:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US prosecutors drop NYT subpoenas in Trump plane leak probe",
+      "published_at": "2026-07-24T04:39:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump vows to punish Iran and Houthis for attacks in Red Sea",
+      "published_at": "2026-07-24T04:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India youth protest leaders to hold talks with government but protests will continue",
+      "published_at": "2026-07-24T03:32:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
+      "published_at": "2026-07-24T03:31:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely steps in to avert rupee record low as oil surges, traders say",
+      "published_at": "2026-07-24T03:31:00+00:00"
     },
     {
       "source": "BBC",
@@ -17,64 +72,9 @@
       "published_at": "2026-07-23T23:41:32+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "published_at": "2026-07-23T23:19:58+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Brazil says US tariffs related to forced labor are 'arbitrary' and 'unjustified'",
-      "published_at": "2026-07-23T22:52:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US warns against excessive yen volatility, calls for BOJ rate hikes",
-      "published_at": "2026-07-23T22:46:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump to impose double-digit tariffs on dozens of countries",
-      "published_at": "2026-07-23T22:06:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Could you run a country on just three hours of sleep? Japan's PM says she does",
-      "published_at": "2026-07-23T22:03:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Burn, baby, burn",
-      "published_at": "2026-07-23T21:52:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India activist ends hunger strike after 26 days",
-      "published_at": "2026-07-23T21:27:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildfires spread rapidly in southeastern France",
-      "published_at": "2026-07-23T21:17:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Google and Tesla shares plunge as AI spending rattles markets",
-      "published_at": "2026-07-23T20:42:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa's deputy finance minister resigns as chair of state asset manager",
-      "published_at": "2026-07-23T20:41:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
-      "published_at": "2026-07-23T20:37:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Egyptian warrior princesses, ancient avocados, and more science news",
-      "published_at": "2026-07-23T20:36:23+00:00"
+      "text": "UN rights chief Volker Turk faces opposition in vote on new term",
+      "published_at": "2026-07-23T23:30:41+00:00"
     }
   ]
 }
