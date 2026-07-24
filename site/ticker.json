@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-24T11:52:33+00:00",
+  "updated_at": "2026-07-24T12:01:51+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "published_at": "2026-07-24T11:53:49+00:00"
+    },
     {
       "source": "BBC",
       "text": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
@@ -20,11 +25,6 @@
       "source": "Reuters",
       "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
       "published_at": "2026-07-24T11:09:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "published_at": "2026-07-24T10:34:04+00:00"
     },
     {
       "source": "BBC",
