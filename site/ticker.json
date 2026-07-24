@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-07-24T09:28:43+00:00",
+  "updated_at": "2026-07-24T11:52:33+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-      "published_at": "2026-07-24T09:22:11+00:00"
+      "text": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "published_at": "2026-07-24T11:50:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "published_at": "2026-07-24T11:37:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
+      "published_at": "2026-07-24T11:30:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
+      "published_at": "2026-07-24T11:09:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "published_at": "2026-07-24T10:34:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+      "published_at": "2026-07-24T10:31:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "US allies hit with new tariffs object to Trump's forced labor claims",
+      "published_at": "2026-07-24T10:31:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "published_at": "2026-07-24T10:21:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Cup boom, Middle East gloom could split earnings for US travel firms",
+      "published_at": "2026-07-24T10:02:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "published_at": "2026-07-24T09:20:07+00:00"
     },
     {
       "source": "NPR",
@@ -13,12 +58,12 @@
     },
     {
       "source": "NPR",
-      "text": "Trump refuses to give up on tariffs - a pillar of his economic legacy",
+      "text": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
       "published_at": "2026-07-24T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
+      "text": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
       "published_at": "2026-07-24T09:00:00+00:00"
     },
     {
@@ -28,53 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
+      "text": "Trump refuses to give up on tariffs — a pillar of his economic legacy",
       "published_at": "2026-07-24T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US hits dozens of countries with new wave of tariffs",
-      "published_at": "2026-07-24T08:59:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-07-24T08:45:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "published_at": "2026-07-24T08:30:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why have thousands taken to the streets? India's 'cockroach' protest explained",
-      "published_at": "2026-07-24T08:28:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reaction to US imposing new tariffs on 60 trading partners",
-      "published_at": "2026-07-24T06:54:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
-      "published_at": "2026-07-24T06:30:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Reckitt to sell Russia hygiene business, expects $233 million hit",
-      "published_at": "2026-07-24T06:10:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ASIA GOLD India gold discounts hit seven-week high as demand weakens; China buying improves",
-      "published_at": "2026-07-24T06:09:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "International Criminal Court members to vote on dismissing prosecutor Khan",
-      "published_at": "2026-07-24T06:06:00+00:00"
     }
   ]
 }
