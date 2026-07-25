@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-25T15:15:58+00:00",
+  "updated_at": "2026-07-25T17:11:42+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Modi's education minister quits as jubilant Indian youth protesters claim victory, end protest",
+      "published_at": "2026-07-25T16:43:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 250,000 flee wildfires in France and Spain",
+      "published_at": "2026-07-25T16:43:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norris denies Hamilton record Hungary pole with last lap effort",
+      "published_at": "2026-07-25T15:48:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Instagram Gen Z dents Modi's aura ahead of key state polls",
+      "published_at": "2026-07-25T15:07:44+00:00"
+    },
     {
       "source": "NPR",
       "text": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
@@ -17,19 +37,9 @@
       "published_at": "2026-07-25T13:44:01+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "This wave of Trump tariffs is likely here to stay; more are coming",
-      "published_at": "2026-07-25T13:32:11+00:00"
-    },
-    {
       "source": "BBC",
       "text": "CJP protest: The youth movement India's Modi didn't see coming",
       "published_at": "2026-07-25T13:26:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India to keep engaging with US on trade deal after new tariff measures",
-      "published_at": "2026-07-25T13:04:58+00:00"
     },
     {
       "source": "NPR",
@@ -37,14 +47,14 @@
       "published_at": "2026-07-25T12:05:34+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "‘We've done it’: India protesters rejoice as education minister resigns",
+      "published_at": "2026-07-25T12:01:44+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Opinion: New Jersey pizza, the fuel of world champions",
       "published_at": "2026-07-25T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'The fear killed her': How an exam scandal in India sparked a student uprising",
-      "published_at": "2026-07-25T11:59:36+00:00"
     },
     {
       "source": "NPR",
@@ -57,11 +67,6 @@
       "published_at": "2026-07-25T11:51:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Palestinians hope UNESCO designation halts Israeli push at West Bank site",
-      "published_at": "2026-07-25T10:57:44+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "published_at": "2026-07-25T10:14:41+00:00"
@@ -69,11 +74,6 @@
     {
       "source": "NPR",
       "text": "Trump is hellbent on tariffs. Here are 5 implications",
-      "published_at": "2026-07-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
       "published_at": "2026-07-25T09:00:00+00:00"
     }
   ]
