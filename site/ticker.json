@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-25T19:23:30+00:00",
+  "updated_at": "2026-07-25T21:06:04+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say",
+      "published_at": "2026-07-25T20:21:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Biden ghostwriter tapes to be released",
+      "published_at": "2026-07-25T19:36:18+00:00"
+    },
     {
       "source": "BBC",
       "text": "India's 'cockroach' protest called off after education minister quits",
@@ -20,6 +30,11 @@
       "source": "NPR",
       "text": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
       "published_at": "2026-07-25T14:48:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "published_at": "2026-07-25T14:12:05+00:00"
     },
     {
       "source": "BBC",
@@ -42,14 +57,14 @@
       "published_at": "2026-07-25T12:05:34+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+      "published_at": "2026-07-25T12:01:44+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Opinion: New Jersey pizza, the fuel of world champions",
       "published_at": "2026-07-25T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'The fear killed her': How an exam scandal in India sparked a student uprising",
-      "published_at": "2026-07-25T11:59:36+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?",
       "published_at": "2026-07-25T11:51:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "High winds could make fighting Spanish wildfires harder, officials say",
-      "published_at": "2026-07-25T10:49:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "published_at": "2026-07-25T10:14:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump is hellbent on tariffs. Here are 5 implications",
-      "published_at": "2026-07-25T09:00:00+00:00"
     }
   ]
 }
