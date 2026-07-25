@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-25T03:33:01+00:00",
+  "updated_at": "2026-07-25T06:26:35+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "published_at": "2026-07-25T05:12:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump returns to correspondents' dinner 3 months after shooting",
+      "published_at": "2026-07-25T05:04:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "published_at": "2026-07-25T04:48:40+00:00"
+    },
     {
       "source": "BBC",
       "text": "More than 220,000 evacuated in France and Spain due to wildfires",
@@ -42,11 +57,6 @@
       "published_at": "2026-07-24T22:49:59+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump orders signs outside Smithsonian history museum to correct what he calls 'inaccurate information'",
-      "published_at": "2026-07-24T22:40:53+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Paramount says it will pause its Warner acquisition while legal challenges play out",
       "published_at": "2026-07-24T22:26:21+00:00"
@@ -57,19 +67,9 @@
       "published_at": "2026-07-24T21:50:41+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
-      "published_at": "2026-07-24T21:45:29+00:00"
-    },
-    {
       "source": "NPR",
       "text": "ICC member states vote to remove chief prosecutor Karim Khan",
       "published_at": "2026-07-24T21:37:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says it will lift ban on imports of Mexican cattle",
-      "published_at": "2026-07-24T21:14:00+00:00"
     },
     {
       "source": "BBC",
