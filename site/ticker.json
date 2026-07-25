@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-24T23:12:40+00:00",
+  "updated_at": "2026-07-25T03:33:01+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "published_at": "2026-07-25T02:29:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "published_at": "2026-07-25T02:23:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "published_at": "2026-07-25T02:14:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "published_at": "2026-07-25T00:06:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "published_at": "2026-07-24T23:11:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "published_at": "2026-07-24T23:01:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "published_at": "2026-07-24T23:01:06+00:00"
+    },
     {
       "source": "BBC",
       "text": "Four Palestinians and two Israelis killed in West Bank shooting",
@@ -22,19 +57,9 @@
       "published_at": "2026-07-24T21:50:41+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "published_at": "2026-07-24T21:47:16+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
       "published_at": "2026-07-24T21:45:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to lift ban on Mexican cattle imports, WSJ reports",
-      "published_at": "2026-07-24T21:37:49+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Yemen teeters towards renewed war in shadow of Iran conflict",
-      "published_at": "2026-07-24T21:15:54+00:00"
+      "text": "US says it will lift ban on imports of Mexican cattle",
+      "published_at": "2026-07-24T21:14:00+00:00"
     },
     {
       "source": "BBC",
       "text": "ICC top prosecutor removed over sexual misconduct allegations",
       "published_at": "2026-07-24T21:02:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Venezuela is not ready for elections, but has made progress",
-      "published_at": "2026-07-24T20:30:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump vows to investigate EU over fining of US tech companies",
-      "published_at": "2026-07-24T20:23:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
-      "published_at": "2026-07-24T20:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump vows tariffs on Canada over wildfire smoke",
-      "published_at": "2026-07-24T19:48:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sinner, Djokovic withdraw from US Open tune-up in Montreal",
-      "published_at": "2026-07-24T19:29:43+00:00"
     }
   ]
 }
