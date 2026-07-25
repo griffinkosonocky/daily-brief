@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T11:22:47+00:00",
+  "updated_at": "2026-07-25T11:42:04+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -37,11 +37,6 @@
       "published_at": "2026-07-25T05:04:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "England gymnast Langton conscious after heavy fall at Commonwealth Games",
-      "published_at": "2026-07-25T04:04:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
       "published_at": "2026-07-25T02:23:09+00:00"
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "UN assembly approves mandate extension for rights chief, despite US warning",
       "published_at": "2026-07-24T22:40:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump orders signs outside Smithsonian history museum to correct what he calls 'inaccurate information'",
+      "published_at": "2026-07-24T22:40:53+00:00"
     }
   ]
 }
