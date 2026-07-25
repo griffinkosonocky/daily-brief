@@ -1,14 +1,19 @@
 {
-  "updated_at": "2026-07-25T09:08:22+00:00",
+  "updated_at": "2026-07-25T11:22:47+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
-      "published_at": "2026-07-25T09:00:00+00:00"
+      "source": "BBC",
+      "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "published_at": "2026-07-25T10:14:41+00:00"
     },
     {
       "source": "NPR",
       "text": "Trump is hellbent on tariffs. Here are 5 implications",
+      "published_at": "2026-07-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
       "published_at": "2026-07-25T09:00:00+00:00"
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "source": "Reuters",
-      "text": "India's Modi under pressure as youth protest leaders set for more talks",
+      "text": "Modi's education minister resigns in major win for Indian youth protesters",
       "published_at": "2026-07-25T06:14:00+00:00"
     },
     {
@@ -35,11 +40,6 @@
       "source": "Reuters",
       "text": "England gymnast Langton conscious after heavy fall at Commonwealth Games",
       "published_at": "2026-07-25T04:04:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "published_at": "2026-07-25T02:29:36+00:00"
     },
     {
       "source": "BBC",
@@ -58,11 +58,6 @@
     },
     {
       "source": "BBC",
-      "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "published_at": "2026-07-24T23:11:13+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "The pop band who went from playing for rescue dogs to selling out arenas",
       "published_at": "2026-07-24T23:01:10+00:00"
     },
@@ -75,6 +70,11 @@
       "source": "BBC",
       "text": "Four Palestinians and two Israelis killed in West Bank shooting",
       "published_at": "2026-07-24T22:49:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN assembly approves mandate extension for rights chief, despite US warning",
+      "published_at": "2026-07-24T22:40:56+00:00"
     }
   ]
 }
