@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-25T11:42:04+00:00",
+  "updated_at": "2026-07-25T13:57:18+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "published_at": "2026-07-25T13:51:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Protesters celebrate resignation of India's education minister",
+      "published_at": "2026-07-25T13:44:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "CJP protest: The youth movement India's Modi didn't see coming",
+      "published_at": "2026-07-25T13:26:04+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "published_at": "2026-07-25T12:05:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: New Jersey pizza, the fuel of world champions",
+      "published_at": "2026-07-25T12:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Sextortion: That's the threat for women who are simply trying to buy clean water",
+      "published_at": "2026-07-25T11:59:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why these cancer patients face a lonely fight",
+      "published_at": "2026-07-25T11:51:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
@@ -18,17 +53,12 @@
     },
     {
       "source": "BBC",
-      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "published_at": "2026-07-25T06:41:42+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "published_at": "2026-07-25T06:34:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Modi's education minister resigns in major win for Indian youth protesters",
+      "text": "Modi's education minister quits as jubilant Indian youth protesters claim victory",
       "published_at": "2026-07-25T06:14:00+00:00"
     },
     {
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
       "published_at": "2026-07-25T02:14:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "published_at": "2026-07-25T00:06:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "published_at": "2026-07-24T23:01:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "published_at": "2026-07-24T23:01:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "published_at": "2026-07-24T22:49:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN assembly approves mandate extension for rights chief, despite US warning",
-      "published_at": "2026-07-24T22:40:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump orders signs outside Smithsonian history museum to correct what he calls 'inaccurate information'",
-      "published_at": "2026-07-24T22:40:53+00:00"
     }
   ]
 }
