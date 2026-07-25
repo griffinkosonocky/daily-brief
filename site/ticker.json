@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-25T13:57:18+00:00",
+  "updated_at": "2026-07-25T15:15:58+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+      "published_at": "2026-07-25T14:48:22+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -12,9 +17,19 @@
       "published_at": "2026-07-25T13:44:01+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "This wave of Trump tariffs is likely here to stay; more are coming",
+      "published_at": "2026-07-25T13:32:11+00:00"
+    },
+    {
       "source": "BBC",
       "text": "CJP protest: The youth movement India's Modi didn't see coming",
       "published_at": "2026-07-25T13:26:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India to keep engaging with US on trade deal after new tariff measures",
+      "published_at": "2026-07-25T13:04:58+00:00"
     },
     {
       "source": "NPR",
@@ -27,14 +42,24 @@
       "published_at": "2026-07-25T12:00:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "'The fear killed her': How an exam scandal in India sparked a student uprising",
+      "published_at": "2026-07-25T11:59:36+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Sextortion: That's the threat for women who are simply trying to buy clean water",
+      "text": "Some women who can't afford water are often pressured to provide sex for it",
       "published_at": "2026-07-25T11:59:19+00:00"
     },
     {
       "source": "NPR",
-      "text": "Why these cancer patients face a lonely fight",
+      "text": "Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?",
       "published_at": "2026-07-25T11:51:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Palestinians hope UNESCO designation halts Israeli push at West Bank site",
+      "published_at": "2026-07-25T10:57:44+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
       "published_at": "2026-07-25T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "published_at": "2026-07-25T06:34:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Modi's education minister quits as jubilant Indian youth protesters claim victory",
-      "published_at": "2026-07-25T06:14:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump returns to correspondents' dinner 3 months after shooting",
-      "published_at": "2026-07-25T05:04:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "published_at": "2026-07-25T02:23:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "published_at": "2026-07-25T02:14:50+00:00"
     }
   ]
 }
