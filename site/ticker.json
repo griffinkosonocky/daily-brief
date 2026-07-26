@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T11:44:12+00:00",
+  "updated_at": "2026-07-26T12:12:05+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -20,11 +20,6 @@
       "source": "BBC",
       "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "published_at": "2026-07-26T10:26:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany pledges justice over Berlin Pride attack as police hunt suspect",
-      "published_at": "2026-07-26T10:24:51+00:00"
     },
     {
       "source": "Reuters",
@@ -53,12 +48,12 @@
     },
     {
       "source": "NPR",
-      "text": "Meet the robots programmed by kids to speak their Indigenous languages",
+      "text": "ADHD looks different in women and poses unique health risks",
       "published_at": "2026-07-26T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "ADHD looks different in women and poses unique health risks",
+      "text": "Meet the robots programmed by kids to speak their Indigenous languages",
       "published_at": "2026-07-26T09:00:00+00:00"
     },
     {
@@ -75,6 +70,11 @@
       "source": "BBC",
       "text": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
       "published_at": "2026-07-26T03:58:51+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "published_at": "2026-07-26T01:10:56+00:00"
     }
   ]
 }
