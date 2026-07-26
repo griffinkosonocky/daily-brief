@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-26T18:09:41+00:00",
+  "updated_at": "2026-07-26T20:16:04+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Wildfires threaten Bordeaux as France and Spain battle blazes",
+      "published_at": "2026-07-26T19:37:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Berlin Pride attack suspect shot and killed during police operation",
+      "published_at": "2026-07-26T19:21:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
+      "published_at": "2026-07-26T18:48:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "published_at": "2026-07-26T18:40:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "published_at": "2026-07-26T18:13:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "What we know so far about the Berlin Pride ramming attack",
@@ -12,11 +37,6 @@
       "published_at": "2026-07-26T17:34:48+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
-      "published_at": "2026-07-26T17:16:50+00:00"
-    },
-    {
       "source": "NPR",
       "text": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
       "published_at": "2026-07-26T17:16:06+00:00"
@@ -25,16 +45,6 @@
       "source": "Reuters",
       "text": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
       "published_at": "2026-07-26T17:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildfires threaten Bordeaux as France, Spain battle blazes",
-      "published_at": "2026-07-26T16:52:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "published_at": "2026-07-26T16:48:16+00:00"
     },
     {
       "source": "Reuters",
@@ -63,18 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Finnish architects' humanist take on modernism recognised by UNESCO",
-      "published_at": "2026-07-26T11:35:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "published_at": "2026-07-26T10:26:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
-      "published_at": "2026-07-26T10:00:00+00:00"
+      "text": "French firefighters battle to keep blazes from Bordeaux",
+      "published_at": "2026-07-26T12:23:06+00:00"
     }
   ]
 }
