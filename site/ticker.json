@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-07-26T16:11:24+00:00",
+  "updated_at": "2026-07-26T18:09:41+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "What we know so far about the Berlin Pride ramming attack",
+      "published_at": "2026-07-26T17:45:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel to allow international force into Gaza, Israeli official says",
+      "published_at": "2026-07-26T17:34:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
+      "published_at": "2026-07-26T17:16:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "published_at": "2026-07-26T17:16:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
+      "published_at": "2026-07-26T17:15:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wildfires threaten Bordeaux as France, Spain battle blazes",
+      "published_at": "2026-07-26T16:52:25+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "published_at": "2026-07-26T15:50:41+00:00"
+      "published_at": "2026-07-26T16:48:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "London's Gatwick Airport hit by water supply problem",
+      "published_at": "2026-07-26T16:41:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Honduras ex-President Hernandez returns home after Trump pardon",
+      "published_at": "2026-07-26T16:00:36+00:00"
     },
     {
       "source": "Reuters",
@@ -23,33 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Wildfires threaten Bordeaux as France, Spain battle blazes",
-      "published_at": "2026-07-26T14:23:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What we know so far about the Berlin Pride ramming attack",
-      "published_at": "2026-07-26T13:40:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
-      "published_at": "2026-07-26T13:36:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "London's Gatwick Airport hit by water supply problem",
-      "published_at": "2026-07-26T12:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French firefighters battle to keep blazes from Bordeaux",
-      "published_at": "2026-07-26T12:23:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Malaysia to make F1 comeback in October as host of Bahrain GP",
-      "published_at": "2026-07-26T10:41:48+00:00"
+      "text": "Finnish architects' humanist take on modernism recognised by UNESCO",
+      "published_at": "2026-07-26T11:35:25+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
       "published_at": "2026-07-26T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lebanese displaced by war turn to satellites to check their homes",
-      "published_at": "2026-07-26T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Normandy's D-Day World War Two beaches become UNESCO heritage site",
-      "published_at": "2026-07-26T09:43:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ADHD looks different in women and poses unique health risks",
-      "published_at": "2026-07-26T09:00:00+00:00"
     }
   ]
 }
