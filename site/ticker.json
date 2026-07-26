@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-07-26T14:42:48+00:00",
+  "updated_at": "2026-07-26T16:11:24+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "published_at": "2026-07-26T15:50:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cuban president accuses US of 'political genocide' on anniversary of revolution",
+      "published_at": "2026-07-26T15:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
+      "published_at": "2026-07-26T14:54:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Courtois welcomes Van Bommel's appointment as Belgium coach",
+      "published_at": "2026-07-26T14:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wildfires threaten Bordeaux as France, Spain battle blazes",
+      "published_at": "2026-07-26T14:23:29+00:00"
+    },
     {
       "source": "BBC",
       "text": "What we know so far about the Berlin Pride ramming attack",
@@ -9,12 +34,17 @@
     {
       "source": "Reuters",
       "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
-      "published_at": "2026-07-26T12:33:43+00:00"
+      "published_at": "2026-07-26T13:36:06+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "published_at": "2026-07-26T11:29:07+00:00"
+      "source": "Reuters",
+      "text": "London's Gatwick Airport hit by water supply problem",
+      "published_at": "2026-07-26T12:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "French firefighters battle to keep blazes from Bordeaux",
+      "published_at": "2026-07-26T12:23:06+00:00"
     },
     {
       "source": "Reuters",
@@ -25,11 +55,6 @@
       "source": "BBC",
       "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "published_at": "2026-07-26T10:26:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
-      "published_at": "2026-07-26T10:14:27+00:00"
     },
     {
       "source": "NPR",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "ADHD looks different in women and poses unique health risks",
       "published_at": "2026-07-26T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "published_at": "2026-07-26T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Climate change is now threatening a pillar of childhood: summer break",
-      "published_at": "2026-07-26T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-      "published_at": "2026-07-26T08:14:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Newcastle boss Howe uncertain about Guimaraes' future",
-      "published_at": "2026-07-26T04:36:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ramsay-Peaty ponders future after 100m breaststroke bronze",
-      "published_at": "2026-07-26T04:02:00+00:00"
     }
   ]
 }
