@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-26T00:09:05+00:00",
+  "updated_at": "2026-07-26T04:36:12+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ramsay-Peaty ponders future after 100m breaststroke bronze",
+      "published_at": "2026-07-26T04:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "published_at": "2026-07-26T03:58:51+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "published_at": "2026-07-26T01:10:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "France and Spain fires force more than 200,000 to flee homes",
+      "published_at": "2026-07-26T01:05:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 300,000 flee wildfires in France and Spain",
+      "published_at": "2026-07-26T00:54:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The notorious Cameroonian prison with its own record label",
+      "published_at": "2026-07-26T00:24:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Would you pay $58.5m to live in this iconic New York building?",
+      "published_at": "2026-07-26T00:05:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What Love Island tells us about the changing face of dating",
+      "published_at": "2026-07-25T23:31:49+00:00"
+    },
     {
       "source": "BBC",
       "text": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
@@ -8,13 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Hiltz wins US championships 1,500m title once again",
-      "published_at": "2026-07-25T23:20:09+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Joshua bounces back to secure knockout win over Prenga",
-      "published_at": "2026-07-25T23:07:44+00:00"
+      "published_at": "2026-07-25T23:14:38+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war",
+      "published_at": "2026-07-25T20:58:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say",
+      "published_at": "2026-07-25T20:21:29+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "This wave of Trump tariffs is likely here to stay; more are coming",
       "published_at": "2026-07-25T19:58:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Biden ghostwriter tapes to be released",
-      "published_at": "2026-07-25T19:36:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India's 'cockroach' protest called off after education minister quits",
-      "published_at": "2026-07-25T17:44:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 250,000 flee wildfires in France and Spain",
-      "published_at": "2026-07-25T17:13:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
-      "published_at": "2026-07-25T15:44:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-      "published_at": "2026-07-25T14:48:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
-      "published_at": "2026-07-25T14:12:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "published_at": "2026-07-25T13:51:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Protesters celebrate resignation of India's education minister",
-      "published_at": "2026-07-25T13:44:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "CJP protest: The youth movement India's Modi didn't see coming",
-      "published_at": "2026-07-25T13:26:04+00:00"
     }
   ]
 }
