@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-07-26T20:16:04+00:00",
+  "updated_at": "2026-07-26T22:08:31+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "published_at": "2026-07-26T21:30:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "published_at": "2026-07-26T21:23:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far about the Berlin Pride ramming attack",
+      "published_at": "2026-07-26T20:34:23+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Wildfires threaten Bordeaux as France and Spain battle blazes",
       "published_at": "2026-07-26T19:37:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "French firefighters battle to keep blazes from Bordeaux",
+      "published_at": "2026-07-26T19:36:53+00:00"
     },
     {
       "source": "BBC",
@@ -27,11 +47,6 @@
       "published_at": "2026-07-26T18:13:30+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What we know so far about the Berlin Pride ramming attack",
-      "published_at": "2026-07-26T17:45:30+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Israel to allow international force into Gaza, Israeli official says",
       "published_at": "2026-07-26T17:34:48+00:00"
@@ -40,11 +55,6 @@
       "source": "NPR",
       "text": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
       "published_at": "2026-07-26T17:16:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
-      "published_at": "2026-07-26T17:15:43+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
       "published_at": "2026-07-26T14:54:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Courtois welcomes Van Bommel's appointment as Belgium coach",
-      "published_at": "2026-07-26T14:45:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French firefighters battle to keep blazes from Bordeaux",
-      "published_at": "2026-07-26T12:23:06+00:00"
     }
   ]
 }
