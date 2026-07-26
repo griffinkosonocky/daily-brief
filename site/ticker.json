@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-07-25T22:07:49+00:00",
+  "updated_at": "2026-07-26T00:09:05+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-      "published_at": "2026-07-25T21:33:00+00:00"
+      "text": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "published_at": "2026-07-25T23:30:07+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say",
-      "published_at": "2026-07-25T20:21:29+00:00"
+      "text": "Hiltz wins US championships 1,500m title once again",
+      "published_at": "2026-07-25T23:20:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Joshua bounces back to secure knockout win over Prenga",
+      "published_at": "2026-07-25T23:07:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "published_at": "2026-07-25T22:15:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+      "published_at": "2026-07-25T21:10:19+00:00"
     },
     {
       "source": "Reuters",
@@ -33,11 +48,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Fourth firefighter dies following June wildland fire in Colorado",
-      "published_at": "2026-07-25T16:10:38+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
       "published_at": "2026-07-25T15:44:33+00:00"
     },
@@ -45,6 +55,11 @@
       "source": "NPR",
       "text": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
       "published_at": "2026-07-25T14:48:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli troops round up Palestinians in West Bank village after shootout involving settlers",
+      "published_at": "2026-07-25T14:12:05+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "CJP protest: The youth movement India's Modi didn't see coming",
       "published_at": "2026-07-25T13:26:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-      "published_at": "2026-07-25T12:05:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: New Jersey pizza, the fuel of world champions",
-      "published_at": "2026-07-25T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Some women who can't afford water are often pressured to provide sex for it",
-      "published_at": "2026-07-25T11:59:19+00:00"
     }
   ]
 }
