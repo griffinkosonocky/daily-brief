@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-07-26T10:09:15+00:00",
+  "updated_at": "2026-07-26T11:44:12+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "What we know so far about the Berlin Pride ramming attack",
+      "published_at": "2026-07-26T11:41:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "published_at": "2026-07-26T11:29:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysia to make F1 comeback in October as host of Bahrain GP",
+      "published_at": "2026-07-26T10:41:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "published_at": "2026-07-26T10:26:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany pledges justice over Berlin Pride attack as police hunt suspect",
+      "published_at": "2026-07-26T10:24:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
+      "published_at": "2026-07-26T10:14:27+00:00"
+    },
     {
       "source": "NPR",
       "text": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
@@ -17,18 +47,8 @@
       "published_at": "2026-07-26T09:43:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What we know so far about the Berlin Pride ramming attack",
-      "published_at": "2026-07-26T09:18:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-      "published_at": "2026-07-26T09:16:46+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "ADHD looks different in women and poses unique health risks",
+      "text": "Climate change is now threatening a pillar of childhood: summer break",
       "published_at": "2026-07-26T09:00:00+00:00"
     },
     {
@@ -38,13 +58,8 @@
     },
     {
       "source": "NPR",
-      "text": "Climate change is now threatening a pillar of childhood: summer break",
+      "text": "ADHD looks different in women and poses unique health risks",
       "published_at": "2026-07-26T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Police hunting for Berlin Pride attacker name Islamist suspect",
-      "published_at": "2026-07-26T08:25:46+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
       "published_at": "2026-07-26T03:58:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-      "published_at": "2026-07-26T01:10:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "France and Spain fires force more than 200,000 to flee homes",
-      "published_at": "2026-07-26T01:05:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The notorious Cameroonian prison with its own record label",
-      "published_at": "2026-07-26T00:24:30+00:00"
     }
   ]
 }
