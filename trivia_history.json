@@ -268,5 +268,11 @@
     "sport": "Sports",
     "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
     "answer": "Ma Long (China)"
+  },
+  {
+    "date": "2026-07-27",
+    "sport": "Sports",
+    "question": "Which soccer team won the Copa América Centenario 2016?",
+    "answer": "Chile"
   }
 ]

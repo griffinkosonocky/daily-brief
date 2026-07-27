@@ -1,20 +1,65 @@
 {
-  "updated_at": "2026-07-27T12:35:02+00:00",
+  "updated_at": "2026-07-27T13:25:40+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "published_at": "2026-07-27T12:33:40+00:00"
+      "source": "Reuters",
+      "text": "Durigan says Brazil will press US on tariffs, expects solution after election",
+      "published_at": "2026-07-27T13:17:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gold climbs 1% as US-Iran truce pressures oil; all eyes on Fed meeting",
-      "published_at": "2026-07-27T12:17:02+00:00"
+      "text": "Porsche to cut another 5,000 jobs",
+      "published_at": "2026-07-27T12:44:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China opposes US 'forced labour' tariffs, calls for them to be cancelled",
+      "published_at": "2026-07-27T12:36:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen in takeover talks with Chinese partner on Spanish battery plant, trade outlet reports",
+      "published_at": "2026-07-27T12:35:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky arrives in UK ahead of meeting Burnham",
+      "published_at": "2026-07-27T12:33:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "published_at": "2026-07-27T12:33:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "published_at": "2026-07-27T12:28:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline",
+      "published_at": "2026-07-27T12:27:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crude oil futures are pricing market adaptability, not hopeful Iran peace",
+      "published_at": "2026-07-27T12:27:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "International Criminal Court faces challenging search for new prosecutor",
+      "published_at": "2026-07-27T12:05:48+00:00"
     },
     {
       "source": "Reuters",
       "text": "South Africa adds Angolan kwanza to regional cross-border payment system",
       "published_at": "2026-07-27T11:58:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Goldman Sachs Alternatives buys control of Italian medtech firm Numantec",
+      "published_at": "2026-07-27T11:52:24+00:00"
     },
     {
       "source": "BBC",
@@ -27,54 +72,9 @@
       "published_at": "2026-07-27T11:45:56+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Biden, Carney and Oasis: How the world is celebrating Mayo's All-Ireland win",
-      "published_at": "2026-07-27T11:23:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How 'fire-generated thunderstorms' make wildfires more deadly",
-      "published_at": "2026-07-27T11:11:07+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "IMF chief visits Argentina as 2027 debt hurdle looms",
-      "published_at": "2026-07-27T11:03:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-      "published_at": "2026-07-27T11:03:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-      "published_at": "2026-07-27T10:59:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kazakhstan's daily oil output halves after export terminal closure, source says",
-      "published_at": "2026-07-27T10:59:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US deports Kenyan former NFL player Daniel Adongo",
-      "published_at": "2026-07-27T10:56:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: China chip champ",
-      "published_at": "2026-07-27T10:54:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "France continues to fight devastating wildfires, while progress is made in Spain",
-      "published_at": "2026-07-27T10:50:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-      "published_at": "2026-07-27T10:46:50+00:00"
+      "text": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
+      "published_at": "2026-07-27T11:32:03+00:00"
     }
   ]
 }
