@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-27T21:20:45+00:00",
+  "updated_at": "2026-07-27T23:16:36+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "published_at": "2026-07-27T23:04:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "published_at": "2026-07-27T22:58:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthis pushing to model Iran's Hormuz control in Red Sea, Yemeni FM says",
+      "published_at": "2026-07-27T22:13:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "A Japanese town wrestles with identity after protests over its first mosque",
+      "published_at": "2026-07-27T22:08:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Porsche to axe one in five jobs by 2035 as China, EV woes bite",
+      "published_at": "2026-07-27T22:04:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - China muscle-flex is iron ore miners’ call to arms",
+      "published_at": "2026-07-27T22:00:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+      "published_at": "2026-07-27T21:29:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy to meet US senators, Russia sanctions vote expected",
+      "published_at": "2026-07-27T21:23:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump says Iran war talks taking place during lull in strikes",
@@ -18,13 +58,8 @@
     },
     {
       "source": "NPR",
-      "text": "Authors wary of content ownership despite court ruling on Anthropic case",
+      "text": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
       "published_at": "2026-07-27T20:49:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
-      "published_at": "2026-07-27T20:40:05+00:00"
     },
     {
       "source": "BBC",
@@ -33,48 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Sabalenka, Djokovic headline US Open mixed doubles field",
-      "published_at": "2026-07-27T20:02:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-      "published_at": "2026-07-27T20:01:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inside Joe Manchin's new quest to elect more Independents to Congress",
-      "published_at": "2026-07-27T19:55:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wildfire witnesses describe 'wall of flames', fear and stress",
-      "published_at": "2026-07-27T19:50:35+00:00"
+      "text": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
+      "published_at": "2026-07-27T20:18:32+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump urges Senate to end twice annual clock switching",
-      "published_at": "2026-07-27T19:35:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insight: Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline",
-      "published_at": "2026-07-27T19:30:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Police still searching for second suspect in fatal Seattle food festival shooting",
-      "published_at": "2026-07-27T19:23:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria tells South Africa to curb xenophobic attacks on migrants, questions state response",
-      "published_at": "2026-07-27T19:17:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French police arrest man after he attacks three women with knives in Paris",
-      "published_at": "2026-07-27T18:49:29+00:00"
+      "text": "US appeals court upholds Colorado congestion fee on rental cars",
+      "published_at": "2026-07-27T20:13:51+00:00"
     }
   ]
 }
