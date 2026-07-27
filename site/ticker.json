@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-27T17:51:54+00:00",
+  "updated_at": "2026-07-27T19:48:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
+      "published_at": "2026-07-27T19:39:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insight: Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline",
+      "published_at": "2026-07-27T19:30:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police still searching for second suspect in fatal Seattle food festival shooting",
+      "published_at": "2026-07-27T19:23:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "French police arrest man after he attacks three women with knives in Paris",
+      "published_at": "2026-07-27T18:49:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crude oil futures are pricing market adaptability, not hopeful Iran peace",
+      "published_at": "2026-07-27T18:36:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "published_at": "2026-07-27T17:50:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Hong Kong opposition leader Wu granted stay in Britain, lawyer says",
+      "published_at": "2026-07-27T17:41:33+00:00"
+    },
     {
       "source": "BBC",
       "text": "What you need to know if you're travelling to France or Spain",
@@ -8,8 +43,18 @@
     },
     {
       "source": "BBC",
+      "text": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
+      "published_at": "2026-07-27T17:17:24+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Shots fired at US consulate in Toronto for a second time this year",
       "published_at": "2026-07-27T16:56:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "European shares steady as tech weakness offsets US-Iran optimism",
+      "published_at": "2026-07-27T16:56:46+00:00"
     },
     {
       "source": "NPR",
@@ -18,63 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says US is talking with Iran right now",
-      "published_at": "2026-07-27T16:43:43+00:00"
+      "text": "Breakingviews - Cloudmaxxing sucks Nvidia into dangerous game",
+      "published_at": "2026-07-27T16:50:35+00:00"
     },
     {
       "source": "Reuters",
-      "text": "French police arrest man after he attacks three women with knives in Paris",
-      "published_at": "2026-07-27T16:40:24+00:00"
+      "text": "US appeals court upholds Colorado congestion fee on rental cars",
+      "published_at": "2026-07-27T16:43:18+00:00"
     },
     {
       "source": "BBC",
       "text": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "published_at": "2026-07-27T16:33:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland asks US to hand over ex-minister over alleged fund misuse",
-      "published_at": "2026-07-27T16:27:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?",
-      "published_at": "2026-07-27T16:19:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Houthis say they targeted Saudi east-west oil transport",
-      "published_at": "2026-07-27T16:07:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish TNT producer Nitro-Chem plans expansion to UK with BAE Systems",
-      "published_at": "2026-07-27T15:59:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Devastating European wildfires in maps - and how they're being tackled",
-      "published_at": "2026-07-27T15:59:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-      "published_at": "2026-07-27T15:58:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-      "published_at": "2026-07-27T15:49:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes",
-      "published_at": "2026-07-27T15:44:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-      "published_at": "2026-07-27T15:39:54+00:00"
     }
   ]
 }
