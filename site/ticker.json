@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-26T22:08:31+00:00",
+  "updated_at": "2026-07-27T00:09:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says it will halt strikes as long as US bombing pause holds",
+      "published_at": "2026-07-26T22:26:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "published_at": "2026-07-26T22:06:46+00:00"
+    },
     {
       "source": "BBC",
       "text": "PM pledges continued support for Ukraine ahead of Zelensky visit",
@@ -15,11 +25,6 @@
       "source": "BBC",
       "text": "What we know so far about the Berlin Pride ramming attack",
       "published_at": "2026-07-26T20:34:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildfires threaten Bordeaux as France and Spain battle blazes",
-      "published_at": "2026-07-26T19:37:15+00:00"
     },
     {
       "source": "Reuters",
@@ -47,14 +52,14 @@
       "published_at": "2026-07-26T18:13:30+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Israel to allow international force into Gaza, Israeli official says",
-      "published_at": "2026-07-26T17:34:48+00:00"
-    },
-    {
       "source": "NPR",
       "text": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
       "published_at": "2026-07-26T17:16:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
+      "published_at": "2026-07-26T17:15:43+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Cuban president accuses US of 'political genocide' on anniversary of revolution",
       "published_at": "2026-07-26T15:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Berlin Pride attack prompts grief and solidarity with LGBTQ community",
-      "published_at": "2026-07-26T14:54:21+00:00"
     }
   ]
 }
