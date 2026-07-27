@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-07-27T19:48:43+00:00",
+  "updated_at": "2026-07-27T21:20:45+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump says Iran war talks taking place during lull in strikes",
+      "published_at": "2026-07-27T21:10:56+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
-      "published_at": "2026-07-27T19:39:21+00:00"
+      "text": "TRADING DAY Oil plunges, stocks 'n' bonds shrug",
+      "published_at": "2026-07-27T21:10:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "published_at": "2026-07-27T21:06:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Authors wary of content ownership despite court ruling on Anthropic case",
+      "published_at": "2026-07-27T20:49:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
+      "published_at": "2026-07-27T20:40:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "published_at": "2026-07-27T20:34:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sabalenka, Djokovic headline US Open mixed doubles field",
+      "published_at": "2026-07-27T20:02:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "published_at": "2026-07-27T20:01:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Inside Joe Manchin's new quest to elect more Independents to Congress",
+      "published_at": "2026-07-27T19:55:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wildfire witnesses describe 'wall of flames', fear and stress",
+      "published_at": "2026-07-27T19:50:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump urges Senate to end twice annual clock switching",
+      "published_at": "2026-07-27T19:35:28+00:00"
     },
     {
       "source": "Reuters",
@@ -18,63 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Nigeria tells South Africa to curb xenophobic attacks on migrants, questions state response",
+      "published_at": "2026-07-27T19:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "French police arrest man after he attacks three women with knives in Paris",
       "published_at": "2026-07-27T18:49:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Crude oil futures are pricing market adaptability, not hopeful Iran peace",
-      "published_at": "2026-07-27T18:36:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-      "published_at": "2026-07-27T17:50:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Hong Kong opposition leader Wu granted stay in Britain, lawyer says",
-      "published_at": "2026-07-27T17:41:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What you need to know if you're travelling to France or Spain",
-      "published_at": "2026-07-27T17:20:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
-      "published_at": "2026-07-27T17:17:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Shots fired at US consulate in Toronto for a second time this year",
-      "published_at": "2026-07-27T16:56:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European shares steady as tech weakness offsets US-Iran optimism",
-      "published_at": "2026-07-27T16:56:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-      "published_at": "2026-07-27T16:54:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Cloudmaxxing sucks Nvidia into dangerous game",
-      "published_at": "2026-07-27T16:50:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US appeals court upholds Colorado congestion fee on rental cars",
-      "published_at": "2026-07-27T16:43:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "published_at": "2026-07-27T16:33:05+00:00"
     }
   ]
 }
