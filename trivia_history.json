@@ -274,5 +274,11 @@
     "sport": "Sports",
     "question": "Which soccer team won the Copa América Centenario 2016?",
     "answer": "Chile"
+  },
+  {
+    "date": "2026-07-28",
+    "sport": "Sports",
+    "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+    "answer": "Porsche"
   }
 ]

@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-28T12:07:36+00:00",
+  "updated_at": "2026-07-28T12:21:29+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "'It's a hell of a situation': Spain grapples with devastating wildfires",
       "published_at": "2026-07-28T12:03:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zidane lands dream job as France hand him reins through 2030 World Cup",
+      "published_at": "2026-07-28T11:59:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Textron tops quarterly results estimates on higher aircraft pricing",
+      "published_at": "2026-07-28T11:59:46+00:00"
     },
     {
       "source": "BBC",
@@ -28,16 +38,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Gulf states back plan to let Iran collect voluntary fees to use Hormuz",
-      "published_at": "2026-07-28T11:12:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zidane lands dream job as France hand him reins through 2030 World Cup",
-      "published_at": "2026-07-28T10:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Morning Bid: Chip rout snowballs",
       "published_at": "2026-07-28T10:45:36+00:00"
     },
@@ -50,6 +50,11 @@
       "source": "Reuters",
       "text": "Fitch warns AI market correction emerging as major global credit risk",
       "published_at": "2026-07-28T10:37:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UPS raises full-year revenue forecast after completing Amazon volume pullback",
+      "published_at": "2026-07-28T10:36:25+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - ASML’s China chip threat looks overdone",
       "published_at": "2026-07-28T10:22:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xiaohongshu's Hong Kong IPO plans face scrutiny after complaint about corporate structure",
-      "published_at": "2026-07-28T10:11:31+00:00"
     }
   ]
 }
