@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-07-28T21:18:09+00:00",
+  "updated_at": "2026-07-28T23:17:41+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "published_at": "2026-07-28T23:12:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+      "published_at": "2026-07-28T23:04:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mining major Rio Tinto logs 43% rise in interim profit",
+      "published_at": "2026-07-28T22:53:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+      "published_at": "2026-07-28T22:46:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
+      "published_at": "2026-07-28T22:30:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tech employees call for US-backed global effort to manage risks of advanced AI",
+      "published_at": "2026-07-28T22:30:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
+      "published_at": "2026-07-28T21:43:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA plans to sell stakes in $20 billion subsidiary to run World Cup, angering UEFA",
+      "published_at": "2026-07-28T21:12:26+00:00"
+    },
     {
       "source": "BBC",
       "text": "Bystander video shows teen lifeguard's dramatic ocean rescue",
       "published_at": "2026-07-28T21:09:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "FIFA plans to sell stakes in $20 billion subsidiary to run World Cup, angering UEFA",
-      "published_at": "2026-07-28T20:34:06+00:00"
+      "source": "NPR",
+      "text": "As Spain battles wildfires, its politicians battle over climate change's role",
+      "published_at": "2026-07-28T20:31:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
+      "published_at": "2026-07-28T20:31:06+00:00"
     },
     {
       "source": "NPR",
@@ -18,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "S&P 500 ends higher as investors await tech earnings",
-      "published_at": "2026-07-28T20:24:34+00:00"
+      "text": "Floods in New Delhi and northern Indian villages, after monsoon",
+      "published_at": "2026-07-28T20:29:05+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "Trump mourns Lindsey Graham as war hawk, golfing buddy at Washington funeral",
       "published_at": "2026-07-28T20:12:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine negotiator: 'We have the upper hand'",
-      "published_at": "2026-07-28T20:10:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-      "published_at": "2026-07-28T19:46:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump, Zelenskiy discussed Patriot deal and reviving talks with Russia",
-      "published_at": "2026-07-28T19:46:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trump administration to ban new Chinese humanoid robots, protecting US AI buildout",
-      "published_at": "2026-07-28T19:42:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Peru's Fujimori takes power, extending Latin America's rightward tilt",
-      "published_at": "2026-07-28T19:39:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China starts production of home-grown immersion DUV chipmaking tools - source",
-      "published_at": "2026-07-28T19:39:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France, Spain make headway against huge blazes as new heatwave looms",
-      "published_at": "2026-07-28T19:17:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jolie, Blanchett appeal for refugee protections as UN convention turns 75",
-      "published_at": "2026-07-28T18:28:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Insurance double-play is more than inside baseball",
-      "published_at": "2026-07-28T18:25:59+00:00"
     }
   ]
 }
