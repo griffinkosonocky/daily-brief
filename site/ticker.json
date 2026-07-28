@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-28T06:36:51+00:00",
+  "updated_at": "2026-07-28T09:42:55+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "US walks out of UN Security Council meeting during France's remarks",
+      "published_at": "2026-07-28T09:32:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Why hostile M&A is rare - especially in the UK",
+      "published_at": "2026-07-28T09:28:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White Phosphorus 'leak' inside US air base in South Korea, Seoul says",
+      "published_at": "2026-07-28T09:24:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zidane confirmed as France head coach",
+      "published_at": "2026-07-28T09:03:49+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-      "published_at": "2026-07-28T06:25:18+00:00"
+      "text": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+      "published_at": "2026-07-28T09:02:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Citi expands Asia FX options desk with three senior trader hires in Singapore",
-      "published_at": "2026-07-28T05:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jet engine maker Safran raises targets after record first-half margin",
-      "published_at": "2026-07-28T05:03:46+00:00"
+      "source": "NPR",
+      "text": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
+      "published_at": "2026-07-28T09:00:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Confronting gang members at the heart of Ecuador's drug battle",
-      "published_at": "2026-07-28T05:01:35+00:00"
+      "text": "Zoo staff rescue near-extinct snails from remote rock",
+      "published_at": "2026-07-28T08:50:20+00:00"
     },
     {
       "source": "BBC",
-      "text": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-      "published_at": "2026-07-28T05:01:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mercedes reports higher second-quarter profit, but flags China woes for car sales",
-      "published_at": "2026-07-28T05:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air India turnaround could take up to a decade, owner Tata Sons says",
-      "published_at": "2026-07-28T05:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank likely intervenes to bolster rupee, traders say",
-      "published_at": "2026-07-28T04:26:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan drills to test relocating arms production under Chinese attack",
-      "published_at": "2026-07-28T04:25:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan finance minister says government's relationship with BOJ 'smooth'",
-      "published_at": "2026-07-28T03:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI anxiety sparks tech rout, broad selloff in Asian markets",
-      "published_at": "2026-07-28T02:30:00+00:00"
+      "text": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+      "published_at": "2026-07-28T08:39:17+00:00"
     },
     {
       "source": "BBC",
-      "text": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "published_at": "2026-07-28T01:53:58+00:00"
+      "text": "Ariana Grande sues hackers who leaked music and videos",
+      "published_at": "2026-07-28T08:37:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "South Korea may cap leveraged ETF investments for retail investors, media reports say",
-      "published_at": "2026-07-28T01:43:00+00:00"
+      "text": "EXCLUSIVE: China starts production of home-grown immersion DUV chipmaking tools - source",
+      "published_at": "2026-07-28T08:36:50+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "published_at": "2026-07-28T01:39:50+00:00"
+      "source": "Reuters",
+      "text": "Xiaohongshu's Hong Kong IPO plans face scrutiny after complaint about corporate structure",
+      "published_at": "2026-07-28T08:32:31+00:00"
     },
     {
-      "source": "BBC",
-      "text": "BBC outside court as judge rules singer D4vd will face murder trail",
-      "published_at": "2026-07-28T01:29:25+00:00"
+      "source": "Reuters",
+      "text": "Major Gulf bourses in red awaiting Fed decision, Iran talks",
+      "published_at": "2026-07-28T08:24:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's summer crop planting gathers pace as monsoon revives",
+      "published_at": "2026-07-28T07:53:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mercedes gets shares boost on stable second quarter despite China woes",
+      "published_at": "2026-07-28T07:44:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "published_at": "2026-07-28T07:42:11+00:00"
     }
   ]
 }
