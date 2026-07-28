@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-07-28T19:47:55+00:00",
+  "updated_at": "2026-07-28T21:18:09+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+      "published_at": "2026-07-28T21:09:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA plans to sell stakes in $20 billion subsidiary to run World Cup, angering UEFA",
+      "published_at": "2026-07-28T20:34:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "published_at": "2026-07-28T20:30:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "S&P 500 ends higher as investors await tech earnings",
+      "published_at": "2026-07-28T20:24:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+      "published_at": "2026-07-28T20:14:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump mourns Lindsey Graham as war hawk, golfing buddy at Washington funeral",
+      "published_at": "2026-07-28T20:12:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ukraine negotiator: 'We have the upper hand'",
+      "published_at": "2026-07-28T20:10:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+      "published_at": "2026-07-28T19:46:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump, Zelenskiy discussed Patriot deal and reviving talks with Russia",
+      "published_at": "2026-07-28T19:46:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump administration to ban new Chinese humanoid robots, protecting US AI buildout",
+      "published_at": "2026-07-28T19:42:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Peru's Fujimori takes power, extending Latin America's rightward tilt",
+      "published_at": "2026-07-28T19:39:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: China starts production of home-grown immersion DUV chipmaking tools - source",
+      "published_at": "2026-07-28T19:39:16+00:00"
+    },
     {
       "source": "Reuters",
       "text": "France, Spain make headway against huge blazes as new heatwave looms",
       "published_at": "2026-07-28T19:17:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout",
-      "published_at": "2026-07-28T19:06:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump, Zelenskiy and Netanyahu attend US Senator Lindsey Graham's funeral",
-      "published_at": "2026-07-28T18:39:59+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - Insurance double-play is more than inside baseball",
       "published_at": "2026-07-28T18:25:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA plans to raise $4.2 billion via stake sales in new subsidiary, angering UEFA",
-      "published_at": "2026-07-28T18:24:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "published_at": "2026-07-28T18:19:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Visa to lay off 7% of staff as efficiency push deepens",
-      "published_at": "2026-07-28T18:08:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-      "published_at": "2026-07-28T17:57:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Floods in New Delhi and northern Indian villages, after monsoon",
-      "published_at": "2026-07-28T17:37:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Japan earthquake: What we know so far",
-      "published_at": "2026-07-28T17:15:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
-      "published_at": "2026-07-28T17:08:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel's yellow line, a shifting edge of war pushing Gazans from home",
-      "published_at": "2026-07-28T17:01:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "published_at": "2026-07-28T16:49:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's irritation with Netanyahu highlights strains as leaders meet",
-      "published_at": "2026-07-28T16:46:32+00:00"
     }
   ]
 }
