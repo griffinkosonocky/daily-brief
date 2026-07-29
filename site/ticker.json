@@ -1,9 +1,54 @@
 {
-  "updated_at": "2026-07-29T21:09:15+00:00",
+  "updated_at": "2026-07-29T23:09:19+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "TRADING DAY All Warshed up",
+      "text": "Regional confederations left blindsided by FIFA's $20 billion investment plan - reuters.com",
+      "published_at": "2026-07-29T22:39:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - reuters.com",
+      "published_at": "2026-07-29T22:29:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Salman Rushdie attacker convicted of terror offenses",
+      "published_at": "2026-07-29T22:15:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands of Audi workers protest over threatened plant closure - reuters.com",
+      "published_at": "2026-07-29T22:11:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Chinese robot army transforming the UK's retail industry",
+      "published_at": "2026-07-29T22:08:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap - reuters.com",
+      "published_at": "2026-07-29T22:02:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "published_at": "2026-07-29T21:45:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four women accuse Jared Leto of criminal sexual conduct",
+      "published_at": "2026-07-29T21:36:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US court revives lawsuit claiming AI software fueled price-gouging by New Jersey casinos - reuters.com",
+      "published_at": "2026-07-29T21:26:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TRADING DAY All Warshed up - reuters.com",
       "published_at": "2026-07-29T21:02:27+00:00"
     },
     {
@@ -13,68 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Regional confederations left blindsided by FIFA's $20 billion investment plan",
-      "published_at": "2026-07-29T20:41:43+00:00"
+      "text": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - reuters.com",
+      "published_at": "2026-07-29T20:55:19+00:00"
     },
     {
       "source": "Reuters",
-      "text": "What's in a name? Publicis challenges India antitrust probe over brand-versus-entity jumble",
+      "text": "What's in a name? Publicis challenges India antitrust probe over brand-versus-entity jumble - reuters.com",
       "published_at": "2026-07-29T20:39:35+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US issues new Iran-related sanctions targeting insurers, more tankers",
+      "text": "US issues new Iran-related sanctions targeting insurers, more tankers - reuters.com",
       "published_at": "2026-07-29T20:38:42+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Starbucks raises annual forecasts again as turnaround takes root",
-      "published_at": "2026-07-29T20:27:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "published_at": "2026-07-29T20:21:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker",
-      "published_at": "2026-07-29T20:10:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports",
-      "published_at": "2026-07-29T20:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy, Poland's Tusk talk about defence, history",
-      "published_at": "2026-07-29T20:05:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India says no abnormality seen in Boeing 787 fuel switch of Air India London flight",
-      "published_at": "2026-07-29T19:44:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
-      "published_at": "2026-07-29T19:14:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap",
-      "published_at": "2026-07-29T18:56:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to award GlobalFoundries $300 million to develop faster AI chip links",
-      "published_at": "2026-07-29T18:53:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain",
-      "published_at": "2026-07-29T18:47:43+00:00"
+      "source": "NPR",
+      "text": "Oregon is on track for its worst wildfire season yet",
+      "published_at": "2026-07-29T20:28:44+00:00"
     }
   ]
 }
