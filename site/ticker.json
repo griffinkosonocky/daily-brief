@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-07-29T17:31:46+00:00",
+  "updated_at": "2026-07-29T19:39:00+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "published_at": "2026-07-29T18:41:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
+      "published_at": "2026-07-29T18:30:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN rights office warns of worsening settler violence in West Bank",
+      "published_at": "2026-07-29T18:08:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of Canada governors split over sustainability of rebound, minutes show",
+      "published_at": "2026-07-29T17:59:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "published_at": "2026-07-29T17:58:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fifa opens disciplinary proceedings against Argentina",
+      "published_at": "2026-07-29T17:21:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Regional confederations left blindsided by FIFA's $20 billion investment plan",
+      "published_at": "2026-07-29T17:15:40+00:00"
+    },
     {
       "source": "BBC",
       "text": "Four women accuse Jared Leto of criminal sexual conduct",
       "published_at": "2026-07-29T17:04:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy, US to sign off on Pax Silica AI initiative after spat with Trump",
+      "published_at": "2026-07-29T17:00:56+00:00"
     },
     {
       "source": "NPR",
@@ -18,28 +58,13 @@
     },
     {
       "source": "BBC",
-      "text": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
-      "published_at": "2026-07-29T16:49:06+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
       "published_at": "2026-07-29T16:23:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks",
-      "published_at": "2026-07-29T16:08:11+00:00"
     },
     {
       "source": "NPR",
       "text": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
       "published_at": "2026-07-29T15:51:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Regional confederations left blindsided by FIFA's $20 billion investment plan",
-      "published_at": "2026-07-29T15:43:45+00:00"
     },
     {
       "source": "BBC",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Reaction to FIFA's private investment plan",
-      "published_at": "2026-07-29T15:19:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's financial watchdog to monitor AI use at banks and insurers",
-      "published_at": "2026-07-29T15:12:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands of Audi workers protest over threatened plant closure",
-      "published_at": "2026-07-29T15:04:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What's in a name? Publicis challenges India antitrust probe over brand-versus-entity jumble",
-      "published_at": "2026-07-29T14:46:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stocks drop as Mideast fighting reignites, Fed decision looms",
-      "published_at": "2026-07-29T14:43:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BMW to cut several thousand jobs in latest blow to German auto sector",
-      "published_at": "2026-07-29T14:35:38+00:00"
+      "text": "US issues new Iran-related sanctions targeting insurers, more tankers",
+      "published_at": "2026-07-29T15:30:44+00:00"
     }
   ]
 }
