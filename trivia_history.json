@@ -280,5 +280,11 @@
     "sport": "Sports",
     "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
     "answer": "Porsche"
+  },
+  {
+    "date": "2026-07-29",
+    "sport": "Sports",
+    "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+    "answer": "1991"
   }
 ]
