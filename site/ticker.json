@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-07-29T12:28:54+00:00",
+  "updated_at": "2026-07-29T15:17:08+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "What's in a name? Publicis challenges India antitrust probe over brand-versus-entity jumble",
+      "published_at": "2026-07-29T14:46:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "published_at": "2026-07-29T14:29:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "published_at": "2026-07-29T14:27:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "published_at": "2026-07-29T14:26:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "published_at": "2026-07-29T14:21:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Regional confederations left blindsided by FIFA's $20 billion investment plan",
+      "published_at": "2026-07-29T14:02:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "published_at": "2026-07-29T13:48:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump to unveil $22 billion plan to remake Washington Dulles airport, sources say",
+      "published_at": "2026-07-29T13:29:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows",
+      "published_at": "2026-07-29T13:19:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say",
+      "published_at": "2026-07-29T12:53:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "S&P says El Niño unlikely to trigger rating changes, for now",
+      "published_at": "2026-07-29T12:39:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN rights office warns of worsening settler violence in West Bank",
+      "published_at": "2026-07-29T12:30:19+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -13,68 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "'There's nothing left': French wildfire survivors return to burnt homes",
-      "published_at": "2026-07-29T12:02:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "published_at": "2026-07-29T12:01:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "European wildfires in maps - and how they're being tackled",
-      "published_at": "2026-07-29T11:53:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "published_at": "2026-07-29T11:47:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "published_at": "2026-07-29T11:42:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fifa offers $40m if nations back controversial plan",
-      "published_at": "2026-07-29T11:33:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stocks muted as investors count down to Fed verdict, tech earnings",
-      "published_at": "2026-07-29T11:20:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
-      "published_at": "2026-07-29T11:01:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "published_at": "2026-07-29T11:00:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple set for strongest June-quarter sales growth in 5 years",
-      "published_at": "2026-07-29T10:59:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopian Airlines revenue jumps 20%, state news agency says",
-      "published_at": "2026-07-29T10:48:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Commercial sea drone captures footage of Chinese warship in Philippine waters",
-      "published_at": "2026-07-29T10:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: US profit growth mushrooms",
-      "published_at": "2026-07-29T10:37:44+00:00"
+      "text": "Breakingviews - Rio results are a pre-M&A roadshow",
+      "published_at": "2026-07-29T12:00:32+00:00"
     }
   ]
 }
