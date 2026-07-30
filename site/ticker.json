@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-30T16:43:43+00:00",
+  "updated_at": "2026-07-30T18:40:37+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
+      "published_at": "2026-07-30T18:03:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "published_at": "2026-07-30T17:55:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
+      "published_at": "2026-07-30T17:47:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Are you choosing to stay single? We want to hear from you",
+      "published_at": "2026-07-30T17:47:44+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Film producers warn Paramount-Warner merger could restrict access to news archives",
-      "published_at": "2026-07-30T16:34:20+00:00"
+      "published_at": "2026-07-30T17:43:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says",
+      "published_at": "2026-07-30T17:42:49+00:00"
     },
     {
       "source": "NPR",
-      "text": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "published_at": "2026-07-30T16:30:58+00:00"
+      "text": "European soccer leaders to boycott the World Cup in an unprecedented step",
+      "published_at": "2026-07-30T17:38:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UEFA to boycott World Cup and FIFA tournaments over stake sale plans",
+      "published_at": "2026-07-30T17:37:01+00:00"
     },
     {
       "source": "BBC",
-      "text": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "published_at": "2026-07-30T16:04:53+00:00"
+      "text": "Father of teen school shooter sentenced to 15 years in prison",
+      "published_at": "2026-07-30T17:33:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UEFA countries to boycott World Cup over FIFA proposals",
-      "published_at": "2026-07-30T16:02:27+00:00"
+      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
+      "published_at": "2026-07-30T17:27:35+00:00"
     },
     {
       "source": "BBC",
-      "text": "Man impaled by a hiking pole treks 10 miles down mountain",
-      "published_at": "2026-07-30T15:47:09+00:00"
+      "text": "Why limited war with the US may suit Iran better than peace",
+      "published_at": "2026-07-30T17:26:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US government map of Africa mislabels every country at global conference",
+      "published_at": "2026-07-30T17:23:20+00:00"
     },
     {
       "source": "BBC",
-      "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "published_at": "2026-07-30T15:35:50+00:00"
+      "text": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "published_at": "2026-07-30T17:19:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "France and Spain win some respite, as wildfire battles rage across Europe",
-      "published_at": "2026-07-30T15:32:43+00:00"
+      "text": "Italy's Leonardo lifts full-year order, core profit guidance",
+      "published_at": "2026-07-30T17:15:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India takes action against 90% of inspected high-risk pharmaceutical facilities, regulator says",
-      "published_at": "2026-07-30T15:23:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "published_at": "2026-07-30T15:20:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of England policymakers keep rates on hold but more back hike",
-      "published_at": "2026-07-30T15:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil withholds approval of Trump's ambassador pick, deepening rift with US",
-      "published_at": "2026-07-30T15:11:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen surges, analysts suspect official Japanese intervention",
-      "published_at": "2026-07-30T15:05:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico's economy grows at fastest pace since late 2020 in Q2",
-      "published_at": "2026-07-30T14:55:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The economy slowed a bit -- but Americans continued to spend",
-      "published_at": "2026-07-30T14:47:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BP to cut 700 jobs as it simplifies company, internal email shows",
-      "published_at": "2026-07-30T14:42:00+00:00"
+      "text": "Russian financial watchdog adds Telegram founder Durov to 'extremists and terrorists' list",
+      "published_at": "2026-07-30T16:52:22+00:00"
     }
   ]
 }
