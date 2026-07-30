@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-30T18:40:37+00:00",
+  "updated_at": "2026-07-30T20:22:25+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US refiner Valero Energy posts record second-quarter profit, shares jump 2%",
+      "published_at": "2026-07-30T19:33:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "published_at": "2026-07-30T19:16:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ABC says FCC seeks to intimidate network over news coverage",
+      "published_at": "2026-07-30T19:01:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Soccer-Reaction to UEFA votes to boycott World Cup over FIFA stake sale plans",
+      "published_at": "2026-07-30T18:18:09+00:00"
+    },
     {
       "source": "Reuters",
       "text": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
@@ -27,14 +47,14 @@
       "published_at": "2026-07-30T17:43:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says",
-      "published_at": "2026-07-30T17:42:49+00:00"
-    },
-    {
       "source": "NPR",
       "text": "European soccer leaders to boycott the World Cup in an unprecedented step",
       "published_at": "2026-07-30T17:38:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Drone strike in Egypt sparks security concerns about Suez oil exports",
+      "published_at": "2026-07-30T17:37:10+00:00"
     },
     {
       "source": "Reuters",
@@ -47,11 +67,6 @@
       "published_at": "2026-07-30T17:33:41+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
-      "published_at": "2026-07-30T17:27:35+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Why limited war with the US may suit Iran better than peace",
       "published_at": "2026-07-30T17:26:01+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "US government map of Africa mislabels every country at global conference",
       "published_at": "2026-07-30T17:23:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "published_at": "2026-07-30T17:19:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Leonardo lifts full-year order, core profit guidance",
-      "published_at": "2026-07-30T17:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian financial watchdog adds Telegram founder Durov to 'extremists and terrorists' list",
-      "published_at": "2026-07-30T16:52:22+00:00"
     }
   ]
 }
