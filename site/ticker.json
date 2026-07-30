@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-30T12:01:00+00:00",
+  "updated_at": "2026-07-30T12:12:24+00:00",
   "headlines": [
     {
       "source": "Reuters",
       "text": "Intercontinental Exchange to buy MarketAxess in $5.7 billion deal",
-      "published_at": "2026-07-30T11:49:51+00:00"
+      "published_at": "2026-07-30T11:57:10+00:00"
     },
     {
       "source": "BBC",
@@ -20,6 +20,11 @@
       "source": "Reuters",
       "text": "Iron ore giants BHP and Rio are morphing into copper plays",
       "published_at": "2026-07-30T11:15:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strikes kill four in Gaza, including two children, amid new ceasefire push",
+      "published_at": "2026-07-30T11:09:25+00:00"
     },
     {
       "source": "Reuters",
@@ -65,11 +70,6 @@
       "source": "NPR",
       "text": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
       "published_at": "2026-07-30T09:53:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia confederation chief says FIFA's lack of consultation over World Cup plan 'totally unacceptable'",
-      "published_at": "2026-07-30T09:41:35+00:00"
     },
     {
       "source": "BBC",
