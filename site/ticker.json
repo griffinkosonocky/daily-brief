@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-30T09:37:22+00:00",
+  "updated_at": "2026-07-30T12:01:00+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Intercontinental Exchange to buy MarketAxess in $5.7 billion deal",
+      "published_at": "2026-07-30T11:49:51+00:00"
+    },
     {
       "source": "BBC",
       "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "published_at": "2026-07-30T09:35:28+00:00"
+      "published_at": "2026-07-30T11:48:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+      "published_at": "2026-07-30T11:45:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
+      "published_at": "2026-07-30T11:15:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil withholds approval of Trump's ambassador pick, deepening rift with US",
+      "published_at": "2026-07-30T11:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - UK banks’ risky sweet spot has further to run",
+      "published_at": "2026-07-30T10:57:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Giant iceberg turns over near Greenland's coast",
+      "published_at": "2026-07-30T10:54:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India takes action against 90% of inspected high-risk pharmaceutical facilities, regulator says",
+      "published_at": "2026-07-30T10:50:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "published_at": "2026-07-30T10:49:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nicaraguan leader proposes extending presidential term by another year",
+      "published_at": "2026-07-30T10:34:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Samsung sees chip shortage extending to 2028, touts long-term supply deals",
+      "published_at": "2026-07-30T10:32:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France, Spain and Greece battle wildfires as Europe swelters",
+      "published_at": "2026-07-30T10:23:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
+      "published_at": "2026-07-30T09:53:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia confederation chief says FIFA's lack of consultation over World Cup plan 'totally unacceptable'",
+      "published_at": "2026-07-30T09:41:35+00:00"
     },
     {
       "source": "BBC",
       "text": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
       "published_at": "2026-07-30T09:34:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Digital habits that rob attention and energy — and how to combat them",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Congress hasn't passed AI rules for schools. So these 98 teens did it themselves",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
-      "published_at": "2026-07-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. resumes strikes on Iran in retaliation for attack on American troops",
-      "published_at": "2026-07-30T08:55:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "published_at": "2026-07-30T08:42:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump considering AI controls after OpenAI hacking incidents",
-      "published_at": "2026-07-30T07:23:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gillette India posts quarterly profit rise on steady demand for grooming products",
-      "published_at": "2026-07-30T06:54:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea curbs may not save investors slaughtered by $2 trillion rout",
-      "published_at": "2026-07-30T06:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain's BAE Systems lifts 2026 outlook as defence orders soar",
-      "published_at": "2026-07-30T06:14:00+00:00"
     }
   ]
 }
