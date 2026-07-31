@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-31T08:07:49+00:00",
+  "updated_at": "2026-07-31T11:33:57+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "published_at": "2026-07-31T11:33:34+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "From ‘weird’ to crucial: Sherry Madera on CDP’s 25-year climate data revolution - reuters.com",
-      "published_at": "2026-07-31T08:00:00+00:00"
+      "text": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
+      "published_at": "2026-07-31T11:07:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After becoming Britain's youngest undisputed champion, Scotney eager to start all over again",
+      "published_at": "2026-07-31T10:57:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Weekend Reads: Rusty refineries, AI uncertainty and Reza Pahlavi",
+      "published_at": "2026-07-31T10:51:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Failure to communicate",
+      "published_at": "2026-07-31T10:44:24+00:00"
     },
     {
       "source": "BBC",
-      "text": "Fifa says 'nobody selling football' as plan continues",
-      "published_at": "2026-07-31T07:51:05+00:00"
+      "text": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "published_at": "2026-07-31T10:32:17+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Spain estimates 49,000 migrants crossed into Ceuta over past 24 hours - reuters.com",
-      "published_at": "2026-07-31T07:39:10+00:00"
+      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+      "published_at": "2026-07-31T10:19:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic's Claude AI escapes to hack into three organisations",
+      "published_at": "2026-07-31T10:18:54+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Thales signs tender offer deal to buy drone maker Exail - reuters.com",
-      "published_at": "2026-07-31T07:33:40+00:00"
+      "text": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
+      "published_at": "2026-07-31T10:13:22+00:00"
     },
     {
       "source": "BBC",
       "text": "AC Milan and Italy great Baresi dies aged 66",
-      "published_at": "2026-07-31T07:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "published_at": "2026-07-31T07:03:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Myanmar's Min Aung Hlaing criticises ASEAN, sets out government agenda - reuters.com",
-      "published_at": "2026-07-31T06:51:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BOJ Governor Ueda's comments at news conference - reuters.com",
-      "published_at": "2026-07-31T06:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Four bodies located after 10 climbers go missing on Pakistani mountain, sources say - reuters.com",
-      "published_at": "2026-07-31T06:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What is AI model distillation and why is it becoming a US-China flashpoint? - reuters.com",
-      "published_at": "2026-07-31T06:08:00+00:00"
+      "published_at": "2026-07-31T09:44:48+00:00"
     },
     {
       "source": "NPR",
-      "text": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
-      "published_at": "2026-07-31T06:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Europe makes trillion-euro bet to revive its battered industry - reuters.com",
-      "published_at": "2026-07-31T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sleepless night near border of Spain's Ceuta as migrants torch vehicles - reuters.com",
-      "published_at": "2026-07-31T05:59:00+00:00"
+      "text": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "published_at": "2026-07-31T09:01:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Death toll from southwestern Japan quake climbs to 34",
-      "published_at": "2026-07-31T05:40:16+00:00"
+      "text": "Democrats show divisions on Israel amid competitive midterm elections",
+      "published_at": "2026-07-31T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "published_at": "2026-07-31T05:21:18+00:00"
+      "source": "NPR",
+      "text": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "published_at": "2026-07-31T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "published_at": "2026-07-31T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "450K borrowers say they were ripped off. Their student loans are being erased",
+      "published_at": "2026-07-31T09:00:00+00:00"
     }
   ]
 }
