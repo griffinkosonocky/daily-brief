@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-31T18:41:28+00:00",
+  "updated_at": "2026-07-31T20:37:53+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Body of US climber the latest recovered after Pakistan avalanche",
+      "published_at": "2026-07-31T20:22:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
+      "published_at": "2026-07-31T20:05:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
+      "published_at": "2026-07-31T19:52:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security",
+      "published_at": "2026-07-31T18:34:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sam Fender and Olivia Dean duet becomes longest-running top single in UK",
+      "published_at": "2026-07-31T18:19:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House official says no weaponized drones seized during FIFA World Cup",
+      "published_at": "2026-07-31T18:13:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions",
+      "published_at": "2026-07-31T17:55:30+00:00"
+    },
     {
       "source": "NPR",
       "text": "Google pauses AI satellite images, after fears of deepfakes in the sky",
@@ -8,18 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
-      "published_at": "2026-07-31T17:47:34+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
       "published_at": "2026-07-31T17:40:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's IndiGo to discontinue widebody operations, end Norse Atlantic lease",
-      "published_at": "2026-07-31T17:24:24+00:00"
     },
     {
       "source": "Reuters",
@@ -37,44 +62,19 @@
       "published_at": "2026-07-31T17:02:50+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-      "published_at": "2026-07-31T16:41:59+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Vitol, Cargill, Glencore cut ties with Radiant World - report",
       "published_at": "2026-07-31T16:39:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ares hauls record $36 billion on private credit fundraising momentum",
-      "published_at": "2026-07-31T16:19:12+00:00"
+      "text": "Poland summons Russian ambassador after missile incident",
+      "published_at": "2026-07-31T16:15:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "US Treasury informed banks that it may intervene in Japan's yen, source says",
       "published_at": "2026-07-31T16:14:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What's in the Gaza peace deal roadmap?",
-      "published_at": "2026-07-31T16:00:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF unlocks about $1.8 billion for Egypt after reviews",
-      "published_at": "2026-07-31T15:47:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thales signs tender offer deal to buy drone maker Exail",
-      "published_at": "2026-07-31T15:38:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "published_at": "2026-07-31T15:18:31+00:00"
     }
   ]
 }
