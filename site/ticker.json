@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-07-31T04:33:44+00:00",
+  "updated_at": "2026-07-31T08:07:49+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "From ‘weird’ to crucial: Sherry Madera on CDP’s 25-year climate data revolution - reuters.com",
+      "published_at": "2026-07-31T08:00:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Anthropic says Claude AI hacked three organisations during cyber tests",
-      "published_at": "2026-07-31T04:31:30+00:00"
+      "text": "Fifa says 'nobody selling football' as plan continues",
+      "published_at": "2026-07-31T07:51:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "What is US President Donald Trump's 'Board of Peace'?",
-      "published_at": "2026-07-31T03:52:00+00:00"
+      "text": "Spain estimates 49,000 migrants crossed into Ceuta over past 24 hours - reuters.com",
+      "published_at": "2026-07-31T07:39:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thales signs tender offer deal to buy drone maker Exail - reuters.com",
+      "published_at": "2026-07-31T07:33:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "AC Milan and Italy great Baresi dies aged 66",
+      "published_at": "2026-07-31T07:27:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "published_at": "2026-07-31T03:24:14+00:00"
+      "published_at": "2026-07-31T07:03:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Myanmar's Min Aung Hlaing criticises ASEAN, sets out government agenda - reuters.com",
+      "published_at": "2026-07-31T06:51:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BOJ Governor Ueda's comments at news conference - reuters.com",
+      "published_at": "2026-07-31T06:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four bodies located after 10 climbers go missing on Pakistani mountain, sources say - reuters.com",
+      "published_at": "2026-07-31T06:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What is AI model distillation and why is it becoming a US-China flashpoint? - reuters.com",
+      "published_at": "2026-07-31T06:08:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
+      "published_at": "2026-07-31T06:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe makes trillion-euro bet to revive its battered industry - reuters.com",
+      "published_at": "2026-07-31T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sleepless night near border of Spain's Ceuta as migrants torch vehicles - reuters.com",
+      "published_at": "2026-07-31T05:59:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Death toll from southwestern Japan quake climbs to 34",
+      "published_at": "2026-07-31T05:40:16+00:00"
     },
     {
       "source": "BBC",
-      "text": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "published_at": "2026-07-31T02:41:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's factory activity shrinks in July as demand falters, fuelling slowdown concerns",
-      "published_at": "2026-07-31T01:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia stocks surge, yen steals spotlight after suspected intervention",
-      "published_at": "2026-07-31T01:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Death toll from Japan earthquake rises to 34",
-      "published_at": "2026-07-31T01:28:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "published_at": "2026-07-31T00:52:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen remains under pressure after BOJ kept rates unchanged",
-      "published_at": "2026-07-31T00:29:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan June factory output rises 1.3% month-on-month",
-      "published_at": "2026-07-30T23:58:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BHP Port Hedland iron ore workers to strike August 8-9, union says",
-      "published_at": "2026-07-30T23:56:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
-      "published_at": "2026-07-30T23:47:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea conducts rare forex intervention alongside Japan, source says",
-      "published_at": "2026-07-30T23:43:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina's Milei unveils bill to shield central bank from political pressure",
-      "published_at": "2026-07-30T23:34:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK PM Burnham to give mayors a share of income tax in devolution drive",
-      "published_at": "2026-07-30T21:33:44+00:00"
+      "text": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "published_at": "2026-07-31T05:21:18+00:00"
     }
   ]
 }
