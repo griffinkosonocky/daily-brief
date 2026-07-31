@@ -1,20 +1,55 @@
 {
-  "updated_at": "2026-07-31T12:26:50+00:00",
+  "updated_at": "2026-07-31T14:29:48+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "published_at": "2026-07-31T12:00:18+00:00"
+      "published_at": "2026-07-31T14:20:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
-      "published_at": "2026-07-31T11:44:56+00:00"
+      "text": "Britain asks Cyprus to extradite man suspected of spying for Iran",
+      "published_at": "2026-07-31T14:15:33+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
-      "published_at": "2026-07-31T11:31:27+00:00"
+      "text": "Vitol, Cargill, Glencore cut ties with Radiant World, Bloomberg News reports",
+      "published_at": "2026-07-31T13:59:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian e-retailer Ozon says Ukrainian drone alert forces it to evacuate Tatarstan warehouse",
+      "published_at": "2026-07-31T13:38:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canadian economy set for best quarterly growth in more than three years",
+      "published_at": "2026-07-31T13:35:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition",
+      "published_at": "2026-07-31T13:34:30+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+      "published_at": "2026-07-31T13:22:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain says huge surge across border into enclave has reversed, half of migrants go back",
+      "published_at": "2026-07-31T13:03:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Coinbase shares take hit on quarterly loss, analysts back diversification strategy",
+      "published_at": "2026-07-31T12:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil's budget deficit nears pandemic-era levels as fiscal concerns linger",
+      "published_at": "2026-07-31T12:45:22+00:00"
     },
     {
       "source": "NPR",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "South Africa confirm exit of Belgian coach Broos",
+      "published_at": "2026-07-31T11:05:38+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US-backed Venezuela talks to begin without opposition leader Machado",
       "published_at": "2026-07-31T11:02:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "After becoming Britain's youngest undisputed champion, Scotney eager to start all over again",
-      "published_at": "2026-07-31T10:57:45+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Weekend Reads: Rusty refineries, AI uncertainty and Reza Pahlavi",
       "published_at": "2026-07-31T10:51:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Failure to communicate",
-      "published_at": "2026-07-31T10:44:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "published_at": "2026-07-31T10:32:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anthropic's Claude AI escapes to hack into three organisations",
-      "published_at": "2026-07-31T10:18:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "AC Milan and Italy great Baresi dies aged 66",
-      "published_at": "2026-07-31T09:44:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-      "published_at": "2026-07-31T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Democrats show divisions on Israel amid competitive midterm elections",
-      "published_at": "2026-07-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-      "published_at": "2026-07-31T09:00:00+00:00"
     }
   ]
 }
