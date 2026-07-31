@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-07-31T20:37:53+00:00",
+  "updated_at": "2026-07-31T22:13:18+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports",
+      "published_at": "2026-07-31T21:57:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former China State Grid Chairman Xin Baoan under investigation, anti-graft watchdog says",
+      "published_at": "2026-07-31T21:48:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
+      "published_at": "2026-07-31T21:40:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top US data center-serving utility Dominion tops profit estimates",
+      "published_at": "2026-07-31T21:37:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "CONMEBOL seeks more information, launches consultations on FIFA World Cup stake sale proposal",
+      "published_at": "2026-07-31T21:31:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
+      "published_at": "2026-07-31T20:41:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Climate adaptation at its limits, says one scientist",
+      "published_at": "2026-07-31T20:28:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Drone delivery helps in Rwanda, but only so much",
+      "published_at": "2026-07-31T20:28:41+00:00"
+    },
     {
       "source": "BBC",
       "text": "Body of US climber the latest recovered after Pakistan avalanche",
@@ -8,13 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
-      "published_at": "2026-07-31T20:05:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
-      "published_at": "2026-07-31T19:52:30+00:00"
+      "text": "White House official says no weaponized drones seized during FIFA World Cup",
+      "published_at": "2026-07-31T19:59:41+00:00"
     },
     {
       "source": "Reuters",
@@ -27,16 +62,6 @@
       "published_at": "2026-07-31T18:19:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "White House official says no weaponized drones seized during FIFA World Cup",
-      "published_at": "2026-07-31T18:13:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions",
-      "published_at": "2026-07-31T17:55:30+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Google pauses AI satellite images, after fears of deepfakes in the sky",
       "published_at": "2026-07-31T17:48:26+00:00"
@@ -47,34 +72,9 @@
       "published_at": "2026-07-31T17:40:39+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
-      "published_at": "2026-07-31T17:14:15+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "published_at": "2026-07-31T17:03:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Top US data center-serving utility Dominion tops profit estimates",
-      "published_at": "2026-07-31T17:02:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vitol, Cargill, Glencore cut ties with Radiant World - report",
-      "published_at": "2026-07-31T16:39:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland summons Russian ambassador after missile incident",
-      "published_at": "2026-07-31T16:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury informed banks that it may intervene in Japan's yen, source says",
-      "published_at": "2026-07-31T16:14:09+00:00"
     }
   ]
 }
