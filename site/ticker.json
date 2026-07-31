@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-31T16:52:57+00:00",
+  "updated_at": "2026-07-31T18:41:28+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "published_at": "2026-07-31T17:48:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
+      "published_at": "2026-07-31T17:47:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
+      "published_at": "2026-07-31T17:40:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's IndiGo to discontinue widebody operations, end Norse Atlantic lease",
+      "published_at": "2026-07-31T17:24:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+      "published_at": "2026-07-31T17:14:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "published_at": "2026-07-31T17:03:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top US data center-serving utility Dominion tops profit estimates",
+      "published_at": "2026-07-31T17:02:50+00:00"
+    },
     {
       "source": "BBC",
       "text": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
@@ -8,18 +43,18 @@
     },
     {
       "source": "Reuters",
-      "text": "US Treasury informed banks that it may intervene in Japan's yen, source says - reuters.com",
+      "text": "Vitol, Cargill, Glencore cut ties with Radiant World - report",
+      "published_at": "2026-07-31T16:39:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ares hauls record $36 billion on private credit fundraising momentum",
+      "published_at": "2026-07-31T16:19:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Treasury informed banks that it may intervene in Japan's yen, source says",
       "published_at": "2026-07-31T16:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain says migrants are returning from Ceuta after 57 killed in border rush - reuters.com",
-      "published_at": "2026-07-31T16:12:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Europe's shrinking rivers curb power output, transport and company earnings - reuters.com",
-      "published_at": "2026-07-31T16:09:43+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions - reuters.com",
-      "published_at": "2026-07-31T15:55:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF unlocks about $1.8 billion for Egypt after reviews - reuters.com",
+      "text": "IMF unlocks about $1.8 billion for Egypt after reviews",
       "published_at": "2026-07-31T15:47:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Thales signs tender offer deal to buy drone maker Exail - reuters.com",
+      "text": "Thales signs tender offer deal to buy drone maker Exail",
       "published_at": "2026-07-31T15:38:06+00:00"
     },
     {
       "source": "BBC",
       "text": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "published_at": "2026-07-31T15:18:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain asks Cyprus to extradite man suspected of spying for Iran - reuters.com",
-      "published_at": "2026-07-31T14:46:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Keeping cool without AC: Our readers share their tips",
-      "published_at": "2026-07-31T14:44:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports and global food security - reuters.com",
-      "published_at": "2026-07-31T14:41:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vitol, Cargill, Glencore cut ties with Radiant World, Bloomberg News reports - reuters.com",
-      "published_at": "2026-07-31T14:32:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "published_at": "2026-07-31T14:26:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Maruti Suzuki expects margins to improve as commodity costs ease - reuters.com",
-      "published_at": "2026-07-31T14:23:00+00:00"
     }
   ]
 }
