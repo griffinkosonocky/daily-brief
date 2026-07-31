@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-07-31T00:12:51+00:00",
+  "updated_at": "2026-07-31T04:33:44+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "published_at": "2026-07-31T04:31:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What is US President Donald Trump's 'Board of Peace'?",
+      "published_at": "2026-07-31T03:52:00+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "published_at": "2026-07-31T00:07:17+00:00"
+      "published_at": "2026-07-31T03:24:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "published_at": "2026-07-31T02:41:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's factory activity shrinks in July as demand falters, fuelling slowdown concerns",
+      "published_at": "2026-07-31T01:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia stocks surge, yen steals spotlight after suspected intervention",
+      "published_at": "2026-07-31T01:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Death toll from Japan earthquake rises to 34",
+      "published_at": "2026-07-31T01:28:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "published_at": "2026-07-31T00:52:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yen remains under pressure after BOJ kept rates unchanged",
+      "published_at": "2026-07-31T00:29:00+00:00"
     },
     {
       "source": "Reuters",
@@ -13,8 +53,18 @@
     },
     {
       "source": "Reuters",
-      "text": "BOJ to keep rates steady, deliver hawkish signal as government props up yen",
-      "published_at": "2026-07-30T23:41:46+00:00"
+      "text": "BHP Port Hedland iron ore workers to strike August 8-9, union says",
+      "published_at": "2026-07-30T23:56:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
+      "published_at": "2026-07-30T23:47:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea conducts rare forex intervention alongside Japan, source says",
+      "published_at": "2026-07-30T23:43:00+00:00"
     },
     {
       "source": "Reuters",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says 'Board of Peace' reaches Gaza disarmament deal",
-      "published_at": "2026-07-30T22:51:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
-      "published_at": "2026-07-30T22:19:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Microsoft sets record with near $450 billion single-day gain in market value",
-      "published_at": "2026-07-30T21:31:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen surges, analysts suspect official Japanese intervention",
-      "published_at": "2026-07-30T21:29:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "published_at": "2026-07-30T21:24:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Leader of Spain's Ceuta warns of emergency as 1,500 migrants arrive in one week",
-      "published_at": "2026-07-30T21:12:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan conducts massive yen-buying intervention, Nikkei reports",
-      "published_at": "2026-07-30T21:09:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Soccer-Reaction as UEFA vote to boycott World Cup and CONCACAF reject FIFA investor plans",
-      "published_at": "2026-07-30T21:04:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports",
-      "published_at": "2026-07-30T20:59:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FAA official who led response to fatal collision is stepping down",
-      "published_at": "2026-07-30T20:51:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "published_at": "2026-07-30T20:37:59+00:00"
+      "text": "UK PM Burnham to give mayors a share of income tax in devolution drive",
+      "published_at": "2026-07-30T21:33:44+00:00"
     }
   ]
 }
