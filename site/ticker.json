@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-07-31T11:33:57+00:00",
+  "updated_at": "2026-07-31T12:26:50+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
-      "published_at": "2026-07-31T11:33:34+00:00"
+      "text": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "published_at": "2026-07-31T12:00:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
+      "published_at": "2026-07-31T11:44:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+      "published_at": "2026-07-31T11:31:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+      "published_at": "2026-07-31T11:30:26+00:00"
     },
     {
       "source": "Reuters",
       "text": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
       "published_at": "2026-07-31T11:07:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US-backed Venezuela talks to begin without opposition leader Machado",
+      "published_at": "2026-07-31T11:02:37+00:00"
     },
     {
       "source": "Reuters",
@@ -32,19 +52,9 @@
       "published_at": "2026-07-31T10:32:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
-      "published_at": "2026-07-31T10:19:59+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Anthropic's Claude AI escapes to hack into three organisations",
       "published_at": "2026-07-31T10:18:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
-      "published_at": "2026-07-31T10:13:22+00:00"
     },
     {
       "source": "BBC",
@@ -64,16 +74,6 @@
     {
       "source": "NPR",
       "text": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-      "published_at": "2026-07-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-      "published_at": "2026-07-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "450K borrowers say they were ripped off. Their student loans are being erased",
       "published_at": "2026-07-31T09:00:00+00:00"
     }
   ]

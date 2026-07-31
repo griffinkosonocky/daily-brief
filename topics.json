@@ -303,7 +303,7 @@
     "title": "The Meiji Restoration",
     "era": "Modern",
     "region": "East Asia",
-    "used_on": null
+    "used_on": "2026-07-31"
   },
   {
     "title": "The Taiping Rebellion",
@@ -357,6 +357,186 @@
     "title": "The Bandung Conference and the Non-Aligned World",
     "era": "Modern",
     "region": "Global South",
+    "used_on": null
+  },
+  {
+    "title": "The Mycenaean Collapse and the Bronze Age Catastrophe",
+    "era": "Ancient",
+    "region": "Eastern Mediterranean",
+    "used_on": null
+  },
+  {
+    "title": "The Nok Culture and the Iron Age in West Africa",
+    "era": "Ancient",
+    "region": "West Africa",
+    "used_on": null
+  },
+  {
+    "title": "The Silk Road's First Routes Under the Han Dynasty",
+    "era": "Ancient",
+    "region": "Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Nabataean Kingdom and the Incense Trade",
+    "era": "Ancient",
+    "region": "Middle East",
+    "used_on": null
+  },
+  {
+    "title": "The Punic Wars and Rome's Rise to Mediterranean Dominance",
+    "era": "Ancient",
+    "region": "Mediterranean",
+    "used_on": null
+  },
+  {
+    "title": "The Jewish Diaspora After the Fall of Jerusalem",
+    "era": "Ancient",
+    "region": "Mediterranean and Near East",
+    "used_on": null
+  },
+  {
+    "title": "The Parthian Empire's Challenge to Rome",
+    "era": "Ancient",
+    "region": "Middle East",
+    "used_on": null
+  },
+  {
+    "title": "The Kushan Empire and the Crossroads of Empires",
+    "era": "Ancient",
+    "region": "Central and South Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Tocharians and Indo-European Peoples of the Tarim Basin",
+    "era": "Ancient",
+    "region": "Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Aksumite Conquest of the Arabian Peninsula",
+    "era": "Ancient",
+    "region": "Horn of Africa and Arabia",
+    "used_on": null
+  },
+  {
+    "title": "The Cahokia Mound City and Mississippian Civilization",
+    "era": "Medieval",
+    "region": "North America",
+    "used_on": null
+  },
+  {
+    "title": "The Khmer Empire at Angkor Wat",
+    "era": "Medieval",
+    "region": "Southeast Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Srivijaya-Sailendra Naval Competition",
+    "era": "Medieval",
+    "region": "Southeast Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Ummayad Expansion and the Umayyad Caliphate",
+    "era": "Medieval",
+    "region": "Mediterranean and Middle East",
+    "used_on": null
+  },
+  {
+    "title": "The Angor Wat's Construction and Khmer Engineering",
+    "era": "Medieval",
+    "region": "Southeast Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Reconquista and Christian Expansion in Iberia",
+    "era": "Medieval",
+    "region": "Iberian Peninsula",
+    "used_on": null
+  },
+  {
+    "title": "The Seljuk Turks and the Transformation of Anatolia",
+    "era": "Medieval",
+    "region": "Anatolia and Middle East",
+    "used_on": null
+  },
+  {
+    "title": "The Saladin's Unification of the Muslim World",
+    "era": "Medieval",
+    "region": "Middle East and North Africa",
+    "used_on": null
+  },
+  {
+    "title": "The Mongol Conquests Under Genghis Khan",
+    "era": "Medieval",
+    "region": "Central Asia and East Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Hanseatic League and Baltic Trade Networks",
+    "era": "Medieval",
+    "region": "Northern Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Hundred Years' War and the Birth of Nations",
+    "era": "Medieval",
+    "region": "Western Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Council of Constance and Church Reform",
+    "era": "Medieval",
+    "region": "Central Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Age of Exploration: Early Portuguese Voyages",
+    "era": "Early Modern",
+    "region": "Atlantic and Indian Oceans",
+    "used_on": null
+  },
+  {
+    "title": "The Columbian Exchange and Global Consequences",
+    "era": "Early Modern",
+    "region": "Americas and Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Ottoman-Safavid Rivalry and the Shaping of the Middle East",
+    "era": "Early Modern",
+    "region": "Middle East and Anatolia",
+    "used_on": null
+  },
+  {
+    "title": "The Expansion of the Qing Dynasty into Central Asia",
+    "era": "Early Modern",
+    "region": "East and Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Scientific Revolution and the New Worldview",
+    "era": "Early Modern",
+    "region": "Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Enlightenment and the Reshaping of Political Thought",
+    "era": "Early Modern",
+    "region": "Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Industrial Revolution and the Transformation of Labor",
+    "era": "Modern",
+    "region": "Europe and North America",
+    "used_on": null
+  },
+  {
+    "title": "The Opium Wars and Western Imperialism in China",
+    "era": "Modern",
+    "region": "East Asia",
     "used_on": null
   }
 ]
