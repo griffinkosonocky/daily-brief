@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-07-30T22:16:07+00:00",
+  "updated_at": "2026-07-31T00:12:51+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "published_at": "2026-07-31T00:07:17+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Venezuela family seeks new beginning far from ground zero",
-      "published_at": "2026-07-30T21:37:11+00:00"
+      "text": "Japan June factory output rises 1.3% month-on-month",
+      "published_at": "2026-07-30T23:58:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BOJ to keep rates steady, deliver hawkish signal as government props up yen",
+      "published_at": "2026-07-30T23:41:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina's Milei unveils bill to shield central bank from political pressure",
+      "published_at": "2026-07-30T23:34:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says 'Board of Peace' reaches Gaza disarmament deal",
+      "published_at": "2026-07-30T22:51:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iron ore giants BHP and Rio are morphing into copper plays",
+      "published_at": "2026-07-30T22:19:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Microsoft sets record with near $450 billion single-day gain in market value",
+      "published_at": "2026-07-30T21:31:16+00:00"
     },
     {
       "source": "Reuters",
@@ -23,58 +53,28 @@
     },
     {
       "source": "Reuters",
+      "text": "Japan conducts massive yen-buying intervention, Nikkei reports",
+      "published_at": "2026-07-30T21:09:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Soccer-Reaction as UEFA vote to boycott World Cup and CONCACAF reject FIFA investor plans",
+      "published_at": "2026-07-30T21:04:19+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports",
       "published_at": "2026-07-30T20:59:46+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Migrants pour into Spain's Ceuta from Morocco, military called in",
-      "published_at": "2026-07-30T20:56:59+00:00"
+      "text": "FAA official who led response to fatal collision is stepping down",
+      "published_at": "2026-07-30T20:51:43+00:00"
     },
     {
       "source": "NPR",
       "text": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
       "published_at": "2026-07-30T20:37:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "published_at": "2026-07-30T20:37:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UEFA to boycott World Cup and FIFA tournaments over stake sale plans",
-      "published_at": "2026-07-30T20:34:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reddit expects revenue above estimates as AI tools attract advertisers",
-      "published_at": "2026-07-30T20:23:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Microsoft set for record one-day market cap gain after upbeat Azure forecast",
-      "published_at": "2026-07-30T19:58:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CONCACAF rejects FIFA World Cup Stake sale proposal",
-      "published_at": "2026-07-30T19:42:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "published_at": "2026-07-30T19:16:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Soccer-Reaction to UEFA votes to boycott World Cup over FIFA stake sale plans",
-      "published_at": "2026-07-30T18:18:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
-      "published_at": "2026-07-30T18:03:07+00:00"
     }
   ]
 }
