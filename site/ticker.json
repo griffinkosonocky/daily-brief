@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-08-01T07:36:15+00:00",
+  "updated_at": "2026-08-01T10:07:36+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "published_at": "2026-08-01T07:22:30+00:00"
+      "text": "Infantino on the brink? Who might replace him if he goes?",
+      "published_at": "2026-08-01T10:02:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "published_at": "2026-08-01T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "More than 25,000 children lose previous legal protections, as federal contract ends",
+      "published_at": "2026-08-01T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "published_at": "2026-08-01T09:36:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
+      "published_at": "2026-08-01T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+      "published_at": "2026-08-01T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+      "published_at": "2026-08-01T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+      "published_at": "2026-08-01T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+      "published_at": "2026-08-01T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "For sale: early access to Trump's Truth Social posts",
+      "published_at": "2026-08-01T09:00:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "published_at": "2026-08-01T07:21:46+00:00"
+      "published_at": "2026-08-01T08:24:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India's Modi says punishing student protesters will not resolve situation",
-      "published_at": "2026-08-01T05:53:00+00:00"
+      "text": "FIFA faces fresh transparency calls after retreat on World Cup sell-off plan",
+      "published_at": "2026-08-01T07:49:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "published_at": "2026-08-01T07:22:30+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "published_at": "2026-08-01T05:01:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-      "published_at": "2026-08-01T02:44:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "published_at": "2026-08-01T02:21:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
-      "published_at": "2026-08-01T02:08:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China conducts naval, air patrols around disputed shoal in South China Sea",
-      "published_at": "2026-08-01T02:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ransom notes tied to Nancy Guthrie kidnapping released six months into unsolved case",
-      "published_at": "2026-08-01T01:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea July exports beat forecasts on robust demand for AI investments",
-      "published_at": "2026-08-01T01:05:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "published_at": "2026-08-01T00:20:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Infantino on the brink? Who might replace him if he goes?",
-      "published_at": "2026-08-01T00:04:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "published_at": "2026-07-31T23:58:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How police in US are using the power of podcasts to crack unsolved murders",
-      "published_at": "2026-07-31T23:42:32+00:00"
     }
   ]
 }
