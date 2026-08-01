@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-08-01T00:09:25+00:00",
+  "updated_at": "2026-08-01T04:30:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "published_at": "2026-08-01T02:21:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+      "published_at": "2026-08-01T02:08:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ransom notes tied to Nancy Guthrie kidnapping released six months into unsolved case",
+      "published_at": "2026-08-01T01:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea July exports beat forecasts on robust demand for AI investments",
+      "published_at": "2026-08-01T01:05:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
       "published_at": "2026-07-31T23:24:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports",
-      "published_at": "2026-07-31T22:25:15+00:00"
     },
     {
       "source": "Reuters",
@@ -23,8 +38,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Top US data center-serving utility Dominion tops profit estimates",
-      "published_at": "2026-07-31T21:37:28+00:00"
+      "text": "Apple set to lose nearly $500 billion in value after weak forecast",
+      "published_at": "2026-07-31T21:39:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+      "published_at": "2026-07-31T21:28:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WestJet starts parking Boeing 737 jets ahead of looming labor strike",
+      "published_at": "2026-07-31T20:54:49+00:00"
     },
     {
       "source": "Reuters",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "White House official says no weaponized drones seized during FIFA World Cup",
-      "published_at": "2026-07-31T19:59:41+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security",
       "published_at": "2026-07-31T18:34:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions",
-      "published_at": "2026-07-31T17:55:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-      "published_at": "2026-07-31T17:48:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
-      "published_at": "2026-07-31T17:40:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "published_at": "2026-07-31T17:03:47+00:00"
     }
   ]
 }
