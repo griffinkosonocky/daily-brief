@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-01T10:07:36+00:00",
+  "updated_at": "2026-08-01T11:41:01+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+      "published_at": "2026-08-01T11:14:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BYD's sales rise for third month, buoyed by exports",
+      "published_at": "2026-08-01T11:06:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency",
+      "published_at": "2026-08-01T11:04:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain installs floating barrier in Ceuta after calm night following border rush",
+      "published_at": "2026-08-01T11:01:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "published_at": "2026-08-01T11:00:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "published_at": "2026-08-01T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino's FIFA future in jeopardy after private equity gamble backfires",
+      "published_at": "2026-08-01T10:22:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
+      "published_at": "2026-08-01T10:03:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Infantino on the brink? Who might replace him if he goes?",
@@ -17,6 +57,11 @@
       "published_at": "2026-08-01T10:00:00+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "published_at": "2026-08-01T09:51:05+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
       "published_at": "2026-08-01T09:36:05+00:00"
@@ -28,53 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-      "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-      "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-      "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
       "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "For sale: early access to Trump's Truth Social posts",
-      "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "published_at": "2026-08-01T08:24:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA faces fresh transparency calls after retreat on World Cup sell-off plan",
-      "published_at": "2026-08-01T07:49:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "published_at": "2026-08-01T07:22:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fifa scraps controversial World Cup investment plan",
-      "published_at": "2026-08-01T05:42:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "published_at": "2026-08-01T05:01:56+00:00"
     }
   ]
 }
