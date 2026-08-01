@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-07-31T22:13:18+00:00",
+  "updated_at": "2026-08-01T00:09:25+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "published_at": "2026-07-31T23:24:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports",
-      "published_at": "2026-07-31T21:57:27+00:00"
+      "published_at": "2026-07-31T22:25:15+00:00"
     },
     {
       "source": "Reuters",
@@ -20,11 +25,6 @@
       "source": "Reuters",
       "text": "Top US data center-serving utility Dominion tops profit estimates",
       "published_at": "2026-07-31T21:37:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CONMEBOL seeks more information, launches consultations on FIFA World Cup stake sale proposal",
-      "published_at": "2026-07-31T21:31:54+00:00"
     },
     {
       "source": "Reuters",
@@ -58,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Sam Fender and Olivia Dean duet becomes longest-running top single in UK",
-      "published_at": "2026-07-31T18:19:44+00:00"
+      "text": "US Treasury anti-money laundering chief Gacki to join Citi as global head of sanctions",
+      "published_at": "2026-07-31T17:55:30+00:00"
     },
     {
       "source": "NPR",
