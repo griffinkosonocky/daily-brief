@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-08-01T16:10:13+00:00",
+  "updated_at": "2026-08-01T18:08:22+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Italy putting nearly all major cities on highest heat alert",
+      "published_at": "2026-08-01T17:51:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump disputes his own Justice Department's findings on Reflecting Pool",
+      "published_at": "2026-08-01T17:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
+      "published_at": "2026-08-01T17:28:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "published_at": "2026-08-01T17:16:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Call for 'full review' as pressure grows on Infantino",
+      "published_at": "2026-08-01T17:07:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "published_at": "2026-08-01T16:16:16+00:00"
+    },
     {
       "source": "BBC",
       "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "published_at": "2026-08-01T15:46:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco",
-      "published_at": "2026-08-01T15:31:03+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +45,6 @@
       "source": "BBC",
       "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
       "published_at": "2026-08-01T15:00:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
-      "published_at": "2026-08-01T14:48:40+00:00"
     },
     {
       "source": "BBC",
@@ -48,33 +68,13 @@
     },
     {
       "source": "NPR",
-      "text": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+      "text": "How these slum dwellers went from one-room shacks to beautiful new apartments",
       "published_at": "2026-08-01T11:14:58+00:00"
     },
     {
       "source": "Reuters",
       "text": "BYD's sales rise for third month, buoyed by exports",
       "published_at": "2026-08-01T11:06:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "published_at": "2026-08-01T11:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Timeline of FIFA's stake sale plan: from proposal to dismissal under opposition",
-      "published_at": "2026-08-01T10:09:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Infantino on the brink? Who might replace him if he goes?",
-      "published_at": "2026-08-01T10:02:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "More than 25,000 children lose previous legal protections, as federal contract ends",
-      "published_at": "2026-08-01T10:00:00+00:00"
     }
   ]
 }
