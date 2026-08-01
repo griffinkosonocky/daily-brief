@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-01T04:30:07+00:00",
+  "updated_at": "2026-08-01T07:36:15+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "published_at": "2026-08-01T07:22:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "published_at": "2026-08-01T07:21:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Modi says punishing student protesters will not resolve situation",
+      "published_at": "2026-08-01T05:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fifa scraps controversial World Cup investment plan",
+      "published_at": "2026-08-01T05:42:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "published_at": "2026-08-01T05:01:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
+      "published_at": "2026-08-01T02:44:09+00:00"
+    },
     {
       "source": "BBC",
       "text": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
@@ -13,6 +43,11 @@
     },
     {
       "source": "Reuters",
+      "text": "China conducts naval, air patrols around disputed shoal in South China Sea",
+      "published_at": "2026-08-01T02:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Ransom notes tied to Nancy Guthrie kidnapping released six months into unsolved case",
       "published_at": "2026-08-01T01:08:00+00:00"
     },
@@ -22,59 +57,24 @@
       "published_at": "2026-08-01T01:05:00+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
-      "published_at": "2026-07-31T23:24:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former China State Grid Chairman Xin Baoan under investigation, anti-graft watchdog says",
-      "published_at": "2026-07-31T21:48:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
-      "published_at": "2026-07-31T21:40:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple set to lose nearly $500 billion in value after weak forecast",
-      "published_at": "2026-07-31T21:39:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chevron records highest quarterly profit in six years, beating analyst estimates",
-      "published_at": "2026-07-31T21:28:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WestJet starts parking Boeing 737 jets ahead of looming labor strike",
-      "published_at": "2026-07-31T20:54:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain says migrants are returning from Ceuta after 57 die in border rush",
-      "published_at": "2026-07-31T20:41:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Climate adaptation at its limits, says one scientist",
-      "published_at": "2026-07-31T20:28:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Drone delivery helps in Rwanda, but only so much",
-      "published_at": "2026-07-31T20:28:41+00:00"
+      "source": "BBC",
+      "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "published_at": "2026-08-01T00:20:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Body of US climber the latest recovered after Pakistan avalanche",
-      "published_at": "2026-07-31T20:22:46+00:00"
+      "text": "Infantino on the brink? Who might replace him if he goes?",
+      "published_at": "2026-08-01T00:04:26+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Russian grain lobby says Kyiv's attacks threaten Black Sea exports, global food security",
-      "published_at": "2026-07-31T18:34:09+00:00"
+      "source": "BBC",
+      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "published_at": "2026-07-31T23:58:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How police in US are using the power of podcasts to crack unsolved murders",
+      "published_at": "2026-07-31T23:42:32+00:00"
     }
   ]
 }
