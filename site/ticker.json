@@ -1,30 +1,35 @@
 {
-  "updated_at": "2026-08-01T14:38:55+00:00",
+  "updated_at": "2026-08-01T16:10:13+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "published_at": "2026-08-01T15:46:08+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
-      "published_at": "2026-08-01T14:28:26+00:00"
+      "text": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco",
+      "published_at": "2026-08-01T15:31:03+00:00"
     },
     {
       "source": "BBC",
       "text": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "published_at": "2026-08-01T14:11:40+00:00"
+      "published_at": "2026-08-01T15:25:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "published_at": "2026-08-01T15:00:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
+      "published_at": "2026-08-01T14:48:40+00:00"
     },
     {
       "source": "BBC",
       "text": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "published_at": "2026-08-01T13:35:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "published_at": "2026-08-01T12:43:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
-      "published_at": "2026-08-01T12:30:08+00:00"
     },
     {
       "source": "BBC",
@@ -65,11 +70,6 @@
       "source": "BBC",
       "text": "Infantino on the brink? Who might replace him if he goes?",
       "published_at": "2026-08-01T10:02:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "published_at": "2026-08-01T10:00:00+00:00"
     },
     {
       "source": "NPR",
