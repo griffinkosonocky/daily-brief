@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-01T12:09:11+00:00",
+  "updated_at": "2026-08-01T14:38:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses",
+      "published_at": "2026-08-01T14:28:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "published_at": "2026-08-01T14:11:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "published_at": "2026-08-01T13:35:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "published_at": "2026-08-01T12:43:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
+      "published_at": "2026-08-01T12:30:08+00:00"
+    },
     {
       "source": "BBC",
       "text": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
@@ -12,19 +37,9 @@
       "published_at": "2026-08-01T12:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "published_at": "2026-08-01T11:52:29+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "The Week in Breakingviews: Wall Street rainstorms",
       "published_at": "2026-08-01T11:36:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino's FIFA future in jeopardy after private equity gamble backfires",
-      "published_at": "2026-08-01T11:19:17+00:00"
     },
     {
       "source": "NPR",
@@ -37,24 +52,14 @@
       "published_at": "2026-08-01T11:06:11+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Spain installs floating barrier in Ceuta after calm night following border rush",
-      "published_at": "2026-08-01T11:01:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "published_at": "2026-08-01T11:00:05+00:00"
-    },
-    {
       "source": "NPR",
       "text": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
       "published_at": "2026-08-01T11:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
-      "published_at": "2026-08-01T10:03:45+00:00"
+      "text": "Timeline of FIFA's stake sale plan: from proposal to dismissal under opposition",
+      "published_at": "2026-08-01T10:09:44+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "NPR",
       "text": "More than 25,000 children lose previous legal protections, as federal contract ends",
       "published_at": "2026-08-01T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "published_at": "2026-08-01T09:51:05+00:00"
     }
   ]
 }
