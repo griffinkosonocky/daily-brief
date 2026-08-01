@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-01T11:41:01+00:00",
+  "updated_at": "2026-08-01T12:09:11+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "published_at": "2026-08-01T12:04:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: Remembering Margo Howard",
+      "published_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "published_at": "2026-08-01T11:52:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Week in Breakingviews: Wall Street rainstorms",
+      "published_at": "2026-08-01T11:36:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino's FIFA future in jeopardy after private equity gamble backfires",
+      "published_at": "2026-08-01T11:19:17+00:00"
+    },
     {
       "source": "NPR",
       "text": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
@@ -10,11 +35,6 @@
       "source": "Reuters",
       "text": "BYD's sales rise for third month, buoyed by exports",
       "published_at": "2026-08-01T11:06:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency",
-      "published_at": "2026-08-01T11:04:32+00:00"
     },
     {
       "source": "Reuters",
@@ -30,11 +50,6 @@
       "source": "NPR",
       "text": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
       "published_at": "2026-08-01T11:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino's FIFA future in jeopardy after private equity gamble backfires",
-      "published_at": "2026-08-01T10:22:20+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "published_at": "2026-08-01T09:51:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "published_at": "2026-08-01T09:36:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
-      "published_at": "2026-08-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-      "published_at": "2026-08-01T09:00:00+00:00"
     }
   ]
 }
