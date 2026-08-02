@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-02T19:23:31+00:00",
+  "updated_at": "2026-08-02T21:07:09+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-      "published_at": "2026-08-02T19:15:57+00:00"
+      "text": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "published_at": "2026-08-02T20:36:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "published_at": "2026-08-02T19:53:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
+      "published_at": "2026-08-02T19:17:05+00:00"
     },
     {
       "source": "Reuters",
@@ -12,9 +22,24 @@
       "published_at": "2026-08-02T19:13:54+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Chelsea sign Barco from Strasbourg until 2033",
+      "published_at": "2026-08-02T19:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hungary PM flags 'critical' days ahead with looming nuclear shutdown",
+      "published_at": "2026-08-02T18:40:54+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
       "published_at": "2026-08-02T18:31:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
+      "published_at": "2026-08-02T17:46:18+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
       "published_at": "2026-08-02T15:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Juventus sign young Bosnian winger Alajbegovic",
-      "published_at": "2026-08-02T15:29:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-      "published_at": "2026-08-02T13:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
-      "published_at": "2026-08-02T13:07:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
-      "published_at": "2026-08-02T12:48:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
-      "published_at": "2026-08-02T12:00:00+00:00"
     }
   ]
 }
