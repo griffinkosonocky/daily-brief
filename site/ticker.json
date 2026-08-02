@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-02T09:17:17+00:00",
+  "updated_at": "2026-08-02T11:31:11+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "published_at": "2026-08-02T09:10:51+00:00"
+      "published_at": "2026-08-02T11:12:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why is the rate of premature births so high in this community?",
+      "published_at": "2026-08-02T11:03:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "It was about the adventure, says fastest runner to cross the Alps",
+      "published_at": "2026-08-02T10:59:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "published_at": "2026-08-02T10:54:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "published_at": "2026-08-02T10:46:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "published_at": "2026-08-02T10:32:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Washington state wildfires trigger evacuations",
+      "published_at": "2026-08-02T10:20:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "published_at": "2026-08-02T10:11:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal",
+      "published_at": "2026-08-02T09:10:58+00:00"
     },
     {
       "source": "NPR",
@@ -17,6 +57,16 @@
       "published_at": "2026-08-02T09:00:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China's central bank pledges timely policy tool adjustment",
+      "published_at": "2026-08-02T08:47:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA chief Infantino's position looks unacceptable, head of European leagues says",
+      "published_at": "2026-08-02T08:19:43+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
       "published_at": "2026-08-02T08:01:27+00:00"
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
       "published_at": "2026-08-02T07:58:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA chief Infantino's position looks unacceptable, head of European leagues says",
-      "published_at": "2026-08-02T07:52:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says he's cancelling Iran strikes, deal pending",
-      "published_at": "2026-08-02T07:34:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Holcim to sell majority stake in Philippines unit to China's Huaxin for $527 million",
-      "published_at": "2026-08-02T07:24:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WestJet flight attendants go on strike after talks fall through",
-      "published_at": "2026-08-02T06:16:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "published_at": "2026-08-02T05:40:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "published_at": "2026-08-02T05:26:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Landslide death toll rises in China's Gansu Province as heavy rains continue",
-      "published_at": "2026-08-02T04:12:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kerr caps 'great two weeks' with Commonwealth Games gold on home soil",
-      "published_at": "2026-08-02T03:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say",
-      "published_at": "2026-08-02T01:12:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "published_at": "2026-08-02T00:55:16+00:00"
     }
   ]
 }
