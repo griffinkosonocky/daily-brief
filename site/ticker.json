@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-08-02T15:13:34+00:00",
+  "updated_at": "2026-08-02T17:11:36+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "published_at": "2026-08-02T15:02:56+00:00"
+      "text": "At the scene of deadly Moscow bomb blast",
+      "published_at": "2026-08-02T16:52:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "published_at": "2026-08-02T16:37:02+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Death toll from migrant rush into Ceuta rises to 72",
-      "published_at": "2026-08-02T14:35:20+00:00"
+      "text": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
+      "published_at": "2026-08-02T15:59:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "published_at": "2026-08-02T15:50:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "published_at": "2026-08-02T15:48:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Two firefighting helicopters collide west of Athens",
-      "published_at": "2026-08-02T13:40:38+00:00"
+      "text": "Juventus sign young Bosnian winger Alajbegovic",
+      "published_at": "2026-08-02T15:29:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Helicopters fighting Greece wildfires collide in mid-air",
+      "published_at": "2026-08-02T15:21:56+00:00"
     },
     {
       "source": "NPR",
@@ -33,7 +53,7 @@
     },
     {
       "source": "NPR",
-      "text": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+      "text": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
       "published_at": "2026-08-02T12:00:00+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Fastest runner to cross the Alps says it was an incredible experience",
       "published_at": "2026-08-02T10:59:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "published_at": "2026-08-02T10:54:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "published_at": "2026-08-02T10:32:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-      "published_at": "2026-08-02T10:20:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "published_at": "2026-08-02T10:11:26+00:00"
     }
   ]
 }
