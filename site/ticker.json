@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-02T21:07:09+00:00",
+  "updated_at": "2026-08-02T22:08:50+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Is India Asia's ultimate 'anti-AI' trade?: Raychaudhuri",
+      "published_at": "2026-08-02T21:15:22+00:00"
+    },
     {
       "source": "BBC",
       "text": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
@@ -8,8 +13,8 @@
     },
     {
       "source": "Reuters",
-      "text": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-      "published_at": "2026-08-02T19:53:07+00:00"
+      "text": "WestJet flight attendants go on strike after talks fall through, grounding flights",
+      "published_at": "2026-08-02T20:36:23+00:00"
     },
     {
       "source": "Reuters",
@@ -47,6 +52,11 @@
       "published_at": "2026-08-02T17:44:27+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China draws 'red lines' around its economic model ahead of EU, US trade talks",
+      "published_at": "2026-08-02T17:10:37+00:00"
+    },
+    {
       "source": "BBC",
       "text": "At the scene of deadly Moscow bomb blast",
       "published_at": "2026-08-02T16:52:35+00:00"
@@ -58,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean",
-      "published_at": "2026-08-02T16:06:14+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
       "published_at": "2026-08-02T15:59:51+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "published_at": "2026-08-02T15:50:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "published_at": "2026-08-02T15:48:00+00:00"
     }
   ]
 }
