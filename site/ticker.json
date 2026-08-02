@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-02T11:31:11+00:00",
+  "updated_at": "2026-08-02T13:48:38+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+      "published_at": "2026-08-02T13:35:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
+      "published_at": "2026-08-02T12:48:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
+      "published_at": "2026-08-02T12:19:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+      "published_at": "2026-08-02T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal",
+      "published_at": "2026-08-02T11:49:19+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -13,18 +38,13 @@
     },
     {
       "source": "BBC",
-      "text": "It was about the adventure, says fastest runner to cross the Alps",
+      "text": "Fastest runner to cross the Alps says it was an incredible experience",
       "published_at": "2026-08-02T10:59:55+00:00"
     },
     {
       "source": "BBC",
       "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "published_at": "2026-08-02T10:54:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "published_at": "2026-08-02T10:46:47+00:00"
     },
     {
       "source": "BBC",
@@ -42,11 +62,6 @@
       "published_at": "2026-08-02T10:11:26+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal",
-      "published_at": "2026-08-02T09:10:58+00:00"
-    },
-    {
       "source": "NPR",
       "text": "We asked a first grader to interview his hero: A bird scientist",
       "published_at": "2026-08-02T09:00:00+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "China's central bank pledges timely policy tool adjustment",
       "published_at": "2026-08-02T08:47:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA chief Infantino's position looks unacceptable, head of European leagues says",
-      "published_at": "2026-08-02T08:19:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-      "published_at": "2026-08-02T08:01:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "published_at": "2026-08-02T07:58:51+00:00"
     }
   ]
 }
