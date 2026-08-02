@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-08-01T23:09:04+00:00",
+  "updated_at": "2026-08-02T03:47:07+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "The Sopranos star Vincent Pastore dies aged 80",
-      "published_at": "2026-08-01T22:57:55+00:00"
+      "text": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "published_at": "2026-08-02T03:05:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "published_at": "2026-08-02T00:55:16+00:00"
     },
     {
       "source": "BBC",
       "text": "Tourist plane crashes in Peru, killing 13",
-      "published_at": "2026-08-01T22:34:20+00:00"
+      "published_at": "2026-08-02T00:29:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "published_at": "2026-08-02T00:02:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "published_at": "2026-08-01T23:56:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "published_at": "2026-08-01T23:03:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian ship defies sanctions to send military vehicles to Mali",
+      "published_at": "2026-08-01T23:03:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "published_at": "2026-08-01T23:03:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Sopranos star Vincent Pastore dies aged 80",
+      "published_at": "2026-08-01T22:57:55+00:00"
     },
     {
       "source": "NPR",
@@ -22,14 +57,9 @@
       "published_at": "2026-08-01T22:23:39+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
-      "published_at": "2026-08-01T21:32:43+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "published_at": "2026-08-01T21:13:17+00:00"
+      "text": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "published_at": "2026-08-01T22:06:18+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "published_at": "2026-08-01T20:09:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reaction to FIFA scrapping World Cup sell-off plans",
-      "published_at": "2026-08-01T20:01:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Crowds line Amsterdam's canals for Pride boat parade",
-      "published_at": "2026-08-01T19:39:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "published_at": "2026-08-01T18:33:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Italy putting nearly all major cities on highest heat alert",
-      "published_at": "2026-08-01T17:51:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
-      "published_at": "2026-08-01T17:38:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "published_at": "2026-08-01T17:16:51+00:00"
     }
   ]
 }
