@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-02T13:48:38+00:00",
+  "updated_at": "2026-08-02T15:13:34+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "published_at": "2026-08-02T15:02:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Death toll from migrant rush into Ceuta rises to 72",
+      "published_at": "2026-08-02T14:35:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two firefighting helicopters collide west of Athens",
+      "published_at": "2026-08-02T13:40:38+00:00"
+    },
     {
       "source": "NPR",
       "text": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
@@ -8,13 +23,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
-      "published_at": "2026-08-02T12:48:52+00:00"
+      "text": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
+      "published_at": "2026-08-02T13:07:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say",
-      "published_at": "2026-08-02T12:19:21+00:00"
+      "text": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
+      "published_at": "2026-08-02T12:48:52+00:00"
     },
     {
       "source": "NPR",
@@ -53,28 +68,13 @@
     },
     {
       "source": "BBC",
-      "text": "Washington state wildfires trigger evacuations",
+      "text": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
       "published_at": "2026-08-02T10:20:10+00:00"
     },
     {
       "source": "BBC",
       "text": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "published_at": "2026-08-02T10:11:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "We asked a first grader to interview his hero: A bird scientist",
-      "published_at": "2026-08-02T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What Cyclospora does inside the gut and how it gets there",
-      "published_at": "2026-08-02T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's central bank pledges timely policy tool adjustment",
-      "published_at": "2026-08-02T08:47:43+00:00"
     }
   ]
 }
