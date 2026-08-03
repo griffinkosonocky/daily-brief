@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-08-03T21:16:51+00:00",
+  "updated_at": "2026-08-03T23:15:49+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "South Korea July inflation +2.8% y/y, weaker than expected",
+      "published_at": "2026-08-03T23:04:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
+      "published_at": "2026-08-03T22:53:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+      "published_at": "2026-08-03T22:36:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
+      "published_at": "2026-08-03T21:57:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korea says US-led cyber threat warnings are bid to smear its image",
+      "published_at": "2026-08-03T21:55:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
+      "published_at": "2026-08-03T21:49:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil central bank to cut rates for fourth straight meeting on August 5: Reuters poll",
+      "published_at": "2026-08-03T21:46:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "EU calls for stronger borders after Ceuta migrant crossings",
+      "published_at": "2026-08-03T21:43:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
+      "published_at": "2026-08-03T21:37:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Snap beats revenue estimates on ad boost from World Cup, shares jump",
+      "published_at": "2026-08-03T21:25:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+      "published_at": "2026-08-03T21:17:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Dow record, yen vibrations",
+      "published_at": "2026-08-03T21:16:17+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Brown University's president, who clashed with Trump over funding, steps down",
       "published_at": "2026-08-03T21:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "TRADING DAY Dow record, yen vibrations",
-      "published_at": "2026-08-03T21:04:09+00:00"
     },
     {
       "source": "Reuters",
@@ -18,63 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Philippines' Eala wins first WTA title, Fritz claims Washington crown",
-      "published_at": "2026-08-03T20:15:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Snap beats revenue estimates on ad boost from World Cup",
-      "published_at": "2026-08-03T20:14:10+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Vertex raises annual revenue forecast on cystic fibrosis drugs strength",
       "published_at": "2026-08-03T20:06:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-      "published_at": "2026-08-03T20:05:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Denmark targets August 21 for second Security Council UN chief poll",
-      "published_at": "2026-08-03T20:02:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
-      "published_at": "2026-08-03T19:51:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran faces 'decapitation' if it doesn't strike deal",
-      "published_at": "2026-08-03T19:49:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "published_at": "2026-08-03T19:42:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
-      "published_at": "2026-08-03T19:33:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
-      "published_at": "2026-08-03T19:05:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-      "published_at": "2026-08-03T18:45:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Possible successors for embattled FIFA President Infantino",
-      "published_at": "2026-08-03T18:12:55+00:00"
     }
   ]
 }
