@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-03T12:34:27+00:00",
+  "updated_at": "2026-08-03T13:24:45+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Brazil central bank to cut rates for fourth straight meeting on August 5: Reuters poll",
+      "published_at": "2026-08-03T13:12:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Making sense of the Trump Treasury’s odd FX intervention",
+      "published_at": "2026-08-03T13:06:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran denies Trump's claim that new talks will begin on Monday",
+      "published_at": "2026-08-03T12:44:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US farm agency staff warn trade, research, aid programs at risk from reorganization",
+      "published_at": "2026-08-03T12:36:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "Moroccan king's letter confirms naming of major highway in honour of Trump",
@@ -42,11 +62,6 @@
       "published_at": "2026-08-03T11:07:13+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US farm agency staff warn trade, research, aid programs at risk from reorganization",
-      "published_at": "2026-08-03T11:05:20+00:00"
-    },
-    {
       "source": "NPR",
       "text": "What would it take to get peptides on the shelf?",
       "published_at": "2026-08-03T11:00:00+00:00"
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "published_at": "2026-08-03T10:58:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Allegiant pilots ratify two-year deal with carrier",
-      "published_at": "2026-08-03T10:56:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "OPEC+ oil output hike is irrelevant for now, not for later",
-      "published_at": "2026-08-03T10:49:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sudan army drone strike on court session kills 35, rights group says",
-      "published_at": "2026-08-03T10:29:24+00:00"
     }
   ]
 }

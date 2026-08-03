@@ -292,5 +292,11 @@
     "sport": "Sports",
     "question": "The F1 season of 1994 is remembered for what tragic event?",
     "answer": "Death of Ayrton Senna (San Marino)"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "Sports",
+    "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+    "answer": "James Rodríguez"
   }
 ]
