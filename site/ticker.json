@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-08-03T18:01:21+00:00",
+  "updated_at": "2026-08-03T19:51:59+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Big Tech’s circular AI trade grows too big to veil",
-      "published_at": "2026-08-03T17:46:56+00:00"
-    },
     {
       "source": "BBC",
       "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "published_at": "2026-08-03T17:41:27+00:00"
+      "published_at": "2026-08-03T19:42:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "published_at": "2026-08-03T19:33:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "California's highest court rules for Gilead in 'duty to innovate' case",
-      "published_at": "2026-08-03T17:23:51+00:00"
+      "text": "Democratic US states sue to challenge Trump's latest tariffs",
+      "published_at": "2026-08-03T19:32:25+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
+      "published_at": "2026-08-03T19:05:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta, Anthropic invited to meet with Trump officials about AI safety testing",
+      "published_at": "2026-08-03T19:03:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Photos: Wildfires in Spokane lead to thousands of evacuations",
+      "published_at": "2026-08-03T18:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Iran faces 'decapitation' if it doesn't strike deal",
+      "published_at": "2026-08-03T18:33:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Possible successors for embattled FIFA President Infantino",
+      "published_at": "2026-08-03T18:12:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Big Tech’s circular AI trade grows too big to veil",
+      "published_at": "2026-08-03T18:05:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "published_at": "2026-08-03T18:04:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chevron awards staff special bonus following earnings blowout",
+      "published_at": "2026-08-03T18:01:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Citi hires Bank of America's Rohan Sen to lead technology services banking",
+      "published_at": "2026-08-03T18:01:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+      "published_at": "2026-08-03T17:46:16+00:00"
     },
     {
       "source": "BBC",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump undertakes sweeping makeover of the White House and Washington",
-      "published_at": "2026-08-03T17:04:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Chinese state traders make large US soybean purchases",
-      "published_at": "2026-08-03T16:53:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election",
-      "published_at": "2026-08-03T16:40:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall St starts the month strong as Mideast deal hopes rise",
-      "published_at": "2026-08-03T16:35:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "published_at": "2026-08-03T16:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump demands lower gas prices from oil companies, chides Chevron CEO",
-      "published_at": "2026-08-03T16:26:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jay Clayton sworn in as U.S. director of national intelligence",
-      "published_at": "2026-08-03T16:16:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US finalizes voluntary AI safety tests, White House official says",
-      "published_at": "2026-08-03T16:10:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
-      "published_at": "2026-08-03T16:08:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "published_at": "2026-08-03T15:57:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AfDB approves $35 million to boost Senegal's public finance management",
-      "published_at": "2026-08-03T15:52:10+00:00"
+      "text": "Italy new car registrations rise 3.9% year-on-year in July",
+      "published_at": "2026-08-03T16:55:22+00:00"
     }
   ]
 }
