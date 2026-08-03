@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-03T13:24:45+00:00",
+  "updated_at": "2026-08-03T15:49:46+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Chinese state traders make large US soybean purchases",
+      "published_at": "2026-08-03T14:55:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "published_at": "2026-08-03T14:38:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Washington wildfires destroy homes, force thousands to evacuate",
+      "published_at": "2026-08-03T14:28:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "published_at": "2026-08-03T14:20:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "published_at": "2026-08-03T14:18:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall St starts the month strong as Mideast deal hopes rise",
+      "published_at": "2026-08-03T14:11:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Most Gulf markets in black as Trump holds off Iran strike",
+      "published_at": "2026-08-03T14:06:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+      "published_at": "2026-08-03T14:05:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US men’s coach Pochettino agrees new contract through 2030 World Cup",
+      "published_at": "2026-08-03T13:35:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Denmark begins extended military conscription in response to Russia, Trump",
+      "published_at": "2026-08-03T13:19:30+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Brazil central bank to cut rates for fourth straight meeting on August 5: Reuters poll",
@@ -12,69 +62,19 @@
       "published_at": "2026-08-03T13:06:27+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iran denies Trump's claim that new talks will begin on Monday",
-      "published_at": "2026-08-03T12:44:09+00:00"
+      "source": "Reuters",
+      "text": "Vozinha arrives in Chile to sign for Colo-Colo",
+      "published_at": "2026-08-03T12:51:48+00:00"
     },
     {
       "source": "Reuters",
       "text": "US farm agency staff warn trade, research, aid programs at risk from reorganization",
-      "published_at": "2026-08-03T12:36:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "published_at": "2026-08-03T12:20:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "published_at": "2026-08-03T11:57:06+00:00"
+      "published_at": "2026-08-03T12:50:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "England set to follow Wales in withdrawing support for Infantino re-election",
-      "published_at": "2026-08-03T11:54:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Chinese state traders make large US soybean purchases",
-      "published_at": "2026-08-03T11:41:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African coalition party goes to court over law that angered Trump",
-      "published_at": "2026-08-03T11:21:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China cues start of leaders' secretive Beidaihe summer retreat",
-      "published_at": "2026-08-03T11:09:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Factories faced weaker demand, higher costs in July as Iran war grinds on",
-      "published_at": "2026-08-03T11:08:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "published_at": "2026-08-03T11:07:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What would it take to get peptides on the shelf?",
-      "published_at": "2026-08-03T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "published_at": "2026-08-03T10:59:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "published_at": "2026-08-03T10:58:48+00:00"
+      "text": "FIFA's Infantino sought Trump backing after failed World Cup sell-off plan, NY Post reports",
+      "published_at": "2026-08-03T12:44:47+00:00"
     }
   ]
 }
