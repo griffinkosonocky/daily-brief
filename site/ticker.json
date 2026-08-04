@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-03T23:15:49+00:00",
+  "updated_at": "2026-08-04T03:31:41+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "South Korea July inflation +2.8% y/y, weaker than expected",
-      "published_at": "2026-08-03T23:04:27+00:00"
+      "text": "SK Hynix and South Korean union hold talks over bonus pay",
+      "published_at": "2026-08-04T03:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India rupee market optimism tempered by Iran uncertainty, hedging demand",
+      "published_at": "2026-08-04T02:56:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia household spending posts solid June gain as EV sales jump",
+      "published_at": "2026-08-04T02:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysian ruling bloc party to review role in government on Aug 16",
+      "published_at": "2026-08-04T02:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan casts military buildup as path to economic prosperity",
+      "published_at": "2026-08-04T02:22:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yen clings to intervention gains as traders stay alert to more",
+      "published_at": "2026-08-04T01:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia stocks move higher on Wall Street lead, oil steady",
+      "published_at": "2026-08-04T00:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
+      "published_at": "2026-08-03T23:26:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea inflation cools, but back-to-back rate hike not ruled out",
+      "published_at": "2026-08-03T23:04:00+00:00"
     },
     {
       "source": "NPR",
@@ -18,23 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
-      "published_at": "2026-08-03T21:57:58+00:00"
+      "text": "Snap beats revenue estimates on ad boost from World Cup, shares surge",
+      "published_at": "2026-08-03T22:25:18+00:00"
     },
     {
       "source": "Reuters",
       "text": "North Korea says US-led cyber threat warnings are bid to smear its image",
       "published_at": "2026-08-03T21:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
-      "published_at": "2026-08-03T21:49:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil central bank to cut rates for fourth straight meeting on August 5: Reuters poll",
-      "published_at": "2026-08-03T21:46:42+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
       "published_at": "2026-08-03T21:37:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Snap beats revenue estimates on ad boost from World Cup, shares jump",
-      "published_at": "2026-08-03T21:25:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-      "published_at": "2026-08-03T21:17:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Dow record, yen vibrations",
-      "published_at": "2026-08-03T21:16:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brown University's president, who clashed with Trump over funding, steps down",
-      "published_at": "2026-08-03T21:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Democratic US states sue to challenge Trump's latest tariffs",
-      "published_at": "2026-08-03T20:53:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vertex raises annual revenue forecast on cystic fibrosis drugs strength",
-      "published_at": "2026-08-03T20:06:11+00:00"
     }
   ]
 }
