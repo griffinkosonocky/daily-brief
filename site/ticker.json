@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-04T21:23:12+00:00",
+  "updated_at": "2026-08-04T23:15:37+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Paramount Skydance reports mixed second quarter as Warner deal faces March trial",
+      "published_at": "2026-08-04T22:34:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+      "published_at": "2026-08-04T22:28:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "published_at": "2026-08-04T22:10:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+      "published_at": "2026-08-04T22:09:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips",
+      "published_at": "2026-08-04T22:07:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "published_at": "2026-08-04T22:02:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, mayor says",
+      "published_at": "2026-08-04T21:52:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "published_at": "2026-08-04T21:45:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "published_at": "2026-08-04T21:24:50+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Online travel firm Booking Holdings quarterly profit rises",
@@ -17,64 +62,19 @@
       "published_at": "2026-08-04T20:16:26+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Paramount Skydance reports mixed second-quarter results",
-      "published_at": "2026-08-04T20:09:44+00:00"
-    },
-    {
       "source": "BBC",
       "text": "More than 170 migrants rescued after boat catches fire in Channel",
       "published_at": "2026-08-04T19:45:58+00:00"
     },
     {
-      "source": "BBC",
-      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "published_at": "2026-08-04T19:30:43+00:00"
+      "source": "NPR",
+      "text": "House Ethics Committee will investigate Ohio Republican Max Miller",
+      "published_at": "2026-08-04T19:40:02+00:00"
     },
     {
       "source": "BBC",
       "text": "Arrests in Egypt after people allegedly impersonate judges",
       "published_at": "2026-08-04T19:25:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Arson arrest made over largest of Washington state's wildfires",
-      "published_at": "2026-08-04T19:18:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Battle lines drawn within FIFA as key figures break ranks with Infantino",
-      "published_at": "2026-08-04T19:14:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips",
-      "published_at": "2026-08-04T19:09:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "published_at": "2026-08-04T19:07:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "published_at": "2026-08-04T19:00:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico's central bank likely to hold key interest rate this week: Reuters poll",
-      "published_at": "2026-08-04T18:54:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia crude and fuel imports recover, still shy of pre-Iran war levels",
-      "published_at": "2026-08-04T18:43:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI offers 'lifeline' for emerging economies, World Bank says",
-      "published_at": "2026-08-04T18:43:49+00:00"
     }
   ]
 }
