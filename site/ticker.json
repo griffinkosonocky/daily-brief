@@ -1,25 +1,70 @@
 {
-  "updated_at": "2026-08-04T03:31:41+00:00",
+  "updated_at": "2026-08-04T06:37:34+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Sustainable fund launches stutter amid industry caution",
+      "published_at": "2026-08-04T05:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rio Tinto signals no rush to revive Glencore deal as standstill ends",
+      "published_at": "2026-08-04T04:53:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Yen clings to gains but bond pressure builds",
+      "published_at": "2026-08-04T04:33:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France wildfires reveal hundreds of WW2 shells in village",
+      "published_at": "2026-08-04T04:22:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OPEC+ oil output hike is irrelevant for now, not for later",
+      "published_at": "2026-08-04T04:12:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bangladesh asks India to clarify stance on Hasina's planned New Delhi speech",
+      "published_at": "2026-08-04T04:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+      "published_at": "2026-08-04T03:41:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "published_at": "2026-08-04T03:37:14+00:00"
+    },
     {
       "source": "Reuters",
       "text": "SK Hynix and South Korean union hold talks over bonus pay",
       "published_at": "2026-08-04T03:14:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "India rupee market optimism tempered by Iran uncertainty, hedging demand",
-      "published_at": "2026-08-04T02:56:00+00:00"
+      "source": "BBC",
+      "text": "US states sue to block Trump tariffs impacting dozens of countries",
+      "published_at": "2026-08-04T02:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "published_at": "2026-08-04T02:47:26+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Australia household spending posts solid June gain as EV sales jump",
-      "published_at": "2026-08-04T02:34:00+00:00"
+      "text": "Japan's economy minister offers sanguine view on inflation",
+      "published_at": "2026-08-04T02:40:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Malaysian ruling bloc party to review role in government on Aug 16",
-      "published_at": "2026-08-04T02:33:00+00:00"
+      "source": "BBC",
+      "text": "Did Iran hack water systems in seven US states?",
+      "published_at": "2026-08-04T02:29:03+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "Yen clings to intervention gains as traders stay alert to more",
       "published_at": "2026-08-04T01:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia stocks move higher on Wall Street lead, oil steady",
-      "published_at": "2026-08-04T00:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
-      "published_at": "2026-08-03T23:26:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea inflation cools, but back-to-back rate hike not ruled out",
-      "published_at": "2026-08-03T23:04:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
-      "published_at": "2026-08-03T22:53:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
-      "published_at": "2026-08-03T22:36:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Snap beats revenue estimates on ad boost from World Cup, shares surge",
-      "published_at": "2026-08-03T22:25:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "North Korea says US-led cyber threat warnings are bid to smear its image",
-      "published_at": "2026-08-03T21:55:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "EU calls for stronger borders after Ceuta migrant crossings",
-      "published_at": "2026-08-03T21:43:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
-      "published_at": "2026-08-03T21:37:30+00:00"
     }
   ]
 }
