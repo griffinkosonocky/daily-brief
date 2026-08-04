@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-04T12:26:01+00:00",
+  "updated_at": "2026-08-04T15:32:13+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Asia crude and fuel imports recover, still shy of pre-Iran war levels",
-      "published_at": "2026-08-04T12:06:19+00:00"
+      "source": "BBC",
+      "text": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+      "published_at": "2026-08-04T15:11:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "China's EV export boom is starting to show up in the gasoline market",
-      "published_at": "2026-08-04T12:01:04+00:00"
+      "source": "BBC",
+      "text": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "published_at": "2026-08-04T15:07:52+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Battle lines drawn as Infantino fights to hold on to power after FIFA stake sale fiasco",
-      "published_at": "2026-08-04T11:53:36+00:00"
+      "source": "BBC",
+      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "published_at": "2026-08-04T14:58:16+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
-      "published_at": "2026-08-04T11:34:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cameroon's Biya, unseen for 58 days, reshuffles military leadership",
-      "published_at": "2026-08-04T11:29:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-      "published_at": "2026-08-04T11:29:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran demands inbound control of Hormuz and outbound oversight, source says",
-      "published_at": "2026-08-04T11:24:37+00:00"
+      "source": "BBC",
+      "text": "World's oldest president reshuffles army as his absence stokes unease",
+      "published_at": "2026-08-04T14:53:28+00:00"
     },
     {
       "source": "BBC",
       "text": "More than 150 migrants rescued after boat catches fire in Channel",
-      "published_at": "2026-08-04T11:19:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "published_at": "2026-08-04T11:19:01+00:00"
+      "published_at": "2026-08-04T14:37:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Mideast war helps and harms BP CEO’s turnaround ambitions",
-      "published_at": "2026-08-04T11:10:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "published_at": "2026-08-04T11:05:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
-      "published_at": "2026-08-04T10:56:56+00:00"
+      "text": "Russia says it hit Ukrainian military-linked vessels, port facilities",
+      "published_at": "2026-08-04T14:26:39+00:00"
     },
     {
       "source": "BBC",
-      "text": "Guatemala volcano eruption sends lava spewing into the air",
-      "published_at": "2026-08-04T10:56:50+00:00"
+      "text": "Arson arrest made over largest of Washington state's wildfires",
+      "published_at": "2026-08-04T14:20:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Earnings overload",
-      "published_at": "2026-08-04T10:53:13+00:00"
+      "text": "Asia crude and fuel imports recover, still shy of pre-Iran war levels",
+      "published_at": "2026-08-04T14:19:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say",
+      "published_at": "2026-08-04T13:53:44+00:00"
     },
     {
       "source": "BBC",
       "text": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-      "published_at": "2026-08-04T10:34:45+00:00"
+      "published_at": "2026-08-04T13:53:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE Ukraine turns to alternative grain export routes, counts losses as Russia blocks ports",
+      "published_at": "2026-08-04T13:52:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran demands inbound control of Hormuz and outbound oversight, source says",
+      "published_at": "2026-08-04T13:46:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "No more bird droppings, stray animals, say organisers as Delhi eyes World Championship redemption",
+      "published_at": "2026-08-04T13:35:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "13 new books in August will get you through the dog days of summer",
+      "published_at": "2026-08-04T13:34:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say",
+      "published_at": "2026-08-04T13:32:35+00:00"
     }
   ]
 }
