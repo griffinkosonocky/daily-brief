@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-05T12:24:04+00:00",
+  "updated_at": "2026-08-05T15:24:27+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "published_at": "2026-08-05T15:05:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+      "published_at": "2026-08-05T14:58:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "El-Sayed's victory sends tremors through Democratic Party",
+      "published_at": "2026-08-05T14:54:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Drone carrying explosives found at German airport, police say",
+      "published_at": "2026-08-05T14:32:27+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says - reuters.com",
-      "published_at": "2026-08-05T12:10:17+00:00"
+      "text": "From racetrack to road: How Formula E is accelerating the EV transition",
+      "published_at": "2026-08-05T14:19:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+      "published_at": "2026-08-05T14:13:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India sugar prices hit record high on tight supplies, festival demand",
+      "published_at": "2026-08-05T14:12:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UN rights chief alarmed by rise in Iran executions since March",
+      "published_at": "2026-08-05T14:04:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "published_at": "2026-08-05T13:58:01+00:00"
     },
     {
       "source": "NPR",
-      "text": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
-      "published_at": "2026-08-05T11:54:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Waste workers help find binned €1m lottery ticket in Italy",
-      "published_at": "2026-08-05T11:43:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Record heatwave in South Korea as temperatures soar to 42.5C",
-      "published_at": "2026-08-05T11:30:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan restricts international media reporting",
-      "published_at": "2026-08-05T11:19:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "published_at": "2026-08-05T11:19:37+00:00"
+      "text": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+      "published_at": "2026-08-05T13:54:31+00:00"
     },
     {
       "source": "Reuters",
-      "text": "NEWSLETTER: The stakes if the SEC axes climate disclosure rules - reuters.com",
-      "published_at": "2026-08-05T11:12:16+00:00"
+      "text": "World faces fresh food price surge, FAO warns",
+      "published_at": "2026-08-05T13:33:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage",
+      "published_at": "2026-08-05T13:12:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "published_at": "2026-08-05T13:08:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hungary's ruling party proposes parliament should elect new president on August 11",
+      "published_at": "2026-08-05T13:05:36+00:00"
     },
     {
       "source": "BBC",
-      "text": "Mexican influencer shot dead during livestream",
-      "published_at": "2026-08-05T11:00:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF - reuters.com",
-      "published_at": "2026-08-05T10:42:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - reuters.com",
-      "published_at": "2026-08-05T10:36:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World faces fresh food price surge, FAO warns - reuters.com",
-      "published_at": "2026-08-05T10:22:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats - reuters.com",
-      "published_at": "2026-08-05T10:17:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "published_at": "2026-08-05T10:15:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
-      "published_at": "2026-08-05T10:08:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "published_at": "2026-08-05T09:22:52+00:00"
+      "text": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "published_at": "2026-08-05T12:52:19+00:00"
     }
   ]
 }
