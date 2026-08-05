@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-05T12:09:14+00:00",
+  "updated_at": "2026-08-05T12:24:04+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says - reuters.com",
+      "published_at": "2026-08-05T12:10:17+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
@@ -28,7 +33,7 @@
     },
     {
       "source": "Reuters",
-      "text": "NEWSLETTER: The stakes if the SEC axes climate disclosure rules",
+      "text": "NEWSLETTER: The stakes if the SEC axes climate disclosure rules - reuters.com",
       "published_at": "2026-08-05T11:12:16+00:00"
     },
     {
@@ -38,22 +43,22 @@
     },
     {
       "source": "Reuters",
-      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF - reuters.com",
       "published_at": "2026-08-05T10:42:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - reuters.com",
       "published_at": "2026-08-05T10:36:46+00:00"
     },
     {
       "source": "Reuters",
-      "text": "World faces fresh food price surge, FAO warns",
+      "text": "World faces fresh food price surge, FAO warns - reuters.com",
       "published_at": "2026-08-05T10:22:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats",
+      "text": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats - reuters.com",
       "published_at": "2026-08-05T10:17:57+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Afghan boxer appears in court in connection with death of Scottish woman",
       "published_at": "2026-08-05T09:22:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK services sector returns to growth, optimism picks up, PMI shows",
-      "published_at": "2026-08-05T09:01:32+00:00"
     }
   ]
 }

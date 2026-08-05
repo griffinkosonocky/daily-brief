@@ -304,5 +304,11 @@
     "sport": "Sports",
     "question": "What is the highest belt you can get in Taekwondo?",
     "answer": "Black"
+  },
+  {
+    "date": "2026-08-05",
+    "sport": "Sports",
+    "question": "Who is often called \"the Maestro\" in the men's tennis circuit?",
+    "answer": "Roger Federer"
   }
 ]
