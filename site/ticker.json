@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-08-05T09:43:57+00:00",
+  "updated_at": "2026-08-05T12:09:14+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+      "published_at": "2026-08-05T11:54:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Waste workers help find binned €1m lottery ticket in Italy",
+      "published_at": "2026-08-05T11:43:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "published_at": "2026-08-05T11:30:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pakistan restricts international media reporting",
+      "published_at": "2026-08-05T11:19:42+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "published_at": "2026-08-05T09:39:50+00:00"
+      "published_at": "2026-08-05T11:19:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "NEWSLETTER: The stakes if the SEC axes climate disclosure rules",
+      "published_at": "2026-08-05T11:12:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mexican influencer shot dead during livestream",
+      "published_at": "2026-08-05T11:00:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+      "published_at": "2026-08-05T10:42:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+      "published_at": "2026-08-05T10:36:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World faces fresh food price surge, FAO warns",
+      "published_at": "2026-08-05T10:22:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats",
+      "published_at": "2026-08-05T10:17:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "published_at": "2026-08-05T10:15:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+      "published_at": "2026-08-05T10:08:28+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +72,9 @@
       "published_at": "2026-08-05T09:22:52+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
-      "published_at": "2026-08-05T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "published_at": "2026-08-05T08:29:30+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Explainer: Why has India's new closing price system for stocks spooked traders? - reuters.com",
-      "published_at": "2026-08-05T08:04:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
-      "published_at": "2026-08-05T08:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African private sector growth slows slightly in July, PMI shows - reuters.com",
-      "published_at": "2026-08-05T07:20:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-      "published_at": "2026-08-05T07:04:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia not planning tour match before India test series, coach says - reuters.com",
-      "published_at": "2026-08-05T06:59:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia cuts cost of rooftop solar for businesses - reuters.com",
-      "published_at": "2026-08-05T06:54:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Honda raises full-year forecasts, posts first profit rise in six quarters - reuters.com",
-      "published_at": "2026-08-05T06:41:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African rand edges up ahead of business activity PMI as risk appetite improves - reuters.com",
-      "published_at": "2026-08-05T06:36:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US and Iran having 'very good discussions', Trump says - reuters.com",
-      "published_at": "2026-08-05T05:11:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China eases controls on fuel exports for a second month, sources say - reuters.com",
-      "published_at": "2026-08-05T04:37:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
-      "published_at": "2026-08-05T04:00:00+00:00"
+      "text": "UK services sector returns to growth, optimism picks up, PMI shows",
+      "published_at": "2026-08-05T09:01:32+00:00"
     }
   ]
 }
