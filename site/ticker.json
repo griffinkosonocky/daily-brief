@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-05T15:24:27+00:00",
+  "updated_at": "2026-08-05T17:50:57+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "published_at": "2026-08-05T17:41:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stocks mixed with Nasdaq down; gold prices jump",
+      "published_at": "2026-08-05T17:34:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "published_at": "2026-08-05T17:14:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Air India taps Ethiopian aviation specialist to steer turnaround",
+      "published_at": "2026-08-05T16:42:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bangladesh ex-PM Hasina says ban on her party should be lifted",
+      "published_at": "2026-08-05T16:29:57+00:00"
+    },
     {
       "source": "BBC",
       "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "published_at": "2026-08-05T15:05:30+00:00"
+      "published_at": "2026-08-05T16:20:14+00:00"
     },
     {
-      "source": "BBC",
-      "text": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "published_at": "2026-08-05T14:58:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "El-Sayed's victory sends tremors through Democratic Party",
-      "published_at": "2026-08-05T14:54:07+00:00"
+      "source": "Reuters",
+      "text": "Brazilian presidential candidate Bolsonaro unveils surprise running mate",
+      "published_at": "2026-08-05T16:09:56+00:00"
     },
     {
       "source": "BBC",
       "text": "Drone carrying explosives found at German airport, police say",
-      "published_at": "2026-08-05T14:32:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "From racetrack to road: How Formula E is accelerating the EV transition",
-      "published_at": "2026-08-05T14:19:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
-      "published_at": "2026-08-05T14:13:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India sugar prices hit record high on tight supplies, festival demand",
-      "published_at": "2026-08-05T14:12:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UN rights chief alarmed by rise in Iran executions since March",
-      "published_at": "2026-08-05T14:04:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "published_at": "2026-08-05T13:58:01+00:00"
+      "published_at": "2026-08-05T16:06:30+00:00"
     },
     {
       "source": "NPR",
-      "text": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-      "published_at": "2026-08-05T13:54:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World faces fresh food price surge, FAO warns",
-      "published_at": "2026-08-05T13:33:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage",
-      "published_at": "2026-08-05T13:12:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
-      "published_at": "2026-08-05T13:08:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hungary's ruling party proposes parliament should elect new president on August 11",
-      "published_at": "2026-08-05T13:05:36+00:00"
+      "text": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "published_at": "2026-08-05T16:06:06+00:00"
     },
     {
       "source": "BBC",
-      "text": "Nigeria's president orders a 80% salary increase for junior soldiers",
-      "published_at": "2026-08-05T12:52:19+00:00"
+      "text": "El-Sayed's victory sends tremors through Democratic Party",
+      "published_at": "2026-08-05T16:04:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+      "published_at": "2026-08-05T16:01:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+      "published_at": "2026-08-05T15:57:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics",
+      "published_at": "2026-08-05T15:48:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+      "published_at": "2026-08-05T15:26:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta apologises to India for restricting PM Modi's post",
+      "published_at": "2026-08-05T15:11:51+00:00"
     }
   ]
 }
