@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-05T19:49:55+00:00",
+  "updated_at": "2026-08-05T21:22:12+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "published_at": "2026-08-05T21:21:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TRADING DAY Momentum fizzles, gold sizzles",
+      "published_at": "2026-08-05T21:03:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security",
+      "published_at": "2026-08-05T20:56:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "published_at": "2026-08-05T20:43:29+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US Senate confirms Schwartz as CDC director",
-      "published_at": "2026-08-05T19:13:43+00:00"
+      "published_at": "2026-08-05T20:18:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Austria hits record temperature, Hungary curbs power use as Europe feels the heat",
+      "published_at": "2026-08-05T20:04:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "published_at": "2026-08-05T20:03:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Drone carrying explosives found at German airport, police say",
+      "published_at": "2026-08-05T20:01:51+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "published_at": "2026-08-05T20:00:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump administration to impose 15% tariff on polysilicon, sources say",
+      "published_at": "2026-08-05T19:56:27+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
-      "published_at": "2026-08-05T19:11:49+00:00"
+      "published_at": "2026-08-05T19:44:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+      "published_at": "2026-08-05T19:02:06+00:00"
     },
     {
       "source": "BBC",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
-      "published_at": "2026-08-05T18:29:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India sugar prices hit record high on tight supplies, festival demand",
-      "published_at": "2026-08-05T18:27:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio, Miliband discuss Ukraine war, Europe taking greater role in its own security",
-      "published_at": "2026-08-05T18:21:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "published_at": "2026-08-05T18:19:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Austria hits record temperature, Hungary curbs power use as Europe feels the heat",
-      "published_at": "2026-08-05T17:57:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "published_at": "2026-08-05T17:41:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stocks mixed with Nasdaq down; gold prices jump",
-      "published_at": "2026-08-05T17:34:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "published_at": "2026-08-05T17:14:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air India taps Ethiopian aviation specialist to steer turnaround",
-      "published_at": "2026-08-05T16:42:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "published_at": "2026-08-05T16:20:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drone carrying explosives found at German airport, police say",
-      "published_at": "2026-08-05T16:06:30+00:00"
+      "text": "US unveils charges against five leaders of Mexico's CJNG cartel",
+      "published_at": "2026-08-05T18:39:17+00:00"
     }
   ]
 }
