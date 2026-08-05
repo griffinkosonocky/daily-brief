@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-04T23:15:37+00:00",
+  "updated_at": "2026-08-05T03:27:14+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+      "published_at": "2026-08-05T02:55:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks",
+      "published_at": "2026-08-05T02:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FAA investigates Marine One safety incident in Washington, WSJ reports",
+      "published_at": "2026-08-05T01:31:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "published_at": "2026-08-05T01:05:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold ticks up on softer dollar, focus on US jobs data",
+      "published_at": "2026-08-05T01:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qatar says mediators make progress in efforts to end US-Iran war",
+      "published_at": "2026-08-05T00:56:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+      "published_at": "2026-08-05T00:40:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+      "published_at": "2026-08-05T00:30:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "published_at": "2026-08-05T00:19:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chile Congress approves sweeping Kast reform to spur growth, rollout to face delays",
+      "published_at": "2026-08-04T23:37:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+      "published_at": "2026-08-04T23:13:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+      "published_at": "2026-08-04T23:13:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stock indexes register records after upbeat company forecasts; oil drops",
+      "published_at": "2026-08-04T23:03:39+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Paramount Skydance reports mixed second quarter as Warner deal faces March trial",
@@ -10,71 +75,6 @@
       "source": "BBC",
       "text": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
       "published_at": "2026-08-04T22:28:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "published_at": "2026-08-04T22:10:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
-      "published_at": "2026-08-04T22:09:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips",
-      "published_at": "2026-08-04T22:07:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-      "published_at": "2026-08-04T22:02:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, mayor says",
-      "published_at": "2026-08-04T21:52:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "published_at": "2026-08-04T21:45:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Projectile sinks Indian-flagged ship off Yemen coast",
-      "published_at": "2026-08-04T21:24:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Online travel firm Booking Holdings quarterly profit rises",
-      "published_at": "2026-08-04T20:20:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
-      "published_at": "2026-08-04T20:16:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "One Maine community's fight to save a birthing center",
-      "published_at": "2026-08-04T20:16:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 170 migrants rescued after boat catches fire in Channel",
-      "published_at": "2026-08-04T19:45:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "House Ethics Committee will investigate Ohio Republican Max Miller",
-      "published_at": "2026-08-04T19:40:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Arrests in Egypt after people allegedly impersonate judges",
-      "published_at": "2026-08-04T19:25:00+00:00"
     }
   ]
 }
