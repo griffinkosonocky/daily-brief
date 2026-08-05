@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-05T03:27:14+00:00",
+  "updated_at": "2026-08-05T06:38:19+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "US and Iran having 'very good discussions', Trump says",
+      "published_at": "2026-08-05T05:11:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-      "published_at": "2026-08-05T02:55:58+00:00"
+      "text": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+      "published_at": "2026-08-05T05:08:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "VIEW India's central bank holds rates as expected",
+      "published_at": "2026-08-05T04:55:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's central bank holds rates, awaits clearer inflation signal before acting",
+      "published_at": "2026-08-05T04:33:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+      "published_at": "2026-08-05T04:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "published_at": "2026-08-05T03:44:30+00:00"
     },
     {
       "source": "Reuters",
@@ -13,23 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "FAA investigates Marine One safety incident in Washington, WSJ reports",
-      "published_at": "2026-08-05T01:31:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "published_at": "2026-08-05T01:05:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold ticks up on softer dollar, focus on US jobs data",
+      "text": "Gold extends gains on lower oil and softer dollar",
       "published_at": "2026-08-05T01:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Qatar says mediators make progress in efforts to end US-Iran war",
-      "published_at": "2026-08-05T00:56:00+00:00"
     },
     {
       "source": "BBC",
@@ -52,6 +62,11 @@
       "published_at": "2026-08-04T23:37:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US yen intervention signals perfect storm rising in FX and bond markets",
+      "published_at": "2026-08-04T23:30:25+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Mysterious elephant deaths in Kenya raise questions around pesticides",
       "published_at": "2026-08-04T23:13:04+00:00"
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "'My grandmother subjected my baby to female genital mutilation behind my back'",
       "published_at": "2026-08-04T23:13:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Stock indexes register records after upbeat company forecasts; oil drops",
-      "published_at": "2026-08-04T23:03:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paramount Skydance reports mixed second quarter as Warner deal faces March trial",
-      "published_at": "2026-08-04T22:34:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-      "published_at": "2026-08-04T22:28:30+00:00"
     }
   ]
 }
