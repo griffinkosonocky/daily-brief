@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-05T21:22:12+00:00",
+  "updated_at": "2026-08-05T23:14:49+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+      "published_at": "2026-08-05T22:41:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks",
+      "published_at": "2026-08-05T22:38:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Faced with a teleprompter glitch, Canada's Carney mocks Trump",
+      "published_at": "2026-08-05T22:36:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics",
+      "published_at": "2026-08-05T22:26:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Infantino sorry for errors but stays Fifa president",
+      "published_at": "2026-08-05T21:37:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
+      "published_at": "2026-08-05T21:30:57+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
@@ -8,13 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "TRADING DAY Momentum fizzles, gold sizzles",
-      "published_at": "2026-08-05T21:03:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security",
-      "published_at": "2026-08-05T20:56:08+00:00"
+      "text": "Trading Day: Momentum fizzles, gold sizzles",
+      "published_at": "2026-08-05T21:10:27+00:00"
     },
     {
       "source": "NPR",
@@ -23,8 +48,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Canada PM Carney says he does not have confidence in FIFA's Infantino",
+      "published_at": "2026-08-05T20:42:40+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US Senate confirms Schwartz as CDC director",
       "published_at": "2026-08-05T20:18:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues",
+      "published_at": "2026-08-05T20:09:13+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "Drone carrying explosives found at German airport, police say",
       "published_at": "2026-08-05T20:01:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "published_at": "2026-08-05T20:00:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration to impose 15% tariff on polysilicon, sources say",
-      "published_at": "2026-08-05T19:56:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
-      "published_at": "2026-08-05T19:44:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "published_at": "2026-08-05T19:02:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-      "published_at": "2026-08-05T19:00:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazilian presidential candidate Bolsonaro names surprise running mate",
-      "published_at": "2026-08-05T18:48:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US unveils charges against five leaders of Mexico's CJNG cartel",
-      "published_at": "2026-08-05T18:39:17+00:00"
     }
   ]
 }
