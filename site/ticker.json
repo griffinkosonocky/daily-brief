@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-05T17:50:57+00:00",
+  "updated_at": "2026-08-05T19:49:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US Senate confirms Schwartz as CDC director",
+      "published_at": "2026-08-05T19:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
+      "published_at": "2026-08-05T19:11:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+      "published_at": "2026-08-05T19:00:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazilian presidential candidate Bolsonaro names surprise running mate",
+      "published_at": "2026-08-05T18:48:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+      "published_at": "2026-08-05T18:29:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India sugar prices hit record high on tight supplies, festival demand",
+      "published_at": "2026-08-05T18:27:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio, Miliband discuss Ukraine war, Europe taking greater role in its own security",
+      "published_at": "2026-08-05T18:21:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "published_at": "2026-08-05T18:19:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Austria hits record temperature, Hungary curbs power use as Europe feels the heat",
+      "published_at": "2026-08-05T17:57:37+00:00"
+    },
     {
       "source": "NPR",
       "text": "How Trump made an estimated $2.2 billion during the first year of his second term",
@@ -22,59 +67,14 @@
       "published_at": "2026-08-05T16:42:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Bangladesh ex-PM Hasina says ban on her party should be lifted",
-      "published_at": "2026-08-05T16:29:57+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "published_at": "2026-08-05T16:20:14+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Brazilian presidential candidate Bolsonaro unveils surprise running mate",
-      "published_at": "2026-08-05T16:09:56+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Drone carrying explosives found at German airport, police say",
       "published_at": "2026-08-05T16:06:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-      "published_at": "2026-08-05T16:06:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "El-Sayed's victory sends tremors through Democratic Party",
-      "published_at": "2026-08-05T16:04:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
-      "published_at": "2026-08-05T16:01:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
-      "published_at": "2026-08-05T15:57:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics",
-      "published_at": "2026-08-05T15:48:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
-      "published_at": "2026-08-05T15:26:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta apologises to India for restricting PM Modi's post",
-      "published_at": "2026-08-05T15:11:51+00:00"
     }
   ]
 }
