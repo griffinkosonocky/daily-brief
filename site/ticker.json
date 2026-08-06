@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-05T23:14:49+00:00",
+  "updated_at": "2026-08-06T03:30:32+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Meta says AI model accessed the internet and hacked another firm",
+      "published_at": "2026-08-06T02:33:33+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
-      "published_at": "2026-08-05T22:41:31+00:00"
+      "text": "New Zealand PM Luxon open to referendum on electoral system",
+      "published_at": "2026-08-06T01:41:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "published_at": "2026-08-06T01:19:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino and FIFA present united front after crisis meeting over stake sale fallout",
+      "published_at": "2026-08-06T00:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump turns economic speech into attack on Democrats after Michigan results",
+      "published_at": "2026-08-05T23:35:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage",
+      "published_at": "2026-08-05T23:30:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "published_at": "2026-08-05T23:28:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Myanmar president visits Thailand on quest for legitimacy as Bangkok backs engagement",
+      "published_at": "2026-08-05T23:11:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout",
+      "published_at": "2026-08-05T22:57:55+00:00"
     },
     {
       "source": "Reuters",
@@ -17,9 +57,14 @@
       "published_at": "2026-08-05T22:36:20+00:00"
     },
     {
+      "source": "BBC",
+      "text": "AI or real? BBC analyses viral China disaster videos",
+      "published_at": "2026-08-05T22:00:32+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics",
-      "published_at": "2026-08-05T22:26:13+00:00"
+      "text": "NWSL eyes 2027 World Cup, 2028 Olympics in next era of growth",
+      "published_at": "2026-08-05T21:38:38+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
       "published_at": "2026-08-05T21:30:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "published_at": "2026-08-05T21:21:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Momentum fizzles, gold sizzles",
-      "published_at": "2026-08-05T21:10:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "published_at": "2026-08-05T20:43:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada PM Carney says he does not have confidence in FIFA's Infantino",
-      "published_at": "2026-08-05T20:42:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Senate confirms Schwartz as CDC director",
-      "published_at": "2026-08-05T20:18:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues",
-      "published_at": "2026-08-05T20:09:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Austria hits record temperature, Hungary curbs power use as Europe feels the heat",
-      "published_at": "2026-08-05T20:04:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "published_at": "2026-08-05T20:03:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drone carrying explosives found at German airport, police say",
-      "published_at": "2026-08-05T20:01:51+00:00"
     }
   ]
 }
