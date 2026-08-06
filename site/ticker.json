@@ -1,20 +1,65 @@
 {
-  "updated_at": "2026-08-06T09:47:31+00:00",
+  "updated_at": "2026-08-06T12:13:19+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say",
+      "published_at": "2026-08-06T12:01:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+      "published_at": "2026-08-06T11:30:59+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Afghan boxer accused of killing Scottish aid worker back in court",
-      "published_at": "2026-08-06T09:12:39+00:00"
+      "text": "Man charged with killing Scottish aid worker in Greece",
+      "published_at": "2026-08-06T11:22:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Congo bans copper and cobalt concentrates exports, official order says",
+      "published_at": "2026-08-06T11:22:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian market volatility eases as traders adapt to new closing auction",
+      "published_at": "2026-08-06T11:19:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil traders double down on Iran deal bet as odds worsen",
+      "published_at": "2026-08-06T10:45:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African clothing factories struggle after migrant workers flee",
+      "published_at": "2026-08-06T10:28:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
+      "published_at": "2026-08-06T09:52:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "published_at": "2026-08-06T09:49:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nutrien misses profit estimates as lower volumes blunt higher fertilizer prices",
+      "published_at": "2026-08-06T09:34:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Google’s $15 billion India data centre project battles water, wildlife concerns",
+      "published_at": "2026-08-06T09:26:19+00:00"
     },
     {
       "source": "BBC",
       "text": "Iranian footballers who defied Tehran become Australian citizens",
       "published_at": "2026-08-06T09:04:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says - reuters.com",
-      "published_at": "2026-08-06T09:01:43+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "NPR",
       "text": "Morning news brief",
       "published_at": "2026-08-06T08:43:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Slump for UK builders abates in July, PMI shows - reuters.com",
-      "published_at": "2026-08-06T08:33:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SoftBank books lower Q1 profit, gain on Intel stake - reuters.com",
-      "published_at": "2026-08-06T08:27:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Air India's new CEO faces financial and safety turbulence",
-      "published_at": "2026-08-06T08:18:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Armenian church leader to go on trial in widening confrontation with government - reuters.com",
-      "published_at": "2026-08-06T08:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Google’s $15 billion India data centre project battles water, wildlife concerns - reuters.com",
-      "published_at": "2026-08-06T07:58:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigerian forces rescue 308 kidnap victims, presidency says - reuters.com",
-      "published_at": "2026-08-06T07:30:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
-      "published_at": "2026-08-06T07:27:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
-      "published_at": "2026-08-06T07:16:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's CMRG tells some steel mills to halt talks with Rio Tinto for shipments from September, sources say - reuters.com",
-      "published_at": "2026-08-06T06:55:00+00:00"
     }
   ]
 }
