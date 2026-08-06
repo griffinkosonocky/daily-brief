@@ -310,5 +310,11 @@
     "sport": "Sports",
     "question": "Who is often called \"the Maestro\" in the men's tennis circuit?",
     "answer": "Roger Federer"
+  },
+  {
+    "date": "2026-08-06",
+    "sport": "Sports",
+    "question": "Which team has won the most Stanley Cups in the NHL?",
+    "answer": "Montreal Canadians"
   }
 ]
