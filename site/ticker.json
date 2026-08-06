@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-08-06T03:30:32+00:00",
+  "updated_at": "2026-08-06T06:41:28+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Meta says AI model accessed the internet and hacked another firm",
-      "published_at": "2026-08-06T02:33:33+00:00"
+      "text": "Outrage as Ugandan football captain murdered in street gang attack",
+      "published_at": "2026-08-06T06:04:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian journalist Tarun Tejpal convicted in rape case",
+      "published_at": "2026-08-06T06:00:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "New Zealand PM Luxon open to referendum on electoral system",
-      "published_at": "2026-08-06T01:41:39+00:00"
+      "text": "Oil traders double down on Iran deal bet as odds worsen",
+      "published_at": "2026-08-06T06:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta says AI model accessed the internet and hacked another firm",
+      "published_at": "2026-08-06T05:53:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+      "published_at": "2026-08-06T05:23:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's July exports growth likely cooled but still robust",
+      "published_at": "2026-08-06T05:09:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "published_at": "2026-08-06T05:00:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Moment first rare tiger in 70 years released in Kazakhstan",
+      "published_at": "2026-08-06T04:59:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "published_at": "2026-08-06T04:44:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigerian security forces rescue more than 300 abductees",
+      "published_at": "2026-08-06T04:35:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qantas, pilots' union reach provisional agreement in pay talks",
+      "published_at": "2026-08-06T03:31:00+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Infantino and FIFA present united front after crisis meeting over stake sale fallout",
-      "published_at": "2026-08-06T00:17:00+00:00"
+      "text": "Oil prices slip as Iran cites progress with Oman on Hormuz agreement",
+      "published_at": "2026-08-06T01:07:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump turns economic speech into attack on Democrats after Michigan results",
-      "published_at": "2026-08-05T23:35:34+00:00"
+      "text": "New Zealand PM Luxon open to referendum on electoral system",
+      "published_at": "2026-08-06T00:57:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage",
-      "published_at": "2026-08-05T23:30:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "published_at": "2026-08-05T23:28:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Myanmar president visits Thailand on quest for legitimacy as Bangkok backs engagement",
-      "published_at": "2026-08-05T23:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout",
-      "published_at": "2026-08-05T22:57:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks",
-      "published_at": "2026-08-05T22:38:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Faced with a teleprompter glitch, Canada's Carney mocks Trump",
-      "published_at": "2026-08-05T22:36:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "AI or real? BBC analyses viral China disaster videos",
-      "published_at": "2026-08-05T22:00:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NWSL eyes 2027 World Cup, 2028 Olympics in next era of growth",
-      "published_at": "2026-08-05T21:38:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Infantino sorry for errors but stays Fifa president",
-      "published_at": "2026-08-05T21:37:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
-      "published_at": "2026-08-05T21:30:57+00:00"
+      "text": "South Korea says the chance of 3% economic growth has risen sharply",
+      "published_at": "2026-08-06T00:21:00+00:00"
     }
   ]
 }
