@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-07T17:05:38+00:00",
+  "updated_at": "2026-08-07T17:59:27+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Monty Roberts, who trained horses through trust, dies at 91",
+      "published_at": "2026-08-07T17:48:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "published_at": "2026-08-07T17:42:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+      "published_at": "2026-08-07T17:33:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Guotai Haitong proposes to take offshore unit private in $3.6 billion deal",
+      "published_at": "2026-08-07T17:24:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain plans burials, seeks identities of those killed in Ceuta migrant rush",
+      "published_at": "2026-08-07T17:09:19+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
@@ -12,9 +37,19 @@
       "published_at": "2026-08-07T16:33:50+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Palace sign Japan defender Tomiyasu after trial period",
+      "published_at": "2026-08-07T16:15:45+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "published_at": "2026-08-07T16:13:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino allies rally as Norway FA demands FIFA president's resignation",
+      "published_at": "2026-08-07T16:07:28+00:00"
     },
     {
       "source": "Reuters",
@@ -32,49 +67,14 @@
       "published_at": "2026-08-07T15:51:16+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "published_at": "2026-08-07T15:48:49+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "England striker Toney charged with assault at London nightclub",
       "published_at": "2026-08-07T15:42:48+00:00"
     },
     {
       "source": "NPR",
-      "text": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+      "text": "Colombia's new president vows to remake the country — and challenge rebel groups",
       "published_at": "2026-08-07T15:41:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mexico and Peru restore diplomatic relations after asylum row",
-      "published_at": "2026-08-07T15:38:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ADNOC says attacks on vessels, staff significantly impacting operations",
-      "published_at": "2026-08-07T15:07:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "All Blacks great Ma’a Nonu to face New Zealand in Sharks debut",
-      "published_at": "2026-08-07T14:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
-      "published_at": "2026-08-07T14:47:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Titan posts profit surge on strong jewellery demand",
-      "published_at": "2026-08-07T14:35:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
-      "published_at": "2026-08-07T14:31:26+00:00"
     }
   ]
 }
