@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-07T19:10:26+00:00",
+  "updated_at": "2026-08-07T20:53:23+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "published_at": "2026-08-07T18:56:33+00:00"
+      "text": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "published_at": "2026-08-07T20:40:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "published_at": "2026-08-07T20:33:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump renews effort to fire Fed's Cook, continuing attacks on central bank",
+      "published_at": "2026-08-07T20:20:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+      "published_at": "2026-08-07T20:20:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: BBC questions Infantino over backing as Fifa president",
+      "published_at": "2026-08-07T20:12:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two-day strike begins at BHP's Port Hedland iron ore operations",
+      "published_at": "2026-08-07T20:03:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump renews push to fire Fed Governor Lisa Cook",
+      "published_at": "2026-08-07T19:35:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
+      "published_at": "2026-08-07T19:15:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
+      "published_at": "2026-08-07T19:11:43+00:00"
     },
     {
       "source": "NPR",
@@ -22,19 +62,9 @@
       "published_at": "2026-08-07T17:48:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Captain Kolisi hails Springboks' depth as he returns from injury in Argentina",
-      "published_at": "2026-08-07T17:45:57+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "published_at": "2026-08-07T17:42:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll",
-      "published_at": "2026-08-07T17:33:44+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
-      "published_at": "2026-08-07T16:42:55+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Volkswagen to overhaul US strategy with planned pick-up truck, source says",
       "published_at": "2026-08-07T16:25:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "published_at": "2026-08-07T16:13:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Everybody wants energy security post the Iran war, but how?",
-      "published_at": "2026-08-07T16:08:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump nominates agency lawyer to serve on Federal Communications Commission",
-      "published_at": "2026-08-07T16:02:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seven killed after Thai student opens fire at home and school",
-      "published_at": "2026-08-07T15:51:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England striker Toney charged with assault at London nightclub",
-      "published_at": "2026-08-07T15:42:48+00:00"
     }
   ]
 }
