@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-08-07T07:37:35+00:00",
+  "updated_at": "2026-08-07T09:12:18+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Oil rises on concerns over Strait of Hormuz reopening plans",
-      "published_at": "2026-08-07T07:01:05+00:00"
+      "source": "NPR",
+      "text": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+      "published_at": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Who or what is 'taking a step back from visibility'? The quiz knows",
+      "published_at": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "published_at": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Amid cost of living stress, many parents are supporting children well into adulthood",
+      "published_at": "2026-08-07T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German airport drone-bomb: Could Russia be involved?",
+      "published_at": "2026-08-07T08:48:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Southeast Asian palm harvesting disrupted by rising cost of diesel, supply crunch",
-      "published_at": "2026-08-07T06:38:00+00:00"
+      "text": "Indian July consumer inflation likely edged higher on food prices",
+      "published_at": "2026-08-07T08:47:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-07T08:41:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "published_at": "2026-08-07T08:32:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta fined $567m in largest child safety ruling against social media giant",
+      "published_at": "2026-08-07T08:06:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's government set to exceed key fundraising goal on state-firm stake sales, sources say",
+      "published_at": "2026-08-07T07:36:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Moment earthquake shakes hospital operating room in Japan",
+      "published_at": "2026-08-07T06:46:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Prices in UK housing market flat in July as Iran war weighs",
+      "published_at": "2026-08-07T06:42:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI demand keeps China's export engine humming, but risks loom",
+      "published_at": "2026-08-07T06:14:36+00:00"
     },
     {
       "source": "Reuters",
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "published_at": "2026-08-07T05:44:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Student shoots multiple people at a high school in Thailand, authorities say",
-      "published_at": "2026-08-07T05:34:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-      "published_at": "2026-08-07T05:26:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico, Argentina back Infantino as FIFA fight rages on",
-      "published_at": "2026-08-07T05:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Hoping for a clean and tidy jobs report",
-      "published_at": "2026-08-07T04:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Everybody wants energy security post the Iran war, but how?",
-      "published_at": "2026-08-07T04:30:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Teacher and gunman dead, four injured in Thailand school shooting, police say",
-      "published_at": "2026-08-07T04:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Seven dead, including gunman, at Thailand school shooting",
-      "published_at": "2026-08-07T03:29:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "published_at": "2026-08-07T01:57:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump imposes 15% tariff on key chip material to counter China",
-      "published_at": "2026-08-07T01:03:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "published_at": "2026-08-07T00:54:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two people convicted in relation to death of French streamer",
-      "published_at": "2026-08-07T00:51:40+00:00"
     }
   ]
 }
