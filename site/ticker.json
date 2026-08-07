@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-07T04:01:34+00:00",
+  "updated_at": "2026-08-07T05:48:04+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Asian shares pause for US jobs, oil extends gains on Mideast risk",
-      "published_at": "2026-08-07T02:16:00+00:00"
-    },
     {
       "source": "BBC",
       "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "published_at": "2026-08-07T02:07:46+00:00"
+      "published_at": "2026-08-07T05:44:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Student shoots multiple people at a high school in Thailand, authorities say",
+      "published_at": "2026-08-07T05:34:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
+      "published_at": "2026-08-07T05:26:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico, Argentina back Infantino as FIFA fight rages on",
+      "published_at": "2026-08-07T05:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Hoping for a clean and tidy jobs report",
+      "published_at": "2026-08-07T04:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two dead, including gunman, at school shooting in Thailand, officials say",
+      "published_at": "2026-08-07T03:29:00+00:00"
     },
     {
       "source": "Reuters",
@@ -37,6 +57,11 @@
       "published_at": "2026-08-07T00:51:40+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Oil rises on concerns over Strait of Hormuz reopening plans",
+      "published_at": "2026-08-07T00:47:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Trump again tries to limit US birthright citizenship with new executive orders",
       "published_at": "2026-08-07T00:34:14+00:00"
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "published_at": "2026-08-06T23:55:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
-      "published_at": "2026-08-06T23:51:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Mexican governor arrested for allegedly destroying evidence tied to 43 missing students",
-      "published_at": "2026-08-06T23:06:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "published_at": "2026-08-06T22:41:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India is a nation of walkers - but its cities forgot them",
-      "published_at": "2026-08-06T22:39:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Put your phone down': K-pop band weighs in on concert etiquette",
-      "published_at": "2026-08-06T22:07:11+00:00"
     }
   ]
 }
