@@ -1,25 +1,55 @@
 {
-  "updated_at": "2026-08-07T15:05:11+00:00",
+  "updated_at": "2026-08-07T16:07:03+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "published_at": "2026-08-07T15:59:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Seven killed after Thai student opens fire at home and school",
+      "published_at": "2026-08-07T15:51:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "published_at": "2026-08-07T15:48:49+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Republican Senator Murkowski says she will vote against Blanche confirmation",
-      "published_at": "2026-08-07T14:48:01+00:00"
+      "text": "India fuel retailers say E20 petrol meets quality standards",
+      "published_at": "2026-08-07T15:45:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+      "published_at": "2026-08-07T15:41:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mexico and Peru restore diplomatic relations after asylum row",
+      "published_at": "2026-08-07T15:38:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ADNOC says attacks on vessels, staff significantly impacting operations",
+      "published_at": "2026-08-07T15:07:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Everybody wants energy security post the Iran war, but how?",
+      "published_at": "2026-08-07T14:59:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "All Blacks great Ma’a Nonu to face New Zealand in Sharks debut",
+      "published_at": "2026-08-07T14:55:44+00:00"
     },
     {
       "source": "Reuters",
       "text": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
       "published_at": "2026-08-07T14:47:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seven killed after teen shooter opens fire at home and school in Thailand",
-      "published_at": "2026-08-07T14:44:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "published_at": "2026-08-07T14:41:15+00:00"
     },
     {
       "source": "Reuters",
@@ -28,12 +58,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Here's what Americans think about the economy heading into the midterms",
-      "published_at": "2026-08-07T14:18:34+00:00"
+      "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+      "published_at": "2026-08-07T14:31:26+00:00"
     },
     {
       "source": "NPR",
-      "text": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
+      "text": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "published_at": "2026-08-07T14:12:59+00:00"
     },
     {
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "published_at": "2026-08-07T13:32:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: EU pushes fire prevention as Seoul battles heatwave",
-      "published_at": "2026-08-07T13:20:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "England defender Bronze backs UEFA in standoff with FIFA and Infantino",
-      "published_at": "2026-08-07T13:11:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-      "published_at": "2026-08-07T13:10:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Some US progressive goals win support of independent voters, Reuters/Ipsos poll finds",
-      "published_at": "2026-08-07T12:47:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Everybody wants energy security post the Iran war, but how?",
-      "published_at": "2026-08-07T11:59:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thai PM vows new gun law after deadly school shooting",
-      "published_at": "2026-08-07T11:37:30+00:00"
     }
   ]
 }
