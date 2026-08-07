@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-08-07T17:59:27+00:00",
+  "updated_at": "2026-08-07T19:10:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "published_at": "2026-08-07T18:56:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+      "published_at": "2026-08-07T18:10:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "published_at": "2026-08-07T17:50:07+00:00"
+    },
     {
       "source": "NPR",
       "text": "Monty Roberts, who trained horses through trust, dies at 91",
       "published_at": "2026-08-07T17:48:17+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Captain Kolisi hails Springboks' depth as he returns from injury in Argentina",
+      "published_at": "2026-08-07T17:45:57+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "published_at": "2026-08-07T17:42:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll",
+      "published_at": "2026-08-07T17:33:44+00:00"
     },
     {
       "source": "NPR",
@@ -18,28 +43,13 @@
     },
     {
       "source": "Reuters",
-      "text": "China's Guotai Haitong proposes to take offshore unit private in $3.6 billion deal",
-      "published_at": "2026-08-07T17:24:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain plans burials, seeks identities of those killed in Ceuta migrant rush",
-      "published_at": "2026-08-07T17:09:19+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
       "published_at": "2026-08-07T16:42:55+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "published_at": "2026-08-07T16:33:50+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Palace sign Japan defender Tomiyasu after trial period",
-      "published_at": "2026-08-07T16:15:45+00:00"
+      "text": "Volkswagen to overhaul US strategy with planned pick-up truck, source says",
+      "published_at": "2026-08-07T16:25:22+00:00"
     },
     {
       "source": "BBC",
@@ -48,18 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Infantino allies rally as Norway FA demands FIFA president's resignation",
-      "published_at": "2026-08-07T16:07:28+00:00"
+      "text": "Everybody wants energy security post the Iran war, but how?",
+      "published_at": "2026-08-07T16:08:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trump nominates agency lawyer to serve on Federal Communications Commission",
       "published_at": "2026-08-07T16:02:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil gains on US jobs report, worries over peace talks",
-      "published_at": "2026-08-07T16:01:06+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "England striker Toney charged with assault at London nightclub",
       "published_at": "2026-08-07T15:42:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Colombia's new president vows to remake the country — and challenge rebel groups",
-      "published_at": "2026-08-07T15:41:45+00:00"
     }
   ]
 }
