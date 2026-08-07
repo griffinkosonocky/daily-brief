@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-08-07T11:53:44+00:00",
+  "updated_at": "2026-08-07T13:32:20+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "published_at": "2026-08-07T11:38:28+00:00"
+      "published_at": "2026-08-07T13:18:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen to overhaul US strategy with planned pick-up truck, source says",
+      "published_at": "2026-08-07T13:17:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England defender Bronze backs UEFA in standoff with FIFA and Infantino",
+      "published_at": "2026-08-07T13:11:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+      "published_at": "2026-08-07T13:10:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thai PM vows new gun law after deadly school shooting",
+      "published_at": "2026-08-07T11:37:30+00:00"
     },
     {
       "source": "NPR",
       "text": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
       "published_at": "2026-08-07T11:36:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The financial week in five charts: Yentervention, refinery windfalls and a SpaceX splurge",
+      "published_at": "2026-08-07T11:25:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
+      "published_at": "2026-08-07T11:23:59+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +58,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Morning Bid: Dealjà vu",
+      "published_at": "2026-08-07T10:50:24+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "England striker Toney charged with assault at London nightclub",
       "published_at": "2026-08-07T10:47:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Aston Martin lets creditors Die Another Day",
-      "published_at": "2026-08-07T10:34:06+00:00"
+      "text": "Infantino allies rally as Norway FA chief demands FIFA president's resignation",
+      "published_at": "2026-08-07T10:30:03+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India's largest lender SBI beats quarterly profit view on healthy loan growth",
-      "published_at": "2026-08-07T10:14:24+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-      "published_at": "2026-08-07T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-      "published_at": "2026-08-07T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-      "published_at": "2026-08-07T09:50:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "published_at": "2026-08-07T09:22:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan July exports misses forecasts, but AI demand remains solid",
-      "published_at": "2026-08-07T09:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
-      "published_at": "2026-08-07T09:06:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
-      "published_at": "2026-08-07T09:00:00+00:00"
+      "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
+      "published_at": "2026-08-07T10:27:48+00:00"
     }
   ]
 }
