@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-07T20:53:23+00:00",
+  "updated_at": "2026-08-07T21:51:37+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "published_at": "2026-08-07T21:32:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "published_at": "2026-08-07T21:19:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What is birthright citizenship and how common is birth tourism in the US?",
+      "published_at": "2026-08-07T21:09:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "published_at": "2026-08-07T21:05:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Kidnapped rare Serbian eagle freed into wild after rescue",
@@ -13,6 +33,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Coach Rennie praises All Blacks character in fighting win over Stormers",
+      "published_at": "2026-08-07T20:30:13+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump renews effort to fire Fed's Cook, continuing attacks on central bank",
       "published_at": "2026-08-07T20:20:43+00:00"
     },
@@ -22,29 +47,14 @@
       "published_at": "2026-08-07T20:20:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Watch: BBC questions Infantino over backing as Fifa president",
-      "published_at": "2026-08-07T20:12:26+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Two-day strike begins at BHP's Port Hedland iron ore operations",
-      "published_at": "2026-08-07T20:03:44+00:00"
+      "published_at": "2026-08-07T20:09:18+00:00"
     },
     {
       "source": "NPR",
       "text": "Trump renews push to fire Fed Governor Lisa Cook",
       "published_at": "2026-08-07T19:35:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
-      "published_at": "2026-08-07T19:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
-      "published_at": "2026-08-07T19:11:43+00:00"
     },
     {
       "source": "NPR",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "published_at": "2026-08-07T17:42:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-      "published_at": "2026-08-07T17:33:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen to overhaul US strategy with planned pick-up truck, source says",
-      "published_at": "2026-08-07T16:25:22+00:00"
     }
   ]
 }
