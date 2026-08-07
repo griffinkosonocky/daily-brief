@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-07T11:15:51+00:00",
+  "updated_at": "2026-08-07T11:53:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "published_at": "2026-08-07T11:38:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+      "published_at": "2026-08-07T11:36:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "L&T says unit that houses drones to see threefold revenue growth over five years",
+      "published_at": "2026-08-07T11:11:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "De La Espriella to take office as Colombia president on pledges of security crackdown",
@@ -13,28 +28,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Dealjà vu",
-      "published_at": "2026-08-07T10:50:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Titan posts profit surge on strong jewellery demand",
-      "published_at": "2026-08-07T10:43:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Everybody wants energy security post the Iran war, but how?",
-      "published_at": "2026-08-07T10:34:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Another US Republican says she will vote against Blanche's confirmation",
-      "published_at": "2026-08-07T10:20:25+00:00"
+      "text": "England striker Toney charged with assault at London nightclub",
+      "published_at": "2026-08-07T10:47:11+00:00"
     },
     {
       "source": "Reuters",
       "text": "Breakingviews - Aston Martin lets creditors Die Another Day",
-      "published_at": "2026-08-07T10:08:31+00:00"
+      "published_at": "2026-08-07T10:34:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's largest lender SBI beats quarterly profit view on healthy loan growth",
+      "published_at": "2026-08-07T10:14:24+00:00"
     },
     {
       "source": "NPR",
@@ -47,14 +52,9 @@
       "published_at": "2026-08-07T10:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "England striker Toney charged with assault at London nightclub",
-      "published_at": "2026-08-07T09:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino gains backing from allies as UEFA maintains hardline stance",
-      "published_at": "2026-08-07T09:24:46+00:00"
+      "source": "BBC",
+      "text": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "published_at": "2026-08-07T09:50:54+00:00"
     },
     {
       "source": "BBC",
