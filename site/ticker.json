@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-07T16:07:03+00:00",
+  "updated_at": "2026-08-07T17:05:38+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
+      "published_at": "2026-08-07T16:42:55+00:00"
+    },
     {
       "source": "BBC",
       "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "published_at": "2026-08-07T15:59:01+00:00"
+      "published_at": "2026-08-07T16:33:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "published_at": "2026-08-07T16:13:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump nominates agency lawyer to serve on Federal Communications Commission",
+      "published_at": "2026-08-07T16:02:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil gains on US jobs report, worries over peace talks",
+      "published_at": "2026-08-07T16:01:06+00:00"
     },
     {
       "source": "BBC",
@@ -18,8 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "India fuel retailers say E20 petrol meets quality standards",
-      "published_at": "2026-08-07T15:45:43+00:00"
+      "text": "England striker Toney charged with assault at London nightclub",
+      "published_at": "2026-08-07T15:42:48+00:00"
     },
     {
       "source": "NPR",
@@ -35,11 +55,6 @@
       "source": "Reuters",
       "text": "ADNOC says attacks on vessels, staff significantly impacting operations",
       "published_at": "2026-08-07T15:07:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Everybody wants energy security post the Iran war, but how?",
-      "published_at": "2026-08-07T14:59:21+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
       "published_at": "2026-08-07T14:31:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Blanche's path to confirmation appears clear after winning key Republican's support",
-      "published_at": "2026-08-07T14:12:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shields says fight with Price likely to take place in 2027",
-      "published_at": "2026-08-07T13:58:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "published_at": "2026-08-07T13:32:41+00:00"
     }
   ]
 }
