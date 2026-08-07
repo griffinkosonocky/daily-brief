@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-07T00:12:03+00:00",
+  "updated_at": "2026-08-07T04:01:34+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "published_at": "2026-08-07T00:06:17+00:00"
+      "source": "Reuters",
+      "text": "Asian shares pause for US jobs, oil extends gains on Mideast risk",
+      "published_at": "2026-08-07T02:16:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "published_at": "2026-08-07T02:07:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar drifts higher as traders eye Iran talks ahead of US jobs data",
+      "published_at": "2026-08-07T02:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "published_at": "2026-08-07T01:57:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump imposes 15% tariff on key chip material to counter China",
+      "published_at": "2026-08-07T01:03:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta fined $567m in largest child safety ruling against social media giant",
+      "published_at": "2026-08-07T00:54:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two people convicted in relation to death of French streamer",
+      "published_at": "2026-08-07T00:51:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "published_at": "2026-08-07T00:34:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sudan's invisible children - born in war with no legal identity",
+      "published_at": "2026-08-07T00:26:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "published_at": "2026-08-06T23:55:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
+      "published_at": "2026-08-06T23:51:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Mexican governor arrested for allegedly destroying evidence tied to 43 missing students",
+      "published_at": "2026-08-06T23:06:56+00:00"
     },
     {
       "source": "BBC",
@@ -22,59 +72,9 @@
       "published_at": "2026-08-06T22:39:46+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
-      "published_at": "2026-08-06T22:20:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-      "published_at": "2026-08-06T22:06:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Roku beats quarterly revenue estimates on advertising, subscriptions strength",
-      "published_at": "2026-08-06T21:25:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino finds a friend in Africa as CAF backs FIFA president",
-      "published_at": "2026-08-06T21:22:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Republican U.S. Senator McConnell says he has been released from rehab center",
-      "published_at": "2026-08-06T21:07:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "published_at": "2026-08-06T20:58:56+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Does Africa still back Infantino as Fifa president?",
-      "published_at": "2026-08-06T19:55:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "published_at": "2026-08-06T19:17:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "published_at": "2026-08-06T18:53:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "published_at": "2026-08-06T18:37:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sticky or slippery? Snails can change their slime to meet the moment",
-      "published_at": "2026-08-06T18:26:45+00:00"
+      "text": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "published_at": "2026-08-06T22:07:11+00:00"
     }
   ]
 }
