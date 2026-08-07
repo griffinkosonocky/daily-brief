@@ -316,5 +316,11 @@
     "sport": "Sports",
     "question": "Which team has won the most Stanley Cups in the NHL?",
     "answer": "Montreal Canadians"
+  },
+  {
+    "date": "2026-08-07",
+    "sport": "Sports",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "answer": "Moscow"
   }
 ]
