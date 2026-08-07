@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-07T09:12:18+00:00",
+  "updated_at": "2026-08-07T11:03:22+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "published_at": "2026-08-07T10:56:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Dealjà vu",
+      "published_at": "2026-08-07T10:47:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Aston Martin lets creditors Die Another Day",
+      "published_at": "2026-08-07T10:08:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+      "published_at": "2026-08-07T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+      "published_at": "2026-08-07T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England striker Toney charged with assault at London nightclub",
+      "published_at": "2026-08-07T09:43:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino gains backing from allies as UEFA maintains hardline stance",
+      "published_at": "2026-08-07T09:24:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta fined $567m in largest child safety ruling against social media giant",
+      "published_at": "2026-08-07T09:22:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan July exports misses forecasts, but AI demand remains solid",
+      "published_at": "2026-08-07T09:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
+      "published_at": "2026-08-07T09:06:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "published_at": "2026-08-07T09:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
@@ -13,68 +68,13 @@
     },
     {
       "source": "NPR",
-      "text": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
-      "published_at": "2026-08-07T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Amid cost of living stress, many parents are supporting children well into adulthood",
       "published_at": "2026-08-07T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "German airport drone-bomb: Could Russia be involved?",
-      "published_at": "2026-08-07T08:48:16+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Indian July consumer inflation likely edged higher on food prices",
-      "published_at": "2026-08-07T08:47:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-07T08:41:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "published_at": "2026-08-07T08:32:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "published_at": "2026-08-07T08:06:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's government set to exceed key fundraising goal on state-firm stake sales, sources say",
-      "published_at": "2026-08-07T07:36:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moment earthquake shakes hospital operating room in Japan",
-      "published_at": "2026-08-07T06:46:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Prices in UK housing market flat in July as Iran war weighs",
-      "published_at": "2026-08-07T06:42:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI demand keeps China's export engine humming, but risks loom",
-      "published_at": "2026-08-07T06:14:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
-      "published_at": "2026-08-07T06:02:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "published_at": "2026-08-07T05:44:29+00:00"
+      "text": "Russia bans Human Rights Foundation chaired by Yulia Navalnaya as 'undesirable'",
+      "published_at": "2026-08-07T08:55:43+00:00"
     }
   ]
 }
