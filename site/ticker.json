@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-07T05:48:04+00:00",
+  "updated_at": "2026-08-07T07:37:35+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Oil rises on concerns over Strait of Hormuz reopening plans",
+      "published_at": "2026-08-07T07:01:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Southeast Asian palm harvesting disrupted by rising cost of diesel, supply crunch",
+      "published_at": "2026-08-07T06:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
+      "published_at": "2026-08-07T06:02:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
@@ -28,13 +43,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Two dead, including gunman, at school shooting in Thailand, officials say",
-      "published_at": "2026-08-07T03:29:00+00:00"
+      "text": "Everybody wants energy security post the Iran war, but how?",
+      "published_at": "2026-08-07T04:30:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dollar drifts higher as traders eye Iran talks ahead of US jobs data",
-      "published_at": "2026-08-07T02:05:00+00:00"
+      "text": "Teacher and gunman dead, four injured in Thailand school shooting, police say",
+      "published_at": "2026-08-07T04:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Seven dead, including gunman, at Thailand school shooting",
+      "published_at": "2026-08-07T03:29:00+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Two people convicted in relation to death of French streamer",
       "published_at": "2026-08-07T00:51:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil rises on concerns over Strait of Hormuz reopening plans",
-      "published_at": "2026-08-07T00:47:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "published_at": "2026-08-07T00:34:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sudan's invisible children - born in war with no legal identity",
-      "published_at": "2026-08-07T00:26:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-      "published_at": "2026-08-06T23:55:35+00:00"
     }
   ]
 }
