@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-07T23:43:57+00:00",
+  "updated_at": "2026-08-08T02:16:42+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Argentine football prez: Lionel Messi alone will decide when to retire",
+      "published_at": "2026-08-08T00:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "published_at": "2026-08-07T23:12:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+      "published_at": "2026-08-07T23:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
+      "published_at": "2026-08-07T22:36:06+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates",
@@ -15,11 +35,6 @@
       "source": "BBC",
       "text": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
       "published_at": "2026-08-07T22:07:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump renews effort to fire Fed's Cook, continuing attacks on central bank",
-      "published_at": "2026-08-07T21:51:36+00:00"
     },
     {
       "source": "BBC",
@@ -58,23 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
-      "published_at": "2026-08-07T19:15:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-      "published_at": "2026-08-07T18:10:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-      "published_at": "2026-08-07T17:50:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Monty Roberts, who trained horses through trust, dies at 91",
-      "published_at": "2026-08-07T17:48:17+00:00"
+      "text": "EXCLUSIVE: Trump administration to back three mineral projects with $58 million in financing",
+      "published_at": "2026-08-07T19:13:46+00:00"
     }
   ]
 }
