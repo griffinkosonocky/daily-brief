@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-08-08T21:41:47+00:00",
+  "updated_at": "2026-08-08T22:42:21+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-      "published_at": "2026-08-08T21:15:33+00:00"
-    },
     {
       "source": "BBC",
       "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "published_at": "2026-08-08T21:06:48+00:00"
+      "published_at": "2026-08-08T22:01:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "published_at": "2026-08-08T21:37:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Tanker sailors still face danger in the Strait of Hormuz",
+      "published_at": "2026-08-08T21:19:54+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +25,6 @@
       "source": "Reuters",
       "text": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says",
       "published_at": "2026-08-08T19:53:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-      "published_at": "2026-08-08T19:35:43+00:00"
     },
     {
       "source": "BBC",
