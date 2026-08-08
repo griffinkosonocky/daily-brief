@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-08T11:38:04+00:00",
+  "updated_at": "2026-08-08T13:08:27+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+      "published_at": "2026-08-08T12:31:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "NBA forward Clarke's death due to effects of drugs",
+      "published_at": "2026-08-08T12:05:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+      "published_at": "2026-08-08T12:01:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: Europe's summer of heat",
+      "published_at": "2026-08-08T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
+      "published_at": "2026-08-08T11:27:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
@@ -13,17 +38,17 @@
     },
     {
       "source": "BBC",
-      "text": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "text": "US Senate narrowly confirms Todd Blanche as attorney general",
       "published_at": "2026-08-08T10:19:46+00:00"
     },
     {
       "source": "NPR",
-      "text": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "text": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
       "published_at": "2026-08-08T10:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "text": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
       "published_at": "2026-08-08T10:00:00+00:00"
     },
     {
@@ -47,34 +72,9 @@
       "published_at": "2026-08-08T06:12:56+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Scale of devastation shocks US city's fire-seasoned residents",
-      "published_at": "2026-08-08T00:51:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "published_at": "2026-08-08T00:29:27+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Argentine football prez: Lionel Messi alone will decide when to retire",
-      "published_at": "2026-08-08T00:03:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "published_at": "2026-08-08T00:02:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The phone book that led us to Assad's spy chief in hiding",
-      "published_at": "2026-08-07T23:23:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-      "published_at": "2026-08-07T23:12:19+00:00"
+      "text": "British music festivals stage tentative revival with perks and payment plans",
+      "published_at": "2026-08-08T06:04:00+00:00"
     }
   ]
 }
