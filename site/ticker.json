@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-08T16:48:18+00:00",
+  "updated_at": "2026-08-08T17:41:47+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "The Week in Breakingviews: A yen for intervention",
+      "published_at": "2026-08-08T17:30:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "published_at": "2026-08-08T17:23:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+      "published_at": "2026-08-08T17:10:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Messi's father Jorge dies aged 68 in Argentina",
+      "published_at": "2026-08-08T17:06:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+      "published_at": "2026-08-08T16:45:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "published_at": "2026-08-08T16:34:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Mom, don't call me': Inside Thailand's deadly school shooting",
+      "published_at": "2026-08-08T16:27:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "published_at": "2026-08-08T15:59:37+00:00"
     },
     {
       "source": "BBC",
@@ -22,19 +57,9 @@
       "published_at": "2026-08-08T15:49:41+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "published_at": "2026-08-08T15:44:08+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
-      "published_at": "2026-08-08T15:31:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-      "published_at": "2026-08-08T15:22:02+00:00"
+      "text": "Bulgaria says drone explodes in its airspace, no damage",
+      "published_at": "2026-08-08T15:33:36+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "published_at": "2026-08-08T14:25:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
-      "published_at": "2026-08-08T14:02:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "K-pop's global wave inspires Chile's next pop stars",
-      "published_at": "2026-08-08T13:34:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
-      "published_at": "2026-08-08T13:20:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thailand school shooting toll rises to nine after death of 12-year-old girl, police say",
-      "published_at": "2026-08-08T12:38:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "NBA forward Clarke's death due to effects of drugs",
-      "published_at": "2026-08-08T12:05:04+00:00"
     }
   ]
 }
