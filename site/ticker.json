@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-08T19:39:13+00:00",
+  "updated_at": "2026-08-08T20:44:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "published_at": "2026-08-08T20:18:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says",
+      "published_at": "2026-08-08T19:53:53+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -37,14 +47,14 @@
       "published_at": "2026-08-08T17:46:05+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "The Week in Breakingviews: A yen for intervention",
+      "published_at": "2026-08-08T17:30:03+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "published_at": "2026-08-08T17:23:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
-      "published_at": "2026-08-08T17:10:31+00:00"
     },
     {
       "source": "Reuters",
@@ -57,11 +67,6 @@
       "published_at": "2026-08-08T16:45:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "'Mom, don't call me': Inside Thailand's deadly school shooting",
-      "published_at": "2026-08-08T16:27:54+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
       "published_at": "2026-08-08T15:59:37+00:00"
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "published_at": "2026-08-08T15:56:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Messi's father Jorge dies aged 68 after illness",
-      "published_at": "2026-08-08T15:51:11+00:00"
     }
   ]
 }
