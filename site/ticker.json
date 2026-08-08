@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-08-08T13:08:27+00:00",
+  "updated_at": "2026-08-08T14:45:06+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "published_at": "2026-08-08T14:25:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
+      "published_at": "2026-08-08T13:54:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "published_at": "2026-08-08T13:49:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "K-pop's global wave inspires Chile's next pop stars",
+      "published_at": "2026-08-08T13:34:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Child among three killed in Russian missile attacks near Kyiv",
+      "published_at": "2026-08-08T13:29:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "published_at": "2026-08-08T13:23:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
+      "published_at": "2026-08-08T13:20:13+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "published_at": "2026-08-08T12:31:41+00:00"
+      "published_at": "2026-08-08T13:08:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thailand school shooting toll rises to nine after death of 12-year-old girl, police say",
+      "published_at": "2026-08-08T12:38:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bulgaria's Radev says drone exploded in Bulgaria's airspace",
+      "published_at": "2026-08-08T12:07:43+00:00"
     },
     {
       "source": "BBC",
@@ -12,19 +57,14 @@
       "published_at": "2026-08-08T12:05:04+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
-      "published_at": "2026-08-08T12:01:42+00:00"
+      "source": "Reuters",
+      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
+      "published_at": "2026-08-08T12:03:48+00:00"
     },
     {
       "source": "NPR",
       "text": "Opinion: Europe's summer of heat",
       "published_at": "2026-08-08T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
-      "published_at": "2026-08-08T11:27:43+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "The Women's Professional Baseball League makes its historic debut",
       "published_at": "2026-08-08T10:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US Senate narrowly confirms Todd Blanche as attorney general",
-      "published_at": "2026-08-08T10:19:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-      "published_at": "2026-08-08T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-      "published_at": "2026-08-08T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
-      "published_at": "2026-08-08T09:05:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Data centers are a political issue crossing party lines, driving voters to candidates",
-      "published_at": "2026-08-08T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Senate votes to confirm Todd Blanche as attorney general",
-      "published_at": "2026-08-08T08:46:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Child among three killed in Russian missile attacks near Kyiv",
-      "published_at": "2026-08-08T06:12:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British music festivals stage tentative revival with perks and payment plans",
-      "published_at": "2026-08-08T06:04:00+00:00"
     }
   ]
 }
