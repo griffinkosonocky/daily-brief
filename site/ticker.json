@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-08T11:00:17+00:00",
+  "updated_at": "2026-08-08T11:38:04+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "published_at": "2026-08-08T11:01:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "The Women's Professional Baseball League makes its historic debut",
@@ -40,11 +45,6 @@
       "source": "BBC",
       "text": "Child among three killed in Russian missile attacks near Kyiv",
       "published_at": "2026-08-08T06:12:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
-      "published_at": "2026-08-08T04:33:00+00:00"
     },
     {
       "source": "BBC",
