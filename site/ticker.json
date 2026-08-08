@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-08T20:44:10+00:00",
+  "updated_at": "2026-08-08T21:41:47+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "published_at": "2026-08-08T21:15:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "published_at": "2026-08-08T21:06:48+00:00"
+    },
     {
       "source": "BBC",
       "text": "Paris tells e-scooter riders to wear safety gear or face fines",
@@ -10,6 +20,11 @@
       "source": "Reuters",
       "text": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says",
       "published_at": "2026-08-08T19:53:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+      "published_at": "2026-08-08T19:35:43+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +40,6 @@
       "source": "Reuters",
       "text": "Messi's father Jorge dies aged 68 in Argentina",
       "published_at": "2026-08-08T18:21:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "published_at": "2026-08-08T18:13:49+00:00"
     },
     {
       "source": "BBC",
@@ -62,19 +72,9 @@
       "published_at": "2026-08-08T16:49:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
-      "published_at": "2026-08-08T16:45:44+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
       "published_at": "2026-08-08T15:59:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "published_at": "2026-08-08T15:56:39+00:00"
     }
   ]
 }
