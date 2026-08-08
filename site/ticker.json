@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-08T18:53:53+00:00",
+  "updated_at": "2026-08-08T19:39:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "published_at": "2026-08-08T19:18:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "published_at": "2026-08-08T19:00:22+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Messi's father Jorge dies aged 68 in Argentina",
@@ -27,11 +37,6 @@
       "published_at": "2026-08-08T17:46:05+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "The Week in Breakingviews: A yen for intervention",
-      "published_at": "2026-08-08T17:30:03+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "published_at": "2026-08-08T17:23:31+00:00"
@@ -52,6 +57,11 @@
       "published_at": "2026-08-08T16:45:44+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "'Mom, don't call me': Inside Thailand's deadly school shooting",
+      "published_at": "2026-08-08T16:27:54+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
       "published_at": "2026-08-08T15:59:37+00:00"
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Messi's father Jorge dies aged 68 after illness",
       "published_at": "2026-08-08T15:51:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "published_at": "2026-08-08T15:15:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Moismane set for second spell as South Africa coach",
-      "published_at": "2026-08-08T14:37:43+00:00"
     }
   ]
 }
