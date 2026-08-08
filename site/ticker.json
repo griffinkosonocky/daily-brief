@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-08-08T14:45:06+00:00",
+  "updated_at": "2026-08-08T15:39:59+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
+      "published_at": "2026-08-08T15:31:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
+      "published_at": "2026-08-08T15:22:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "published_at": "2026-08-08T15:15:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Moismane set for second spell as South Africa coach",
+      "published_at": "2026-08-08T14:37:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "published_at": "2026-08-08T14:25:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
-      "published_at": "2026-08-08T13:54:13+00:00"
     },
     {
       "source": "BBC",
@@ -38,11 +53,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "published_at": "2026-08-08T13:08:46+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Thailand school shooting toll rises to nine after death of 12-year-old girl, police say",
       "published_at": "2026-08-08T12:38:50+00:00"
     },
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "Opinion: Europe's summer of heat",
       "published_at": "2026-08-08T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-      "published_at": "2026-08-08T11:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Women's Professional Baseball League makes its historic debut",
-      "published_at": "2026-08-08T10:30:00+00:00"
     }
   ]
 }
