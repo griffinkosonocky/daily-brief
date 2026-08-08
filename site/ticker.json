@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-08T17:41:47+00:00",
+  "updated_at": "2026-08-08T18:53:53+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Messi's father Jorge dies aged 68 in Argentina",
+      "published_at": "2026-08-08T18:21:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "published_at": "2026-08-08T18:13:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Child among three killed in Russian missile attacks near Kyiv",
+      "published_at": "2026-08-08T18:06:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "published_at": "2026-08-08T17:58:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+      "published_at": "2026-08-08T17:46:05+00:00"
+    },
     {
       "source": "Reuters",
       "text": "The Week in Breakingviews: A yen for intervention",
@@ -18,23 +43,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Messi's father Jorge dies aged 68 in Argentina",
-      "published_at": "2026-08-08T17:06:20+00:00"
+      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
+      "published_at": "2026-08-08T16:49:15+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
       "published_at": "2026-08-08T16:45:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "published_at": "2026-08-08T16:34:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Mom, don't call me': Inside Thailand's deadly school shooting",
-      "published_at": "2026-08-08T16:27:54+00:00"
     },
     {
       "source": "BBC",
@@ -53,16 +68,6 @@
     },
     {
       "source": "BBC",
-      "text": "Child among three killed in Russian missile attacks near Kyiv",
-      "published_at": "2026-08-08T15:49:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bulgaria says drone explodes in its airspace, no damage",
-      "published_at": "2026-08-08T15:33:36+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
       "published_at": "2026-08-08T15:15:17+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Moismane set for second spell as South Africa coach",
       "published_at": "2026-08-08T14:37:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "published_at": "2026-08-08T14:25:19+00:00"
     }
   ]
 }
