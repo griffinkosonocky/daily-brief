@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:46:39+00:00",
+  "updated_at": "2026-08-08T11:00:17+00:00",
   "headlines": [
     {
       "source": "NPR",
@@ -13,12 +13,12 @@
     },
     {
       "source": "NPR",
-      "text": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "text": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
       "published_at": "2026-08-08T10:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "text": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
       "published_at": "2026-08-08T10:00:00+00:00"
     },
     {
@@ -47,11 +47,6 @@
       "published_at": "2026-08-08T04:33:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-      "published_at": "2026-08-08T01:37:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Scale of devastation shocks US city's fire-seasoned residents",
       "published_at": "2026-08-08T00:51:16+00:00"
@@ -75,6 +70,11 @@
       "source": "BBC",
       "text": "The phone book that led us to Assad's spy chief in hiding",
       "published_at": "2026-08-07T23:23:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "published_at": "2026-08-07T23:12:19+00:00"
     }
   ]
 }
