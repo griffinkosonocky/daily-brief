@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-08T15:39:59+00:00",
+  "updated_at": "2026-08-08T16:48:18+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "published_at": "2026-08-08T16:34:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "published_at": "2026-08-08T15:56:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Messi's father Jorge dies aged 68 after illness",
+      "published_at": "2026-08-08T15:51:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Child among three killed in Russian missile attacks near Kyiv",
+      "published_at": "2026-08-08T15:49:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "published_at": "2026-08-08T15:44:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
@@ -27,24 +52,14 @@
       "published_at": "2026-08-08T14:25:19+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "published_at": "2026-08-08T13:49:09+00:00"
+      "source": "Reuters",
+      "text": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+      "published_at": "2026-08-08T14:02:57+00:00"
     },
     {
       "source": "NPR",
       "text": "K-pop's global wave inspires Chile's next pop stars",
       "published_at": "2026-08-08T13:34:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Child among three killed in Russian missile attacks near Kyiv",
-      "published_at": "2026-08-08T13:29:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "published_at": "2026-08-08T13:23:16+00:00"
     },
     {
       "source": "Reuters",
@@ -57,24 +72,9 @@
       "published_at": "2026-08-08T12:38:50+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Bulgaria's Radev says drone exploded in Bulgaria's airspace",
-      "published_at": "2026-08-08T12:07:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "NBA forward Clarke's death due to effects of drugs",
       "published_at": "2026-08-08T12:05:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
-      "published_at": "2026-08-08T12:03:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Europe's summer of heat",
-      "published_at": "2026-08-08T12:00:00+00:00"
     }
   ]
 }
