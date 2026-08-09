@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-09T11:39:26+00:00",
+  "updated_at": "2026-08-09T13:11:20+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "published_at": "2026-08-09T13:08:21+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say - reuters.com",
-      "published_at": "2026-08-09T10:27:14+00:00"
+      "text": "Fernandez secures dominant British MotoGP victory",
+      "published_at": "2026-08-09T12:56:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo renews call for Ukraine war to end",
+      "published_at": "2026-08-09T12:43:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "published_at": "2026-08-09T12:39:47+00:00"
     },
     {
       "source": "BBC",
       "text": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "published_at": "2026-08-09T10:02:52+00:00"
+      "published_at": "2026-08-09T12:39:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say",
+      "published_at": "2026-08-09T12:31:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ancient Roman shipwreck discovered off Sicily coast",
+      "published_at": "2026-08-09T12:27:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "published_at": "2026-08-09T12:12:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+      "published_at": "2026-08-09T11:58:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+      "published_at": "2026-08-09T11:52:09+00:00"
     },
     {
       "source": "NPR",
@@ -18,28 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - reuters.com",
-      "published_at": "2026-08-09T06:56:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "published_at": "2026-08-09T06:46:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves - reuters.com",
+      "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves",
       "published_at": "2026-08-09T06:21:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "World number one Sabalenka suffers Toronto setback as Alexandrova advances - reuters.com",
+      "text": "World number one Sabalenka suffers Toronto setback as Alexandrova advances",
       "published_at": "2026-08-09T05:20:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "More workers join strike at BHP's Port Hedland iron ore operations - reuters.com",
-      "published_at": "2026-08-09T04:45:27+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "How a schoolteacher's son became Kashmir's first India Test cricketer",
       "published_at": "2026-08-09T03:00:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indonesia closes all access to Mount Bromo as wildfire expands - reuters.com",
-      "published_at": "2026-08-09T02:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact - reuters.com",
-      "published_at": "2026-08-09T01:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China July factory-gate inflation eases to 3-month low, CPI slows - reuters.com",
-      "published_at": "2026-08-09T01:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "published_at": "2026-08-09T01:10:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Solar eclipse to occur next week. Here is what to know",
-      "published_at": "2026-08-09T00:56:21+00:00"
     }
   ]
 }
