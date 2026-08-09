@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-09T17:42:33+00:00",
+  "updated_at": "2026-08-09T18:55:54+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "England defender Chalobah joins Como from Chelsea",
-      "published_at": "2026-08-09T17:22:09+00:00"
+      "text": "Maresca delighted by Semenyo-Marmoush partnership after Man City beat Atletico",
+      "published_at": "2026-08-09T18:22:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "published_at": "2026-08-09T18:21:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "published_at": "2026-08-09T18:03:55+00:00"
     },
     {
       "source": "Reuters",
       "text": "Sinner withdraws from Cincinnati Open with knee injury ahead of US Open",
-      "published_at": "2026-08-09T17:14:21+00:00"
+      "published_at": "2026-08-09T17:48:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+      "published_at": "2026-08-09T17:36:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "England defender Chalobah joins Como from Chelsea",
+      "published_at": "2026-08-09T17:22:09+00:00"
     },
     {
       "source": "Reuters",
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-      "published_at": "2026-08-09T13:59:33+00:00"
+      "text": "Air India captain's initial drug screening prompts further testing after sudden altitude loss",
+      "published_at": "2026-08-09T13:49:46+00:00"
     },
     {
       "source": "Reuters",
       "text": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
       "published_at": "2026-08-09T13:44:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "published_at": "2026-08-09T13:08:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia",
-      "published_at": "2026-08-09T12:47:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo renews call for Ukraine war to end",
-      "published_at": "2026-08-09T12:43:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Haunted by Hoover, Trump searches for an endgame in Iran",
-      "published_at": "2026-08-09T12:39:47+00:00"
     }
   ]
 }
