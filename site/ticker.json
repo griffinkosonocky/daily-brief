@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-09T21:43:58+00:00",
+  "updated_at": "2026-08-09T22:45:09+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "published_at": "2026-08-09T22:27:53+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Crews battle wildfires in western U.S. and Canada",
+      "published_at": "2026-08-09T22:03:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Demi Vollering wins Tour de France for the 2nd time",
+      "published_at": "2026-08-09T22:00:52+00:00"
+    },
     {
       "source": "BBC",
       "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -52,11 +67,6 @@
       "published_at": "2026-08-09T18:21:45+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "published_at": "2026-08-09T18:03:55+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Sinner withdraws from Cincinnati Open with knee injury ahead of US Open",
       "published_at": "2026-08-09T17:48:03+00:00"
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "England defender Chalobah joins Como from Chelsea",
       "published_at": "2026-08-09T17:22:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview",
-      "published_at": "2026-08-09T17:19:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Al Nassr sign Portugal’s Costa from Mallorca",
-      "published_at": "2026-08-09T16:47:43+00:00"
     }
   ]
 }
