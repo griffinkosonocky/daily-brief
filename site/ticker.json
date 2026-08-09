@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-09T16:49:41+00:00",
+  "updated_at": "2026-08-09T17:42:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "England defender Chalobah joins Como from Chelsea",
+      "published_at": "2026-08-09T17:22:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sinner withdraws from Cincinnati Open with knee injury ahead of US Open",
+      "published_at": "2026-08-09T17:14:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Al Nassr sign Portugal’s Costa from Mallorca",
+      "published_at": "2026-08-09T16:47:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
@@ -17,6 +32,11 @@
       "published_at": "2026-08-09T16:18:10+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms",
+      "published_at": "2026-08-09T16:05:54+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Ecuador charges ex-minister over presidential candidate assassination case",
       "published_at": "2026-08-09T15:34:04+00:00"
@@ -27,54 +47,34 @@
       "published_at": "2026-08-09T14:18:10+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+      "published_at": "2026-08-09T13:59:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
+      "published_at": "2026-08-09T13:44:04+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "published_at": "2026-08-09T13:08:21+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia",
+      "published_at": "2026-08-09T12:47:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo renews call for Ukraine war to end",
+      "published_at": "2026-08-09T12:43:47+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Haunted by Hoover, Trump searches for an endgame in Iran",
       "published_at": "2026-08-09T12:39:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ancient Roman shipwreck discovered off Sicily coast",
-      "published_at": "2026-08-09T12:27:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "There's a birth control backlash online. Can it explain the rise in abortions?",
-      "published_at": "2026-08-09T12:12:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-      "published_at": "2026-08-09T11:58:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "published_at": "2026-08-09T09:44:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "published_at": "2026-08-09T04:32:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "published_at": "2026-08-09T03:00:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "published_at": "2026-08-09T01:10:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Solar eclipse to occur next week. Here is what to know",
-      "published_at": "2026-08-09T00:56:21+00:00"
     }
   ]
 }
