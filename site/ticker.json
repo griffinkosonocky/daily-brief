@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T02:24:24+00:00",
+  "updated_at": "2026-08-09T04:32:43+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -17,6 +17,11 @@
       "published_at": "2026-08-08T22:54:58+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
+      "published_at": "2026-08-08T22:13:46+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
       "published_at": "2026-08-08T22:01:54+00:00"
@@ -30,6 +35,11 @@
       "source": "BBC",
       "text": "Paris tells e-scooter riders to wear safety gear or face fines",
       "published_at": "2026-08-08T20:18:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+      "published_at": "2026-08-08T19:35:00+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "published_at": "2026-08-08T17:23:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
-      "published_at": "2026-08-08T16:49:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "published_at": "2026-08-08T15:59:37+00:00"
     }
   ]
 }
