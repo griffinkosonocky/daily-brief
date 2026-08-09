@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:45:09+00:00",
+  "updated_at": "2026-08-09T23:42:00+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -27,16 +27,6 @@
       "published_at": "2026-08-09T20:58:18+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Former Everton midfielder Gueye joins Saudi Diriyah",
-      "published_at": "2026-08-09T20:52:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Six die in Ukrainian drone attack on Belgorod, Russian authorities say",
-      "published_at": "2026-08-09T20:38:51+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
       "published_at": "2026-08-09T19:57:28+00:00"
@@ -47,34 +37,44 @@
       "published_at": "2026-08-09T19:40:09+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Netanyahu says Trump's new Gaza plan is unacceptable",
-      "published_at": "2026-08-09T19:24:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-      "published_at": "2026-08-09T18:55:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Maresca delighted by Semenyo-Marmoush partnership after Man City beat Atletico",
-      "published_at": "2026-08-09T18:22:16+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
       "published_at": "2026-08-09T18:21:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Sinner withdraws from Cincinnati Open with knee injury ahead of US Open",
-      "published_at": "2026-08-09T17:48:03+00:00"
+      "source": "BBC",
+      "text": "Puerto Rico rations water supplies due to intense drought",
+      "published_at": "2026-08-09T16:43:23+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "England defender Chalobah joins Como from Chelsea",
-      "published_at": "2026-08-09T17:22:09+00:00"
+      "source": "BBC",
+      "text": "Drones spotted over German base days after Leipzig bomb incident",
+      "published_at": "2026-08-09T16:18:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "published_at": "2026-08-09T15:34:04+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Haunted by Hoover, Trump searches for an endgame in Iran",
+      "published_at": "2026-08-09T12:39:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ancient Roman shipwreck discovered off Sicily coast",
+      "published_at": "2026-08-09T12:27:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "There's a birth control backlash online. Can it explain the rise in abortions?",
+      "published_at": "2026-08-09T12:12:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+      "published_at": "2026-08-09T11:58:02+00:00"
     }
   ]
 }
