@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-09T19:44:28+00:00",
+  "updated_at": "2026-08-09T20:47:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "published_at": "2026-08-09T19:57:28+00:00"
+    },
     {
       "source": "BBC",
       "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
       "published_at": "2026-08-09T19:40:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netanyahu says Trump's new Gaza plan is unacceptable",
+      "published_at": "2026-08-09T19:24:40+00:00"
     },
     {
       "source": "Reuters",
@@ -52,11 +62,6 @@
       "published_at": "2026-08-09T16:18:10+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms",
-      "published_at": "2026-08-09T16:05:54+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Ecuador charges ex-minister over presidential candidate assassination case",
       "published_at": "2026-08-09T15:34:04+00:00"
@@ -68,13 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
-      "published_at": "2026-08-09T13:44:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia",
-      "published_at": "2026-08-09T12:47:44+00:00"
+      "text": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
+      "published_at": "2026-08-09T14:06:58+00:00"
     }
   ]
 }
