@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-08-09T04:32:43+00:00",
+  "updated_at": "2026-08-09T05:54:33+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "published_at": "2026-08-09T04:32:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "published_at": "2026-08-09T03:00:44+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "More workers join strike at BHP's Port Hedland iron ore operations",
+      "text": "More workers join strike at BHP's Port Hedland iron ore operations - reuters.com",
       "published_at": "2026-08-09T02:03:00+00:00"
     },
     {
@@ -12,14 +22,24 @@
       "published_at": "2026-08-09T00:56:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-      "published_at": "2026-08-08T22:54:58+00:00"
+      "source": "BBC",
+      "text": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "published_at": "2026-08-09T00:15:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hundreds arrested over French wildfires, but who is to blame?",
+      "published_at": "2026-08-08T23:59:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "published_at": "2026-08-08T23:43:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
-      "published_at": "2026-08-08T22:13:46+00:00"
+      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com",
+      "published_at": "2026-08-08T22:54:58+00:00"
     },
     {
       "source": "BBC",
@@ -32,13 +52,8 @@
       "published_at": "2026-08-08T21:19:54+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "published_at": "2026-08-08T20:18:28+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says - reuters.com",
       "published_at": "2026-08-08T19:35:00+00:00"
     },
     {
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "published_at": "2026-08-08T17:58:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-      "published_at": "2026-08-08T17:46:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The Week in Breakingviews: A yen for intervention",
-      "published_at": "2026-08-08T17:30:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "published_at": "2026-08-08T17:23:31+00:00"
     }
   ]
 }
