@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-09T08:56:50+00:00",
+  "updated_at": "2026-08-09T09:52:09+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+      "published_at": "2026-08-09T09:44:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "State of emergency declared as fast-moving Canada wildfire doubles in size",
@@ -9,12 +14,17 @@
     {
       "source": "Reuters",
       "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves",
-      "published_at": "2026-08-09T06:21:00+00:00"
+      "published_at": "2026-08-09T06:22:09+00:00"
     },
     {
       "source": "Reuters",
       "text": "World number one Sabalenka suffers Toronto setback as Alexandrova advances",
       "published_at": "2026-08-09T05:20:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "More workers join strike at BHP's Port Hedland iron ore operations",
+      "published_at": "2026-08-09T04:45:27+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +35,6 @@
       "source": "BBC",
       "text": "How a schoolteacher's son became Kashmir's first India Test cricketer",
       "published_at": "2026-08-09T03:00:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "More workers join strike at BHP's Port Hedland iron ore operations",
-      "published_at": "2026-08-09T02:03:00+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
       "published_at": "2026-08-08T22:13:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tanker sailors still face danger in the Strait of Hormuz",
-      "published_at": "2026-08-08T21:19:54+00:00"
     }
   ]
 }
