@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-09T09:52:09+00:00",
+  "updated_at": "2026-08-09T10:48:11+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "published_at": "2026-08-09T10:02:52+00:00"
+    },
     {
       "source": "NPR",
       "text": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
@@ -14,7 +19,7 @@
     {
       "source": "Reuters",
       "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves",
-      "published_at": "2026-08-09T06:22:09+00:00"
+      "published_at": "2026-08-09T06:21:00+00:00"
     },
     {
       "source": "Reuters",
@@ -38,6 +43,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Indonesia closes all access to Mount Bromo as wildfire expands",
+      "published_at": "2026-08-09T02:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Yemen's Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished",
       "published_at": "2026-08-09T01:48:00+00:00"
     },
@@ -45,6 +55,11 @@
       "source": "Reuters",
       "text": "China July factory-gate inflation eases to 3-month low, CPI slows",
       "published_at": "2026-08-09T01:43:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "published_at": "2026-08-09T01:10:50+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Hundreds arrested over French wildfires, but who is to blame?",
       "published_at": "2026-08-08T23:59:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "published_at": "2026-08-08T23:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
-      "published_at": "2026-08-08T22:54:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
-      "published_at": "2026-08-08T22:13:46+00:00"
     }
   ]
 }
