@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-08-08T23:38:59+00:00",
+  "updated_at": "2026-08-09T02:24:24+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com",
+      "text": "More workers join strike at BHP's Port Hedland iron ore operations",
+      "published_at": "2026-08-09T02:03:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Solar eclipse to occur next week. Here is what to know",
+      "published_at": "2026-08-09T00:56:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
       "published_at": "2026-08-08T22:54:58+00:00"
     },
     {
@@ -22,11 +32,6 @@
       "published_at": "2026-08-08T20:18:28+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - reuters.com",
-      "published_at": "2026-08-08T19:53:53+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
       "published_at": "2026-08-08T19:18:57+00:00"
@@ -35,11 +40,6 @@
       "source": "BBC",
       "text": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
       "published_at": "2026-08-08T19:00:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi's father Jorge dies aged 68 in Argentina - reuters.com",
-      "published_at": "2026-08-08T18:21:49+00:00"
     },
     {
       "source": "BBC",
@@ -58,7 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "The Week in Breakingviews: A yen for intervention - reuters.com",
+      "text": "The Week in Breakingviews: A yen for intervention",
       "published_at": "2026-08-08T17:30:03+00:00"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Premier League champions Arsenal land Newcastle's Guimaraes - reuters.com",
+      "text": "Premier League champions Arsenal land Newcastle's Guimaraes",
       "published_at": "2026-08-08T16:49:15+00:00"
     },
     {
