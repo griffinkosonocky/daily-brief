@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-09T11:02:18+00:00",
+  "updated_at": "2026-08-09T11:39:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say - reuters.com",
+      "published_at": "2026-08-09T10:27:14+00:00"
+    },
     {
       "source": "BBC",
       "text": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
@@ -12,23 +17,28 @@
       "published_at": "2026-08-09T09:44:02+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - reuters.com",
+      "published_at": "2026-08-09T06:56:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "State of emergency declared as fast-moving Canada wildfire doubles in size",
       "published_at": "2026-08-09T06:46:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves",
+      "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves - reuters.com",
       "published_at": "2026-08-09T06:21:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "World number one Sabalenka suffers Toronto setback as Alexandrova advances",
+      "text": "World number one Sabalenka suffers Toronto setback as Alexandrova advances - reuters.com",
       "published_at": "2026-08-09T05:20:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "More workers join strike at BHP's Port Hedland iron ore operations",
+      "text": "More workers join strike at BHP's Port Hedland iron ore operations - reuters.com",
       "published_at": "2026-08-09T04:45:27+00:00"
     },
     {
@@ -43,17 +53,17 @@
     },
     {
       "source": "Reuters",
-      "text": "Indonesia closes all access to Mount Bromo as wildfire expands",
+      "text": "Indonesia closes all access to Mount Bromo as wildfire expands - reuters.com",
       "published_at": "2026-08-09T02:30:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact",
+      "text": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact - reuters.com",
       "published_at": "2026-08-09T01:48:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China July factory-gate inflation eases to 3-month low, CPI slows",
+      "text": "China July factory-gate inflation eases to 3-month low, CPI slows - reuters.com",
       "published_at": "2026-08-09T01:43:00+00:00"
     },
     {
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "Solar eclipse to occur next week. Here is what to know",
       "published_at": "2026-08-09T00:56:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "published_at": "2026-08-09T00:15:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds arrested over French wildfires, but who is to blame?",
-      "published_at": "2026-08-08T23:59:23+00:00"
     }
   ]
 }
