@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-09T07:11:01+00:00",
+  "updated_at": "2026-08-09T08:56:50+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "State of emergency declared as fast-moving Canada wildfire doubles in size",
       "published_at": "2026-08-09T06:46:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wildcard Kelly Slater stars as surfing's Tahiti Pro kicks of in unruly waves",
+      "published_at": "2026-08-09T06:21:00+00:00"
     },
     {
       "source": "Reuters",
@@ -25,6 +30,16 @@
       "source": "Reuters",
       "text": "More workers join strike at BHP's Port Hedland iron ore operations",
       "published_at": "2026-08-09T02:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis say they attacked Saudi Aramco Jazan refinery, fire extinguished",
+      "published_at": "2026-08-09T01:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China July factory-gate inflation eases to 3-month low, CPI slows",
+      "published_at": "2026-08-09T01:43:00+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Tanker sailors still face danger in the Strait of Hormuz",
       "published_at": "2026-08-08T21:19:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-      "published_at": "2026-08-08T19:35:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "published_at": "2026-08-08T19:18:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "published_at": "2026-08-08T19:00:22+00:00"
     }
   ]
 }
