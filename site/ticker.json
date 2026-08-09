@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-09T18:55:54+00:00",
+  "updated_at": "2026-08-09T19:44:28+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "published_at": "2026-08-09T19:40:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+      "published_at": "2026-08-09T18:55:32+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Maresca delighted by Semenyo-Marmoush partnership after Man City beat Atletico",
@@ -23,11 +33,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
-      "published_at": "2026-08-09T17:36:11+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "England defender Chalobah joins Como from Chelsea",
       "published_at": "2026-08-09T17:22:09+00:00"
     },
@@ -35,11 +40,6 @@
       "source": "Reuters",
       "text": "Al Nassr sign Portugal’s Costa from Mallorca",
       "published_at": "2026-08-09T16:47:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "published_at": "2026-08-09T16:46:18+00:00"
     },
     {
       "source": "BBC",
@@ -68,13 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Air India captain's initial drug screening prompts further testing after sudden altitude loss",
-      "published_at": "2026-08-09T13:49:46+00:00"
+      "text": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
+      "published_at": "2026-08-09T13:44:04+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Fernandez secures dominant British MotoGP victory, Martin extends championship lead",
-      "published_at": "2026-08-09T13:44:04+00:00"
+      "text": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia",
+      "published_at": "2026-08-09T12:47:44+00:00"
     }
   ]
 }
