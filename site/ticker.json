@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-09T20:47:43+00:00",
+  "updated_at": "2026-08-09T21:43:58+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "published_at": "2026-08-09T21:25:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "published_at": "2026-08-09T20:58:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Everton midfielder Gueye joins Saudi Diriyah",
+      "published_at": "2026-08-09T20:52:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Six die in Ukrainian drone attack on Belgorod, Russian authorities say",
+      "published_at": "2026-08-09T20:38:51+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Al Nassr sign Portugal’s Costa from Mallorca",
-      "published_at": "2026-08-09T16:47:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Puerto Rico rations water supplies due to intense drought",
-      "published_at": "2026-08-09T16:43:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drones spotted over German base days after Leipzig bomb incident",
-      "published_at": "2026-08-09T16:18:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "published_at": "2026-08-09T15:34:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "published_at": "2026-08-09T14:18:10+00:00"
+      "text": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview",
+      "published_at": "2026-08-09T17:19:59+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-      "published_at": "2026-08-09T14:06:58+00:00"
+      "text": "Al Nassr sign Portugal’s Costa from Mallorca",
+      "published_at": "2026-08-09T16:47:43+00:00"
     }
   ]
 }
