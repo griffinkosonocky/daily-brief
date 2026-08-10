@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-10T04:49:11+00:00",
+  "updated_at": "2026-08-10T06:19:09+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "ADNOC Gas profit slumps 52% but beats company's guidance",
+      "published_at": "2026-08-10T05:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China is balancing Asia's crude oil demand by itself",
+      "published_at": "2026-08-10T05:35:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - China brokerage tidying is more than housekeeping",
+      "published_at": "2026-08-10T05:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely intervenes to support rupee, traders say",
+      "published_at": "2026-08-10T05:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How the hard reality of climate change hit Europe's economy this summer",
+      "published_at": "2026-08-10T05:02:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
@@ -13,68 +38,43 @@
     },
     {
       "source": "Reuters",
-      "text": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - reuters.com",
+      "text": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says",
       "published_at": "2026-08-10T03:15:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Asia stocks gain, oil up amid Gulf confusion - reuters.com",
-      "published_at": "2026-08-10T03:09:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? - reuters.com",
+      "text": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
       "published_at": "2026-08-10T02:36:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian shares open higher as soft US jobs data offsets oil worries - reuters.com",
+      "text": "Indian shares muted as soft US jobs data offsets oil worries",
       "published_at": "2026-08-10T02:25:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gold drifts lower from seven-week peak, US inflation data looms - reuters.com",
+      "text": "Gold eases from seven-week peak, US inflation data looms",
       "published_at": "2026-08-10T02:22:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "International unit of China's Guotai Junan surges 36% on take-private proposal - reuters.com",
+      "text": "International unit of China's Guotai Junan surges 36% on take-private proposal",
       "published_at": "2026-08-10T02:03:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian rupee, bonds to track oil prices; local and US inflation data in focus - reuters.com",
+      "text": "Indian rupee, bonds to track oil prices; local and US inflation data in focus",
       "published_at": "2026-08-10T01:36:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dollar near two-month trough as US inflation data awaited - reuters.com",
+      "text": "Dollar climbs from two-month trough as oil gains, inflation data eyed",
       "published_at": "2026-08-10T01:31:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China is balancing Asia's crude oil demand by itself - reuters.com",
-      "published_at": "2026-08-10T01:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China Shock 2.0 reshuffles winners and losers - reuters.com",
-      "published_at": "2026-08-09T23:20:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb - reuters.com",
-      "published_at": "2026-08-09T23:15:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Evidence that South African special forces murdered top detective shared with BBC",
-      "published_at": "2026-08-09T23:05:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran ties Hormuz reopening to US concessions on several demands - reuters.com",
-      "published_at": "2026-08-09T23:03:00+00:00"
+      "text": "Asia stocks gain, oil up amid Gulf confusion",
+      "published_at": "2026-08-10T00:25:00+00:00"
     }
   ]
 }
