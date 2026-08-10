@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-10T10:33:35+00:00",
+  "updated_at": "2026-08-10T11:31:22+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "published_at": "2026-08-10T11:28:01+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale",
-      "published_at": "2026-08-10T10:08:57+00:00"
+      "text": "India's TCS flags alleged exposure of some employee data, says customer data not impacted - reuters.com",
+      "published_at": "2026-08-10T11:19:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "published_at": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German foreign ministry says Gaza plan could lead towards disarmament of Hamas - reuters.com",
+      "published_at": "2026-08-10T10:49:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India considers curbing use of cane for ethanol to tame record-high sugar market - reuters.com",
+      "published_at": "2026-08-10T10:49:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "French lender's India treasurer pegs rupee floor near 'fair value' of 96 per dollar - reuters.com",
+      "published_at": "2026-08-10T10:46:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Fed's Cook grilled again - reuters.com",
+      "published_at": "2026-08-10T10:42:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's central bank vows to expand yuan's international use in five-year plan - reuters.com",
+      "published_at": "2026-08-10T10:42:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - reuters.com",
+      "published_at": "2026-08-10T10:29:27+00:00"
     },
     {
       "source": "BBC",
@@ -23,18 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Nairobi submits bid to host 2029 World Championships",
-      "published_at": "2026-08-10T09:06:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-      "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "published_at": "2026-08-10T09:00:00+00:00"
+      "text": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - reuters.com",
+      "published_at": "2026-08-10T09:21:03+00:00"
     },
     {
       "source": "NPR",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "In a competitive Maine Senate race, women voters could be the deciders",
       "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Who really needs testosterone?",
-      "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-      "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "published_at": "2026-08-10T08:58:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-10T08:41:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say",
-      "published_at": "2026-08-10T08:40:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BOJ's rate-hike path runs into Takaichi's bond market problems",
-      "published_at": "2026-08-10T08:29:18+00:00"
     }
   ]
 }
