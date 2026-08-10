@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-10T19:10:47+00:00",
+  "updated_at": "2026-08-10T20:56:33+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+      "published_at": "2026-08-10T20:49:00+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "At least 111 killed after powerful earthquake hits western Colombia",
-      "published_at": "2026-08-10T18:40:25+00:00"
+      "text": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+      "published_at": "2026-08-10T20:42:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigerians' cost of living pain deepens as election looms",
+      "published_at": "2026-08-10T20:30:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "published_at": "2026-08-10T20:25:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "published_at": "2026-08-10T20:16:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Powerful Colombia earthquake kills at least 111",
+      "published_at": "2026-08-10T19:32:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump extends Jones Act waiver for 90 days, narrows scope",
+      "published_at": "2026-08-10T19:29:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "published_at": "2026-08-10T19:17:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Airbus to assist Air India altitude loss investigation",
+      "published_at": "2026-08-10T19:12:57+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown",
       "published_at": "2026-08-10T18:06:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia's top court bars anti-war party from parliamentary vote",
-      "published_at": "2026-08-10T18:00:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "published_at": "2026-08-10T17:50:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-      "published_at": "2026-08-10T17:38:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction",
-      "published_at": "2026-08-10T17:22:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role?",
-      "published_at": "2026-08-10T17:20:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lenders scrutinize US data center financing as community opposition builds",
-      "published_at": "2026-08-10T16:11:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "published_at": "2026-08-10T16:10:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-      "published_at": "2026-08-10T16:08:06+00:00"
     }
   ]
 }
