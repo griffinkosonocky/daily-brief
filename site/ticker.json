@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-08-10T22:52:29+00:00",
+  "updated_at": "2026-08-10T23:46:34+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "More than 100 killed after strongest quake this century hits western Colombia",
-      "published_at": "2026-08-10T22:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue",
-      "published_at": "2026-08-10T21:56:36+00:00"
+      "text": "BOJ's rate-hike path runs into Takaichi's bond market problems - reuters.com",
+      "published_at": "2026-08-10T23:08:35+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-10T21:33:25+00:00"
+      "published_at": "2026-08-10T23:03:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue - reuters.com",
+      "published_at": "2026-08-10T22:40:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "More than 100 killed after strongest quake this century hits western Colombia - reuters.com",
+      "published_at": "2026-08-10T22:14:09+00:00"
     },
     {
       "source": "BBC",
       "text": "Canada flight cancelled after child refuses to wear seat belt",
       "published_at": "2026-08-10T21:06:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia's top court bars anti-war party from parliamentary vote - reuters.com",
+      "published_at": "2026-08-10T21:05:44+00:00"
     },
     {
       "source": "NPR",
@@ -28,12 +38,7 @@
     },
     {
       "source": "Reuters",
-      "text": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
-      "published_at": "2026-08-10T20:42:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigerians' cost of living pain deepens as election looms",
+      "text": "Nigerians' cost of living pain deepens as election looms - reuters.com",
       "published_at": "2026-08-10T20:30:08+00:00"
     },
     {
@@ -43,13 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "text": "Kalshi ties up with Nasdaq to bolster trade surveillance - reuters.com",
       "published_at": "2026-08-10T19:49:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump extends Jones Act waiver for 90 days, narrows scope",
-      "published_at": "2026-08-10T19:29:55+00:00"
     },
     {
       "source": "BBC",
@@ -58,7 +58,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Albania's Djimsiti joins Saudi side Diriyah",
+      "text": "Airbus to assist Air India altitude loss investigation - reuters.com",
+      "published_at": "2026-08-10T19:12:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Albania's Djimsiti joins Saudi side Diriyah - reuters.com",
       "published_at": "2026-08-10T18:31:43+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Watch: What we know about suspected crime boss Daniel Kinahan",
       "published_at": "2026-08-10T18:24:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "published_at": "2026-08-10T18:19:41+00:00"
     }
   ]
 }
