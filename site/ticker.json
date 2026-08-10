@@ -1,55 +1,70 @@
 {
-  "updated_at": "2026-08-10T02:29:17+00:00",
+  "updated_at": "2026-08-10T04:49:11+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Gold drifts lower from seven-week peak, US inflation data looms",
-      "published_at": "2026-08-10T02:22:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "International unit of China's Guotai Junan surges 36% on take-private proposal",
-      "published_at": "2026-08-10T02:03:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian rupee, bonds to track oil prices; local and US inflation data in focus",
-      "published_at": "2026-08-10T01:36:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China is balancing Asia's crude oil demand by itself",
-      "published_at": "2026-08-10T01:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia stocks edge higher, oil up amid Gulf confusion",
-      "published_at": "2026-08-10T00:25:00+00:00"
+      "source": "NPR",
+      "text": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+      "published_at": "2026-08-10T04:01:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "published_at": "2026-08-10T00:17:46+00:00"
+      "published_at": "2026-08-10T03:33:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China Shock 2.0 reshuffles winners and losers",
+      "text": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - reuters.com",
+      "published_at": "2026-08-10T03:15:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia stocks gain, oil up amid Gulf confusion - reuters.com",
+      "published_at": "2026-08-10T03:09:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list? - reuters.com",
+      "published_at": "2026-08-10T02:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares open higher as soft US jobs data offsets oil worries - reuters.com",
+      "published_at": "2026-08-10T02:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold drifts lower from seven-week peak, US inflation data looms - reuters.com",
+      "published_at": "2026-08-10T02:22:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "International unit of China's Guotai Junan surges 36% on take-private proposal - reuters.com",
+      "published_at": "2026-08-10T02:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian rupee, bonds to track oil prices; local and US inflation data in focus - reuters.com",
+      "published_at": "2026-08-10T01:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar near two-month trough as US inflation data awaited - reuters.com",
+      "published_at": "2026-08-10T01:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China is balancing Asia's crude oil demand by itself - reuters.com",
+      "published_at": "2026-08-10T01:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China Shock 2.0 reshuffles winners and losers - reuters.com",
       "published_at": "2026-08-09T23:20:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UK's jobs market shows signs of stabilisation, REC/KPMG say",
-      "published_at": "2026-08-09T23:18:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb",
+      "text": "Australia's Treasury Wine takes $394 million charge to revamp US business; shares climb - reuters.com",
       "published_at": "2026-08-09T23:15:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran ties Hormuz reopening to US concessions on several demands",
-      "published_at": "2026-08-09T23:06:01+00:00"
     },
     {
       "source": "BBC",
@@ -58,23 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Oil rises on uncertainty over reopening of Hormuz",
-      "published_at": "2026-08-09T22:17:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Crews battle wildfires in western U.S. and Canada",
-      "published_at": "2026-08-09T22:03:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Demi Vollering wins Tour de France for the 2nd time",
-      "published_at": "2026-08-09T22:00:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nearly 30 years after Tupac's death, the trial over his murder will finally begin",
-      "published_at": "2026-08-09T21:27:16+00:00"
+      "text": "Iran ties Hormuz reopening to US concessions on several demands - reuters.com",
+      "published_at": "2026-08-09T23:03:00+00:00"
     }
   ]
 }
