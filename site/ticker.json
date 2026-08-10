@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-10T21:53:32+00:00",
+  "updated_at": "2026-08-10T22:52:29+00:00",
   "headlines": [
-    {
-      "source": "BBC",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-10T21:33:25+00:00"
-    },
     {
       "source": "Reuters",
       "text": "More than 100 killed after strongest quake this century hits western Colombia",
-      "published_at": "2026-08-10T21:32:44+00:00"
+      "published_at": "2026-08-10T22:14:09+00:00"
     },
     {
       "source": "Reuters",
       "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue",
-      "published_at": "2026-08-10T21:20:09+00:00"
+      "published_at": "2026-08-10T21:56:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "published_at": "2026-08-10T21:33:25+00:00"
     },
     {
       "source": "BBC",
@@ -47,6 +47,11 @@
       "published_at": "2026-08-10T19:49:25+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Trump extends Jones Act waiver for 90 days, narrows scope",
+      "published_at": "2026-08-10T19:29:55+00:00"
+    },
+    {
       "source": "BBC",
       "text": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
       "published_at": "2026-08-10T19:17:11+00:00"
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Russian court bars only anti-war party from standing in parliamentary elections",
       "published_at": "2026-08-10T18:19:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global traders, financial groups expand into Brazil's power market",
-      "published_at": "2026-08-10T18:17:50+00:00"
     }
   ]
 }
