@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-08-10T08:47:55+00:00",
+  "updated_at": "2026-08-10T10:33:35+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale",
+      "published_at": "2026-08-10T10:08:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "published_at": "2026-08-10T10:03:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "published_at": "2026-08-10T09:51:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "published_at": "2026-08-10T09:33:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nairobi submits bid to host 2029 World Championships",
+      "published_at": "2026-08-10T09:06:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In a competitive Maine Senate race, women voters could be the deciders",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Who really needs testosterone?",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
+      "published_at": "2026-08-10T08:58:22+00:00"
+    },
     {
       "source": "NPR",
       "text": "Morning news brief",
@@ -9,72 +69,12 @@
     {
       "source": "Reuters",
       "text": "India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say",
-      "published_at": "2026-08-10T08:31:45+00:00"
+      "published_at": "2026-08-10T08:40:41+00:00"
     },
     {
       "source": "Reuters",
       "text": "BOJ's rate-hike path runs into Takaichi's bond market problems",
-      "published_at": "2026-08-10T08:23:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigerians' cost of living pain deepens as election looms",
-      "published_at": "2026-08-10T08:23:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mohsen Rezaei appointed as secretary of Iran's top security body",
-      "published_at": "2026-08-10T08:01:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China evacuates one million from homes as massive storm arrives",
-      "published_at": "2026-08-10T07:23:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Estonia government loses parliament majority as two MPs defect",
-      "published_at": "2026-08-10T06:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China is balancing Asia's crude oil demand by itself",
-      "published_at": "2026-08-10T06:03:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indonesia nominates Destry Damayanti as sole candidate for central bank governor",
-      "published_at": "2026-08-10T06:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Millions of burnt books show how 'war of endurance' is hurting Ukraine",
-      "published_at": "2026-08-10T06:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ADNOC Gas profit slumps 52% but beats company's guidance",
-      "published_at": "2026-08-10T05:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gunman fires inside Thai government office as country reels from school shooting",
-      "published_at": "2026-08-10T05:27:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank likely intervenes to support rupee, traders say",
-      "published_at": "2026-08-10T05:09:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How the hard reality of climate change hit Europe's economy this summer",
-      "published_at": "2026-08-10T05:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "published_at": "2026-08-10T04:01:00+00:00"
+      "published_at": "2026-08-10T08:29:18+00:00"
     }
   ]
 }
