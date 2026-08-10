@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-10T11:55:39+00:00",
+  "updated_at": "2026-08-10T13:37:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "China is balancing Asia's crude oil demand by itself",
+      "published_at": "2026-08-10T13:31:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Unemployment rate remains Fed's labor market lodestar",
+      "published_at": "2026-08-10T13:02:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "published_at": "2026-08-10T12:54:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "published_at": "2026-08-10T12:39:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Springboks call up evergreen utility forward Fourie for All Blacks series",
+      "published_at": "2026-08-10T12:37:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Battle for Mali base has killed dozens of militants, army says",
+      "published_at": "2026-08-10T12:32:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "published_at": "2026-08-10T12:23:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports",
+      "published_at": "2026-08-10T12:01:40+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Russian federation files fresh CAS challenge against World Athletics sanctions",
@@ -13,33 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "S&P 500, Nasdaq futures inch up as markets monitor Hormuz situation",
-      "published_at": "2026-08-10T11:35:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "published_at": "2026-08-10T11:28:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown",
-      "published_at": "2026-08-10T11:19:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's TCS flags alleged exposure of some employee data, says customer data not impacted",
-      "published_at": "2026-08-10T11:19:27+00:00"
+      "text": "Poland and Baltics shield infrastructure, fearing a Russian false-flag strike",
+      "published_at": "2026-08-10T11:27:15+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Blackstone-owned Safe Harbor nears $1.5 billion deal to buy MarineMax, sources say",
-      "published_at": "2026-08-10T11:09:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fast sport slow to change as F1 marks 50 years since last female racer",
-      "published_at": "2026-08-10T11:04:56+00:00"
+      "published_at": "2026-08-10T11:23:42+00:00"
     },
     {
       "source": "NPR",
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "India considers curbing use of cane for ethanol to tame record-high sugar market",
-      "published_at": "2026-08-10T10:49:11+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Morning Bid: Fed's Cook grilled again",
       "published_at": "2026-08-10T10:42:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "China's central bank vows to expand yuan's international use in five-year plan",
-      "published_at": "2026-08-10T10:42:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale",
-      "published_at": "2026-08-10T10:29:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "RFK Jr. to unveil plan targeting loophole allowing chemicals in food, WaPo reports",
-      "published_at": "2026-08-10T10:24:41+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "published_at": "2026-08-10T10:03:58+00:00"
+      "text": "India police fire tear gas at protesters seeking exam reforms",
+      "published_at": "2026-08-10T10:41:04+00:00"
     }
   ]
 }
