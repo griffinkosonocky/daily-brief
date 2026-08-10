@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-10T20:56:33+00:00",
+  "updated_at": "2026-08-10T21:53:32+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "published_at": "2026-08-10T21:33:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "More than 100 killed after strongest quake this century hits western Colombia",
+      "published_at": "2026-08-10T21:32:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue",
+      "published_at": "2026-08-10T21:20:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada flight cancelled after child refuses to wear seat belt",
+      "published_at": "2026-08-10T21:06:27+00:00"
+    },
     {
       "source": "NPR",
       "text": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
@@ -22,29 +42,14 @@
       "published_at": "2026-08-10T20:25:02+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-10T20:16:34+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Powerful Colombia earthquake kills at least 111",
-      "published_at": "2026-08-10T19:32:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump extends Jones Act waiver for 90 days, narrows scope",
-      "published_at": "2026-08-10T19:29:55+00:00"
+      "text": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+      "published_at": "2026-08-10T19:49:25+00:00"
     },
     {
       "source": "BBC",
       "text": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
       "published_at": "2026-08-10T19:17:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airbus to assist Air India altitude loss investigation",
-      "published_at": "2026-08-10T19:12:57+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Global traders, financial groups expand into Brazil's power market",
       "published_at": "2026-08-10T18:17:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown",
-      "published_at": "2026-08-10T18:06:47+00:00"
     }
   ]
 }
