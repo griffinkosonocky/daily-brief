@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-08-11T07:23:29+00:00",
+  "updated_at": "2026-08-11T09:10:38+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "The school year begins in LA with one big change: limited screen time",
+      "published_at": "2026-08-11T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+      "published_at": "2026-08-11T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+      "published_at": "2026-08-11T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+      "published_at": "2026-08-11T09:00:00+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Holiday Inn owner IHG's quarterly room revenue rises on China, Amers demand",
+      "text": "Fitch affirms India's 'BBB-' credit rating with stable outlook",
+      "published_at": "2026-08-11T08:49:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Everton midfielder Gueye joins Saudi Diriyah",
+      "published_at": "2026-08-11T08:48:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "published_at": "2026-08-11T08:44:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-11T08:32:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's car sales extend slide as shift accelerates to overseas markets",
+      "published_at": "2026-08-11T08:09:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold eases from over two-month peak, inflation reports in focus",
+      "published_at": "2026-08-11T07:32:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BRICS nations discuss linking payment systems and CBDCs, RBI chief says",
+      "published_at": "2026-08-11T07:20:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan, South Korea drive Asian equity outflows in July as AI worries bite",
+      "published_at": "2026-08-11T06:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IHG's room revenue growth slows as Iran war offsets US, China growth",
       "published_at": "2026-08-11T06:06:00+00:00"
     },
     {
@@ -13,68 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "China missile test deepens Pacific divide over growing militarisation",
-      "published_at": "2026-08-11T05:55:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-      "published_at": "2026-08-11T05:48:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Battle for the skies begins in the boardroom",
-      "published_at": "2026-08-11T05:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gulf shipping traffic via Strait of Hormuz falls to six vessels",
-      "published_at": "2026-08-11T04:44:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Afghanistan seal 2027 World Cup berth, West Indies to go through qualifiers again",
-      "published_at": "2026-08-11T04:42:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Surge in China's coal imports may start to taper off",
-      "published_at": "2026-08-11T04:22:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 132 killed in Colombia's largest earthquake in years",
-      "published_at": "2026-08-11T04:06:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China is balancing Asia's crude oil demand by itself",
-      "published_at": "2026-08-11T03:50:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-      "published_at": "2026-08-11T03:39:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rupee dips as oil rises on Middle East uncertainty; RBI intervention shields",
-      "published_at": "2026-08-11T02:59:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-11T02:43:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vietnam starts building largest homemade anti-submarine warship",
-      "published_at": "2026-08-11T02:39:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Financials lead Indian shares lower as higher crude prices spur caution",
-      "published_at": "2026-08-11T02:25:00+00:00"
+      "text": "Colombia rescue efforts press on after quake, death toll expected to rise",
+      "published_at": "2026-08-11T06:01:00+00:00"
     }
   ]
 }
