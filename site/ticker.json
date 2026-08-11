@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-08-11T11:02:26+00:00",
+  "updated_at": "2026-08-11T11:14:18+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Barrick names Sebastiaan Bock to lead international business before IPO",
+      "text": "Syria sentences absent Bashar al-Assad to death over killings and torture - reuters.com",
+      "published_at": "2026-08-11T10:59:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Barrick names Sebastiaan Bock to lead international business before IPO - reuters.com",
       "published_at": "2026-08-11T10:47:44+00:00"
     },
     {
@@ -13,12 +18,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Venture Global lifts 2026 core profit forecast for second straight quarter",
+      "text": "Venture Global lifts 2026 core profit forecast for second straight quarter - reuters.com",
       "published_at": "2026-08-11T10:41:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Insurers, Spirax drag down UK's FTSE 100 index",
+      "text": "Insurers, Spirax drag down UK's FTSE 100 index - reuters.com",
       "published_at": "2026-08-11T10:35:44+00:00"
     },
     {
@@ -28,7 +33,12 @@
     },
     {
       "source": "Reuters",
-      "text": "China's car sales extend slide as shift accelerates to overseas markets",
+      "text": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier - reuters.com",
+      "published_at": "2026-08-11T10:25:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's car sales extend slide as shift accelerates to overseas markets - reuters.com",
       "published_at": "2026-08-11T10:13:16+00:00"
     },
     {
@@ -38,12 +48,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Fitch affirms India rating on robust growth, flags youth job risks to fiscal profile",
+      "text": "Fitch affirms India rating on robust growth, flags youth job risks to fiscal profile - reuters.com",
       "published_at": "2026-08-11T10:09:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "WHO defends immunisation schedules after Trump orders fewer childhood shots",
+      "text": "WHO defends immunisation schedules after Trump orders fewer childhood shots - reuters.com",
       "published_at": "2026-08-11T10:08:21+00:00"
     },
     {
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "published_at": "2026-08-11T09:58:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "published_at": "2026-08-11T09:39:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Solar industry grapples with cutting its growing waste stream",
-      "published_at": "2026-08-11T09:34:41+00:00"
     }
   ]
 }

@@ -334,5 +334,11 @@
     "sport": "Sports",
     "question": "When was the first official international game played?",
     "answer": "1872"
+  },
+  {
+    "date": "2026-08-11",
+    "sport": "Sports",
+    "question": "Which city features all of their professional sports teams' jersey's with the same color scheme?",
+    "answer": "Pittsburgh"
   }
 ]
