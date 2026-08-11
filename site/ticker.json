@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-11T11:52:33+00:00",
+  "updated_at": "2026-08-11T13:35:48+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 169 killed in Colombia's largest earthquake in years",
+      "published_at": "2026-08-11T13:21:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Copper's Congo panic says more about copper than Congo",
+      "published_at": "2026-08-11T13:10:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss government rejects rigid interpretation of neutrality ahead of referendum",
+      "published_at": "2026-08-11T12:34:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh",
+      "published_at": "2026-08-11T11:51:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthi attack on small cargo ship in Red Sea kills three crew members, sources say",
+      "published_at": "2026-08-11T11:32:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TSX futures flat as US-Iran stalemate keeps investors cautious",
+      "published_at": "2026-08-11T11:26:09+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Insurers, Spirax drag down UK's FTSE 100 index",
@@ -32,49 +62,19 @@
       "published_at": "2026-08-11T10:43:07+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Venture Global lifts 2026 core profit forecast for second straight quarter",
-      "published_at": "2026-08-11T10:41:47+00:00"
-    },
-    {
       "source": "NPR",
       "text": "The secret economics inside the new Planet Money board game",
       "published_at": "2026-08-11T10:30:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China's car sales extend slide as shift accelerates to overseas markets",
-      "published_at": "2026-08-11T10:13:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Family escapes home during Colombia earthquake",
-      "published_at": "2026-08-11T10:12:21+00:00"
+      "text": "Wall St futures muted as US-Iran impasse lifts oil prices",
+      "published_at": "2026-08-11T10:27:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Fitch affirms India rating on robust growth, flags youth job risks to fiscal profile",
-      "published_at": "2026-08-11T10:09:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Former Syrian President Assad sentenced to death in absentia",
-      "published_at": "2026-08-11T10:07:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-11T10:00:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "published_at": "2026-08-11T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "published_at": "2026-08-11T09:58:45+00:00"
+      "text": "China's car sales extend slide as shift accelerates to overseas markets",
+      "published_at": "2026-08-11T10:13:16+00:00"
     }
   ]
 }
