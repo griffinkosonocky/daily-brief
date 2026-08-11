@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-11T09:10:38+00:00",
+  "updated_at": "2026-08-11T11:02:26+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "The school year begins in LA with one big change: limited screen time",
-      "published_at": "2026-08-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-      "published_at": "2026-08-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-      "published_at": "2026-08-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-      "published_at": "2026-08-11T09:00:00+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Fitch affirms India's 'BBB-' credit rating with stable outlook",
-      "published_at": "2026-08-11T08:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Everton midfielder Gueye joins Saudi Diriyah",
-      "published_at": "2026-08-11T08:48:45+00:00"
+      "text": "Barrick names Sebastiaan Bock to lead international business before IPO",
+      "published_at": "2026-08-11T10:47:44+00:00"
     },
     {
       "source": "BBC",
-      "text": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "published_at": "2026-08-11T08:44:52+00:00"
+      "text": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "published_at": "2026-08-11T10:43:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global lifts 2026 core profit forecast for second straight quarter",
+      "published_at": "2026-08-11T10:41:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insurers, Spirax drag down UK's FTSE 100 index",
+      "published_at": "2026-08-11T10:35:44+00:00"
     },
     {
       "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-11T08:32:41+00:00"
+      "text": "The secret economics inside the new Planet Money board game",
+      "published_at": "2026-08-11T10:30:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "China's car sales extend slide as shift accelerates to overseas markets",
-      "published_at": "2026-08-11T08:09:45+00:00"
+      "published_at": "2026-08-11T10:13:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Family escapes home during Colombia earthquake",
+      "published_at": "2026-08-11T10:12:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gold eases from over two-month peak, inflation reports in focus",
-      "published_at": "2026-08-11T07:32:53+00:00"
+      "text": "Fitch affirms India rating on robust growth, flags youth job risks to fiscal profile",
+      "published_at": "2026-08-11T10:09:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "BRICS nations discuss linking payment systems and CBDCs, RBI chief says",
-      "published_at": "2026-08-11T07:20:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan, South Korea drive Asian equity outflows in July as AI worries bite",
-      "published_at": "2026-08-11T06:18:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IHG's room revenue growth slows as Iran war offsets US, China growth",
-      "published_at": "2026-08-11T06:06:00+00:00"
+      "text": "WHO defends immunisation schedules after Trump orders fewer childhood shots",
+      "published_at": "2026-08-11T10:08:21+00:00"
     },
     {
       "source": "NPR",
-      "text": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-      "published_at": "2026-08-11T06:03:49+00:00"
+      "text": "Former Syrian President Assad sentenced to death in absentia",
+      "published_at": "2026-08-11T10:07:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "published_at": "2026-08-11T10:00:04+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
+      "published_at": "2026-08-11T10:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "published_at": "2026-08-11T09:58:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "published_at": "2026-08-11T09:39:58+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Colombia rescue efforts press on after quake, death toll expected to rise",
-      "published_at": "2026-08-11T06:01:00+00:00"
+      "text": "Solar industry grapples with cutting its growing waste stream",
+      "published_at": "2026-08-11T09:34:41+00:00"
     }
   ]
 }
