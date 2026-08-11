@@ -1,25 +1,65 @@
 {
-  "updated_at": "2026-08-10T23:46:34+00:00",
+  "updated_at": "2026-08-11T02:22:31+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "BOJ's rate-hike path runs into Takaichi's bond market problems - reuters.com",
-      "published_at": "2026-08-10T23:08:35+00:00"
-    },
     {
       "source": "BBC",
       "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "published_at": "2026-08-10T23:03:52+00:00"
+      "published_at": "2026-08-11T02:10:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 132 killed in Colombia's largest earthquake in years",
+      "published_at": "2026-08-11T01:59:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue - reuters.com",
+      "text": "Yen steadies as intervention boost fades; RBA in focus",
+      "published_at": "2026-08-11T01:34:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Young girl finds whale stranded on Australian beach",
+      "published_at": "2026-08-11T01:31:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold rises for third straight session, inflation prints in focus",
+      "published_at": "2026-08-11T00:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Unemployment rate remains Fed's labor market lodestar",
+      "published_at": "2026-08-10T23:30:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Alabama heads into a second primary election after redistricting",
+      "published_at": "2026-08-10T22:43:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netcapital charged by US SEC with fraud for allegedly inflating revenue",
       "published_at": "2026-08-10T22:40:55+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "published_at": "2026-08-10T22:31:42+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "More than 100 killed after strongest quake this century hits western Colombia - reuters.com",
-      "published_at": "2026-08-10T22:14:09+00:00"
+      "text": "Russian attacks on Ukraine's Zaporizhzhia, Kyiv kill five, officials say",
+      "published_at": "2026-08-10T22:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China is balancing Asia's crude oil demand by itself",
+      "published_at": "2026-08-10T22:07:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The lonely Chinese men being conned by fake brides",
+      "published_at": "2026-08-10T22:02:21+00:00"
     },
     {
       "source": "BBC",
@@ -27,54 +67,14 @@
       "published_at": "2026-08-10T21:06:27+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Russia's top court bars anti-war party from parliamentary vote - reuters.com",
-      "published_at": "2026-08-10T21:05:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
-      "published_at": "2026-08-10T20:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigerians' cost of living pain deepens as election looms - reuters.com",
-      "published_at": "2026-08-10T20:30:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump and RFK Jr. try again to upend vaccines for kids",
-      "published_at": "2026-08-10T20:25:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kalshi ties up with Nasdaq to bolster trade surveillance - reuters.com",
-      "published_at": "2026-08-10T19:49:25+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "published_at": "2026-08-10T19:17:11+00:00"
+      "text": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "published_at": "2026-08-10T20:55:34+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Airbus to assist Air India altitude loss investigation - reuters.com",
-      "published_at": "2026-08-10T19:12:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Albania's Djimsiti joins Saudi side Diriyah - reuters.com",
-      "published_at": "2026-08-10T18:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New train service connects Finland and Sweden for first time in decades",
-      "published_at": "2026-08-10T18:28:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "published_at": "2026-08-10T18:24:45+00:00"
+      "text": "Trump extends Jones Act waiver for 90 days, narrows scope",
+      "published_at": "2026-08-10T20:52:16+00:00"
     }
   ]
 }
