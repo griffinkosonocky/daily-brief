@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-11T06:00:31+00:00",
+  "updated_at": "2026-08-11T07:23:29+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Holiday Inn owner IHG's quarterly room revenue rises on China, Amers demand",
+      "published_at": "2026-08-11T06:06:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+      "published_at": "2026-08-11T06:03:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China missile test deepens Pacific divide over growing militarisation",
+      "published_at": "2026-08-11T05:55:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
@@ -15,6 +30,11 @@
       "source": "Reuters",
       "text": "Gulf shipping traffic via Strait of Hormuz falls to six vessels",
       "published_at": "2026-08-11T04:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Afghanistan seal 2027 World Cup berth, West Indies to go through qualifiers again",
+      "published_at": "2026-08-11T04:42:09+00:00"
     },
     {
       "source": "Reuters",
@@ -38,7 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Rupee set to slip on oil pressure, relies on RBI support",
+      "text": "Rupee dips as oil rises on Middle East uncertainty; RBI intervention shields",
       "published_at": "2026-08-11T02:59:00+00:00"
     },
     {
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Vietnam starts building largest homemade anti-submarine warship",
+      "published_at": "2026-08-11T02:39:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Financials lead Indian shares lower as higher crude prices spur caution",
       "published_at": "2026-08-11T02:25:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia and Vietnam deepen strategic partnership",
-      "published_at": "2026-08-11T01:43:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil prices rise, Asia stocks drift amid US-Iran stalemate",
-      "published_at": "2026-08-11T01:41:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen wobbles as intervention afterglow dims; RBA keeps rates unchanged",
-      "published_at": "2026-08-11T01:34:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Young girl finds whale stranded on Australian beach",
-      "published_at": "2026-08-11T01:31:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold gains for third session, inflation reports in focus",
-      "published_at": "2026-08-11T00:48:00+00:00"
     }
   ]
 }
