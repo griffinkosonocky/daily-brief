@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-11T15:12:22+00:00",
+  "updated_at": "2026-08-11T17:08:46+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia releases former US Marine reported in poor health",
+      "published_at": "2026-08-11T17:02:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "published_at": "2026-08-11T16:19:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump floats possible legal challenge to New York tax on luxury second homes",
+      "published_at": "2026-08-11T16:19:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon",
+      "published_at": "2026-08-11T16:18:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "published_at": "2026-08-11T16:12:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Tide of rubbish blankets Philippines river",
+      "published_at": "2026-08-11T16:10:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norway wealth fund CEO says fund's entire value could be lost if market collapses",
+      "published_at": "2026-08-11T15:55:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+      "published_at": "2026-08-11T15:53:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia frees ailing ex-US Marine Robert Gilman from detention",
+      "published_at": "2026-08-11T15:53:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+      "published_at": "2026-08-11T15:41:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lebanon abolishes death penalty in first for region",
+      "published_at": "2026-08-11T15:24:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lebanon parliament votes to abolish death penalty",
+      "published_at": "2026-08-11T15:24:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand joins France in committing to FIFA Under-20 Women's World Cup",
+      "published_at": "2026-08-11T15:12:23+00:00"
+    },
     {
       "source": "BBC",
       "text": "Thailand suspends new gun permits after mass shooting",
       "published_at": "2026-08-11T15:11:54+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "published_at": "2026-08-11T14:50:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "published_at": "2026-08-11T14:47:28+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Assad ruled Syria with iron fist before defeat in civil war",
-      "published_at": "2026-08-11T14:40:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US human rights groups sue Trump over anti-ICC push",
-      "published_at": "2026-08-11T14:34:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia frees ailing ex-US Marine Robert Gilman from detention",
-      "published_at": "2026-08-11T14:27:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Formula E announces global streaming deal with Disney+ and ESPN",
-      "published_at": "2026-08-11T14:26:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Disney wins global streaming rights for Formula E races",
-      "published_at": "2026-08-11T14:25:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO defends immunisation schedules after Trump orders fewer childhood shots",
-      "published_at": "2026-08-11T14:19:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drone captures devastating aftermath of Spokane wildfires",
-      "published_at": "2026-08-11T14:02:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three killed in attacks on ships in Red Sea, Gulf, sources say",
-      "published_at": "2026-08-11T13:32:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Latvia finds tunnel under Belarus border, vows to combat people smugglers",
-      "published_at": "2026-08-11T13:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 169 killed in Colombia's largest earthquake in years",
-      "published_at": "2026-08-11T13:21:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain prepares for eclipse under shadow of wildfire risk",
-      "published_at": "2026-08-11T13:05:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swiss government rejects rigid interpretation of neutrality ahead of referendum",
-      "published_at": "2026-08-11T12:34:44+00:00"
+      "text": "ACLU, others ask US judge to clarify that Trump cannot curtail birthright citizenship",
+      "published_at": "2026-08-11T15:08:35+00:00"
     }
   ]
 }
