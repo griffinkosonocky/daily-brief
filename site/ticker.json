@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-11T21:59:10+00:00",
+  "updated_at": "2026-08-11T22:57:10+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+      "published_at": "2026-08-11T22:39:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ronaldo weds longtime partner Georgina Rodriguez in Portugal",
+      "published_at": "2026-08-11T22:35:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
@@ -8,8 +18,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Assad ruled Syria with iron fist before defeat in civil war",
+      "published_at": "2026-08-11T21:26:09+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Syria sentences absent Bashar al-Assad to death over killings and torture",
       "published_at": "2026-08-11T21:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain's JCB Hydromax sets world land speed record for a hydrogen-powered vehicle",
+      "published_at": "2026-08-11T21:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Peace fog",
+      "published_at": "2026-08-11T21:24:10+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +45,6 @@
       "source": "NPR",
       "text": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
       "published_at": "2026-08-11T21:11:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Peace fog",
-      "published_at": "2026-08-11T21:04:30+00:00"
     },
     {
       "source": "BBC",
@@ -43,6 +63,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Egypt's Trezeguet joins Saudi side Al-Riyadh on free transfer",
+      "published_at": "2026-08-11T20:07:45+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "CME takes NHL team performance into futures market",
       "published_at": "2026-08-11T19:52:30+00:00"
     },
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Luigi Mangione murder trial to have anonymous jury",
       "published_at": "2026-08-11T19:12:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "published_at": "2026-08-11T19:09:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat",
-      "published_at": "2026-08-11T19:06:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump floats possible legal challenge to New York tax on luxury second homes",
-      "published_at": "2026-08-11T18:53:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Barrick names Sebastiaan Bock to lead international business before IPO",
-      "published_at": "2026-08-11T18:45:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taliban have barred 2.4 million Afghan girls from school since 2021, UNESCO says",
-      "published_at": "2026-08-11T18:44:09+00:00"
     }
   ]
 }
