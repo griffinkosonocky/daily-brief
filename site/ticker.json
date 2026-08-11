@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-08-11T17:08:46+00:00",
+  "updated_at": "2026-08-11T19:15:33+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "published_at": "2026-08-11T19:12:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "published_at": "2026-08-11T19:09:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Barrick names Sebastiaan Bock to lead international business before IPO",
+      "published_at": "2026-08-11T18:45:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former judge removed by Orbán elected Hungarian president",
+      "published_at": "2026-08-11T18:34:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF reaches staff-level agreement with Guinea on the extended credit facility",
+      "published_at": "2026-08-11T18:31:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Some Middle East oil output will stay shut through next year, US EIA says",
+      "published_at": "2026-08-11T18:28:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis attacked Saudi ship in Bab el-Mandeb, Houthi-run news agency says",
+      "published_at": "2026-08-11T18:22:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four crew killed in Red Sea attack while missile strike reported in Gulf",
+      "published_at": "2026-08-11T17:43:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia frees ailing ex-US Marine Robert Gilman from detention",
+      "published_at": "2026-08-11T17:41:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh",
+      "published_at": "2026-08-11T17:36:25+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia releases former US Marine reported in poor health",
       "published_at": "2026-08-11T17:02:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insurers and Spirax drag down UK's FTSE 100 index",
+      "published_at": "2026-08-11T16:33:54+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +67,14 @@
       "published_at": "2026-08-11T16:19:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump floats possible legal challenge to New York tax on luxury second homes",
-      "published_at": "2026-08-11T16:19:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon",
-      "published_at": "2026-08-11T16:18:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
-      "published_at": "2026-08-11T16:12:35+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: Tide of rubbish blankets Philippines river",
       "published_at": "2026-08-11T16:10:55+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Norway wealth fund CEO says fund's entire value could be lost if market collapses",
-      "published_at": "2026-08-11T15:55:48+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
       "published_at": "2026-08-11T15:53:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia frees ailing ex-US Marine Robert Gilman from detention",
-      "published_at": "2026-08-11T15:53:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-      "published_at": "2026-08-11T15:41:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon abolishes death penalty in first for region",
-      "published_at": "2026-08-11T15:24:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lebanon parliament votes to abolish death penalty",
-      "published_at": "2026-08-11T15:24:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New Zealand joins France in committing to FIFA Under-20 Women's World Cup",
-      "published_at": "2026-08-11T15:12:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thailand suspends new gun permits after mass shooting",
-      "published_at": "2026-08-11T15:11:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ACLU, others ask US judge to clarify that Trump cannot curtail birthright citizenship",
-      "published_at": "2026-08-11T15:08:35+00:00"
     }
   ]
 }
