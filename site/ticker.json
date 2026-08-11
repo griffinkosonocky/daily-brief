@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-11T04:35:56+00:00",
+  "updated_at": "2026-08-11T06:00:31+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "published_at": "2026-08-11T05:48:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Battle for the skies begins in the boardroom",
+      "published_at": "2026-08-11T05:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gulf shipping traffic via Strait of Hormuz falls to six vessels",
+      "published_at": "2026-08-11T04:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Surge in China's coal imports may start to taper off",
+      "published_at": "2026-08-11T04:22:56+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least 132 killed in Colombia's largest earthquake in years",
       "published_at": "2026-08-11T04:06:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China is balancing Asia's crude oil demand by itself",
+      "published_at": "2026-08-11T03:50:00+00:00"
     },
     {
       "source": "NPR",
@@ -23,12 +48,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Vietnam starts building largest homemade anti-submarine warship",
-      "published_at": "2026-08-11T02:39:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares open tad lower on caution over rising crude prices",
+      "text": "Financials lead Indian shares lower as higher crude prices spur caution",
       "published_at": "2026-08-11T02:25:00+00:00"
     },
     {
@@ -43,7 +63,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Yen steadies as intervention boost fades; RBA in focus",
+      "text": "Yen wobbles as intervention afterglow dims; RBA keeps rates unchanged",
       "published_at": "2026-08-11T01:34:00+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Gold gains for third session, inflation reports in focus",
       "published_at": "2026-08-11T00:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says future of 'weaponization' fund is up to Blanche",
-      "published_at": "2026-08-10T23:56:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Unemployment rate remains Fed's labor market lodestar",
-      "published_at": "2026-08-10T23:30:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BOJ's rate-hike path runs into Takaichi's bond market problems",
-      "published_at": "2026-08-10T23:08:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Alabama heads into a second primary election after redistricting",
-      "published_at": "2026-08-10T22:43:05+00:00"
     }
   ]
 }
