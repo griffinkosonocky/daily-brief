@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-11T19:15:33+00:00",
+  "updated_at": "2026-08-11T20:58:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "published_at": "2026-08-11T20:55:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
+      "published_at": "2026-08-11T20:23:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "5 questions parents may have after Trump's latest vaccine move",
+      "published_at": "2026-08-11T20:20:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "CME takes NHL team performance into futures market",
+      "published_at": "2026-08-11T19:52:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
@@ -13,8 +33,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat",
+      "published_at": "2026-08-11T19:06:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump floats possible legal challenge to New York tax on luxury second homes",
+      "published_at": "2026-08-11T18:53:45+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Barrick names Sebastiaan Bock to lead international business before IPO",
       "published_at": "2026-08-11T18:45:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taliban have barred 2.4 million Afghan girls from school since 2021, UNESCO says",
+      "published_at": "2026-08-11T18:44:09+00:00"
     },
     {
       "source": "BBC",
@@ -28,13 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Some Middle East oil output will stay shut through next year, US EIA says",
-      "published_at": "2026-08-11T18:28:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis attacked Saudi ship in Bab el-Mandeb, Houthi-run news agency says",
-      "published_at": "2026-08-11T18:22:45+00:00"
+      "text": "Somalia malnutrition response hit by more than 80% funding drop as child hunger surges, MSF says",
+      "published_at": "2026-08-11T18:05:09+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Russia frees ailing ex-US Marine Robert Gilman from detention",
       "published_at": "2026-08-11T17:41:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venture Global misses quarterly estimates as lower LNG prices, higher costs weigh",
-      "published_at": "2026-08-11T17:36:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia releases former US Marine reported in poor health",
-      "published_at": "2026-08-11T17:02:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insurers and Spirax drag down UK's FTSE 100 index",
-      "published_at": "2026-08-11T16:33:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "published_at": "2026-08-11T16:19:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Tide of rubbish blankets Philippines river",
-      "published_at": "2026-08-11T16:10:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-      "published_at": "2026-08-11T15:53:53+00:00"
     }
   ]
 }
