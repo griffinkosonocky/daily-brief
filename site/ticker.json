@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-12T19:15:41+00:00",
+  "updated_at": "2026-08-12T20:57:52+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "published_at": "2026-08-12T20:57:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "published_at": "2026-08-12T20:56:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump sued over service selling faster access to Truth Social posts",
+      "published_at": "2026-08-12T20:33:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+      "published_at": "2026-08-12T20:19:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "published_at": "2026-08-12T20:16:55+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Gold rises to over two-month peak as US inflation data dampens rate hike bets",
-      "published_at": "2026-08-12T18:51:44+00:00"
+      "text": "Hegseth welcomes Colombia to counter-drug alliance after its election",
+      "published_at": "2026-08-12T20:15:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iger, Kushner purchasing Lakers for record $12.5 billion",
-      "published_at": "2026-08-12T18:48:26+00:00"
+      "published_at": "2026-08-12T20:13:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netherlands name Xavi as new coach",
+      "published_at": "2026-08-12T20:12:24+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "White House press secretary leaving",
+      "published_at": "2026-08-12T20:05:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold rises to over two-month peak as US inflation data dampens rate hike bets",
+      "published_at": "2026-08-12T18:51:44+00:00"
     },
     {
       "source": "NPR",
@@ -18,13 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
-      "published_at": "2026-08-12T18:12:04+00:00"
+      "text": "India's Tata Motors sees firm demand, plans price hikes as commodity costs rise",
+      "published_at": "2026-08-12T18:23:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Turkey's PKK peace law brings hope to mothers, anguish to veterans",
-      "published_at": "2026-08-12T18:06:54+00:00"
+      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
+      "published_at": "2026-08-12T18:12:04+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "UK, Italy among states considered to verify Hezbollah disarmament, sources say",
       "published_at": "2026-08-12T17:11:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US inflation eases as food and fuel costs cool",
-      "published_at": "2026-08-12T17:03:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EasyJet flight attendants in France to go on strike on August 15-16",
-      "published_at": "2026-08-12T16:47:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster",
-      "published_at": "2026-08-12T16:43:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands of Canadians call for US ambassador's expulsion",
-      "published_at": "2026-08-12T16:35:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-12T16:34:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Manchester City's Anderson eager to repay record fee with silverware",
-      "published_at": "2026-08-12T16:22:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli settlers besieging Palestinian families in West Bank village",
-      "published_at": "2026-08-12T16:14:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "LA Lakers to be sold in record $12.5bn deal",
-      "published_at": "2026-08-12T16:11:04+00:00"
     }
   ]
 }
