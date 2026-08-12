@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-12T04:56:33+00:00",
+  "updated_at": "2026-08-12T06:23:51+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Nigeria's EV ambitions run into reality of weak electricity supply",
+      "published_at": "2026-08-12T06:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Former U.S. Marine held in Russia on disputed charges has been released",
+      "published_at": "2026-08-12T05:27:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Earthquake response strains Colombia's new government and rescuers",
+      "published_at": "2026-08-12T05:13:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysian PM expected to be discharged from hospital after surgery, state news agency reports",
+      "published_at": "2026-08-12T04:43:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
@@ -8,7 +28,7 @@
     },
     {
       "source": "BBC",
-      "text": "Trump says he switched planes after Nato summit because of possible threat",
+      "text": "Trump confirms he switched planes after Nato summit because of possible threat",
       "published_at": "2026-08-12T03:44:55+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Trump's dramatic plane swap hints at personal stakes of Iran war",
       "published_at": "2026-08-12T00:14:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia releases former US Marine reported in poor health",
-      "published_at": "2026-08-11T23:33:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "published_at": "2026-08-11T23:31:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman",
-      "published_at": "2026-08-11T23:29:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
-      "published_at": "2026-08-11T23:11:32+00:00"
     }
   ]
 }
