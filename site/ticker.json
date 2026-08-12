@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-12T20:57:52+00:00",
+  "updated_at": "2026-08-12T21:57:31+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "published_at": "2026-08-12T20:57:13+00:00"
+      "published_at": "2026-08-12T21:53:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iger, Kushner purchasing Lakers for record $12.5 billion",
+      "published_at": "2026-08-12T21:20:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
+      "published_at": "2026-08-12T21:18:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Search for Colombia earthquake survivors enters critical window",
+      "published_at": "2026-08-12T21:15:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: AI cheer, new highs near",
+      "published_at": "2026-08-12T21:06:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iranian photojournalist facing 15 year in prison says she's committed to her work",
+      "published_at": "2026-08-12T21:04:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "published_at": "2026-08-12T20:58:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "published_at": "2026-08-12T20:57:47+00:00"
     },
     {
       "source": "BBC",
       "text": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "published_at": "2026-08-12T20:56:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle",
+      "published_at": "2026-08-12T20:42:39+00:00"
     },
     {
       "source": "NPR",
@@ -22,59 +62,19 @@
       "published_at": "2026-08-12T20:19:40+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "published_at": "2026-08-12T20:16:55+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Hegseth welcomes Colombia to counter-drug alliance after its election",
       "published_at": "2026-08-12T20:15:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iger, Kushner purchasing Lakers for record $12.5 billion",
-      "published_at": "2026-08-12T20:13:12+00:00"
+      "text": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster",
+      "published_at": "2026-08-12T20:14:01+00:00"
     },
     {
       "source": "Reuters",
       "text": "Netherlands name Xavi as new coach",
       "published_at": "2026-08-12T20:12:24+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "White House press secretary leaving",
-      "published_at": "2026-08-12T20:05:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold rises to over two-month peak as US inflation data dampens rate hike bets",
-      "published_at": "2026-08-12T18:51:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Has the U.S. lost its dominance to China?",
-      "published_at": "2026-08-12T18:24:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Tata Motors sees firm demand, plans price hikes as commodity costs rise",
-      "published_at": "2026-08-12T18:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
-      "published_at": "2026-08-12T18:12:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "published_at": "2026-08-12T17:47:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK, Italy among states considered to verify Hezbollah disarmament, sources say",
-      "published_at": "2026-08-12T17:11:03+00:00"
     }
   ]
 }
