@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-12T06:23:51+00:00",
+  "updated_at": "2026-08-12T08:36:44+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+      "published_at": "2026-08-12T08:06:55+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Nigeria's EV ambitions run into reality of weak electricity supply",
-      "published_at": "2026-08-12T06:02:00+00:00"
+      "text": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
+      "published_at": "2026-08-12T08:05:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Wallabies and Ireland player Smith dies aged 59",
+      "published_at": "2026-08-12T07:44:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+      "published_at": "2026-08-12T07:16:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norway wealth fund posts record $184 bln profit in first half of 2026",
+      "published_at": "2026-08-12T06:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Three midweek thoughts — 'magnificent' banks, Japan switch, populism",
+      "published_at": "2026-08-12T06:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +68,13 @@
     },
     {
       "source": "BBC",
-      "text": "Baby Shark Boy set to make K-pop debut",
+      "text": "Baby Shark boy set to make K-pop debut",
       "published_at": "2026-08-12T03:26:32+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Bondi Beach shooting hero's assault charges dropped by police",
-      "published_at": "2026-08-12T02:59:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New Zealand PM survives second leadership challenge ahead of election",
-      "published_at": "2026-08-12T02:51:02+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Oil, gold prices rise as geopolitical tensions mount before CPI",
-      "published_at": "2026-08-12T02:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia promised 1.2 million new homes, but builders are at their limits",
-      "published_at": "2026-08-12T01:04:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan condemns 'dangerous' planned Chinese navy drill with Indonesia to its east",
-      "published_at": "2026-08-12T00:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "published_at": "2026-08-12T00:14:42+00:00"
+      "text": "Out of season, out of the ordinary: Australia meet Bangladesh in rare home winter tests",
+      "published_at": "2026-08-12T03:03:00+00:00"
     }
   ]
 }
