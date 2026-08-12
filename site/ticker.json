@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-12T08:36:44+00:00",
+  "updated_at": "2026-08-12T10:17:05+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "published_at": "2026-08-12T09:55:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "published_at": "2026-08-12T09:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "published_at": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "published_at": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+      "published_at": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How a road could change West Africa's urban future",
+      "published_at": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "AI chatbots are offering financial advice. Should you trust them?",
+      "published_at": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tata Group Chairman N Chandrasekaran to step down in February",
+      "published_at": "2026-08-12T08:50:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-12T08:47:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian e-bike rental startup Yulu raises $93 mln to help fund expansion",
+      "published_at": "2026-08-12T08:47:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Four takeaways from Tuesday's primaries in six states",
+      "published_at": "2026-08-12T08:35:50+00:00"
+    },
     {
       "source": "NPR",
       "text": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
@@ -12,69 +67,14 @@
       "published_at": "2026-08-12T08:05:26+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "published_at": "2026-08-12T07:44:44+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Former Wallabies and Ireland player Smith dies aged 59",
       "published_at": "2026-08-12T07:44:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-      "published_at": "2026-08-12T07:16:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway wealth fund posts record $184 bln profit in first half of 2026",
-      "published_at": "2026-08-12T06:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three midweek thoughts — 'magnificent' banks, Japan switch, populism",
-      "published_at": "2026-08-12T06:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Former U.S. Marine held in Russia on disputed charges has been released",
-      "published_at": "2026-08-12T05:27:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Earthquake response strains Colombia's new government and rescuers",
-      "published_at": "2026-08-12T05:13:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Malaysian PM expected to be discharged from hospital after surgery, state news agency reports",
-      "published_at": "2026-08-12T04:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "published_at": "2026-08-12T04:29:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "published_at": "2026-08-12T03:44:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-      "published_at": "2026-08-12T03:34:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
-      "published_at": "2026-08-12T03:28:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Baby Shark boy set to make K-pop debut",
-      "published_at": "2026-08-12T03:26:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Out of season, out of the ordinary: Australia meet Bangladesh in rare home winter tests",
-      "published_at": "2026-08-12T03:03:00+00:00"
     }
   ]
 }
