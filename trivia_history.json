@@ -340,5 +340,11 @@
     "sport": "Sports",
     "question": "Which city features all of their professional sports teams' jersey's with the same color scheme?",
     "answer": "Pittsburgh"
+  },
+  {
+    "date": "2026-08-12",
+    "sport": "Sports",
+    "question": "What country hosted the 2014 Winter Olympics?",
+    "answer": "Russia"
   }
 ]

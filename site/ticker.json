@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-12T10:17:05+00:00",
+  "updated_at": "2026-08-12T11:16:21+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Morning Bid: Inflation obscures all",
+      "published_at": "2026-08-12T10:48:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "published_at": "2026-08-12T10:47:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Man City sign goalkeeper Rulli from Marseille",
+      "published_at": "2026-08-12T10:34:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Tata Motors posts 8.3% quarterly profit rise on higher demand",
+      "published_at": "2026-08-12T10:31:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97",
+      "published_at": "2026-08-12T10:21:32+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "text": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "published_at": "2026-08-12T09:55:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Hindustan Aeronautics posts strong quarterly results on project execution, deliveries",
+      "published_at": "2026-08-12T09:49:13+00:00"
     },
     {
       "source": "NPR",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "Morning news brief",
       "published_at": "2026-08-12T08:47:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian e-bike rental startup Yulu raises $93 mln to help fund expansion",
-      "published_at": "2026-08-12T08:47:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Four takeaways from Tuesday's primaries in six states",
-      "published_at": "2026-08-12T08:35:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
-      "published_at": "2026-08-12T08:06:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
-      "published_at": "2026-08-12T08:05:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "published_at": "2026-08-12T07:44:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Wallabies and Ireland player Smith dies aged 59",
-      "published_at": "2026-08-12T07:44:27+00:00"
     }
   ]
 }
