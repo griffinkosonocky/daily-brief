@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-12T22:55:40+00:00",
+  "updated_at": "2026-08-12T23:54:20+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Soaring AI hyperscaler default hedges aren't what they seem",
+      "published_at": "2026-08-12T23:30:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'If you're not conservative, don't come here': The town making missiles for Trump",
+      "published_at": "2026-08-12T23:26:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "published_at": "2026-08-12T23:19:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "published_at": "2026-08-12T23:19:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global EV sales rise in July as Europe offsets weakness in China and North America",
+      "published_at": "2026-08-12T23:12:12+00:00"
+    },
     {
       "source": "BBC",
       "text": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "published_at": "2026-08-12T22:46:02+00:00"
+      "published_at": "2026-08-12T23:11:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Japanese firms are being so slow to use AI",
+      "published_at": "2026-08-12T23:00:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "published_at": "2026-08-12T22:58:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands of Canadians call for US ambassador's expulsion",
+      "published_at": "2026-08-12T22:56:44+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Trump says US has 'total control' over Strait of Hormuz",
       "published_at": "2026-08-12T21:27:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says",
-      "published_at": "2026-08-12T21:24:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iger, Kushner purchasing Lakers for record $12.5 billion",
-      "published_at": "2026-08-12T21:20:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hockey Canada upholds suspensions for four players acquitted of sexual assault charges, lifts one",
-      "published_at": "2026-08-12T21:19:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
-      "published_at": "2026-08-12T21:18:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Search for Colombia earthquake survivors enters critical window",
-      "published_at": "2026-08-12T21:15:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Paytm management gets notice over timing of 2023 disclosure curbing small loans",
-      "published_at": "2026-08-12T21:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: AI cheer, new highs near",
-      "published_at": "2026-08-12T21:06:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-12T20:58:39+00:00"
     }
   ]
 }
