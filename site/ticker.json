@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-08-12T15:10:12+00:00",
+  "updated_at": "2026-08-12T17:07:46+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
-      "published_at": "2026-08-12T14:44:48+00:00"
+      "text": "US inflation eases as food and fuel costs cool",
+      "published_at": "2026-08-12T17:03:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EasyJet flight attendants in France to go on strike on August 15-16",
+      "published_at": "2026-08-12T16:47:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster",
+      "published_at": "2026-08-12T16:43:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands of Canadians call for US ambassador's expulsion",
+      "published_at": "2026-08-12T16:35:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "published_at": "2026-08-12T16:34:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Manchester City's Anderson eager to repay record fee with silverware",
+      "published_at": "2026-08-12T16:22:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli settlers besieging Palestinian families in West Bank village",
+      "published_at": "2026-08-12T16:14:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "LA Lakers to be sold in record $12.5bn deal",
+      "published_at": "2026-08-12T16:11:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
+      "published_at": "2026-08-12T15:59:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin says Russia will start seizing European vessels if its ships targeted",
+      "published_at": "2026-08-12T15:37:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of America pledges $250 billion for US infrastructure financing",
+      "published_at": "2026-08-12T15:20:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK, Italy among states considered to verify Hezbollah disarmament, sources say",
+      "published_at": "2026-08-12T15:13:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dalic named UAE coach after leaving Croatia",
+      "published_at": "2026-08-12T15:07:43+00:00"
     },
     {
       "source": "Reuters",
@@ -15,66 +75,6 @@
       "source": "Reuters",
       "text": "Trump says US has 'total control' over Strait of Hormuz",
       "published_at": "2026-08-12T14:39:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zhu Rongji, Chinese premier who cajoled economy into modern era, dies at 97",
-      "published_at": "2026-08-12T14:28:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi pens emotional tribute to late father, questions own future in the game",
-      "published_at": "2026-08-12T14:10:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US inflation eases as food and fuel costs cool",
-      "published_at": "2026-08-12T14:09:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli settlers besieging Palestinian families in West Bank village",
-      "published_at": "2026-08-12T14:03:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inflation eases in July as gasoline and grocery prices fall",
-      "published_at": "2026-08-12T14:00:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "published_at": "2026-08-12T13:55:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia says Ukrainian attacks are pushing up global food prices, causing grain shortages",
-      "published_at": "2026-08-12T13:54:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "published_at": "2026-08-12T13:38:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wisconsin result dents winning streak for Democratic Party's left wing",
-      "published_at": "2026-08-12T13:35:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gulf oil spill fast becoming worst in years, agencies warn",
-      "published_at": "2026-08-12T13:15:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says",
-      "published_at": "2026-08-12T13:14:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global stocks hold gains after in-line US CPI",
-      "published_at": "2026-08-12T13:03:06+00:00"
     }
   ]
 }
