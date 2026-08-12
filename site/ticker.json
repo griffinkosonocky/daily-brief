@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-12T17:07:46+00:00",
+  "updated_at": "2026-08-12T19:15:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Gold rises to over two-month peak as US inflation data dampens rate hike bets",
+      "published_at": "2026-08-12T18:51:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iger, Kushner purchasing Lakers for record $12.5 billion",
+      "published_at": "2026-08-12T18:48:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Has the U.S. lost its dominance to China?",
+      "published_at": "2026-08-12T18:24:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy's Curtis takes McKeown's 50m backstroke world record",
+      "published_at": "2026-08-12T18:12:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Turkey's PKK peace law brings hope to mothers, anguish to veterans",
+      "published_at": "2026-08-12T18:06:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "published_at": "2026-08-12T17:47:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK, Italy among states considered to verify Hezbollah disarmament, sources say",
+      "published_at": "2026-08-12T17:11:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "US inflation eases as food and fuel costs cool",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "LA Lakers to be sold in record $12.5bn deal",
       "published_at": "2026-08-12T16:11:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
-      "published_at": "2026-08-12T15:59:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin says Russia will start seizing European vessels if its ships targeted",
-      "published_at": "2026-08-12T15:37:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of America pledges $250 billion for US infrastructure financing",
-      "published_at": "2026-08-12T15:20:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK, Italy among states considered to verify Hezbollah disarmament, sources say",
-      "published_at": "2026-08-12T15:13:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dalic named UAE coach after leaving Croatia",
-      "published_at": "2026-08-12T15:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India, Southern African customs bloc revive trade pact talks",
-      "published_at": "2026-08-12T14:44:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US has 'total control' over Strait of Hormuz",
-      "published_at": "2026-08-12T14:39:46+00:00"
     }
   ]
 }
