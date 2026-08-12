@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-08-12T02:38:45+00:00",
+  "updated_at": "2026-08-12T04:56:33+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Oil, gold prices rise as geopolitical tensions mount before CPI",
-      "published_at": "2026-08-12T02:19:00+00:00"
+      "source": "BBC",
+      "text": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+      "published_at": "2026-08-12T04:29:02+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump says he switched planes after Nato summit because of possible threat",
-      "published_at": "2026-08-12T02:05:30+00:00"
+      "published_at": "2026-08-12T03:44:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
+      "published_at": "2026-08-12T03:34:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+      "published_at": "2026-08-12T03:28:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Baby Shark Boy set to make K-pop debut",
+      "published_at": "2026-08-12T03:26:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bondi Beach shooting hero's assault charges dropped by police",
+      "published_at": "2026-08-12T02:59:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "New Zealand PM survives second leadership challenge ahead of election",
+      "published_at": "2026-08-12T02:51:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil, gold prices rise as geopolitical tensions mount before CPI",
+      "published_at": "2026-08-12T02:19:00+00:00"
     },
     {
       "source": "Reuters",
@@ -17,14 +47,14 @@
       "published_at": "2026-08-12T01:04:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "published_at": "2026-08-12T00:14:42+00:00"
+      "source": "Reuters",
+      "text": "Taiwan condemns 'dangerous' planned Chinese navy drill with Indonesia to its east",
+      "published_at": "2026-08-12T00:27:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "published_at": "2026-08-12T00:02:06+00:00"
+      "text": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "published_at": "2026-08-12T00:14:42+00:00"
     },
     {
       "source": "BBC",
@@ -43,38 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "How a 97-year-old escaped deadly Indian floods on a banana raft",
+      "text": "How a 97-year-old escaped deadly Indian floods on a banana log raft",
       "published_at": "2026-08-11T23:11:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-      "published_at": "2026-08-11T22:39:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ronaldo weds longtime partner Georgina Rodriguez in Portugal",
-      "published_at": "2026-08-11T22:35:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-      "published_at": "2026-08-11T21:34:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Assad ruled Syria with iron fist before defeat in civil war",
-      "published_at": "2026-08-11T21:26:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Syria sentences absent Bashar al-Assad to death over killings and torture",
-      "published_at": "2026-08-11T21:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "North Korea fires ballistic missile ahead of major US-South Korea military drills",
-      "published_at": "2026-08-11T21:25:00+00:00"
     }
   ]
 }
