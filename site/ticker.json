@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-13T20:57:26+00:00",
+  "updated_at": "2026-08-13T21:57:10+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+      "published_at": "2026-08-13T21:27:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Are global oil stocks big enough to weather another six months of US-Iran war?",
+      "published_at": "2026-08-13T21:21:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries",
+      "published_at": "2026-08-13T21:19:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Hiking pressure eases",
+      "published_at": "2026-08-13T21:05:08+00:00"
+    },
     {
       "source": "BBC",
       "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -39,7 +59,7 @@
     {
       "source": "Reuters",
       "text": "Breakingviews - Bill Ackman commands far too big a premium",
-      "published_at": "2026-08-13T18:29:00+00:00"
+      "published_at": "2026-08-13T18:44:52+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
       "published_at": "2026-08-13T17:29:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-      "published_at": "2026-08-13T17:29:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen at highest risk of major conflict since 2022 truce, UN warns",
-      "published_at": "2026-08-13T17:25:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Curtis betters own 50m backstroke world record",
-      "published_at": "2026-08-13T17:22:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Are global oil stocks big enough to weather another six months of US-Iran war?",
-      "published_at": "2026-08-13T17:15:46+00:00"
     }
   ]
 }
