@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-13T10:18:45+00:00",
+  "updated_at": "2026-08-13T11:16:38+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "published_at": "2026-08-13T11:10:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK defends seizing shadow fleet tanker after Putin threat",
+      "published_at": "2026-08-13T11:05:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran, US make competing claims over control of Strait of Hormuz",
+      "published_at": "2026-08-13T11:02:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "CAF support for Infantino is no guarantee of African votes at FIFA election",
+      "published_at": "2026-08-13T10:57:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brief relief",
+      "published_at": "2026-08-13T10:51:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambians voting as president bids for second term",
+      "published_at": "2026-08-13T10:51:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "published_at": "2026-08-13T10:39:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Air India expands drug testing to all pilots after captain tests positive for marijuana",
+      "published_at": "2026-08-13T10:21:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria faith leaders sign peace accord months after Trump remarks",
+      "published_at": "2026-08-13T10:19:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
@@ -10,11 +55,6 @@
       "source": "BBC",
       "text": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "published_at": "2026-08-13T09:54:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK defends seizing shadow fleet tanker after Putin threat",
-      "published_at": "2026-08-13T09:52:30+00:00"
     },
     {
       "source": "Reuters",
@@ -33,48 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Air India to screen all its pilots for prohibited substances, memo says",
-      "published_at": "2026-08-13T09:31:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "CK Hutchison first-half underlying profit up 6.7%",
       "published_at": "2026-08-13T09:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Large foreign investments in India's financial sector in recent months",
-      "published_at": "2026-08-13T09:13:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gaza doctors say cancer patients dying without treatment or travel",
-      "published_at": "2026-08-13T09:05:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "published_at": "2026-08-13T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "published_at": "2026-08-13T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Human Rights Watch urges Taliban to release detained UN, NGO staff",
-      "published_at": "2026-08-13T08:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sweden's right-wing government lags in poll, but gap narrows",
-      "published_at": "2026-08-13T08:47:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-13T08:44:44+00:00"
     }
   ]
 }
