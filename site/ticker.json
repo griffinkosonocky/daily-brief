@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-13T02:41:10+00:00",
+  "updated_at": "2026-08-13T05:00:18+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China",
-      "published_at": "2026-08-13T02:27:00+00:00"
+      "source": "BBC",
+      "text": "Japan protests Putin visit to disputed islands",
+      "published_at": "2026-08-13T04:50:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wallabies flyhalf Gordon returns for second Japan test",
-      "published_at": "2026-08-13T02:03:00+00:00"
+      "text": "Fed bets cool, BOJ wagers heat up",
+      "published_at": "2026-08-13T04:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Lenovo posts 43% jump in Q1 revenue",
+      "published_at": "2026-08-13T04:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - EQT unearths a $7 bln Aussie trash-to-cash deal",
+      "published_at": "2026-08-13T04:10:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "BTS star V reveals hearing loss battle during livestream",
+      "published_at": "2026-08-13T04:09:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia's Putin visits disputed Kuril Islands, samples fish roe, media say",
+      "published_at": "2026-08-13T03:38:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "published_at": "2026-08-13T03:28:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rupee boxed in, RBI takes sting out of heavy dollar demand",
+      "published_at": "2026-08-13T03:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig",
+      "published_at": "2026-08-13T03:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Twitch users can now block Amazon from using their content to train AI",
+      "published_at": "2026-08-13T02:46:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares edge lower as Middle East uncertainty persists",
+      "published_at": "2026-08-13T02:42:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australian army whistleblower released on parole after more than two years in jail",
+      "published_at": "2026-08-13T02:23:39+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
       "published_at": "2026-08-13T01:19:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
-      "published_at": "2026-08-13T01:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jessica Pegula says WTA genetic testing has begun",
-      "published_at": "2026-08-13T01:02:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
-      "published_at": "2026-08-12T23:46:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Soaring AI hyperscaler default hedges aren't what they seem",
-      "published_at": "2026-08-12T23:30:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'If you're not conservative, don't come here': The town making missiles for Trump",
-      "published_at": "2026-08-12T23:26:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-12T23:19:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "published_at": "2026-08-12T23:19:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global EV sales rise in July as Europe offsets weakness in China and North America",
-      "published_at": "2026-08-12T23:12:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indonesia says navy drill with China that angered Taiwan was routine",
-      "published_at": "2026-08-12T23:09:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why Japanese firms are being so slow to use AI",
-      "published_at": "2026-08-12T23:00:47+00:00"
     }
   ]
 }
