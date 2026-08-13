@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-13T13:39:00+00:00",
+  "updated_at": "2026-08-13T15:09:51+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "UK defends seizing shadow fleet tanker after Putin threat",
+      "published_at": "2026-08-13T15:05:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "published_at": "2026-08-13T14:58:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "published_at": "2026-08-13T14:51:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Blast at Rotterdam port energy facility kills one person",
+      "published_at": "2026-08-13T14:46:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambians voting as president bids for second term",
+      "published_at": "2026-08-13T14:29:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Novo CEO says obesity market won't be winner-take-all battle with Lilly",
+      "published_at": "2026-08-13T14:20:16+00:00"
+    },
     {
       "source": "BBC",
       "text": "Three men will be executed on the same day as death penalties rise in US",
@@ -13,8 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Noel Tata emerges as power broker in group's succession, listing decisions",
-      "published_at": "2026-08-13T13:09:43+00:00"
+      "text": "Iran, US make competing claims over control of Strait of Hormuz",
+      "published_at": "2026-08-13T13:11:38+00:00"
     },
     {
       "source": "Reuters",
@@ -23,58 +53,28 @@
     },
     {
       "source": "Reuters",
+      "text": "DeepSeek releases official V4 Pro model as it steps up expansion",
+      "published_at": "2026-08-13T12:56:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament",
+      "published_at": "2026-08-13T12:30:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Diesel prices overtake jet fuel in Europe as global shortage widens",
+      "published_at": "2026-08-13T12:12:14+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "AI boom is starting to show in UK economy's performance",
       "published_at": "2026-08-13T12:06:38+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling",
-      "published_at": "2026-08-13T11:50:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran, US make competing claims over control of Strait of Hormuz",
-      "published_at": "2026-08-13T11:45:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-      "published_at": "2026-08-13T11:31:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
-      "published_at": "2026-08-13T11:18:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "published_at": "2026-08-13T11:10:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK defends seizing shadow fleet tanker after Putin threat",
-      "published_at": "2026-08-13T11:05:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Primary voters send mixed signals about what they want from the Democratic Party",
-      "published_at": "2026-08-13T10:59:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Brief relief",
-      "published_at": "2026-08-13T10:59:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CAF support for Infantino is no guarantee of African votes at FIFA election",
-      "published_at": "2026-08-13T10:57:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambians voting as president bids for second term",
-      "published_at": "2026-08-13T10:51:35+00:00"
+      "text": "Israel sends troops into West Bank homes besieged by Jewish settlers",
+      "published_at": "2026-08-13T11:51:19+00:00"
     }
   ]
 }
