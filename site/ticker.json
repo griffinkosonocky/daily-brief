@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-08-13T19:15:48+00:00",
+  "updated_at": "2026-08-13T20:57:26+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Kennedy Center board votes to inscribe Trump's name on building",
-      "published_at": "2026-08-13T19:09:05+00:00"
+      "source": "BBC",
+      "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "published_at": "2026-08-13T20:12:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "published_at": "2026-08-13T20:01:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "published_at": "2026-08-13T19:46:27+00:00"
     },
     {
       "source": "BBC",
       "text": "Family of Irish plane crash victim awarded $29m in damages",
       "published_at": "2026-08-13T19:08:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "published_at": "2026-08-13T19:07:55+00:00"
     },
     {
       "source": "NPR",
@@ -47,6 +52,11 @@
       "published_at": "2026-08-13T17:51:32+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
+      "published_at": "2026-08-13T17:29:47+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
       "published_at": "2026-08-13T17:29:15+00:00"
@@ -58,23 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Italy's Curtis betters own 50m backstroke world record",
+      "published_at": "2026-08-13T17:22:11+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Are global oil stocks big enough to weather another six months of US-Iran war?",
       "published_at": "2026-08-13T17:15:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Detroit automakers fear North American trade deal revamp could cost them billions",
-      "published_at": "2026-08-13T17:07:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Air India to test all pilots for banned substances",
-      "published_at": "2026-08-13T16:52:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students",
-      "published_at": "2026-08-13T16:50:56+00:00"
     }
   ]
 }
