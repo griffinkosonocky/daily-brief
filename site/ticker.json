@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-13T11:55:43+00:00",
+  "updated_at": "2026-08-13T13:39:00+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Three men will be executed on the same day as death penalties rise in US",
+      "published_at": "2026-08-13T13:27:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "published_at": "2026-08-13T13:18:43+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Rotterdam port explosion causes one death, police say",
-      "published_at": "2026-08-13T11:43:21+00:00"
+      "text": "Noel Tata emerges as power broker in group's succession, listing decisions",
+      "published_at": "2026-08-13T13:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Central banks spearhead renewed gold rush",
+      "published_at": "2026-08-13T13:05:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI boom is starting to show in UK economy's performance",
+      "published_at": "2026-08-13T12:06:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling",
+      "published_at": "2026-08-13T11:50:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran, US make competing claims over control of Strait of Hormuz",
+      "published_at": "2026-08-13T11:45:05+00:00"
     },
     {
       "source": "NPR",
@@ -17,11 +47,6 @@
       "published_at": "2026-08-13T11:18:53+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran, US make competing claims over control of Strait of Hormuz",
-      "published_at": "2026-08-13T11:16:15+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
       "published_at": "2026-08-13T11:10:31+00:00"
@@ -30,6 +55,11 @@
       "source": "BBC",
       "text": "UK defends seizing shadow fleet tanker after Putin threat",
       "published_at": "2026-08-13T11:05:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Primary voters send mixed signals about what they want from the Democratic Party",
+      "published_at": "2026-08-13T10:59:33+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Zambians voting as president bids for second term",
       "published_at": "2026-08-13T10:51:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-      "published_at": "2026-08-13T10:42:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "published_at": "2026-08-13T10:39:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cuba marks centenary of Fidel Castro's birth amid deepening economic crisis",
-      "published_at": "2026-08-13T10:34:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's goods trade deficit hits 6-month high as Mideast conflict lifts imports",
-      "published_at": "2026-08-13T10:24:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air India expands drug testing to all pilots after captain tests positive for marijuana",
-      "published_at": "2026-08-13T10:21:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria faith leaders sign peace accord months after Trump remarks",
-      "published_at": "2026-08-13T10:19:43+00:00"
     }
   ]
 }
