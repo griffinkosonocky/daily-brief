@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-08-13T17:07:54+00:00",
+  "updated_at": "2026-08-13T19:15:48+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Kennedy Center board votes to inscribe Trump's name on building",
+      "published_at": "2026-08-13T19:09:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Family of Irish plane crash victim awarded $29m in damages",
+      "published_at": "2026-08-13T19:08:49+00:00"
+    },
     {
       "source": "BBC",
       "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "published_at": "2026-08-13T17:01:50+00:00"
+      "published_at": "2026-08-13T19:07:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+      "published_at": "2026-08-13T18:55:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "published_at": "2026-08-13T18:45:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling",
+      "published_at": "2026-08-13T18:45:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Bill Ackman commands far too big a premium",
+      "published_at": "2026-08-13T18:29:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Blast at Rotterdam port energy facility kills one person",
+      "published_at": "2026-08-13T18:05:07+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iran, US make competing claims over control of Strait of Hormuz",
-      "published_at": "2026-08-13T16:57:45+00:00"
+      "published_at": "2026-08-13T17:51:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
+      "published_at": "2026-08-13T17:29:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen at highest risk of major conflict since 2022 truce, UN warns",
+      "published_at": "2026-08-13T17:25:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Are global oil stocks big enough to weather another six months of US-Iran war?",
+      "published_at": "2026-08-13T17:15:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Detroit automakers fear North American trade deal revamp could cost them billions",
+      "published_at": "2026-08-13T17:07:37+00:00"
     },
     {
       "source": "BBC",
@@ -17,64 +72,9 @@
       "published_at": "2026-08-13T16:52:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "published_at": "2026-08-13T16:45:06+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-      "published_at": "2026-08-13T16:40:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "published_at": "2026-08-13T16:20:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FTSE 100 falls to two-week low as Antofagasta cuts outlook",
-      "published_at": "2026-08-13T16:17:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel sends troops into West Bank homes besieged by Jewish settlers",
-      "published_at": "2026-08-13T16:16:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says",
-      "published_at": "2026-08-13T16:15:43+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students",
-      "published_at": "2026-08-13T16:06:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "published_at": "2026-08-13T16:05:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "published_at": "2026-08-13T15:50:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The climate strategy that most investors overlook",
-      "published_at": "2026-08-13T15:31:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Person fined after using foghorn to wake sleeping polar bear",
-      "published_at": "2026-08-13T15:30:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - UBS valuation surge is case of rational exuberance",
-      "published_at": "2026-08-13T15:30:20+00:00"
+      "published_at": "2026-08-13T16:50:56+00:00"
     }
   ]
 }
