@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-12T23:54:20+00:00",
+  "updated_at": "2026-08-13T02:41:10+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China",
+      "published_at": "2026-08-13T02:27:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wallabies flyhalf Gordon returns for second Japan test",
+      "published_at": "2026-08-13T02:03:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Photos: See the best photos from the solar eclipse",
+      "published_at": "2026-08-13T01:38:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "published_at": "2026-08-13T01:31:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "published_at": "2026-08-13T01:19:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
+      "published_at": "2026-08-13T01:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jessica Pegula says WTA genetic testing has begun",
+      "published_at": "2026-08-13T01:02:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
+      "published_at": "2026-08-12T23:46:49+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Soaring AI hyperscaler default hedges aren't what they seem",
@@ -27,54 +67,14 @@
       "published_at": "2026-08-12T23:12:12+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "published_at": "2026-08-12T23:11:35+00:00"
+      "source": "Reuters",
+      "text": "Indonesia says navy drill with China that angered Taiwan was routine",
+      "published_at": "2026-08-12T23:09:08+00:00"
     },
     {
       "source": "BBC",
       "text": "Why Japanese firms are being so slow to use AI",
       "published_at": "2026-08-12T23:00:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "published_at": "2026-08-12T22:58:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands of Canadians call for US ambassador's expulsion",
-      "published_at": "2026-08-12T22:56:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "published_at": "2026-08-12T22:41:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ICE plans to outfit officers with electric shock gloves",
-      "published_at": "2026-08-12T22:13:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia says Ukrainian attacks are pushing up global food prices, causing grain shortages",
-      "published_at": "2026-08-12T22:12:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why are 'human fridges' being sold in Japan?",
-      "published_at": "2026-08-12T22:07:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "published_at": "2026-08-12T21:53:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US has 'total control' over Strait of Hormuz",
-      "published_at": "2026-08-12T21:27:49+00:00"
     }
   ]
 }
