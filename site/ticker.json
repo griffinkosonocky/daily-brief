@@ -1,25 +1,55 @@
 {
-  "updated_at": "2026-08-13T05:00:18+00:00",
+  "updated_at": "2026-08-13T06:40:14+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "AI creeps onto Fed radar, but footprint is small so far",
+      "published_at": "2026-08-13T06:21:50+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Japan protests Putin visit to disputed islands",
-      "published_at": "2026-08-13T04:50:16+00:00"
+      "text": "Japan protests against Putin visit to disputed islands",
+      "published_at": "2026-08-13T06:21:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+      "published_at": "2026-08-13T06:21:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Fed bets cool, BOJ wagers heat up",
+      "text": "UK economy unexpectedly grows by 0.3% in June, ONS says",
+      "published_at": "2026-08-13T06:13:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+      "published_at": "2026-08-13T06:04:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reform UK's Farage faces off against Count Binface in election",
+      "published_at": "2026-08-13T06:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Emails reveal Indian carmakers' fuel contamination worries before public retreat",
+      "published_at": "2026-08-13T05:51:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+      "published_at": "2026-08-13T05:43:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "published_at": "2026-08-13T04:55:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Fed bets cool, BOJ wagers heat up",
       "published_at": "2026-08-13T04:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Lenovo posts 43% jump in Q1 revenue",
-      "published_at": "2026-08-13T04:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - EQT unearths a $7 bln Aussie trash-to-cash deal",
-      "published_at": "2026-08-13T04:10:00+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Russia's Putin visits disputed Kuril Islands, samples fish roe, media say",
+      "text": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
+      "published_at": "2026-08-13T03:56:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia's Putin visits Japan-claimed islands for first time; Tokyo protests",
       "published_at": "2026-08-13T03:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pallister edges McIntosh at Pan Pacific Championship in 'first taste' of LA28 Games",
+      "published_at": "2026-08-13T03:36:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "published_at": "2026-08-13T03:28:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rupee boxed in, RBI takes sting out of heavy dollar demand",
-      "published_at": "2026-08-13T03:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig",
-      "published_at": "2026-08-13T03:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twitch users can now block Amazon from using their content to train AI",
-      "published_at": "2026-08-13T02:46:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares edge lower as Middle East uncertainty persists",
-      "published_at": "2026-08-13T02:42:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian army whistleblower released on parole after more than two years in jail",
-      "published_at": "2026-08-13T02:23:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Photos: See the best photos from the solar eclipse",
-      "published_at": "2026-08-13T01:38:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "published_at": "2026-08-13T01:31:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "published_at": "2026-08-13T01:19:23+00:00"
     }
   ]
 }
