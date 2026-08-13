@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-13T21:57:10+00:00",
+  "updated_at": "2026-08-13T22:56:53+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
-      "published_at": "2026-08-13T21:27:24+00:00"
+      "source": "BBC",
+      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "published_at": "2026-08-13T22:02:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "published_at": "2026-08-13T21:43:47+00:00"
     },
     {
       "source": "Reuters",
@@ -13,13 +18,13 @@
     },
     {
       "source": "Reuters",
-      "text": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries",
-      "published_at": "2026-08-13T21:19:19+00:00"
+      "text": "Israel sends troops into West Bank homes besieged by Jewish settlers",
+      "published_at": "2026-08-13T21:20:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trading Day: Hiking pressure eases",
-      "published_at": "2026-08-13T21:05:08+00:00"
+      "text": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries",
+      "published_at": "2026-08-13T21:19:19+00:00"
     },
     {
       "source": "BBC",
@@ -28,18 +33,33 @@
     },
     {
       "source": "BBC",
-      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "published_at": "2026-08-13T20:01:30+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "published_at": "2026-08-13T19:46:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina monthly inflation rises in July to 2.1%",
+      "published_at": "2026-08-13T19:21:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's Manaudou, Olympic 50m freestyle champion, retires at 35",
+      "published_at": "2026-08-13T19:19:09+00:00"
     },
     {
       "source": "BBC",
       "text": "Family of Irish plane crash victim awarded $29m in damages",
       "published_at": "2026-08-13T19:08:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold retreats on profit-taking after hitting two-month peak following inflation data",
+      "published_at": "2026-08-13T19:02:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina will ease bank dollar lending to companies, economy minister says",
+      "published_at": "2026-08-13T19:01:43+00:00"
     },
     {
       "source": "NPR",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling",
       "published_at": "2026-08-13T18:45:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Bill Ackman commands far too big a premium",
-      "published_at": "2026-08-13T18:44:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Blast at Rotterdam port energy facility kills one person",
-      "published_at": "2026-08-13T18:05:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran, US make competing claims over control of Strait of Hormuz",
-      "published_at": "2026-08-13T17:51:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
-      "published_at": "2026-08-13T17:29:47+00:00"
     }
   ]
 }
