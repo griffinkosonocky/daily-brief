@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-13T11:16:38+00:00",
+  "updated_at": "2026-08-13T11:55:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Rotterdam port explosion causes one death, police say",
+      "published_at": "2026-08-13T11:43:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+      "published_at": "2026-08-13T11:31:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+      "published_at": "2026-08-13T11:18:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran, US make competing claims over control of Strait of Hormuz",
+      "published_at": "2026-08-13T11:16:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
@@ -13,8 +33,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran, US make competing claims over control of Strait of Hormuz",
-      "published_at": "2026-08-13T11:02:47+00:00"
+      "text": "Morning Bid: Brief relief",
+      "published_at": "2026-08-13T10:59:28+00:00"
     },
     {
       "source": "Reuters",
@@ -22,19 +42,29 @@
       "published_at": "2026-08-13T10:57:54+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Brief relief",
-      "published_at": "2026-08-13T10:51:46+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Zambians voting as president bids for second term",
       "published_at": "2026-08-13T10:51:35+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
+      "published_at": "2026-08-13T10:42:15+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
       "published_at": "2026-08-13T10:39:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cuba marks centenary of Fidel Castro's birth amid deepening economic crisis",
+      "published_at": "2026-08-13T10:34:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's goods trade deficit hits 6-month high as Mideast conflict lifts imports",
+      "published_at": "2026-08-13T10:24:19+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Nigeria faith leaders sign peace accord months after Trump remarks",
       "published_at": "2026-08-13T10:19:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-      "published_at": "2026-08-13T09:58:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "published_at": "2026-08-13T09:54:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Qatar, Morocco among six Arab federations backing FIFA's Infantino",
-      "published_at": "2026-08-13T09:41:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "published_at": "2026-08-13T09:40:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SMIC profit more than triples on AI-driven chip demand",
-      "published_at": "2026-08-13T09:38:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CK Hutchison first-half underlying profit up 6.7%",
-      "published_at": "2026-08-13T09:21:43+00:00"
     }
   ]
 }
