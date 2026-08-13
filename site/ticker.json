@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-13T22:56:53+00:00",
+  "updated_at": "2026-08-13T23:52:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran war a boon for China's e-trucks, fuelling export surge",
+      "published_at": "2026-08-13T23:18:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "published_at": "2026-08-13T22:02:54+00:00"
+      "published_at": "2026-08-13T23:06:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
+      "published_at": "2026-08-13T22:52:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort",
+      "published_at": "2026-08-13T22:48:42+00:00"
     },
     {
       "source": "BBC",
@@ -13,8 +28,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Are global oil stocks big enough to weather another six months of US-Iran war?",
-      "published_at": "2026-08-13T21:21:16+00:00"
+      "text": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+      "published_at": "2026-08-13T21:27:24+00:00"
     },
     {
       "source": "Reuters",
@@ -42,11 +57,6 @@
       "published_at": "2026-08-13T19:21:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "France's Manaudou, Olympic 50m freestyle champion, retires at 35",
-      "published_at": "2026-08-13T19:19:09+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Family of Irish plane crash victim awarded $29m in damages",
       "published_at": "2026-08-13T19:08:49+00:00"
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
       "published_at": "2026-08-13T18:55:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "published_at": "2026-08-13T18:45:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling",
-      "published_at": "2026-08-13T18:45:23+00:00"
     }
   ]
 }
