@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-14T19:09:33+00:00",
+  "updated_at": "2026-08-14T20:40:01+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
+      "published_at": "2026-08-14T20:37:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "published_at": "2026-08-14T20:22:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
+      "published_at": "2026-08-14T20:06:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
+      "published_at": "2026-08-14T19:31:04+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump asks Supreme Court to allow ballroom work to continue",
       "published_at": "2026-08-14T19:05:22+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Resolute, Guinea state miner launch gold joint venture",
-      "published_at": "2026-08-14T18:14:27+00:00"
+      "source": "BBC",
+      "text": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "published_at": "2026-08-14T18:25:38+00:00"
     },
     {
       "source": "NPR",
@@ -33,11 +53,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
-      "published_at": "2026-08-14T17:26:57+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Zambia resumes vote counting after election officials attacked",
       "published_at": "2026-08-14T17:17:33+00:00"
     },
@@ -45,11 +60,6 @@
       "source": "BBC",
       "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "published_at": "2026-08-14T17:03:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
-      "published_at": "2026-08-14T17:02:14+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "France's top court blocks social media ban for under-15s",
       "published_at": "2026-08-14T16:58:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As speed cameras spread to more states, so does the backlash from drivers",
-      "published_at": "2026-08-14T16:54:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "published_at": "2026-08-14T16:37:54+00:00"
     }
   ]
 }
