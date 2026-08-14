@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T22:35:09+00:00",
+  "updated_at": "2026-08-14T23:32:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+      "published_at": "2026-08-14T22:36:06+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title",
@@ -20,6 +25,11 @@
       "source": "BBC",
       "text": "Dozens injured and thousands evacuated in Croatia wildfire",
       "published_at": "2026-08-14T20:22:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "published_at": "2026-08-14T19:20:43+00:00"
     },
     {
       "source": "BBC",
@@ -48,6 +58,11 @@
     },
     {
       "source": "BBC",
+      "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "published_at": "2026-08-14T17:36:27+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "published_at": "2026-08-14T17:03:17+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Why is Selena Gomez being sued?",
       "published_at": "2026-08-14T16:59:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's top court blocks social media ban for under-15s",
-      "published_at": "2026-08-14T16:58:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As speed cameras spread to more states, so does the backlash from drivers",
-      "published_at": "2026-08-14T16:54:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "published_at": "2026-08-14T16:37:54+00:00"
     }
   ]
 }
