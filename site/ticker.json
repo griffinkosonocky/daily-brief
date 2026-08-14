@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-14T17:05:48+00:00",
+  "updated_at": "2026-08-14T18:04:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
+      "published_at": "2026-08-14T17:26:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Woman charged over vandalism of Washington's World War Two memorial",
+      "published_at": "2026-08-14T17:20:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zambia resumes vote counting after election officials attacked",
+      "published_at": "2026-08-14T17:17:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "published_at": "2026-08-14T17:03:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "published_at": "2026-08-14T17:00:46+00:00"
+    },
     {
       "source": "BBC",
       "text": "Why is Selena Gomez being sued?",
@@ -17,11 +42,6 @@
       "published_at": "2026-08-14T16:54:58+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Breakingviews - Silver Lake preps a clarion call for tech faithful",
-      "published_at": "2026-08-14T16:47:59+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
       "published_at": "2026-08-14T16:37:54+00:00"
@@ -32,19 +52,9 @@
       "published_at": "2026-08-14T16:28:59+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
-      "published_at": "2026-08-14T16:06:29+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
       "published_at": "2026-08-14T16:05:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK group chairman Chey appeals divorce settlement ruling, Yonhap reports",
-      "published_at": "2026-08-14T15:50:09+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "We learned 5 important things about the economy this week",
       "published_at": "2026-08-14T14:47:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-      "published_at": "2026-08-14T14:41:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance",
-      "published_at": "2026-08-14T14:36:46+00:00"
     }
   ]
 }
