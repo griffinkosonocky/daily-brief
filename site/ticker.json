@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-14T11:53:18+00:00",
+  "updated_at": "2026-08-14T13:34:41+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+      "published_at": "2026-08-14T13:18:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "published_at": "2026-08-14T12:19:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. missionary who was kidnapped in Niger is released",
+      "published_at": "2026-08-14T12:11:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chad's president pardons main rival and opposition leader in jail",
+      "published_at": "2026-08-14T11:50:20+00:00"
+    },
     {
       "source": "BBC",
       "text": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
@@ -12,18 +32,33 @@
       "published_at": "2026-08-14T11:02:42+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
+      "published_at": "2026-08-14T11:00:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Manchester City's Maresca coy on Rodri future ahead of Community Shield",
+      "published_at": "2026-08-14T10:57:43+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Stolen Matisse artworks recovered by police in Brazil",
       "published_at": "2026-08-14T10:55:39+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Weekend Reads: Fed rethink, EV race, yen rescue - reuters.com",
+      "text": "Russia exploits Poland-Ukraine dispute to step up disinformation campaign, officials and experts say",
+      "published_at": "2026-08-14T10:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Weekend Reads: Fed rethink, EV race, yen rescue",
       "published_at": "2026-08-14T10:42:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Stay of execution? - reuters.com",
+      "text": "Morning Bid: Stay of execution?",
       "published_at": "2026-08-14T10:41:36+00:00"
     },
     {
@@ -33,48 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements - reuters.com",
+      "text": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements",
       "published_at": "2026-08-14T10:30:26+00:00"
     },
     {
       "source": "NPR",
       "text": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
       "published_at": "2026-08-14T10:30:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US missionary released following kidnap in Niger, Christian group says",
-      "published_at": "2026-08-14T10:18:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Palantir’s American exceptionalism has downsides - reuters.com",
-      "published_at": "2026-08-14T10:16:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
-      "published_at": "2026-08-14T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
-      "published_at": "2026-08-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
-      "published_at": "2026-08-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-14T08:45:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "2 workers share how helping kids at a community center has changed their lives",
-      "published_at": "2026-08-14T08:43:52+00:00"
     }
   ]
 }
