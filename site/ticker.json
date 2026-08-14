@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T15:03:20+00:00",
+  "updated_at": "2026-08-14T16:02:00+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Moment €9m worth of art stolen from Italy museum",
+      "published_at": "2026-08-14T14:56:04+00:00"
+    },
     {
       "source": "NPR",
       "text": "We learned 5 important things about the economy this week",
@@ -10,6 +15,21 @@
       "source": "NPR",
       "text": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
       "published_at": "2026-08-14T14:41:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance",
+      "published_at": "2026-08-14T14:36:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's top court blocks social media ban for under-15s",
+      "published_at": "2026-08-14T13:56:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "While the world is distracted, China steps up its strategic game",
+      "published_at": "2026-08-14T13:35:42+00:00"
     },
     {
       "source": "BBC",
@@ -27,6 +47,16 @@
       "published_at": "2026-08-14T12:11:50+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "India's forex reserves climb past $700 billion on robust inflows",
+      "published_at": "2026-08-14T11:56:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chad's president pardons main rival and opposition leader in jail",
+      "published_at": "2026-08-14T11:50:20+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
       "published_at": "2026-08-14T11:37:31+00:00"
@@ -42,39 +72,9 @@
       "published_at": "2026-08-14T10:55:39+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-      "published_at": "2026-08-14T10:47:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Unprecedented' rain in Japan kills eight people",
-      "published_at": "2026-08-14T10:36:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "published_at": "2026-08-14T10:30:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US missionary released following kidnap in Niger, Christian group says",
-      "published_at": "2026-08-14T10:18:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
-      "published_at": "2026-08-14T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
-      "published_at": "2026-08-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
-      "published_at": "2026-08-14T09:00:00+00:00"
+      "source": "Reuters",
+      "text": "Russia exploits Poland-Ukraine dispute to step up disinformation campaign, officials and experts say",
+      "published_at": "2026-08-14T10:48:09+00:00"
     }
   ]
 }
