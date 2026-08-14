@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-08-14T18:04:06+00:00",
+  "updated_at": "2026-08-14T19:09:33+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump asks Supreme Court to allow ballroom work to continue",
+      "published_at": "2026-08-14T19:05:22+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
-      "published_at": "2026-08-14T17:26:57+00:00"
+      "text": "Resolute, Guinea state miner launch gold joint venture",
+      "published_at": "2026-08-14T18:14:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How Americans deceive ourselves about slavery",
+      "published_at": "2026-08-14T18:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Report: Atlanta United nearing $18M transfer for Breel Embolo",
+      "published_at": "2026-08-14T18:09:06+00:00"
     },
     {
       "source": "Reuters",
       "text": "Woman charged over vandalism of Washington's World War Two memorial",
-      "published_at": "2026-08-14T17:20:24+00:00"
+      "published_at": "2026-08-14T18:01:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "European championships deliver further frustration for Ramsay-Peaty",
+      "published_at": "2026-08-14T17:46:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster",
+      "published_at": "2026-08-14T17:26:57+00:00"
     },
     {
       "source": "Reuters",
@@ -20,6 +45,11 @@
       "source": "BBC",
       "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "published_at": "2026-08-14T17:03:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
+      "published_at": "2026-08-14T17:02:14+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
       "published_at": "2026-08-14T16:37:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "published_at": "2026-08-14T16:28:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-      "published_at": "2026-08-14T16:05:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chad's president pardons main rival and opposition leader in jail",
-      "published_at": "2026-08-14T15:31:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump asks Supreme Court to allow ballroom work to continue",
-      "published_at": "2026-08-14T15:10:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moment €9m worth of art stolen from Italy museum",
-      "published_at": "2026-08-14T14:56:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "We learned 5 important things about the economy this week",
-      "published_at": "2026-08-14T14:47:15+00:00"
     }
   ]
 }
