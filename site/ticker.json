@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-14T06:23:58+00:00",
+  "updated_at": "2026-08-14T08:24:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "published_at": "2026-08-14T08:02:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian electronics firm Eureka investigating findings of child labour at supplier",
+      "published_at": "2026-08-14T07:59:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Unprecedented' rains in Japan kill six people",
+      "published_at": "2026-08-14T07:00:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "published_at": "2026-08-14T06:31:29+00:00"
+    },
     {
       "source": "NPR",
       "text": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
@@ -12,14 +32,24 @@
       "published_at": "2026-08-14T05:42:35+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'Unprecedented' rains in Japan kill four people",
-      "published_at": "2026-08-14T04:54:13+00:00"
+      "source": "Reuters",
+      "text": "Morning Bid: Yen stuck in twilight zone",
+      "published_at": "2026-08-14T04:49:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
       "published_at": "2026-08-14T04:21:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "published_at": "2026-08-14T04:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reform UK's Nigel Farage to avoid election count against Count Binface",
+      "published_at": "2026-08-14T03:48:00+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - China's emboldened taxman is just getting started",
       "published_at": "2026-08-14T02:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asian stocks head for strong weekly gains as US rate hike bets fade",
-      "published_at": "2026-08-14T02:32:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Wanted: New value metrics for IT giants in AI age",
-      "published_at": "2026-08-14T02:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares slip as US threatens indefinite naval blockade of Iran",
-      "published_at": "2026-08-14T02:28:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "published_at": "2026-08-14T02:13:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "published_at": "2026-08-14T02:06:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen's slide to weekly loss prompts bets for another intervention",
-      "published_at": "2026-08-14T01:47:00+00:00"
     }
   ]
 }
