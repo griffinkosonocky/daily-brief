@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-14T04:57:40+00:00",
+  "updated_at": "2026-08-14T06:23:58+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+      "published_at": "2026-08-14T06:15:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "published_at": "2026-08-14T05:42:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Unprecedented' rains in Japan kill four people",
+      "published_at": "2026-08-14T04:54:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "published_at": "2026-08-14T04:21:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "US says dozens of countries helped China dodge Trump's tariffs",
@@ -28,7 +48,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Asian stocks set for weekly gain on fading US rate hike wagers",
+      "text": "Asian stocks head for strong weekly gains as US rate hike bets fade",
       "published_at": "2026-08-14T02:32:00+00:00"
     },
     {
@@ -38,7 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Indian shares edge lower as Middle East risks weigh",
+      "text": "Indian shares slip as US threatens indefinite naval blockade of Iran",
       "published_at": "2026-08-14T02:28:00+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Yen's slide to weekly loss prompts bets for another intervention",
       "published_at": "2026-08-14T01:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oceania confederation welcomes FIFA review, NZ withdraws support for Infantino",
-      "published_at": "2026-08-14T00:38:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says",
-      "published_at": "2026-08-14T00:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent says US to apply measures never seen on Iran",
-      "published_at": "2026-08-13T23:31:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Central banks spearhead renewed gold rush",
-      "published_at": "2026-08-13T23:30:25+00:00"
     }
   ]
 }
