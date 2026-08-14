@@ -1,20 +1,15 @@
 {
-  "updated_at": "2026-08-14T11:14:46+00:00",
+  "updated_at": "2026-08-14T11:53:18+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Vote counting suspended in Zambia over alleged attacks on polling staff",
-      "published_at": "2026-08-14T11:04:04+00:00"
+      "text": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "published_at": "2026-08-14T11:37:31+00:00"
     },
     {
       "source": "NPR",
       "text": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
       "published_at": "2026-08-14T11:02:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
-      "published_at": "2026-08-14T10:57:23+00:00"
     },
     {
       "source": "BBC",
@@ -23,12 +18,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Weekend Reads: Fed rethink, EV race, yen rescue",
+      "text": "Weekend Reads: Fed rethink, EV race, yen rescue - reuters.com",
       "published_at": "2026-08-14T10:42:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Stay of execution?",
+      "text": "Morning Bid: Stay of execution? - reuters.com",
       "published_at": "2026-08-14T10:41:36+00:00"
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements",
+      "text": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements - reuters.com",
       "published_at": "2026-08-14T10:30:26+00:00"
     },
     {
@@ -53,7 +48,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Palantir’s American exceptionalism has downsides",
+      "text": "Breakingviews - Palantir’s American exceptionalism has downsides - reuters.com",
       "published_at": "2026-08-14T10:16:27+00:00"
     },
     {
@@ -75,6 +70,11 @@
       "source": "NPR",
       "text": "Morning news brief",
       "published_at": "2026-08-14T08:45:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "2 workers share how helping kids at a community center has changed their lives",
+      "published_at": "2026-08-14T08:43:52+00:00"
     }
   ]
 }
