@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T21:35:48+00:00",
+  "updated_at": "2026-08-14T22:35:09+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title",
+      "published_at": "2026-08-14T22:21:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "UN urges support for Afghan women amid tightening Taliban curbs",
@@ -15,16 +20,6 @@
       "source": "BBC",
       "text": "Dozens injured and thousands evacuated in Croatia wildfire",
       "published_at": "2026-08-14T20:22:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial",
-      "published_at": "2026-08-14T20:06:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-      "published_at": "2026-08-14T19:31:04+00:00"
     },
     {
       "source": "BBC",
@@ -48,18 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Woman charged over vandalism of Washington's World War Two memorial",
-      "published_at": "2026-08-14T18:01:37+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "European championships deliver further frustration for Ramsay-Peaty",
       "published_at": "2026-08-14T17:46:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Silver Lake preps a clarion call for tech faithful",
-      "published_at": "2026-08-14T17:18:52+00:00"
     },
     {
       "source": "BBC",
@@ -75,6 +60,21 @@
       "source": "BBC",
       "text": "Why is Selena Gomez being sued?",
       "published_at": "2026-08-14T16:59:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's top court blocks social media ban for under-15s",
+      "published_at": "2026-08-14T16:58:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As speed cameras spread to more states, so does the backlash from drivers",
+      "published_at": "2026-08-14T16:54:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
+      "published_at": "2026-08-14T16:37:54+00:00"
     }
   ]
 }
