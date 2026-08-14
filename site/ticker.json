@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-08-14T02:39:38+00:00",
+  "updated_at": "2026-08-14T04:57:40+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "US says dozens of countries helped China dodge Trump's tariffs",
+      "published_at": "2026-08-14T03:09:48+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Breakingviews - Wanted: New value metrics for IT giants in AI age - reuters.com",
+      "text": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "published_at": "2026-08-14T03:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "McIntosh wins 400 individual medley after frustrating start to Pan Pacific",
+      "published_at": "2026-08-14T02:59:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The US says more oil is leaving the Middle East, but is it really?",
+      "published_at": "2026-08-14T02:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - China's emboldened taxman is just getting started",
+      "published_at": "2026-08-14T02:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asian stocks set for weekly gain on fading US rate hike wagers",
+      "published_at": "2026-08-14T02:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Wanted: New value metrics for IT giants in AI age",
       "published_at": "2026-08-14T02:28:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian shares set for muted start as Middle East risks weigh - reuters.com",
+      "text": "Indian shares edge lower as Middle East risks weigh",
       "published_at": "2026-08-14T02:28:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "published_at": "2026-08-14T02:13:27+00:00"
     },
     {
       "source": "NPR",
@@ -18,63 +53,28 @@
     },
     {
       "source": "Reuters",
-      "text": "Yen's slide to weekly loss prompts bets for another intervention - reuters.com",
+      "text": "Yen's slide to weekly loss prompts bets for another intervention",
       "published_at": "2026-08-14T01:47:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bessent says US to apply measures never seen on Iran - reuters.com",
+      "text": "Oceania confederation welcomes FIFA review, NZ withdraws support for Infantino",
+      "published_at": "2026-08-14T00:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says",
+      "published_at": "2026-08-14T00:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent says US to apply measures never seen on Iran",
       "published_at": "2026-08-13T23:31:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Central banks spearhead renewed gold rush - reuters.com",
+      "text": "Central banks spearhead renewed gold rush",
       "published_at": "2026-08-13T23:30:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran war a boon for China's e-trucks, fuelling export surge - reuters.com",
-      "published_at": "2026-08-13T23:18:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "published_at": "2026-08-13T23:06:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The US says more oil is leaving the Middle East, but is it really? - reuters.com",
-      "published_at": "2026-08-13T22:07:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - reuters.com",
-      "published_at": "2026-08-13T21:53:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "published_at": "2026-08-13T21:43:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - reuters.com",
-      "published_at": "2026-08-13T21:37:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - reuters.com",
-      "published_at": "2026-08-13T21:19:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "published_at": "2026-08-13T20:12:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "published_at": "2026-08-13T19:46:27+00:00"
     }
   ]
 }
