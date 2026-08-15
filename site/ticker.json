@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-15T20:34:18+00:00",
+  "updated_at": "2026-08-15T21:30:58+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "published_at": "2026-08-15T21:27:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "published_at": "2026-08-15T21:03:57+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "published_at": "2026-08-15T20:32:33+00:00"
+      "published_at": "2026-08-15T20:58:31+00:00"
     },
     {
       "source": "BBC",
@@ -42,9 +52,19 @@
       "published_at": "2026-08-15T19:34:22+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
+      "published_at": "2026-08-15T18:33:50+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
       "published_at": "2026-08-15T18:21:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why is Australia's mushroom killer back in court this week?",
+      "published_at": "2026-08-15T18:02:30+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
       "published_at": "2026-08-15T17:47:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Inter sign England's Spence from Tottenham",
-      "published_at": "2026-08-15T17:32:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Mocha port halts operations after Houthi attacks, port director says",
-      "published_at": "2026-08-15T17:30:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration wants to allow companies to hack foreign cybercriminals",
-      "published_at": "2026-08-15T17:25:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-      "published_at": "2026-08-15T17:04:43+00:00"
     }
   ]
 }
