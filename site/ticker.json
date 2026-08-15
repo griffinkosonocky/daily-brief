@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-15T03:00:20+00:00",
+  "updated_at": "2026-08-15T03:49:46+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead",
+      "published_at": "2026-08-15T03:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canadian minister says Canada, US far apart on draft trade deal, source says",
+      "published_at": "2026-08-14T23:29:27+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
@@ -52,19 +62,9 @@
       "published_at": "2026-08-14T18:25:38+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Resolute, Guinea state miner launch gold joint venture",
-      "published_at": "2026-08-14T18:15:26+00:00"
-    },
-    {
       "source": "NPR",
       "text": "How Americans deceive ourselves about slavery",
       "published_at": "2026-08-14T18:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Report: Atlanta United nearing $18M transfer for Breel Embolo",
-      "published_at": "2026-08-14T18:09:06+00:00"
     },
     {
       "source": "BBC",
