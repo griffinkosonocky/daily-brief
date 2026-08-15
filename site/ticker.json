@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-15T16:36:16+00:00",
+  "updated_at": "2026-08-15T17:30:58+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Trump administration wants to allow companies to hack foreign cybercriminals",
+      "published_at": "2026-08-15T17:25:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "published_at": "2026-08-15T17:04:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "The Week in Breakingviews: When fund managers fret",
       "published_at": "2026-08-15T10:00:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says",
-      "published_at": "2026-08-15T09:42:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "published_at": "2026-08-15T09:29:31+00:00"
     }
   ]
 }
