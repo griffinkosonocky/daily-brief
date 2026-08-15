@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-15T21:30:58+00:00",
+  "updated_at": "2026-08-15T22:33:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Germany's Liebmann smashes 1500m world record",
+      "published_at": "2026-08-15T22:05:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "published_at": "2026-08-15T21:27:28+00:00"
+      "published_at": "2026-08-15T21:56:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "published_at": "2026-08-15T21:49:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australian state to launch gun buyback after Bondi Beach attack",
+      "published_at": "2026-08-15T21:41:43+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +40,6 @@
       "source": "NPR",
       "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
       "published_at": "2026-08-15T20:04:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "published_at": "2026-08-15T20:00:15+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Why is Australia's mushroom killer back in court this week?",
       "published_at": "2026-08-15T18:02:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Perez and Italian Fiorini set women's race walk world records",
-      "published_at": "2026-08-15T17:54:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "published_at": "2026-08-15T17:47:42+00:00"
     }
   ]
 }
