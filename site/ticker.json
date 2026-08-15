@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-15T07:38:24+00:00",
+  "updated_at": "2026-08-15T08:40:50+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+      "published_at": "2026-08-15T08:29:20+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-      "published_at": "2026-08-15T07:22:22+00:00"
+      "text": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+      "published_at": "2026-08-15T08:21:01+00:00"
     },
     {
       "source": "BBC",
@@ -15,11 +20,6 @@
       "source": "Reuters",
       "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead",
       "published_at": "2026-08-15T03:08:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "published_at": "2026-08-15T01:41:24+00:00"
     },
     {
       "source": "BBC",
@@ -58,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
+      "published_at": "2026-08-14T22:51:50+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say",
       "published_at": "2026-08-14T22:41:34+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
       "published_at": "2026-08-14T21:53:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
-      "published_at": "2026-08-14T21:23:22+00:00"
     }
   ]
 }
