@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-15T14:34:20+00:00",
+  "updated_at": "2026-08-15T15:31:29+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Five injured, one critically, in shooting at Virginia State University",
+      "published_at": "2026-08-15T15:09:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strike kills seven in south Lebanon, state news reports​",
+      "published_at": "2026-08-15T14:43:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea proposes talks to officially end war with North",
+      "published_at": "2026-08-15T14:40:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
@@ -32,6 +47,11 @@
       "published_at": "2026-08-15T12:54:59+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
+      "published_at": "2026-08-15T12:49:49+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Secondhand book sales are booming. Is it because of AI?",
       "published_at": "2026-08-15T11:25:32+00:00"
@@ -48,33 +68,13 @@
     },
     {
       "source": "BBC",
-      "text": "South Korea proposes talks to officially end war with North",
-      "published_at": "2026-08-15T09:35:23+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Moment family rescued after 16 hours floating on jet ski off Thailand",
       "published_at": "2026-08-15T09:29:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rhine water sinks to another record low and transport shifts to land",
-      "published_at": "2026-08-15T09:16:56+00:00"
     },
     {
       "source": "NPR",
       "text": "5 exercises that can prevent (and relieve!) pregnancy pain",
       "published_at": "2026-08-15T09:04:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-      "published_at": "2026-08-15T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xi calls for improving disaster prevention as floods, landslides batter China",
-      "published_at": "2026-08-15T08:52:33+00:00"
     }
   ]
 }
