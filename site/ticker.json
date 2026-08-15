@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-08-15T12:54:56+00:00",
+  "updated_at": "2026-08-15T13:38:18+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "published_at": "2026-08-15T13:35:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Perez and Italian Fiorini set women's race walk world records - reuters.com",
+      "published_at": "2026-08-15T12:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PSG sign Spain's World Cup hero Torres from Barcelona - reuters.com",
+      "published_at": "2026-08-15T12:54:59+00:00"
+    },
     {
       "source": "Reuters",
       "text": "What set Colombia and Venezuela's earthquake responses apart? - reuters.com",
       "published_at": "2026-08-15T12:38:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
-      "published_at": "2026-08-15T12:31:55+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +30,6 @@
       "source": "BBC",
       "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "published_at": "2026-08-15T10:56:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PSG sign Spain forward Torres from Barcelona - reuters.com",
-      "published_at": "2026-08-15T10:33:56+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Arsenal trio Rice, Saka and Zubimendi available for Community Shield, Arteta says - reuters.com",
       "published_at": "2026-08-15T07:27:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - reuters.com",
-      "published_at": "2026-08-15T07:21:51+00:00"
     }
   ]
 }
