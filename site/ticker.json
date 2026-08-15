@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-15T09:35:50+00:00",
+  "updated_at": "2026-08-15T10:33:54+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "published_at": "2026-08-15T10:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Week in Breakingviews: When fund managers fret",
+      "published_at": "2026-08-15T10:00:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea proposes talks to officially end war with North",
+      "published_at": "2026-08-15T09:35:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "published_at": "2026-08-15T09:29:31+00:00"
+    },
     {
       "source": "NPR",
       "text": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -18,7 +38,7 @@
     },
     {
       "source": "NPR",
-      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
       "published_at": "2026-08-15T08:29:20+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Canadian minister says Canada, US far apart on draft trade deal, source says",
       "published_at": "2026-08-14T23:29:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-      "published_at": "2026-08-14T23:17:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "published_at": "2026-08-14T23:16:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How is parkour helping these seniors avoid injuries?",
-      "published_at": "2026-08-14T23:08:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
-      "published_at": "2026-08-14T23:05:25+00:00"
     }
   ]
 }
