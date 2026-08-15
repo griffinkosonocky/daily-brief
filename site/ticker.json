@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-15T08:40:50+00:00",
+  "updated_at": "2026-08-15T09:35:50+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "published_at": "2026-08-15T09:04:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "published_at": "2026-08-15T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "published_at": "2026-08-15T08:52:55+00:00"
+    },
     {
       "source": "NPR",
       "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
       "published_at": "2026-08-15T08:29:20+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
-      "published_at": "2026-08-15T08:21:01+00:00"
+      "source": "Reuters",
+      "text": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions",
+      "published_at": "2026-08-15T07:21:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Earthquake hits Spanish city of Granada, damages buildings and cars",
+      "published_at": "2026-08-15T06:42:00+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
       "published_at": "2026-08-14T23:05:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
-      "published_at": "2026-08-14T22:51:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say",
-      "published_at": "2026-08-14T22:41:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-      "published_at": "2026-08-14T22:36:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
-      "published_at": "2026-08-14T21:53:39+00:00"
     }
   ]
 }
