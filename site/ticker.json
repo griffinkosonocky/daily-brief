@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T10:33:54+00:00",
+  "updated_at": "2026-08-15T10:46:49+00:00",
   "headlines": [
     {
       "source": "NPR",
@@ -47,11 +47,6 @@
       "published_at": "2026-08-15T07:21:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Earthquake hits Spanish city of Granada, damages buildings and cars",
-      "published_at": "2026-08-15T06:42:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Europe's scorched landscapes seen from space after summer heatwaves",
       "published_at": "2026-08-15T05:01:13+00:00"
@@ -60,6 +55,11 @@
       "source": "Reuters",
       "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead",
       "published_at": "2026-08-15T03:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan passes annual budget after long delay, including drone spending",
+      "published_at": "2026-08-15T01:27:00+00:00"
     },
     {
       "source": "BBC",

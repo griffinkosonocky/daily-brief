@@ -346,5 +346,11 @@
     "sport": "Sports",
     "question": "What country hosted the 2014 Winter Olympics?",
     "answer": "Russia"
+  },
+  {
+    "date": "2026-08-15",
+    "sport": "Sports",
+    "question": "In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
+    "answer": "Mercedes-AMG Petronas"
   }
 ]
