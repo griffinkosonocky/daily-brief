@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-15T15:31:29+00:00",
+  "updated_at": "2026-08-15T16:36:16+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "published_at": "2026-08-15T16:02:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Report: Seahawks CB Devon Witherspoon lands $132M extension",
+      "published_at": "2026-08-15T15:53:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Five injured, one critically, in shooting at Virginia State University",
@@ -28,11 +38,6 @@
     },
     {
       "source": "BBC",
-      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T13:38:53+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "published_at": "2026-08-15T13:35:57+00:00"
     },
@@ -45,11 +50,6 @@
       "source": "Reuters",
       "text": "PSG sign Spain's World Cup hero Torres from Barcelona",
       "published_at": "2026-08-15T12:54:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
-      "published_at": "2026-08-15T12:49:49+00:00"
     },
     {
       "source": "BBC",
@@ -67,14 +67,14 @@
       "published_at": "2026-08-15T10:00:40+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says",
+      "published_at": "2026-08-15T09:42:25+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Moment family rescued after 16 hours floating on jet ski off Thailand",
       "published_at": "2026-08-15T09:29:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "5 exercises that can prevent (and relieve!) pregnancy pain",
-      "published_at": "2026-08-15T09:04:00+00:00"
     }
   ]
 }
