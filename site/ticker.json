@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-15T06:54:08+00:00",
+  "updated_at": "2026-08-15T07:38:24+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-      "published_at": "2026-08-15T06:21:31+00:00"
+      "published_at": "2026-08-15T07:22:22+00:00"
     },
     {
       "source": "BBC",
@@ -18,13 +18,18 @@
     },
     {
       "source": "BBC",
-      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "published_at": "2026-08-15T00:01:53+00:00"
+      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "published_at": "2026-08-15T01:41:24+00:00"
     },
     {
       "source": "BBC",
-      "text": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
-      "published_at": "2026-08-15T00:01:44+00:00"
+      "text": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "published_at": "2026-08-15T00:10:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "published_at": "2026-08-15T00:01:53+00:00"
     },
     {
       "source": "Reuters",
@@ -37,14 +42,19 @@
       "published_at": "2026-08-14T23:17:22+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
-      "published_at": "2026-08-14T23:05:25+00:00"
+      "source": "BBC",
+      "text": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "published_at": "2026-08-14T23:16:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How is parkour helping these seniors avoid injuries?",
+      "published_at": "2026-08-14T23:08:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
-      "published_at": "2026-08-14T22:51:50+00:00"
+      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
+      "published_at": "2026-08-14T23:05:25+00:00"
     },
     {
       "source": "Reuters",
@@ -58,23 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
+      "published_at": "2026-08-14T21:53:39+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
       "published_at": "2026-08-14T21:23:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN urges support for Afghan women amid tightening Taliban curbs",
-      "published_at": "2026-08-14T21:17:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil prices rally, US data dents chances of Fed rate hike",
-      "published_at": "2026-08-14T21:12:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "published_at": "2026-08-14T20:22:56+00:00"
     }
   ]
 }
