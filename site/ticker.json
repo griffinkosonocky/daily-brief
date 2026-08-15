@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-15T18:44:14+00:00",
+  "updated_at": "2026-08-15T19:29:45+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "published_at": "2026-08-15T19:16:40+00:00"
+    },
     {
       "source": "NPR",
       "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
       "published_at": "2026-08-15T18:21:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's Perez and Italian Fiorini set women's race walk world records",
+      "published_at": "2026-08-15T17:54:05+00:00"
     },
     {
       "source": "BBC",
@@ -20,6 +30,11 @@
       "source": "Reuters",
       "text": "Inter sign England's Spence from Tottenham",
       "published_at": "2026-08-15T17:32:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Mocha port halts operations after Houthi attacks, port director says",
+      "published_at": "2026-08-15T17:30:00+00:00"
     },
     {
       "source": "NPR",
@@ -42,11 +57,6 @@
       "published_at": "2026-08-15T15:53:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Yemen's Mocha port halts operations after Houthi attacks, port director says",
-      "published_at": "2026-08-15T15:52:12+00:00"
-    },
-    {
       "source": "BBC",
       "text": "South Korea proposes talks to officially end war with North",
       "published_at": "2026-08-15T14:40:15+00:00"
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "published_at": "2026-08-15T13:35:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's Perez and Italian Fiorini set women's race walk world records",
-      "published_at": "2026-08-15T12:57:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PSG sign Spain's World Cup hero Torres from Barcelona",
-      "published_at": "2026-08-15T12:54:59+00:00"
     }
   ]
 }
