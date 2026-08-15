@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:33:43+00:00",
+  "updated_at": "2026-08-15T23:30:09+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -20,6 +20,16 @@
       "source": "BBC",
       "text": "Australian state to launch gun buyback after Bondi Beach attack",
       "published_at": "2026-08-15T21:41:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Are robotaxis finally here?",
+      "published_at": "2026-08-15T21:30:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "State Department spokesperson on Iran war and U.S. visa revocations",
+      "published_at": "2026-08-15T21:20:51+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
       "published_at": "2026-08-15T18:33:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-      "published_at": "2026-08-15T18:21:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why is Australia's mushroom killer back in court this week?",
-      "published_at": "2026-08-15T18:02:30+00:00"
     }
   ]
 }
