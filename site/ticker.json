@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:46:06+00:00",
+  "updated_at": "2026-08-15T03:00:20+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -32,11 +32,6 @@
       "published_at": "2026-08-14T21:17:39+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
-      "published_at": "2026-08-14T20:37:40+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Dozens injured and thousands evacuated in Croatia wildfire",
       "published_at": "2026-08-14T20:22:56+00:00"
@@ -55,6 +50,11 @@
       "source": "BBC",
       "text": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "published_at": "2026-08-14T18:25:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Resolute, Guinea state miner launch gold joint venture",
+      "published_at": "2026-08-14T18:15:26+00:00"
     },
     {
       "source": "NPR",
