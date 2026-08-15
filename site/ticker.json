@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-15T05:35:52+00:00",
+  "updated_at": "2026-08-15T06:54:08+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "published_at": "2026-08-15T06:21:31+00:00"
+    },
     {
       "source": "BBC",
       "text": "Europe's scorched landscapes seen from space after summer heatwaves",
       "published_at": "2026-08-15T05:01:13+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-      "published_at": "2026-08-15T04:12:55+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead - reuters.com",
+      "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead",
       "published_at": "2026-08-15T03:08:00+00:00"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Canadian minister says Canada, US far apart on draft trade deal, source says - reuters.com",
+      "text": "Canadian minister says Canada, US far apart on draft trade deal, source says",
       "published_at": "2026-08-14T23:29:27+00:00"
     },
     {
@@ -38,43 +38,43 @@
     },
     {
       "source": "Reuters",
-      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush - reuters.com",
+      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
       "published_at": "2026-08-14T23:05:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say - reuters.com",
+      "text": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
+      "published_at": "2026-08-14T22:51:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say",
       "published_at": "2026-08-14T22:41:34+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
+      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
       "published_at": "2026-08-14T22:36:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title - reuters.com",
-      "published_at": "2026-08-14T22:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - reuters.com",
+      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
       "published_at": "2026-08-14T21:23:22+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Oil prices rally, US data dents chances of Fed rate hike - reuters.com",
+      "text": "UN urges support for Afghan women amid tightening Taliban curbs",
+      "published_at": "2026-08-14T21:17:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil prices rally, US data dents chances of Fed rate hike",
       "published_at": "2026-08-14T21:12:56+00:00"
     },
     {
       "source": "BBC",
       "text": "Dozens injured and thousands evacuated in Croatia wildfire",
       "published_at": "2026-08-14T20:22:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "published_at": "2026-08-14T19:20:43+00:00"
     }
   ]
 }
