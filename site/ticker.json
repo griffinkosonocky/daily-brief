@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-15T13:38:18+00:00",
+  "updated_at": "2026-08-15T14:34:20+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "published_at": "2026-08-15T13:41:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "World's Ugliest Dog contest crowns 2026 winner",
+      "published_at": "2026-08-15T13:41:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "published_at": "2026-08-15T13:38:53+00:00"
+    },
     {
       "source": "BBC",
       "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -8,28 +23,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Spain's Perez and Italian Fiorini set women's race walk world records - reuters.com",
+      "text": "Spain's Perez and Italian Fiorini set women's race walk world records",
       "published_at": "2026-08-15T12:57:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PSG sign Spain's World Cup hero Torres from Barcelona - reuters.com",
+      "text": "PSG sign Spain's World Cup hero Torres from Barcelona",
       "published_at": "2026-08-15T12:54:59+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "What set Colombia and Venezuela's earthquake responses apart? - reuters.com",
-      "published_at": "2026-08-15T12:38:31+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T12:25:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "published_at": "2026-08-15T10:56:22+00:00"
+      "text": "Secondhand book sales are booming. Is it because of AI?",
+      "published_at": "2026-08-15T11:25:32+00:00"
     },
     {
       "source": "NPR",
@@ -38,7 +43,7 @@
     },
     {
       "source": "Reuters",
-      "text": "The Week in Breakingviews: When fund managers fret - reuters.com",
+      "text": "The Week in Breakingviews: When fund managers fret",
       "published_at": "2026-08-15T10:00:40+00:00"
     },
     {
@@ -52,6 +57,11 @@
       "published_at": "2026-08-15T09:29:31+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Rhine water sinks to another record low and transport shifts to land",
+      "published_at": "2026-08-15T09:16:56+00:00"
+    },
+    {
       "source": "NPR",
       "text": "5 exercises that can prevent (and relieve!) pregnancy pain",
       "published_at": "2026-08-15T09:04:00+00:00"
@@ -63,18 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Xi calls for improving disaster prevention as floods, landslides batter China - reuters.com",
+      "text": "Xi calls for improving disaster prevention as floods, landslides batter China",
       "published_at": "2026-08-15T08:52:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "published_at": "2026-08-15T08:29:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Arsenal trio Rice, Saka and Zubimendi available for Community Shield, Arteta says - reuters.com",
-      "published_at": "2026-08-15T07:27:44+00:00"
     }
   ]
 }
