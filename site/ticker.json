@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-15T17:30:58+00:00",
+  "updated_at": "2026-08-15T18:44:14+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "published_at": "2026-08-15T18:21:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "published_at": "2026-08-15T17:47:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "published_at": "2026-08-15T17:42:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Inter sign England's Spence from Tottenham",
+      "published_at": "2026-08-15T17:32:32+00:00"
+    },
     {
       "source": "NPR",
       "text": "Trump administration wants to allow companies to hack foreign cybercriminals",
@@ -22,14 +42,9 @@
       "published_at": "2026-08-15T15:53:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Five injured, one critically, in shooting at Virginia State University",
-      "published_at": "2026-08-15T15:09:59+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Israeli strike kills seven in south Lebanon, state news reports​",
-      "published_at": "2026-08-15T14:43:31+00:00"
+      "text": "Yemen's Mocha port halts operations after Houthi attacks, port director says",
+      "published_at": "2026-08-15T15:52:12+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "PSG sign Spain's World Cup hero Torres from Barcelona",
       "published_at": "2026-08-15T12:54:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Secondhand book sales are booming. Is it because of AI?",
-      "published_at": "2026-08-15T11:25:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-      "published_at": "2026-08-15T10:10:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The Week in Breakingviews: When fund managers fret",
-      "published_at": "2026-08-15T10:00:40+00:00"
     }
   ]
 }
