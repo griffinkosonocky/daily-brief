@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-14T23:32:07+00:00",
+  "updated_at": "2026-08-15T01:46:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
+      "published_at": "2026-08-14T23:05:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say",
+      "published_at": "2026-08-14T22:41:34+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
@@ -10,6 +20,11 @@
       "source": "Reuters",
       "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title",
       "published_at": "2026-08-14T22:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
+      "published_at": "2026-08-14T21:23:22+00:00"
     },
     {
       "source": "Reuters",
@@ -52,11 +67,6 @@
       "published_at": "2026-08-14T18:09:06+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "European championships deliver further frustration for Ramsay-Peaty",
-      "published_at": "2026-08-14T17:46:49+00:00"
-    },
-    {
       "source": "BBC",
       "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
       "published_at": "2026-08-14T17:36:27+00:00"
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "published_at": "2026-08-14T17:03:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "published_at": "2026-08-14T17:00:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why is Selena Gomez being sued?",
-      "published_at": "2026-08-14T16:59:53+00:00"
     }
   ]
 }
