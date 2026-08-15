@@ -1,44 +1,69 @@
 {
-  "updated_at": "2026-08-15T04:41:59+00:00",
+  "updated_at": "2026-08-15T05:35:52+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "published_at": "2026-08-15T05:01:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "published_at": "2026-08-15T04:12:55+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead",
+      "text": "Japan defence minister visits contentious Yasukuni Shrine to war dead - reuters.com",
       "published_at": "2026-08-15T03:08:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Canadian minister says Canada, US far apart on draft trade deal, source says",
-      "published_at": "2026-08-14T23:29:27+00:00"
+      "source": "BBC",
+      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "published_at": "2026-08-15T00:01:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+      "published_at": "2026-08-15T00:01:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
+      "text": "Canadian minister says Canada, US far apart on draft trade deal, source says - reuters.com",
+      "published_at": "2026-08-14T23:29:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+      "published_at": "2026-08-14T23:17:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain boosts security in Ceuta as calls appear online for another mass border rush - reuters.com",
       "published_at": "2026-08-14T23:05:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say",
+      "text": "EXCLUSIVE: Libya's Haftar played key role in release of US hostage held by Islamic State, sources say - reuters.com",
       "published_at": "2026-08-14T22:41:34+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+      "text": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
       "published_at": "2026-08-14T22:36:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title",
+      "text": "Switzerland's Werro beats Olympic champion Hodgkinson for European 800m title - reuters.com",
       "published_at": "2026-08-14T22:21:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough'",
+      "text": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - reuters.com",
       "published_at": "2026-08-14T21:23:22+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Oil prices rally, US data dents chances of Fed rate hike",
+      "text": "Oil prices rally, US data dents chances of Fed rate hike - reuters.com",
       "published_at": "2026-08-14T21:12:56+00:00"
     },
     {
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
       "published_at": "2026-08-14T19:20:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump asks Supreme Court to allow ballroom work to continue",
-      "published_at": "2026-08-14T19:05:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "published_at": "2026-08-14T18:25:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How Americans deceive ourselves about slavery",
-      "published_at": "2026-08-14T18:13:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "published_at": "2026-08-14T17:36:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "published_at": "2026-08-14T17:03:17+00:00"
     }
   ]
 }
