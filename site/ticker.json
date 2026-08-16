@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-16T10:47:54+00:00",
+  "updated_at": "2026-08-16T11:30:31+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "published_at": "2026-08-16T10:53:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T10:52:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Belgium's biggest wildfire on record heads towards Germany",
@@ -10,11 +20,6 @@
       "source": "NPR",
       "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
       "published_at": "2026-08-16T10:12:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "published_at": "2026-08-16T10:09:10+00:00"
     },
     {
       "source": "BBC",
@@ -38,12 +43,12 @@
     },
     {
       "source": "NPR",
-      "text": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "text": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
       "published_at": "2026-08-16T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+      "text": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
       "published_at": "2026-08-16T09:00:00+00:00"
     },
     {
@@ -65,11 +70,6 @@
       "source": "BBC",
       "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "published_at": "2026-08-16T08:23:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "published_at": "2026-08-16T07:04:17+00:00"
     },
     {
       "source": "Reuters",
