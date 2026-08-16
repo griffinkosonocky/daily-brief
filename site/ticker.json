@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-16T07:40:07+00:00",
+  "updated_at": "2026-08-16T08:42:58+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Iran says Qatar delaying probe into fate of Iranian pilots, Tasnim news agency",
-      "published_at": "2026-08-16T07:06:41+00:00"
+      "source": "BBC",
+      "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "published_at": "2026-08-16T08:23:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T08:14:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "published_at": "2026-08-16T07:58:02+00:00"
     },
     {
       "source": "BBC",
@@ -12,24 +22,9 @@
       "published_at": "2026-08-16T07:04:17+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "published_at": "2026-08-16T06:53:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "published_at": "2026-08-16T04:13:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea fired warning shots after North Korean soldiers crossed demarcation line, Yonhap says",
-      "published_at": "2026-08-16T03:47:00+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
-      "published_at": "2026-08-16T02:08:00+00:00"
+      "published_at": "2026-08-16T02:09:38+00:00"
     },
     {
       "source": "BBC",
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Democrats pick South Carolina as first 2028 primary state​​",
       "published_at": "2026-08-15T20:07:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "published_at": "2026-08-15T20:04:13+00:00"
     }
   ]
 }
