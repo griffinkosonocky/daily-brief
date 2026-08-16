@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-16T19:29:12+00:00",
+  "updated_at": "2026-08-16T20:33:51+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "published_at": "2026-08-16T20:20:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "published_at": "2026-08-16T20:01:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "published_at": "2026-08-16T19:58:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's envoys meet mediators, Israel strikes Gaza",
+      "published_at": "2026-08-16T19:56:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "published_at": "2026-08-16T19:50:36+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -28,23 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump's envoys meet mediators, Israel strikes Gaza",
-      "published_at": "2026-08-16T17:58:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-      "published_at": "2026-08-16T17:44:23+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
       "published_at": "2026-08-16T17:08:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-      "published_at": "2026-08-16T16:44:13+00:00"
     },
     {
       "source": "NPR",
@@ -62,19 +72,9 @@
       "published_at": "2026-08-16T16:20:32+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-      "published_at": "2026-08-16T15:47:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What really happened in Ceuta? Why we may never find out",
-      "published_at": "2026-08-16T15:38:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "published_at": "2026-08-16T15:25:38+00:00"
+      "source": "Reuters",
+      "text": "Zambia's Hichilema leads presidential vote count",
+      "published_at": "2026-08-16T16:13:43+00:00"
     }
   ]
 }
