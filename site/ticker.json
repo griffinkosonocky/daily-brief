@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-16T06:55:51+00:00",
+  "updated_at": "2026-08-16T07:40:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says Qatar delaying probe into fate of Iranian pilots, Tasnim news agency",
+      "published_at": "2026-08-16T07:06:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "published_at": "2026-08-16T07:04:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
@@ -10,6 +20,11 @@
       "source": "BBC",
       "text": "Rescuers search for survivors of powerful Indonesia earthquake",
       "published_at": "2026-08-16T04:13:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea fired warning shots after North Korean soldiers crossed demarcation line, Yonhap says",
+      "published_at": "2026-08-16T03:47:00+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Democrats pick South Carolina as first 2028 primary state​​",
       "published_at": "2026-08-15T20:07:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "published_at": "2026-08-15T20:04:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eight-try All Blacks thump Bulls 50-19 in Pretoria",
-      "published_at": "2026-08-15T19:51:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "published_at": "2026-08-15T19:41:57+00:00"
     }
   ]
 }
