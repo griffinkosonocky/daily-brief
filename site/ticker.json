@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-08-15T23:30:09+00:00",
+  "updated_at": "2026-08-16T01:54:00+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Germany's Liebmann smashes 1500m world record",
-      "published_at": "2026-08-15T22:05:43+00:00"
+      "source": "BBC",
+      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "published_at": "2026-08-16T00:11:03+00:00"
     },
     {
       "source": "BBC",
       "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "published_at": "2026-08-15T21:56:10+00:00"
+      "published_at": "2026-08-15T23:34:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany's Liebmann smashes 1500m world record",
+      "published_at": "2026-08-15T22:05:43+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Multiple suspects at large after five shot at Virginia State University, police say",
       "published_at": "2026-08-15T19:34:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
-      "published_at": "2026-08-15T18:33:50+00:00"
     }
   ]
 }
