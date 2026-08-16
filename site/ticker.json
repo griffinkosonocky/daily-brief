@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-16T20:33:51+00:00",
+  "updated_at": "2026-08-16T21:30:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump says US will scale back military drills with South Korea",
+      "published_at": "2026-08-16T21:27:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Multiple people dead as flooding continues in Indiana",
+      "published_at": "2026-08-16T20:38:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports",
+      "published_at": "2026-08-16T20:21:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
@@ -57,24 +72,9 @@
       "published_at": "2026-08-16T17:08:52+00:00"
     },
     {
-      "source": "NPR",
-      "text": "A good – and bad – week for Italy's art police and museum security",
-      "published_at": "2026-08-16T16:27:54+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Australia gun buyback to start in November, PM Albanese says",
-      "published_at": "2026-08-16T16:20:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
-      "published_at": "2026-08-16T16:20:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zambia's Hichilema leads presidential vote count",
-      "published_at": "2026-08-16T16:13:43+00:00"
+      "text": "Belgium's biggest wildfire on record heads towards Germany",
+      "published_at": "2026-08-16T16:28:28+00:00"
     }
   ]
 }
