@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:46:01+00:00",
+  "updated_at": "2026-08-16T05:37:44+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -14,7 +14,7 @@
     {
       "source": "Reuters",
       "text": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
-      "published_at": "2026-08-16T02:09:38+00:00"
+      "published_at": "2026-08-16T02:08:00+00:00"
     },
     {
       "source": "BBC",
@@ -57,6 +57,11 @@
       "published_at": "2026-08-15T20:21:14+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Democrats pick South Carolina as first 2028 primary state​​",
+      "published_at": "2026-08-15T20:07:45+00:00"
+    },
+    {
       "source": "NPR",
       "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
       "published_at": "2026-08-15T20:04:13+00:00"
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Liechtenstein changes succession rule to allow women to ascend the throne",
       "published_at": "2026-08-15T19:41:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Douglass sets 50m freestyle world record at Pan Pacs",
-      "published_at": "2026-08-15T19:41:45+00:00"
     }
   ]
 }
