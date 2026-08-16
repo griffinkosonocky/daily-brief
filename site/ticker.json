@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-16T13:39:19+00:00",
+  "updated_at": "2026-08-16T14:34:26+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "published_at": "2026-08-16T13:34:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
+      "published_at": "2026-08-16T13:17:43+00:00"
     },
     {
       "source": "BBC",
@@ -15,6 +20,11 @@
       "source": "BBC",
       "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "published_at": "2026-08-16T12:37:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope calls for an end to West Bank violence against Palestinians",
+      "published_at": "2026-08-16T12:23:43+00:00"
     },
     {
       "source": "BBC",
@@ -52,19 +62,9 @@
       "published_at": "2026-08-16T10:52:08+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Belgium's biggest wildfire on record heads towards Germany",
-      "published_at": "2026-08-16T10:40:01+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
       "published_at": "2026-08-16T10:12:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
-      "published_at": "2026-08-16T10:08:00+00:00"
     },
     {
       "source": "BBC",
