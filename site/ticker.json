@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-16T08:42:58+00:00",
+  "updated_at": "2026-08-16T09:37:04+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "published_at": "2026-08-16T09:27:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "published_at": "2026-08-16T09:04:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "NPR Senior Podcast Challenge: Official Rules",
+      "published_at": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+      "published_at": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Doctors and women who've had it call for more attention on postpartum psychosis",
+      "published_at": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "published_at": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "published_at": "2026-08-16T08:49:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain, Japan and Brazil book 2028 LA Games rhythmic gymnastics group places",
+      "published_at": "2026-08-16T08:41:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel",
+      "published_at": "2026-08-16T08:27:55+00:00"
+    },
     {
       "source": "BBC",
       "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -8,18 +53,13 @@
     },
     {
       "source": "BBC",
-      "text": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-      "published_at": "2026-08-16T08:14:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "published_at": "2026-08-16T07:58:02+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Twelve killed as Polish bus veers off Hungarian motorway",
       "published_at": "2026-08-16T07:04:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
+      "published_at": "2026-08-16T06:07:00+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Germany's Liebmann smashes 1500m world record",
       "published_at": "2026-08-15T22:05:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian state to launch gun buyback after Bondi Beach attack",
-      "published_at": "2026-08-15T21:41:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Are robotaxis finally here?",
-      "published_at": "2026-08-15T21:30:21+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "State Department spokesperson on Iran war and U.S. visa revocations",
-      "published_at": "2026-08-15T21:20:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "published_at": "2026-08-15T21:03:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "published_at": "2026-08-15T20:58:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "published_at": "2026-08-15T20:21:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Democrats pick South Carolina as first 2028 primary state​​",
-      "published_at": "2026-08-15T20:07:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "published_at": "2026-08-15T20:04:13+00:00"
     }
   ]
 }
