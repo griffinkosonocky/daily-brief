@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-16T11:30:31+00:00",
+  "updated_at": "2026-08-16T12:56:58+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "published_at": "2026-08-16T12:53:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "published_at": "2026-08-16T12:37:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "BBC visits smouldering Kyiv market after Russian strikes",
+      "published_at": "2026-08-16T12:18:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "published_at": "2026-08-16T11:54:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "published_at": "2026-08-16T11:35:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel",
+      "published_at": "2026-08-16T11:27:57+00:00"
+    },
     {
       "source": "BBC",
       "text": "Twelve killed as Polish bus veers off Hungarian motorway",
@@ -14,7 +44,7 @@
     {
       "source": "Reuters",
       "text": "Belgium's biggest wildfire on record heads towards Germany",
-      "published_at": "2026-08-16T10:29:43+00:00"
+      "published_at": "2026-08-16T10:40:01+00:00"
     },
     {
       "source": "NPR",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
       "published_at": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-      "published_at": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "published_at": "2026-08-16T08:49:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain, Japan and Brazil book 2028 LA Games rhythmic gymnastics group places",
-      "published_at": "2026-08-16T08:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel",
-      "published_at": "2026-08-16T08:27:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "published_at": "2026-08-16T08:23:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
-      "published_at": "2026-08-16T06:07:00+00:00"
     }
   ]
 }
