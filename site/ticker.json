@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-16T18:42:37+00:00",
+  "updated_at": "2026-08-16T19:29:12+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "published_at": "2026-08-16T19:03:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "published_at": "2026-08-16T19:00:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+      "published_at": "2026-08-16T18:58:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "published_at": "2026-08-16T18:46:12+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Report: Alex Cora expected to be next Phillies manager",
       "published_at": "2026-08-16T18:33:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "published_at": "2026-08-16T18:04:25+00:00"
+      "source": "Reuters",
+      "text": "Trump's envoys meet mediators, Israel strikes Gaza",
+      "published_at": "2026-08-16T17:58:07+00:00"
     },
     {
       "source": "BBC",
@@ -18,18 +38,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump's envoys meet mediators, Israel strikes Gaza",
-      "published_at": "2026-08-16T17:27:30+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
       "published_at": "2026-08-16T17:08:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Croatians protest illegal waste dump over tap water safety fears",
-      "published_at": "2026-08-16T16:37:28+00:00"
+      "text": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
+      "published_at": "2026-08-16T16:44:13+00:00"
     },
     {
       "source": "NPR",
@@ -38,13 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
-      "published_at": "2026-08-16T16:20:32+00:00"
+      "text": "Australia gun buyback to start in November, PM Albanese says",
+      "published_at": "2026-08-16T16:20:58+00:00"
     },
     {
       "source": "Reuters",
-      "text": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm",
-      "published_at": "2026-08-16T16:09:36+00:00"
+      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
+      "published_at": "2026-08-16T16:20:32+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "published_at": "2026-08-16T15:25:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Teenager arrested in Virginia State University shooting that injured five",
-      "published_at": "2026-08-16T15:22:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "published_at": "2026-08-16T13:34:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "published_at": "2026-08-16T12:53:43+00:00"
     }
   ]
 }
