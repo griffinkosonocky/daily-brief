@@ -1,9 +1,14 @@
 {
-  "updated_at": "2026-08-16T01:54:00+00:00",
+  "updated_at": "2026-08-16T03:08:59+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day",
+      "published_at": "2026-08-16T02:08:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "text": "BBC seeks to subpoena members in Panorama lawsuit",
       "published_at": "2026-08-16T00:11:03+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Douglass sets 50m freestyle world record at Pan Pacs",
       "published_at": "2026-08-15T19:41:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "published_at": "2026-08-15T19:34:22+00:00"
     }
   ]
 }
