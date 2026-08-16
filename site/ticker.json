@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-16T21:30:40+00:00",
+  "updated_at": "2026-08-16T22:32:38+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump says US will scale back military drills with South Korea",
-      "published_at": "2026-08-16T21:27:42+00:00"
+      "text": "Thailand has a gun problem - 10 million of them",
+      "published_at": "2026-08-16T22:09:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "published_at": "2026-08-16T21:57:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US commander says mental health a 'priority' on USS Lincoln",
+      "published_at": "2026-08-16T21:04:27+00:00"
     },
     {
       "source": "NPR",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Report: Alex Cora expected to be next Phillies manager",
       "published_at": "2026-08-16T18:33:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
-      "published_at": "2026-08-16T17:08:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Belgium's biggest wildfire on record heads towards Germany",
-      "published_at": "2026-08-16T16:28:28+00:00"
     }
   ]
 }
