@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-16T15:32:02+00:00",
+  "updated_at": "2026-08-16T16:37:16+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "A good – and bad – week for Italy's art police and museum security",
+      "published_at": "2026-08-16T16:27:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
+      "published_at": "2026-08-16T16:20:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two dead and evacuation under way as fires break out on Greek island",
+      "published_at": "2026-08-16T16:14:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
+      "published_at": "2026-08-16T16:08:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "published_at": "2026-08-16T15:50:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "published_at": "2026-08-16T15:47:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What really happened in Ceuta? Why we may never find out",
+      "published_at": "2026-08-16T15:38:22+00:00"
+    },
     {
       "source": "BBC",
       "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
@@ -13,18 +48,8 @@
     },
     {
       "source": "BBC",
-      "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "published_at": "2026-08-16T15:14:01+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "published_at": "2026-08-16T13:34:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
-      "published_at": "2026-08-16T13:17:43+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "published_at": "2026-08-16T11:35:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump wants more economic pressure on Iran. What are his options?",
-      "published_at": "2026-08-16T11:34:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel",
-      "published_at": "2026-08-16T11:27:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "published_at": "2026-08-16T10:53:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "published_at": "2026-08-16T10:12:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "published_at": "2026-08-16T09:27:58+00:00"
     }
   ]
 }
