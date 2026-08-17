@@ -352,5 +352,11 @@
     "sport": "Sports",
     "question": "In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
     "answer": "Mercedes-AMG Petronas"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "Sports",
+    "question": "Which team won 2014 FIFA World Cup in Brazil?",
+    "answer": "Germany"
   }
 ]

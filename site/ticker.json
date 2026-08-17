@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-17T10:44:49+00:00",
+  "updated_at": "2026-08-17T10:56:57+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Chess-Former Spain defender Pique joins chess investment boom",
+      "published_at": "2026-08-17T10:46:35+00:00"
+    },
     {
       "source": "BBC",
       "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
       "published_at": "2026-08-17T10:39:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's July unemployment rate at 5.1% y/y",
+      "published_at": "2026-08-17T10:37:44+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "As wildfires get worse, some states are struggling to pass fire protection rules",
       "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Elon Musk's Starbase wants to expand in south Texas",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's recovery sputters as consumption, output lose steam",
-      "published_at": "2026-08-17T08:58:04+00:00"
     }
   ]
 }
