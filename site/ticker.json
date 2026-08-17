@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-17T10:56:57+00:00",
+  "updated_at": "2026-08-17T11:35:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "published_at": "2026-08-17T11:16:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukrainian strikes kill six in Russia, acting governor says",
+      "published_at": "2026-08-17T11:14:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's jobless rate slips to four-month low of 5.1% in July",
+      "published_at": "2026-08-17T11:08:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll",
+      "published_at": "2026-08-17T11:08:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sterling advances ahead of economic data that could test rally",
+      "published_at": "2026-08-17T11:01:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T10:57:09+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Chess-Former Spain defender Pique joins chess investment boom",
@@ -13,18 +43,13 @@
     },
     {
       "source": "Reuters",
-      "text": "India's July unemployment rate at 5.1% y/y",
-      "published_at": "2026-08-17T10:37:44+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Business split over whether SBTi’s new net-zero standard will boost action or dilute ambition",
       "published_at": "2026-08-17T10:30:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Insight: Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "published_at": "2026-08-17T10:19:58+00:00"
+      "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "published_at": "2026-08-17T10:25:18+00:00"
     },
     {
       "source": "Reuters",
@@ -42,11 +67,6 @@
       "published_at": "2026-08-17T09:41:53+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Top Zambian opposition figures arrested days after presidential vote",
-      "published_at": "2026-08-17T09:01:06+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
       "published_at": "2026-08-17T09:00:00+00:00"
@@ -54,26 +74,6 @@
     {
       "source": "NPR",
       "text": "Car problems? No childcare? How an app is helping people get to work",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can a student ID be used for voting? More Republican-led states are banning it",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Meta heads to court in a landmark trial about kids and social media addiction",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As wildfires get worse, some states are struggling to pass fire protection rules",
       "published_at": "2026-08-17T09:00:00+00:00"
     }
   ]
