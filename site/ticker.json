@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-17T09:53:11+00:00",
+  "updated_at": "2026-08-17T10:44:49+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "published_at": "2026-08-17T10:39:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Business split over whether SBTi’s new net-zero standard will boost action or dilute ambition",
+      "published_at": "2026-08-17T10:30:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insight: Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "published_at": "2026-08-17T10:19:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Oil shock’s bigger problem is at the refinery",
+      "published_at": "2026-08-17T10:08:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+      "published_at": "2026-08-17T10:00:10+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Iran says two French embassy employees barred from returning",
@@ -23,11 +48,6 @@
     },
     {
       "source": "NPR",
-      "text": "Elon Musk's Starbase wants to expand in south Texas",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Can a student ID be used for voting? More Republican-led states are banning it",
       "published_at": "2026-08-17T09:00:00+00:00"
     },
@@ -38,43 +58,23 @@
     },
     {
       "source": "NPR",
-      "text": "As wildfires get worse, some states are struggling to pass fire protection rules",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
       "published_at": "2026-08-17T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-17T08:49:18+00:00"
+      "text": "As wildfires get worse, some states are struggling to pass fire protection rules",
+      "published_at": "2026-08-17T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Ukrainian strikes kill six in Russia, acting governor says",
-      "published_at": "2026-08-17T08:47:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "published_at": "2026-08-17T08:43:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "published_at": "2026-08-17T08:38:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Movie that went viral for terrible animation becomes China box office hit",
-      "published_at": "2026-08-17T08:35:07+00:00"
+      "source": "NPR",
+      "text": "Elon Musk's Starbase wants to expand in south Texas",
+      "published_at": "2026-08-17T09:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China's economy loses steam as consumption, output miss forecasts",
-      "published_at": "2026-08-17T08:32:40+00:00"
+      "text": "China's recovery sputters as consumption, output lose steam",
+      "published_at": "2026-08-17T08:58:04+00:00"
     }
   ]
 }
