@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-17T01:51:30+00:00",
+  "updated_at": "2026-08-17T03:09:04+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets",
+      "published_at": "2026-08-17T03:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "published_at": "2026-08-17T02:51:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ferrari's first ever electric car sold for record $40m at auction",
+      "published_at": "2026-08-17T02:22:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares set for muted start as crude remains at elevated levels",
+      "published_at": "2026-08-17T02:21:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Asian shares mark time as Gulf war keeps oil prices up",
@@ -9,17 +29,12 @@
     {
       "source": "Reuters",
       "text": "Yen edges up as traders push back Fed rate hike bets",
-      "published_at": "2026-08-17T00:41:00+00:00"
+      "published_at": "2026-08-17T00:42:06+00:00"
     },
     {
       "source": "BBC",
       "text": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
       "published_at": "2026-08-17T00:20:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "published_at": "2026-08-17T00:06:05+00:00"
     },
     {
       "source": "Reuters",
@@ -28,13 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump instructs Pentagon to reduce military exercises with South Korea",
-      "published_at": "2026-08-16T23:30:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asking prices for UK homes show biggest August fall in 8 years",
-      "published_at": "2026-08-16T23:09:43+00:00"
+      "text": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
+      "published_at": "2026-08-16T23:54:51+00:00"
     },
     {
       "source": "BBC",
@@ -47,34 +57,24 @@
       "published_at": "2026-08-16T23:07:45+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country's history",
+      "published_at": "2026-08-16T22:40:56+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Thailand has a gun problem - 10 million of them",
       "published_at": "2026-08-16T22:09:04+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US commander says mental health a 'priority' on USS Lincoln",
-      "published_at": "2026-08-16T21:04:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Multiple people dead as flooding continues in Indiana",
-      "published_at": "2026-08-16T20:38:40+00:00"
+      "source": "Reuters",
+      "text": "Trump orders Pentagon to cut back military exercises with South Korea",
+      "published_at": "2026-08-16T21:39:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports",
-      "published_at": "2026-08-16T20:21:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-      "published_at": "2026-08-16T20:20:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "published_at": "2026-08-16T20:01:51+00:00"
+      "text": "Elderly couple die as wildfires sweep Greek island of Salamina",
+      "published_at": "2026-08-16T21:18:59+00:00"
     }
   ]
 }
