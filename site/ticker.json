@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-17T16:39:42+00:00",
+  "updated_at": "2026-08-17T17:38:34+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Breakingviews - Frequent flyers chart promising financial path",
+      "published_at": "2026-08-17T17:13:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chad's president replaces anti-graft officials amid rift with state oil firm",
+      "published_at": "2026-08-17T17:01:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Bangkok's gun district, traders say Thai crackdown misses the mark",
+      "published_at": "2026-08-17T16:44:45+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+      "text": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "published_at": "2026-08-17T16:26:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia's prominent anti-war politician jailed for 11 years",
+      "published_at": "2026-08-17T16:17:34+00:00"
     },
     {
       "source": "BBC",
@@ -24,7 +44,7 @@
     {
       "source": "Reuters",
       "text": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-      "published_at": "2026-08-17T15:18:50+00:00"
+      "published_at": "2026-08-17T15:29:34+00:00"
     },
     {
       "source": "Reuters",
@@ -42,6 +62,11 @@
       "published_at": "2026-08-17T14:40:26+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US civil rights group joins team seeking answers in death of Black teen Nolan Wells",
+      "published_at": "2026-08-17T14:26:30+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Top Zambian opposition figures arrested days after presidential vote",
       "published_at": "2026-08-17T14:23:04+00:00"
@@ -50,31 +75,6 @@
       "source": "Reuters",
       "text": "Russian state bank fires economist who warned Moscow was losing 'war of attrition' with West",
       "published_at": "2026-08-17T14:20:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "West Africa cocoa sector struggles to meet EU anti-deforestation rules, raising supply concerns",
-      "published_at": "2026-08-17T13:55:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut",
-      "published_at": "2026-08-17T13:50:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu's re-election hopes ride on divided party's primaries",
-      "published_at": "2026-08-17T13:31:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "DHS defends investigating agency critics and giving them warning notices",
-      "published_at": "2026-08-17T13:31:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia and Ukraine trade more deadly strikes",
-      "published_at": "2026-08-17T13:16:50+00:00"
     }
   ]
 }
