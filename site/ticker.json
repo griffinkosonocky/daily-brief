@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-17T08:55:58+00:00",
+  "updated_at": "2026-08-17T09:53:11+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran says two French embassy employees barred from returning",
+      "published_at": "2026-08-17T09:41:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T09:01:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Car problems? No childcare? How an app is helping people get to work",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Elon Musk's Starbase wants to expand in south Texas",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can a student ID be used for voting? More Republican-led states are banning it",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meta heads to court in a landmark trial about kids and social media addiction",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As wildfires get worse, some states are struggling to pass fire protection rules",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "published_at": "2026-08-17T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-17T08:49:18+00:00"
+    },
     {
       "source": "BBC",
       "text": "Ukrainian strikes kill six in Russia, acting governor says",
@@ -17,64 +67,14 @@
       "published_at": "2026-08-17T08:38:41+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Movie that went viral for terrible animation becomes China box office hit",
+      "published_at": "2026-08-17T08:35:07+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "China's economy loses steam as consumption, output miss forecasts",
       "published_at": "2026-08-17T08:32:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF to visit Uganda next month for negotiations on new programme",
-      "published_at": "2026-08-17T08:11:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Top Zambian opposition figures arrested days after presidential vote",
-      "published_at": "2026-08-17T07:31:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "West Africa cocoa sector struggles to meet EU anti-deforestation rules, raising supply concerns",
-      "published_at": "2026-08-17T07:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Malaysian Airlines pilots clear drug checks, cabin crew to be tested next, company says",
-      "published_at": "2026-08-17T07:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan's president says record defence spending an investment in peace",
-      "published_at": "2026-08-17T06:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports",
-      "published_at": "2026-08-17T06:42:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "published_at": "2026-08-17T06:24:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kushner to hold talks with Netanyahu after rare meeting with Hamas",
-      "published_at": "2026-08-17T06:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show",
-      "published_at": "2026-08-17T06:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Emerging markets march out of 'valley of tears' as investors diversify",
-      "published_at": "2026-08-17T06:04:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xi leads event marking late leader Jiang Zemin's 100th birth anniversary",
-      "published_at": "2026-08-17T05:59:00+00:00"
     }
   ]
 }
