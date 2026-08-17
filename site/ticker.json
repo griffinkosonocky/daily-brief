@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-08-17T22:36:01+00:00",
+  "updated_at": "2026-08-17T23:32:29+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "published_at": "2026-08-17T23:28:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran threatens new offensive while US rules out extending ceasefire deal",
+      "published_at": "2026-08-17T22:43:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
+      "published_at": "2026-08-17T22:37:58+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Cargill workers vote to end dispute that idled US beef plant",
       "published_at": "2026-08-17T22:03:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "published_at": "2026-08-17T21:43:57+00:00"
     },
     {
       "source": "Reuters",
@@ -18,8 +28,18 @@
     },
     {
       "source": "Reuters",
+      "text": "China surprises oil markets again with a return to stockpiling in July",
+      "published_at": "2026-08-17T21:06:37+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trading Day: Bonds play the blues",
       "published_at": "2026-08-17T21:05:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "published_at": "2026-08-17T21:04:10+00:00"
     },
     {
       "source": "NPR",
@@ -33,8 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "published_at": "2026-08-17T20:23:39+00:00"
+      "text": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
+      "published_at": "2026-08-17T20:18:05+00:00"
     },
     {
       "source": "NPR",
@@ -47,11 +67,6 @@
       "published_at": "2026-08-17T19:40:50+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-      "published_at": "2026-08-17T19:27:03+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "published_at": "2026-08-17T19:25:05+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - Trumps laugh all the way to the bank charter",
       "published_at": "2026-08-17T19:22:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions",
-      "published_at": "2026-08-17T19:13:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-      "published_at": "2026-08-17T18:45:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "published_at": "2026-08-17T18:39:39+00:00"
     }
   ]
 }
