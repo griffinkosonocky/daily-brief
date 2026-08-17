@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-17T13:02:05+00:00",
+  "updated_at": "2026-08-17T13:49:36+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "DHS defends investigating agency critics and giving them warning notices",
+      "published_at": "2026-08-17T13:31:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China surprises oil markets again with a return to stockpiling in July",
+      "published_at": "2026-08-17T13:30:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia and Ukraine trade more deadly strikes",
+      "published_at": "2026-08-17T13:16:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
+      "published_at": "2026-08-17T13:03:16+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Canada's July annual inflation accelerates to 3% as gasoline rebounds",
-      "published_at": "2026-08-17T12:43:43+00:00"
+      "published_at": "2026-08-17T12:48:47+00:00"
     },
     {
       "source": "Reuters",
@@ -17,24 +37,19 @@
       "published_at": "2026-08-17T12:27:11+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Breakingviews - Operation 'Save the City' is only half complete",
-      "published_at": "2026-08-17T12:16:48+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Top Zambian opposition figures arrested days after presidential vote",
       "published_at": "2026-08-17T12:11:13+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Former Spain defender Pique joins chess investment boom",
+      "published_at": "2026-08-17T11:58:25+00:00"
+    },
+    {
       "source": "NPR",
       "text": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
       "published_at": "2026-08-17T11:48:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian strikes kill six in Russia, acting governor says",
-      "published_at": "2026-08-17T11:14:39+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Business split over whether SBTi’s new net-zero standard will boost action or dilute ambition",
       "published_at": "2026-08-17T10:30:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "published_at": "2026-08-17T10:25:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
-      "published_at": "2026-08-17T10:09:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-      "published_at": "2026-08-17T10:00:10+00:00"
     }
   ]
 }
