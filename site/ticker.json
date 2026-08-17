@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-17T21:35:33+00:00",
+  "updated_at": "2026-08-17T22:36:01+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Cargill workers vote to end dispute that idled US beef plant",
+      "published_at": "2026-08-17T22:03:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "published_at": "2026-08-17T21:43:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US to announce steps to help refiners produce more fuel, energy chief Wright says",
+      "published_at": "2026-08-17T21:36:56+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trading Day: Bonds play the blues",
@@ -13,18 +28,13 @@
     },
     {
       "source": "Reuters",
-      "text": "US to announce steps to help refiners produce more fuel, energy chief Wright says",
-      "published_at": "2026-08-17T20:43:36+00:00"
+      "text": "Battered by war, Iran’s rulers wary of more economic pain and unrest if US tightens pressure",
+      "published_at": "2026-08-17T20:52:09+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
       "published_at": "2026-08-17T20:23:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
-      "published_at": "2026-08-17T20:18:05+00:00"
     },
     {
       "source": "NPR",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "published_at": "2026-08-17T18:39:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says North Korea's Kim has responded to his overtures",
-      "published_at": "2026-08-17T18:21:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "published_at": "2026-08-17T18:03:23+00:00"
     }
   ]
 }
