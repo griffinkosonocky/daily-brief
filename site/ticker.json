@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-17T13:49:36+00:00",
+  "updated_at": "2026-08-17T14:38:17+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T14:23:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "published_at": "2026-08-17T13:58:38+00:00"
+    },
     {
       "source": "NPR",
       "text": "DHS defends investigating agency critics and giving them warning notices",
@@ -23,6 +33,11 @@
     },
     {
       "source": "Reuters",
+      "text": "China's premier calls for stabilising external demand as growth sputters",
+      "published_at": "2026-08-17T13:02:09+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Canada's July annual inflation accelerates to 3% as gasoline rebounds",
       "published_at": "2026-08-17T12:48:47+00:00"
     },
@@ -30,16 +45,6 @@
       "source": "Reuters",
       "text": "Russian state bank fires economist who warned Moscow was losing 'war of attrition' with West",
       "published_at": "2026-08-17T12:28:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "published_at": "2026-08-17T12:27:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Top Zambian opposition figures arrested days after presidential vote",
-      "published_at": "2026-08-17T12:11:13+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
       "published_at": "2026-08-17T10:39:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Business split over whether SBTi’s new net-zero standard will boost action or dilute ambition",
-      "published_at": "2026-08-17T10:30:18+00:00"
     }
   ]
 }
