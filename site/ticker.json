@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-17T07:12:10+00:00",
+  "updated_at": "2026-08-17T08:55:58+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Ukrainian strikes kill six in Russia, acting governor says",
-      "published_at": "2026-08-17T06:57:23+00:00"
+      "published_at": "2026-08-17T08:47:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "published_at": "2026-08-17T08:43:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "published_at": "2026-08-17T08:38:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India should bring back fuel with lower blend of ethanol, chief economic adviser says",
-      "published_at": "2026-08-17T06:34:00+00:00"
+      "text": "China's economy loses steam as consumption, output miss forecasts",
+      "published_at": "2026-08-17T08:32:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF to visit Uganda next month for negotiations on new programme",
+      "published_at": "2026-08-17T08:11:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T07:31:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "West Africa cocoa sector struggles to meet EU anti-deforestation rules, raising supply concerns",
+      "published_at": "2026-08-17T07:14:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysian Airlines pilots clear drug checks, cabin crew to be tested next, company says",
+      "published_at": "2026-08-17T07:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan's president says record defence spending an investment in peace",
+      "published_at": "2026-08-17T06:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports",
+      "published_at": "2026-08-17T06:42:00+00:00"
     },
     {
       "source": "BBC",
@@ -18,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
-      "published_at": "2026-08-17T06:18:00+00:00"
+      "text": "Kushner to hold talks with Netanyahu after rare meeting with Hamas",
+      "published_at": "2026-08-17T06:17:00+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Xi leads event marking late leader Jiang Zemin's 100th birth anniversary",
       "published_at": "2026-08-17T05:59:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Aussie rules footy players under investigation as police probe sexual assault claim",
-      "published_at": "2026-08-17T05:46:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "published_at": "2026-08-17T05:21:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India RBI's heavy FX footprint revives memories of a tightly managed rupee",
-      "published_at": "2026-08-17T05:02:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "published_at": "2026-08-17T04:50:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "published_at": "2026-08-17T04:41:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Record rains drench South Korean city as landslide kills one",
-      "published_at": "2026-08-17T04:34:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - China’s unplanned surpluses put EU in trade bind",
-      "published_at": "2026-08-17T04:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation",
-      "published_at": "2026-08-17T04:00:00+00:00"
     }
   ]
 }
