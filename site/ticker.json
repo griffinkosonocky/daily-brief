@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-08-17T11:35:40+00:00",
+  "updated_at": "2026-08-17T13:02:05+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Canada's July annual inflation accelerates to 3% as gasoline rebounds",
+      "published_at": "2026-08-17T12:43:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian state bank fires economist who warned Moscow was losing 'war of attrition' with West",
+      "published_at": "2026-08-17T12:28:56+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "published_at": "2026-08-17T11:16:31+00:00"
+      "published_at": "2026-08-17T12:27:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Operation 'Save the City' is only half complete",
+      "published_at": "2026-08-17T12:16:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Top Zambian opposition figures arrested days after presidential vote",
+      "published_at": "2026-08-17T12:11:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "published_at": "2026-08-17T11:48:21+00:00"
     },
     {
       "source": "BBC",
       "text": "Ukrainian strikes kill six in Russia, acting governor says",
       "published_at": "2026-08-17T11:14:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's jobless rate slips to four-month low of 5.1% in July",
-      "published_at": "2026-08-17T11:08:21+00:00"
     },
     {
       "source": "Reuters",
@@ -27,14 +47,9 @@
       "published_at": "2026-08-17T11:01:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Top Zambian opposition figures arrested days after presidential vote",
-      "published_at": "2026-08-17T10:57:09+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Chess-Former Spain defender Pique joins chess investment boom",
-      "published_at": "2026-08-17T10:46:35+00:00"
+      "text": "Breakingviews - Oil shock’s bigger problem is at the refinery",
+      "published_at": "2026-08-17T10:48:44+00:00"
     },
     {
       "source": "BBC",
@@ -53,28 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Oil shock’s bigger problem is at the refinery",
-      "published_at": "2026-08-17T10:08:11+00:00"
+      "text": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
+      "published_at": "2026-08-17T10:09:43+00:00"
     },
     {
       "source": "NPR",
       "text": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
       "published_at": "2026-08-17T10:00:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says two French embassy employees barred from returning",
-      "published_at": "2026-08-17T09:41:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-      "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Car problems? No childcare? How an app is helping people get to work",
-      "published_at": "2026-08-17T09:00:00+00:00"
     }
   ]
 }
