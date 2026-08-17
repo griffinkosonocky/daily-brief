@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-17T19:36:04+00:00",
+  "updated_at": "2026-08-17T20:38:07+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Democrat Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+      "published_at": "2026-08-17T19:53:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+      "published_at": "2026-08-17T19:27:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "published_at": "2026-08-17T19:25:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Trumps laugh all the way to the bank charter",
+      "published_at": "2026-08-17T19:22:12+00:00"
     },
     {
       "source": "Reuters",
@@ -23,18 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Trumps laugh all the way to the bank charter",
-      "published_at": "2026-08-17T18:26:34+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Trump says North Korea's Kim has responded to his overtures",
       "published_at": "2026-08-17T18:21:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-      "published_at": "2026-08-17T18:03:45+00:00"
     },
     {
       "source": "BBC",
@@ -52,6 +57,11 @@
       "published_at": "2026-08-17T17:41:33+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "IMF staff to visit Senegal for more programme talks",
+      "published_at": "2026-08-17T17:32:25+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
       "published_at": "2026-08-17T17:31:36+00:00"
@@ -63,18 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Chad's president replaces anti-graft officials amid rift with state oil firm",
-      "published_at": "2026-08-17T17:01:44+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "In Bangkok's gun district, traders say Thai crackdown misses the mark",
       "published_at": "2026-08-17T16:44:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia's prominent anti-war politician jailed for 11 years",
-      "published_at": "2026-08-17T16:17:34+00:00"
     }
   ]
 }
