@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-17T04:53:51+00:00",
+  "updated_at": "2026-08-17T05:45:53+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Heroes actress Hayden Panettiere dies aged 36",
-      "published_at": "2026-08-17T04:53:27+00:00"
+      "published_at": "2026-08-17T05:40:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukrainian strikes kill six in Russia, acting governor says",
+      "published_at": "2026-08-17T05:38:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "published_at": "2026-08-17T05:21:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "published_at": "2026-08-17T05:06:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India RBI's heavy FX footprint revives memories of a tightly managed rupee",
+      "published_at": "2026-08-17T05:02:00+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +32,49 @@
       "published_at": "2026-08-17T04:50:56+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "published_at": "2026-08-17T04:41:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Record rains drench South Korean city as landslide kills one",
+      "published_at": "2026-08-17T04:34:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "published_at": "2026-08-17T04:30:15+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Breakingviews - China’s unplanned surpluses put EU in trade bind - reuters.com",
+      "text": "Breakingviews - China’s unplanned surpluses put EU in trade bind",
       "published_at": "2026-08-17T04:19:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian central bank likely steps in to defend rupee, traders say - reuters.com",
+      "text": "Japan Q2 growth misses forecasts on weaker spending, investment",
+      "published_at": "2026-08-17T03:42:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely steps in to defend rupee, traders say",
       "published_at": "2026-08-17T03:41:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Alphabet eyes inaugural Australian dollar bond, bookrunner's message says - reuters.com",
+      "text": "Alphabet eyes inaugural Australian dollar bond, bookrunner's message says",
       "published_at": "2026-08-17T03:41:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets - reuters.com",
+      "text": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets",
       "published_at": "2026-08-17T03:02:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "published_at": "2026-08-17T02:51:27+00:00"
     },
     {
       "source": "BBC",
       "text": "Ferrari's first ever electric car sold for record $40m at auction",
       "published_at": "2026-08-17T02:22:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Philippine central bank says inflation to ease gradually, risks remain on upside - reuters.com",
-      "published_at": "2026-08-17T02:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asian shares mark time as Gulf war keeps oil prices up - reuters.com",
-      "published_at": "2026-08-17T01:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yen stronger as traders cut back bets on Fed rate hike - reuters.com",
-      "published_at": "2026-08-17T00:41:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "published_at": "2026-08-17T00:20:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan Q2 growth misses forecasts on weaker spending, investment - reuters.com",
-      "published_at": "2026-08-17T00:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - reuters.com",
-      "published_at": "2026-08-17T00:05:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Ghana was the crime scene' - the country leading the demand for slavery reparations",
-      "published_at": "2026-08-16T23:09:39+00:00"
     }
   ]
 }
