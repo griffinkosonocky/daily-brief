@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-18T03:54:54+00:00",
+  "updated_at": "2026-08-18T04:46:46+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive'",
+      "published_at": "2026-08-18T04:37:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - China has one good reason for its credit slump",
+      "published_at": "2026-08-18T04:28:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say",
@@ -13,7 +23,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Indian shares set for muted open as oil tops $91, US-Iran ceasefire expires",
+      "text": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires",
       "published_at": "2026-08-18T02:21:00+00:00"
     },
     {
@@ -27,13 +37,18 @@
       "published_at": "2026-08-18T01:51:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China lowers flags, tightens security for former premier Zhu Rongji's funeral",
+      "published_at": "2026-08-18T01:39:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Russia warns UK over supplying drones to Ukraine",
       "published_at": "2026-08-18T01:16:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
+      "text": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
       "published_at": "2026-08-18T01:16:00+00:00"
     },
     {
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Cargill workers vote to end dispute at US beef plant idled since April",
       "published_at": "2026-08-17T23:52:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "BBC breaks down Trump's latest shift on North and South Korea",
-      "published_at": "2026-08-17T23:42:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "published_at": "2026-08-17T23:28:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says North Korea's Kim has responded to his overtures",
-      "published_at": "2026-08-17T23:06:02+00:00"
     }
   ]
 }
