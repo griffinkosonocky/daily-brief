@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-18T10:55:33+00:00",
+  "updated_at": "2026-08-18T11:35:05+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Europe is underpricing its sweltering future",
+      "published_at": "2026-08-18T11:06:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "published_at": "2026-08-18T10:59:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - The great bond tailwind for stocks is over",
+      "published_at": "2026-08-18T10:59:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Beyond marathons and backflips, China's robots face a commercial test",
+      "published_at": "2026-08-18T10:47:21+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
@@ -9,7 +29,7 @@
     {
       "source": "Reuters",
       "text": "Morning Bid: Yields give way",
-      "published_at": "2026-08-18T10:36:01+00:00"
+      "published_at": "2026-08-18T10:37:43+00:00"
     },
     {
       "source": "NPR",
@@ -18,23 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Beyond marathons and backflips, China's robots face a commercial test",
-      "published_at": "2026-08-18T10:26:59+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order",
       "published_at": "2026-08-18T10:17:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Europe is underpricing its sweltering future",
-      "published_at": "2026-08-18T10:14:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Proposed Canadian crude oil pipeline projects",
-      "published_at": "2026-08-18T10:09:44+00:00"
     },
     {
       "source": "Reuters",
@@ -52,11 +57,6 @@
       "published_at": "2026-08-18T09:55:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "India considers limited duty-free sugar imports to ease record prices, sources say",
-      "published_at": "2026-08-18T09:44:09+00:00"
-    },
-    {
       "source": "NPR",
       "text": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
       "published_at": "2026-08-18T09:30:00+00:00"
@@ -68,12 +68,12 @@
     },
     {
       "source": "NPR",
-      "text": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "text": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
       "published_at": "2026-08-18T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "text": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
       "published_at": "2026-08-18T09:00:00+00:00"
     }
   ]
