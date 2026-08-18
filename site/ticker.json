@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-18T11:35:05+00:00",
+  "updated_at": "2026-08-18T13:04:00+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "published_at": "2026-08-18T12:36:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
+      "published_at": "2026-08-18T12:16:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "published_at": "2026-08-18T12:04:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+      "published_at": "2026-08-18T11:53:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insight: How US military funding propelled China’s robot dogs",
+      "published_at": "2026-08-18T11:42:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says Congo Ebola outbreak can still be brought under control within three months",
+      "published_at": "2026-08-18T11:42:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+      "published_at": "2026-08-18T11:40:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T11:30:35+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Breakingviews - Europe is underpricing its sweltering future",
@@ -18,13 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Beyond marathons and backflips, China's robots face a commercial test",
-      "published_at": "2026-08-18T10:47:21+00:00"
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "published_at": "2026-08-18T10:47:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "published_at": "2026-08-18T10:47:16+00:00"
+      "text": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
+      "published_at": "2026-08-18T10:44:45+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "The grueling fight over who profits from AI music",
       "published_at": "2026-08-18T10:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order",
-      "published_at": "2026-08-18T10:17:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
-      "published_at": "2026-08-18T10:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says Congo Ebola outbreak can still be brought under control within three months",
-      "published_at": "2026-08-18T09:57:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia warns UK will pay for supplying drones to Ukraine",
-      "published_at": "2026-08-18T09:55:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "published_at": "2026-08-18T09:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zambia's Hichilema win gives investors continuity, now they want growth",
-      "published_at": "2026-08-18T09:27:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "published_at": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "published_at": "2026-08-18T09:00:00+00:00"
     }
   ]
 }
