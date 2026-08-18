@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-18T08:50:10+00:00",
+  "updated_at": "2026-08-18T09:44:33+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia warns UK will pay for supplying drones to Ukraine",
+      "published_at": "2026-08-18T09:33:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "published_at": "2026-08-18T09:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zambia's Hichilema win gives investors continuity, now they want growth",
+      "published_at": "2026-08-18T09:27:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "published_at": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "published_at": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "published_at": "2026-08-18T09:00:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
@@ -12,9 +42,19 @@
       "published_at": "2026-08-18T08:41:19+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
+      "published_at": "2026-08-18T08:26:40+00:00"
+    },
+    {
       "source": "BBC",
       "text": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "published_at": "2026-08-18T08:07:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swedish opposition holds big lead ahead of September vote, poll shows",
+      "published_at": "2026-08-18T08:02:00+00:00"
     },
     {
       "source": "Reuters",
@@ -27,54 +67,14 @@
       "published_at": "2026-08-18T07:46:55+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China surprises oil markets again with a return to stockpiling in July",
+      "published_at": "2026-08-18T07:28:43+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Indian student leader ends hunger strike after 16 days",
       "published_at": "2026-08-18T07:27:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T07:20:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African rand pressured as Middle East conflict dampens risk appetite",
-      "published_at": "2026-08-18T07:17:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China censors public mourning as it holds former premier's funeral",
-      "published_at": "2026-08-18T07:17:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "published_at": "2026-08-18T06:53:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "published_at": "2026-08-18T06:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil market starts pricing in a prolonged Hormuz crisis",
-      "published_at": "2026-08-18T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China eases Iran war aluminium shock, but at a cost",
-      "published_at": "2026-08-18T06:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
-      "published_at": "2026-08-18T05:56:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-      "published_at": "2026-08-18T05:51:50+00:00"
     }
   ]
 }
