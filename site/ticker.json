@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-08-18T22:36:45+00:00",
+  "updated_at": "2026-08-18T23:31:50+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "UK employers raise pay by least in 10 months, Brightmine says",
+      "published_at": "2026-08-18T23:13:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Climate change is driving record heat in Europe's seas, scientists say",
+      "published_at": "2026-08-18T23:09:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Indian activist jailed after taking on a luxury hotel plan",
+      "published_at": "2026-08-18T22:18:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta hooked children on Facebook and Instagram, court hears",
+      "published_at": "2026-08-18T22:11:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Disney, ABC sue FCC over threats to broadcast licenses",
+      "published_at": "2026-08-18T22:04:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
+      "published_at": "2026-08-18T21:47:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Liberia agrees to accept up to 1,200 third-country deportees from US",
+      "published_at": "2026-08-18T21:18:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Bonds slam stocks",
+      "published_at": "2026-08-18T21:06:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
+      "published_at": "2026-08-18T21:04:42+00:00"
+    },
     {
       "source": "BBC",
       "text": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
       "published_at": "2026-08-18T20:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rodri ends glittering Man City spell with move to Barca",
+      "published_at": "2026-08-18T20:43:44+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +62,19 @@
       "published_at": "2026-08-18T20:39:36+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
+      "published_at": "2026-08-18T20:31:07+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Man in Chucky-style mask terrorises Philadelphia residents",
       "published_at": "2026-08-18T20:27:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US announces new sanctions on top ICC figures",
-      "published_at": "2026-08-18T20:21:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
-      "published_at": "2026-08-18T20:04:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Judge swapped in Trump's defamation case against BBC",
-      "published_at": "2026-08-18T19:52:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "ABC and Disney sue FCC, alleging First Amendment violations",
-      "published_at": "2026-08-18T19:51:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "published_at": "2026-08-18T17:54:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-      "published_at": "2026-08-18T17:39:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Earthquake rocks Spain's historic Granada, injuring three",
-      "published_at": "2026-08-18T17:15:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "published_at": "2026-08-18T17:00:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "published_at": "2026-08-18T16:26:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "published_at": "2026-08-18T16:00:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "published_at": "2026-08-18T15:19:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Brazil's President Lula hails oil discovery near Amazon river",
-      "published_at": "2026-08-18T13:13:54+00:00"
+      "source": "Reuters",
+      "text": "Dollar range-bound as markets price dovish Fed response",
+      "published_at": "2026-08-18T20:24:26+00:00"
     }
   ]
 }
