@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-18T01:46:56+00:00",
+  "updated_at": "2026-08-18T03:05:15+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "China lowers flags, tightens security for former premier Zhu Rongji's funeral",
-      "published_at": "2026-08-18T01:39:00+00:00"
+      "text": "Breakingviews - BHP's rich-seams pitch gets more convincing",
+      "published_at": "2026-08-18T02:58:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares set for muted open as oil tops $91, US-Iran ceasefire expires",
+      "published_at": "2026-08-18T02:21:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "published_at": "2026-08-18T02:06:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+      "published_at": "2026-08-18T01:51:00+00:00"
     },
     {
       "source": "BBC",
@@ -15,6 +30,21 @@
       "source": "Reuters",
       "text": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
       "published_at": "2026-08-18T01:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold extends gains on easing rate-hike fears, markets await Fed minutes",
+      "published_at": "2026-08-18T01:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia's president pegs early quake losses at $9.6 billion",
+      "published_at": "2026-08-18T00:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cargill workers vote to end dispute at US beef plant idled since April",
+      "published_at": "2026-08-17T23:52:41+00:00"
     },
     {
       "source": "BBC",
@@ -32,11 +62,6 @@
       "published_at": "2026-08-17T23:06:02+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Iran threatens new offensive while US rules out extending ceasefire deal",
-      "published_at": "2026-08-17T22:43:11+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
       "published_at": "2026-08-17T22:37:58+00:00"
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Cargill workers vote to end dispute that idled US beef plant",
-      "published_at": "2026-08-17T22:06:27+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US to announce steps to help refiners produce more fuel, energy chief Wright says",
       "published_at": "2026-08-17T21:36:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Norway's king admitted to hospital and put on sick leave",
-      "published_at": "2026-08-17T21:34:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Foreign holdings of US Treasuries fall in June, led by Japan, UK, China, data shows",
-      "published_at": "2026-08-17T21:08:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trading Day: Bonds play the blues",
-      "published_at": "2026-08-17T21:05:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "published_at": "2026-08-17T21:04:10+00:00"
     }
   ]
 }
