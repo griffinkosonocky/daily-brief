@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T18:52:46+00:00",
+  "updated_at": "2026-08-18T19:35:33+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US announces new sanctions on top ICC figures",
+      "published_at": "2026-08-18T19:18:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bolivia lawmakers force economy minister's removal in setback for President Paz",
+      "published_at": "2026-08-18T18:49:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta targeted children to boost Facebook and Instagram use, lawyer says as landmark trial begins",
+      "published_at": "2026-08-18T18:41:01+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Breakingviews - Anthropic’s deceleration has some IPO upside",
@@ -22,9 +37,9 @@
       "published_at": "2026-08-18T17:53:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US announces new sanctions on top ICC figures",
-      "published_at": "2026-08-18T17:40:09+00:00"
+      "source": "Reuters",
+      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
+      "published_at": "2026-08-18T17:43:40+00:00"
     },
     {
       "source": "NPR",
@@ -43,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Rights groups accuse FIFA of silencing dissent after COO Lamour's exit",
-      "published_at": "2026-08-18T17:07:14+00:00"
+      "text": "Disney, ABC sue FCC over threats to broadcast licenses",
+      "published_at": "2026-08-18T17:02:38+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
       "published_at": "2026-08-18T16:22:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta trial that could reshape Facebook, Instagram gets underway",
-      "published_at": "2026-08-18T16:19:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How US military funding propelled China’s robot dogs",
-      "published_at": "2026-08-18T16:13:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus",
-      "published_at": "2026-08-18T16:06:54+00:00"
     }
   ]
 }
