@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-08-18T09:44:33+00:00",
+  "updated_at": "2026-08-18T10:41:20+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Yields give way",
+      "published_at": "2026-08-18T10:36:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The grueling fight over who profits from AI music",
+      "published_at": "2026-08-18T10:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Beyond marathons and backflips, China's robots face a commercial test",
+      "published_at": "2026-08-18T10:26:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lavrov says Russia, North Korea fighting for 'new, righteous' world order",
+      "published_at": "2026-08-18T10:17:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Europe is underpricing its sweltering future",
+      "published_at": "2026-08-18T10:14:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Proposed Canadian crude oil pipeline projects",
+      "published_at": "2026-08-18T10:09:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
+      "published_at": "2026-08-18T10:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says Congo Ebola outbreak can still be brought under control within three months",
+      "published_at": "2026-08-18T09:57:33+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia warns UK will pay for supplying drones to Ukraine",
-      "published_at": "2026-08-18T09:33:49+00:00"
+      "published_at": "2026-08-18T09:55:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India considers limited duty-free sugar imports to ease record prices, sources say",
+      "published_at": "2026-08-18T09:44:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's first blue bond draw nears as issuers line up, bankers say",
+      "published_at": "2026-08-18T09:41:43+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "NPR",
       "text": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
       "published_at": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "published_at": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "published_at": "2026-08-18T08:44:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-18T08:41:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
-      "published_at": "2026-08-18T08:26:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "published_at": "2026-08-18T08:07:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swedish opposition holds big lead ahead of September vote, poll shows",
-      "published_at": "2026-08-18T08:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold",
-      "published_at": "2026-08-18T07:51:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambia's president wins second term with 60% of the vote",
-      "published_at": "2026-08-18T07:46:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China surprises oil markets again with a return to stockpiling in July",
-      "published_at": "2026-08-18T07:28:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian student leader ends hunger strike after 16 days",
-      "published_at": "2026-08-18T07:27:32+00:00"
     }
   ]
 }
