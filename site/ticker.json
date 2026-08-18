@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-18T06:59:50+00:00",
+  "updated_at": "2026-08-18T07:48:52+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "South African rand pressured as Middle East conflict dampens risk appetite",
+      "published_at": "2026-08-18T07:17:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China censors public mourning as it holds former premier's funeral",
+      "published_at": "2026-08-18T07:17:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "published_at": "2026-08-18T06:53:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia says UK 'will pay' for supplying drones to Ukraine",
@@ -8,13 +23,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Asia chief hits out at Qatar over pushback on letter attacking Infantino",
-      "published_at": "2026-08-18T06:31:00+00:00"
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T06:01:23+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T06:14:07+00:00"
+      "text": "Oil market starts pricing in a prolonged Hormuz crisis",
+      "published_at": "2026-08-18T06:00:00+00:00"
     },
     {
       "source": "Reuters",
@@ -23,7 +38,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Oil market starts pricing in a prolonged Hormuz crisis",
+      "text": "Even as market clouds clear, AI investment anxiety still gnaws",
       "published_at": "2026-08-18T06:00:00+00:00"
     },
     {
@@ -35,11 +50,6 @@
       "source": "NPR",
       "text": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
       "published_at": "2026-08-18T05:51:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China forecasts strongest El Nino event as sea temperatures rise",
-      "published_at": "2026-08-18T05:46:00+00:00"
     },
     {
       "source": "BBC",
@@ -63,18 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Temasek-backed Milky Mist jumps about 30% in India debut, hits $1.5 billion valuation",
+      "text": "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
       "published_at": "2026-08-18T04:39:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive'",
-      "published_at": "2026-08-18T04:37:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - China has one good reason for its credit slump",
-      "published_at": "2026-08-18T04:28:00+00:00"
     }
   ]
 }
