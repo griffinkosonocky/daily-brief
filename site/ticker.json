@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-18T13:04:00+00:00",
+  "updated_at": "2026-08-18T13:53:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Beyond marathons and backflips, China's robots face a commercial test",
+      "published_at": "2026-08-18T13:16:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US advisory body says China's data dominance gives it AI advantage",
+      "published_at": "2026-08-18T13:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Why investing in AI alone won’t make companies more resilient",
+      "published_at": "2026-08-18T13:04:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "published_at": "2026-08-18T12:51:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli airstrikes hit Syrian airbase, US envoy concerned over escalation",
+      "published_at": "2026-08-18T12:42:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
+      "published_at": "2026-08-18T12:37:26+00:00"
+    },
     {
       "source": "BBC",
       "text": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -18,13 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-      "published_at": "2026-08-18T11:53:44+00:00"
+      "text": "How US military funding propelled China’s robot dogs",
+      "published_at": "2026-08-18T11:58:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Insight: How US military funding propelled China’s robot dogs",
-      "published_at": "2026-08-18T11:42:41+00:00"
+      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+      "published_at": "2026-08-18T11:53:44+00:00"
     },
     {
       "source": "Reuters",
@@ -38,43 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T11:30:35+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Breakingviews - Europe is underpricing its sweltering future",
       "published_at": "2026-08-18T11:06:02+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "published_at": "2026-08-18T10:59:22+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Breakingviews - The great bond tailwind for stocks is over",
-      "published_at": "2026-08-18T10:59:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "published_at": "2026-08-18T10:47:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says",
-      "published_at": "2026-08-18T10:44:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Yields give way",
-      "published_at": "2026-08-18T10:37:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The grueling fight over who profits from AI music",
-      "published_at": "2026-08-18T10:30:00+00:00"
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T11:01:49+00:00"
     }
   ]
 }
