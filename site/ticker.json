@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T10:41:20+00:00",
+  "updated_at": "2026-08-18T10:55:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "published_at": "2026-08-18T10:47:16+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: Yields give way",
@@ -50,11 +55,6 @@
       "source": "Reuters",
       "text": "India considers limited duty-free sugar imports to ease record prices, sources say",
       "published_at": "2026-08-18T09:44:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's first blue bond draw nears as issuers line up, bankers say",
-      "published_at": "2026-08-18T09:41:43+00:00"
     },
     {
       "source": "NPR",

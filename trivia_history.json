@@ -358,5 +358,11 @@
     "sport": "Sports",
     "question": "Which team won 2014 FIFA World Cup in Brazil?",
     "answer": "Germany"
+  },
+  {
+    "date": "2026-08-18",
+    "sport": "Sports",
+    "question": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+    "answer": "Ole Gunnar Solskjær"
   }
 ]
