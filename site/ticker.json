@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-18T15:41:51+00:00",
+  "updated_at": "2026-08-18T16:44:46+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "published_at": "2026-08-18T16:26:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "published_at": "2026-08-18T16:22:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How US military funding propelled China’s robot dogs",
+      "published_at": "2026-08-18T16:13:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus",
+      "published_at": "2026-08-18T16:06:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "published_at": "2026-08-18T16:00:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta trial that could reshape Facebook, Instagram gets underway",
+      "published_at": "2026-08-18T15:59:55+00:00"
+    },
     {
       "source": "NPR",
       "text": "S. Korea stresses US alliance amid confusion over Trump drill cut",
@@ -8,8 +38,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares",
-      "published_at": "2026-08-18T14:41:53+00:00"
+      "text": "South African rand flat as pressure on currency persists",
+      "published_at": "2026-08-18T15:07:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global bond markets put governments on notice over fiscal, inflation risks",
+      "published_at": "2026-08-18T14:56:26+00:00"
     },
     {
       "source": "Reuters",
@@ -23,8 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "China surprises oil markets again with a return to stockpiling in July",
-      "published_at": "2026-08-18T14:18:53+00:00"
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T14:01:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vieira takes charge of Senegal national team",
+      "published_at": "2026-08-18T13:50:55+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "Brazil's President Lula hails oil discovery near Amazon river",
       "published_at": "2026-08-18T13:13:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - The great bond tailwind for stocks is over",
-      "published_at": "2026-08-18T13:11:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US advisory body says China's data dominance gives it AI advantage",
-      "published_at": "2026-08-18T13:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Plunging private foreign demand could fan US bond rout flames",
-      "published_at": "2026-08-18T13:04:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "published_at": "2026-08-18T12:51:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
-      "published_at": "2026-08-18T12:37:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-      "published_at": "2026-08-18T12:37:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "published_at": "2026-08-18T12:36:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
-      "published_at": "2026-08-18T12:16:15+00:00"
     }
   ]
 }
