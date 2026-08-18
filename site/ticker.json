@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T13:53:33+00:00",
+  "updated_at": "2026-08-18T14:47:15+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T13:26:02+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Beyond marathons and backflips, China's robots face a commercial test",
@@ -13,23 +18,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Why investing in AI alone won’t make companies more resilient",
-      "published_at": "2026-08-18T13:04:17+00:00"
+      "text": "Plunging private foreign demand could fan US bond rout flames",
+      "published_at": "2026-08-18T13:04:31+00:00"
     },
     {
       "source": "Reuters",
       "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "published_at": "2026-08-18T12:51:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli airstrikes hit Syrian airbase, US envoy concerned over escalation",
-      "published_at": "2026-08-18T12:42:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
-      "published_at": "2026-08-18T12:37:26+00:00"
     },
     {
       "source": "BBC",
@@ -40,6 +35,11 @@
       "source": "Reuters",
       "text": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
       "published_at": "2026-08-18T12:16:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK will continue to support Ukraine '100%', PM Burnham says",
+      "published_at": "2026-08-18T12:13:07+00:00"
     },
     {
       "source": "BBC",
@@ -58,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Meta faces 29-state trial that could reshape Instagram and Facebook",
+      "published_at": "2026-08-18T11:49:55+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "WHO says Congo Ebola outbreak can still be brought under control within three months",
       "published_at": "2026-08-18T11:42:37+00:00"
     },
@@ -67,14 +72,9 @@
       "published_at": "2026-08-18T11:40:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Breakingviews - Europe is underpricing its sweltering future",
-      "published_at": "2026-08-18T11:06:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T11:01:49+00:00"
+      "source": "BBC",
+      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "published_at": "2026-08-18T10:59:22+00:00"
     }
   ]
 }
