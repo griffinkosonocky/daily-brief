@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-08-18T14:47:15+00:00",
+  "updated_at": "2026-08-18T15:41:51+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "published_at": "2026-08-18T15:19:40+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T13:26:02+00:00"
+      "text": "Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares",
+      "published_at": "2026-08-18T14:41:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says no talks are taking place with Iran and none are scheduled",
+      "published_at": "2026-08-18T14:39:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU sees Iceland vote as potential boost for enlargement optics",
+      "published_at": "2026-08-18T14:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China surprises oil markets again with a return to stockpiling in July",
+      "published_at": "2026-08-18T14:18:53+00:00"
     },
     {
       "source": "Reuters",
       "text": "Beyond marathons and backflips, China's robots face a commercial test",
       "published_at": "2026-08-18T13:16:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Brazil's President Lula hails oil discovery near Amazon river",
+      "published_at": "2026-08-18T13:13:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - The great bond tailwind for stocks is over",
+      "published_at": "2026-08-18T13:11:16+00:00"
     },
     {
       "source": "Reuters",
@@ -27,6 +57,16 @@
       "published_at": "2026-08-18T12:51:34+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response",
+      "published_at": "2026-08-18T12:37:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+      "published_at": "2026-08-18T12:37:05+00:00"
+    },
+    {
       "source": "BBC",
       "text": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "published_at": "2026-08-18T12:36:11+00:00"
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
       "published_at": "2026-08-18T12:16:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK will continue to support Ukraine '100%', PM Burnham says",
-      "published_at": "2026-08-18T12:13:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "published_at": "2026-08-18T12:04:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How US military funding propelled China’s robot dogs",
-      "published_at": "2026-08-18T11:58:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-      "published_at": "2026-08-18T11:53:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta faces 29-state trial that could reshape Instagram and Facebook",
-      "published_at": "2026-08-18T11:49:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says Congo Ebola outbreak can still be brought under control within three months",
-      "published_at": "2026-08-18T11:42:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "published_at": "2026-08-18T11:40:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "published_at": "2026-08-18T10:59:22+00:00"
     }
   ]
 }
