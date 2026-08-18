@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-18T20:35:28+00:00",
+  "updated_at": "2026-08-18T21:34:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Bonds slam stocks - reuters.com",
+      "published_at": "2026-08-18T21:06:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "published_at": "2026-08-18T20:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rodri ends glittering Man City spell with move to Barca - reuters.com",
+      "published_at": "2026-08-18T20:43:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "published_at": "2026-08-18T20:39:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's pipeline ambitions hinge on uncertain output expansion - reuters.com",
+      "published_at": "2026-08-18T20:31:07+00:00"
+    },
     {
       "source": "BBC",
       "text": "Man in Chucky-style mask terrorises Philadelphia residents",
       "published_at": "2026-08-18T20:27:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar range-bound as markets price dovish Fed response - reuters.com",
+      "published_at": "2026-08-18T20:24:26+00:00"
     },
     {
       "source": "BBC",
@@ -15,6 +45,11 @@
       "source": "NPR",
       "text": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
       "published_at": "2026-08-18T20:04:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "DOJ unseals new charges against 17 hackers in Iran-backed campaign - reuters.com",
+      "published_at": "2026-08-18T19:58:10+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus",
+      "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus - reuters.com",
       "published_at": "2026-08-18T19:42:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "What made Congo's Ebola outbreak so deadly and quick to spread?",
+      "text": "What made Congo's Ebola outbreak so deadly and quick to spread? - reuters.com",
       "published_at": "2026-08-18T19:40:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail - reuters.com",
       "published_at": "2026-08-18T19:31:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta targeted children to boost Facebook and Instagram use, lawyer says as landmark trial begins",
-      "published_at": "2026-08-18T19:20:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US sanctions International Criminal Court president, senior lawyer",
-      "published_at": "2026-08-18T19:14:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Anthropic’s deceleration has some IPO upside",
-      "published_at": "2026-08-18T19:08:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global bond markets put governments on notice over fiscal, inflation risks",
-      "published_at": "2026-08-18T19:01:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "published_at": "2026-08-18T17:54:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Vibe coding is a low-key threat to software firms",
-      "published_at": "2026-08-18T17:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
-      "published_at": "2026-08-18T17:43:40+00:00"
     }
   ]
 }
