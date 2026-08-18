@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-18T17:37:41+00:00",
+  "updated_at": "2026-08-18T18:52:46+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Breakingviews - Anthropic’s deceleration has some IPO upside",
+      "published_at": "2026-08-18T18:34:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US sanctions International Criminal Court president, senior lawyer",
+      "published_at": "2026-08-18T17:57:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "published_at": "2026-08-18T17:54:46+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Breakingviews - Vibe coding is a low-key threat to software firms",
-      "published_at": "2026-08-18T17:17:53+00:00"
+      "published_at": "2026-08-18T17:53:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US announces new sanctions on top ICC figures",
+      "published_at": "2026-08-18T17:40:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+      "published_at": "2026-08-18T17:39:29+00:00"
     },
     {
       "source": "Reuters",
@@ -13,13 +38,18 @@
     },
     {
       "source": "BBC",
-      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "published_at": "2026-08-18T17:00:29+00:00"
+      "text": "Earthquake rocks Spain's historic Granada, injuring three",
+      "published_at": "2026-08-18T17:15:39+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UAE says Iran launched two missiles at it",
-      "published_at": "2026-08-18T16:52:10+00:00"
+      "text": "Rights groups accuse FIFA of silencing dissent after COO Lamour's exit",
+      "published_at": "2026-08-18T17:07:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "published_at": "2026-08-18T17:00:29+00:00"
     },
     {
       "source": "BBC",
@@ -38,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "At least 25 killed in attack on Nigeria's Plateau amid reprisal fears",
-      "published_at": "2026-08-18T16:14:47+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "How US military funding propelled China’s robot dogs",
       "published_at": "2026-08-18T16:13:58+00:00"
     },
@@ -50,31 +75,6 @@
       "source": "Reuters",
       "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus",
       "published_at": "2026-08-18T16:06:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "published_at": "2026-08-18T16:00:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airbus targets A350F maiden flight in September, sources say",
-      "published_at": "2026-08-18T15:45:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "published_at": "2026-08-18T15:19:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation",
-      "published_at": "2026-08-18T15:18:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African rand flat as pressure on currency persists",
-      "published_at": "2026-08-18T15:07:40+00:00"
     }
   ]
 }
