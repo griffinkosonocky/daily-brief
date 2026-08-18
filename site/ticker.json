@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-18T16:44:46+00:00",
+  "updated_at": "2026-08-18T17:37:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Vibe coding is a low-key threat to software firms",
+      "published_at": "2026-08-18T17:17:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T17:16:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "published_at": "2026-08-18T17:00:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UAE says Iran launched two missiles at it",
+      "published_at": "2026-08-18T16:52:10+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
@@ -10,6 +30,16 @@
       "source": "BBC",
       "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
       "published_at": "2026-08-18T16:22:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta trial that could reshape Facebook, Instagram gets underway",
+      "published_at": "2026-08-18T16:19:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 25 killed in attack on Nigeria's Plateau amid reprisal fears",
+      "published_at": "2026-08-18T16:14:47+00:00"
     },
     {
       "source": "Reuters",
@@ -28,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Meta trial that could reshape Facebook, Instagram gets underway",
-      "published_at": "2026-08-18T15:59:55+00:00"
+      "text": "Airbus targets A350F maiden flight in September, sources say",
+      "published_at": "2026-08-18T15:45:25+00:00"
     },
     {
       "source": "NPR",
@@ -38,43 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation",
+      "published_at": "2026-08-18T15:18:14+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "South African rand flat as pressure on currency persists",
       "published_at": "2026-08-18T15:07:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global bond markets put governments on notice over fiscal, inflation risks",
-      "published_at": "2026-08-18T14:56:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says no talks are taking place with Iran and none are scheduled",
-      "published_at": "2026-08-18T14:39:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU sees Iceland vote as potential boost for enlargement optics",
-      "published_at": "2026-08-18T14:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T14:01:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vieira takes charge of Senegal national team",
-      "published_at": "2026-08-18T13:50:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Beyond marathons and backflips, China's robots face a commercial test",
-      "published_at": "2026-08-18T13:16:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Brazil's President Lula hails oil discovery near Amazon river",
-      "published_at": "2026-08-18T13:13:54+00:00"
     }
   ]
 }
