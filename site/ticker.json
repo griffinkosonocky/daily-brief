@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-18T05:39:57+00:00",
+  "updated_at": "2026-08-18T06:59:50+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "published_at": "2026-08-18T06:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia chief hits out at Qatar over pushback on letter attacking Infantino",
+      "published_at": "2026-08-18T06:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T06:14:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China eases Iran war aluminium shock, but at a cost",
+      "published_at": "2026-08-18T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil market starts pricing in a prolonged Hormuz crisis",
+      "published_at": "2026-08-18T06:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "published_at": "2026-08-18T05:56:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "published_at": "2026-08-18T05:51:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China forecasts strongest El Nino event as sea temperatures rise",
+      "published_at": "2026-08-18T05:46:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -22,9 +62,9 @@
       "published_at": "2026-08-18T05:00:04+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia warns UK over supplying drones to Ukraine",
-      "published_at": "2026-08-18T04:59:25+00:00"
+      "source": "Reuters",
+      "text": "Temasek-backed Milky Mist jumps about 30% in India debut, hits $1.5 billion valuation",
+      "published_at": "2026-08-18T04:39:00+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - China has one good reason for its credit slump",
       "published_at": "2026-08-18T04:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say",
-      "published_at": "2026-08-18T03:36:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - BHP's rich-seams pitch gets more convincing",
-      "published_at": "2026-08-18T02:58:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires",
-      "published_at": "2026-08-18T02:21:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds",
-      "published_at": "2026-08-18T01:51:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China lowers flags, tightens security for former premier Zhu Rongji's funeral",
-      "published_at": "2026-08-18T01:39:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T01:28:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
-      "published_at": "2026-08-18T01:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China surprises oil markets again with a return to stockpiling in July",
-      "published_at": "2026-08-18T01:14:24+00:00"
     }
   ]
 }
