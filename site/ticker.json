@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-18T04:46:46+00:00",
+  "updated_at": "2026-08-18T05:39:57+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "published_at": "2026-08-18T05:24:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What it's like to be on a warship like the USS Abraham Lincoln",
+      "published_at": "2026-08-18T05:07:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside secret police warehouse as Germany targets small boats gangs",
+      "published_at": "2026-08-18T05:02:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "published_at": "2026-08-18T05:00:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia warns UK over supplying drones to Ukraine",
+      "published_at": "2026-08-18T04:59:25+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive'",
@@ -27,13 +52,8 @@
       "published_at": "2026-08-18T02:21:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "published_at": "2026-08-18T02:06:04+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+      "text": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds",
       "published_at": "2026-08-18T01:51:00+00:00"
     },
     {
@@ -42,9 +62,9 @@
       "published_at": "2026-08-18T01:39:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia warns UK over supplying drones to Ukraine",
-      "published_at": "2026-08-18T01:16:41+00:00"
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T01:28:48+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "China surprises oil markets again with a return to stockpiling in July",
       "published_at": "2026-08-18T01:14:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold extends gains on easing rate-hike fears, markets await Fed minutes",
-      "published_at": "2026-08-18T01:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia's EQT Holdings gets $468 million takeover proposal from TPG Global",
-      "published_at": "2026-08-18T00:56:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Colombia's president pegs early quake losses at $9.6 billion",
-      "published_at": "2026-08-18T00:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cargill workers vote to end dispute at US beef plant idled since April",
-      "published_at": "2026-08-17T23:52:41+00:00"
     }
   ]
 }
