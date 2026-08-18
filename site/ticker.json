@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-18T07:48:52+00:00",
+  "updated_at": "2026-08-18T08:50:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "published_at": "2026-08-18T08:44:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-18T08:41:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "published_at": "2026-08-18T08:07:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Selling grips bond markets from US to Japan as inflation, fiscal worries take hold",
+      "published_at": "2026-08-18T07:51:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambia's president wins second term with 60% of the vote",
+      "published_at": "2026-08-18T07:46:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian student leader ends hunger strike after 16 days",
+      "published_at": "2026-08-18T07:27:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's easing steel output reflects divergent demand drivers",
+      "published_at": "2026-08-18T07:20:56+00:00"
+    },
     {
       "source": "Reuters",
       "text": "South African rand pressured as Middle East conflict dampens risk appetite",
@@ -23,22 +58,12 @@
     },
     {
       "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-18T06:01:23+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Oil market starts pricing in a prolonged Hormuz crisis",
       "published_at": "2026-08-18T06:00:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "China eases Iran war aluminium shock, but at a cost",
-      "published_at": "2026-08-18T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Even as market clouds clear, AI investment anxiety still gnaws",
       "published_at": "2026-08-18T06:00:00+00:00"
     },
     {
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
       "published_at": "2026-08-18T05:51:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "published_at": "2026-08-18T05:24:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What it's like to be on a warship like the USS Abraham Lincoln",
-      "published_at": "2026-08-18T05:07:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Inside secret police warehouse as Germany targets small boats gangs",
-      "published_at": "2026-08-18T05:02:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "published_at": "2026-08-18T05:00:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Temasek-backed Milky Mist jumps 30% in India debut, hits $1.5 billion valuation",
-      "published_at": "2026-08-18T04:39:00+00:00"
     }
   ]
 }
