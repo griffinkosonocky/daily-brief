@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-08-19T16:42:47+00:00",
+  "updated_at": "2026-08-19T17:36:06+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T17:23:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "published_at": "2026-08-19T17:16:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Retail giant Target receives $1bn boost from tariff refunds",
+      "published_at": "2026-08-19T17:07:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
+      "published_at": "2026-08-19T17:03:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump taps White House adviser Overton to lead FDA",
+      "published_at": "2026-08-19T17:03:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Washington and AI debt deluge is rinsing consumers",
+      "published_at": "2026-08-19T17:00:51+00:00"
+    },
     {
       "source": "BBC",
       "text": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
       "published_at": "2026-08-19T16:31:48+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "published_at": "2026-08-19T16:30:55+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Landslide at gold-mining site in Central African Republic kills over 100, mining group says",
-      "published_at": "2026-08-19T16:26:43+00:00"
+      "text": "Balogun furore risks eroding faith in officiating, say Webb and Masters",
+      "published_at": "2026-08-19T16:29:26+00:00"
     },
     {
       "source": "Reuters",
@@ -28,18 +63,8 @@
     },
     {
       "source": "BBC",
-      "text": "Israel opens up tenders for controversial West Bank settlement project",
-      "published_at": "2026-08-19T15:50:22+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "published_at": "2026-08-19T15:47:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Man City's Reijnders joins Saudi club Al Qadsiah",
-      "published_at": "2026-08-19T15:43:43+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "This high-speed star is whipping around the black hole in the middle of our galaxy",
       "published_at": "2026-08-19T15:38:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "published_at": "2026-08-19T15:33:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
-      "published_at": "2026-08-19T15:22:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-      "published_at": "2026-08-19T15:12:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump administration can target Ethiopians for deportation",
-      "published_at": "2026-08-19T15:11:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "published_at": "2026-08-19T15:01:57+00:00"
     }
   ]
 }
