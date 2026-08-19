@@ -1,24 +1,44 @@
 {
-  "updated_at": "2026-08-19T07:01:05+00:00",
+  "updated_at": "2026-08-19T07:49:41+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T07:14:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+      "published_at": "2026-08-19T06:57:51+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Japan says US sanctions on ICC, President Akane 'very unfortunate'",
+      "text": "Japan says US sanctions on ICC, President Akane 'very unfortunate' - reuters.com",
       "published_at": "2026-08-19T06:44:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China seen holding loan rates steady in August despite economic weakness",
+      "text": "China seen holding loan rates steady in August despite economic weakness - reuters.com",
       "published_at": "2026-08-19T06:15:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Three midweek thoughts — dodging AI, uber bulls and intervention flub",
+      "text": "Swiss voters look set to reject proposal to change neutrality, poll shows - reuters.com",
+      "published_at": "2026-08-19T06:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Insight: As Europe bakes, momentum grows for climate-resilient farming - reuters.com",
+      "published_at": "2026-08-19T06:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Three midweek thoughts — dodging AI, uber bulls and intervention flub - reuters.com",
       "published_at": "2026-08-19T06:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "The little reactors that could? How SMRs became nuclear's best bet",
+      "text": "The little reactors that could? How SMRs became nuclear's best bet - reuters.com",
       "published_at": "2026-08-19T06:00:00+00:00"
     },
     {
@@ -28,13 +48,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Palestinians inspect aftermath of deadly Israeli strike",
-      "published_at": "2026-08-19T05:47:15+00:00"
+      "text": "KKR to buy 6% stake in India's BookMyShow for up to $50 million, source says - reuters.com",
+      "published_at": "2026-08-19T05:21:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Charles Schwab to scale India tech centre workforce to 2,000 by 2027, source says",
+      "text": "Charles Schwab to scale India centre workforce to 2,000 by 2027 - reuters.com",
       "published_at": "2026-08-19T05:16:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thai teen found in suitcase died from suffocation, police reveal",
+      "published_at": "2026-08-19T05:04:27+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
       "published_at": "2026-08-19T04:55:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T04:44:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - China's AI laggard could soon be its leader",
-      "published_at": "2026-08-19T04:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's easing steel output reflects divergent demand drivers",
-      "published_at": "2026-08-19T04:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Nobody knows how to price China IPOs anymore",
-      "published_at": "2026-08-19T04:40:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Dancing robots, dumping bonds",
-      "published_at": "2026-08-19T04:33:00+00:00"
     }
   ]
 }
