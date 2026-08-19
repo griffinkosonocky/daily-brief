@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-19T10:41:09+00:00",
+  "updated_at": "2026-08-19T10:55:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T10:49:25+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
@@ -10,6 +15,11 @@
       "source": "Reuters",
       "text": "Kyrgios provisionally suspended after testing positive for cocaine",
       "published_at": "2026-08-19T10:16:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistani government files challenge against Imran Khan private hospital move",
+      "published_at": "2026-08-19T10:16:10+00:00"
     },
     {
       "source": "BBC",
@@ -44,12 +54,7 @@
     {
       "source": "Reuters",
       "text": "China robot makers flock to Beijing show, seek path to mass adoption",
-      "published_at": "2026-08-19T09:19:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T09:02:08+00:00"
+      "published_at": "2026-08-19T09:23:32+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "NPR",
       "text": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
       "published_at": "2026-08-19T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "published_at": "2026-08-19T08:25:03+00:00"
     }
   ]
 }
