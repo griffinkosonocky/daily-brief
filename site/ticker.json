@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-19T08:50:25+00:00",
+  "updated_at": "2026-08-19T09:45:05+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
-      "published_at": "2026-08-19T08:25:03+00:00"
+      "source": "NPR",
+      "text": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+      "published_at": "2026-08-19T09:29:40+00:00"
     },
     {
       "source": "Reuters",
       "text": "China robot makers flock to Beijing show, seek path to mass adoption",
-      "published_at": "2026-08-19T08:04:19+00:00"
+      "published_at": "2026-08-19T09:19:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kyrgios provisionally suspended after testing positive for cocaine",
+      "published_at": "2026-08-19T09:09:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T09:02:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Feeling restless? Level up your life by starting a side quest",
+      "published_at": "2026-08-19T09:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+      "published_at": "2026-08-19T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+      "published_at": "2026-08-19T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
+      "published_at": "2026-08-19T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "published_at": "2026-08-19T08:25:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Chery Automobile to set up UK research centre",
+      "published_at": "2026-08-19T08:07:44+00:00"
     },
     {
       "source": "NPR",
@@ -22,59 +62,19 @@
       "published_at": "2026-08-19T07:25:45+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "published_at": "2026-08-19T07:21:51+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "China completes first stage of work at disputed South China Sea reef, images show",
       "published_at": "2026-08-19T07:19:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T07:14:50+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
       "published_at": "2026-08-19T06:57:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan criticises U.S. over 'unfortunate' sanctions on ICC",
-      "published_at": "2026-08-19T06:44:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China seen holding loan rates steady in August despite economic weakness",
-      "published_at": "2026-08-19T06:15:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insight: As Europe bakes, momentum grows for climate-resilient farming",
-      "published_at": "2026-08-19T06:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three midweek thoughts — dodging AI, uber bulls and intervention flub",
-      "published_at": "2026-08-19T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The little reactors that could? How SMRs became nuclear's best bet",
-      "published_at": "2026-08-19T06:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South Korea shortens war games with US, citing Washington request",
-      "published_at": "2026-08-19T05:53:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "KKR to buy 6% stake in India's BookMyShow for up to $50 million, source says",
-      "published_at": "2026-08-19T05:21:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
-      "published_at": "2026-08-19T05:16:00+00:00"
     }
   ]
 }
