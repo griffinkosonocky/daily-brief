@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-19T17:36:06+00:00",
+  "updated_at": "2026-08-19T18:49:34+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "published_at": "2026-08-19T18:43:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "published_at": "2026-08-19T18:26:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+      "published_at": "2026-08-19T18:01:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "published_at": "2026-08-19T17:47:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea shortens war games with US, citing Washington request",
+      "published_at": "2026-08-19T17:39:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Moderna $30 bln gain implies many cancer successes",
+      "published_at": "2026-08-19T17:39:08+00:00"
+    },
     {
       "source": "BBC",
       "text": "Sacked Ukrainian defence minister calls for presidential election",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Balogun furore risks eroding faith in officiating, say Webb and Masters",
       "published_at": "2026-08-19T16:29:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Moderna $30 bln gain implies many cancer successes",
-      "published_at": "2026-08-19T16:24:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why does the U.S. military seem stymied in the war with Iran?",
-      "published_at": "2026-08-19T16:18:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two detained after French influencer's scorched body found in vineyard",
-      "published_at": "2026-08-19T16:04:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "published_at": "2026-08-19T15:47:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Jellyfish mesmerise in their own museum in Florida",
-      "published_at": "2026-08-19T15:39:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-      "published_at": "2026-08-19T15:38:57+00:00"
     }
   ]
 }
