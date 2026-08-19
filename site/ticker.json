@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-19T13:04:58+00:00",
+  "updated_at": "2026-08-19T13:54:45+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "published_at": "2026-08-19T13:53:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's Qalibaf visits assassination site of Soleimani in Baghdad",
+      "published_at": "2026-08-19T13:46:49+00:00"
+    },
     {
       "source": "BBC",
       "text": "Six tourists and pilot killed in Kenya helicopter crash",
@@ -8,13 +18,13 @@
     },
     {
       "source": "BBC",
-      "text": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "published_at": "2026-08-19T12:41:46+00:00"
+      "text": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "published_at": "2026-08-19T12:47:53+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Sheffield United's ex-owners winds up company which bought club",
-      "published_at": "2026-08-19T12:36:56+00:00"
+      "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
+      "published_at": "2026-08-19T12:43:13+00:00"
     },
     {
       "source": "BBC",
@@ -47,6 +57,11 @@
       "published_at": "2026-08-19T11:00:21+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Skoda CEO says VW aims to finalise India partner this year to share risk, drive growth",
+      "published_at": "2026-08-19T10:55:44+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Liberia agrees to accept 1,200 foreign deportees from the US",
       "published_at": "2026-08-19T10:47:22+00:00"
@@ -58,23 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Bonds out, robots in",
-      "published_at": "2026-08-19T10:38:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
-      "published_at": "2026-08-19T10:17:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kyrgios provisionally suspended after testing positive for cocaine",
-      "published_at": "2026-08-19T10:16:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistani government files challenge against Imran Khan private hospital move",
-      "published_at": "2026-08-19T10:16:10+00:00"
+      "text": "Ukraine's parliament approves Yevhenii Khmara as new defence minister",
+      "published_at": "2026-08-19T10:41:44+00:00"
     }
   ]
 }
