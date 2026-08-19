@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-19T03:57:13+00:00",
+  "updated_at": "2026-08-19T04:47:29+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T04:44:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - China's AI laggard could soon be its leader - reuters.com",
+      "published_at": "2026-08-19T04:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Nobody knows how to price China IPOs anymore - reuters.com",
+      "published_at": "2026-08-19T04:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Dancing robots, dumping bonds - reuters.com",
+      "published_at": "2026-08-19T04:33:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -8,7 +28,17 @@
     },
     {
       "source": "Reuters",
-      "text": "Hormuz traffic slows as uncertainty over waterway persists",
+      "text": "Former Wallabies coach Cheika returns to Waratahs for 2027 - reuters.com",
+      "published_at": "2026-08-19T03:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea shortens war games with US, citing Washington request",
+      "published_at": "2026-08-19T03:39:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hormuz traffic slows as uncertainty over waterway persists - reuters.com",
       "published_at": "2026-08-19T03:39:00+00:00"
     },
     {
@@ -33,48 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Bond selloff slows but stocks wobble",
+      "text": "Bond selloff slows but stocks wobble - reuters.com",
       "published_at": "2026-08-19T02:51:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tech selloff weighs down Wall Street as bond yields climb",
+      "text": "Tech selloff weighs down Wall Street as bond yields climb - reuters.com",
       "published_at": "2026-08-19T02:33:35+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T01:31:15+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
+      "text": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited - reuters.com",
       "published_at": "2026-08-19T01:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold inches higher, focus on Fed minutes",
-      "published_at": "2026-08-19T00:59:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SK Hynix union finalising preliminary wage deal, source says",
-      "published_at": "2026-08-19T00:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "published_at": "2026-08-19T00:07:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK employers raise pay by least in 10 months, Brightmine says",
-      "published_at": "2026-08-18T23:13:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US sanctions ICC president, senior trial lawyer in latest attack on court",
-      "published_at": "2026-08-18T22:42:56+00:00"
     }
   ]
 }
