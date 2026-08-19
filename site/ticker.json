@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-19T19:34:26+00:00",
+  "updated_at": "2026-08-19T20:39:32+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "published_at": "2026-08-19T20:34:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "published_at": "2026-08-19T20:34:39+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+      "published_at": "2026-08-19T20:09:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "published_at": "2026-08-19T19:59:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+      "published_at": "2026-08-19T19:45:11+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Pakistani government files challenge against Imran Khan private hospital move",
@@ -15,11 +40,6 @@
       "source": "Reuters",
       "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
       "published_at": "2026-08-19T18:46:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "published_at": "2026-08-19T18:43:11+00:00"
     },
     {
       "source": "Reuters",
@@ -38,11 +58,6 @@
     },
     {
       "source": "BBC",
-      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "published_at": "2026-08-19T17:47:52+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
       "published_at": "2026-08-19T17:46:01+00:00"
     },
@@ -50,16 +65,6 @@
       "source": "BBC",
       "text": "South Korea shortens war games with US, citing Washington request",
       "published_at": "2026-08-19T17:39:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Moderna $30 bln gain implies many cancer successes",
-      "published_at": "2026-08-19T17:39:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T17:23:42+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Retail giant Target receives $1bn boost from tariff refunds",
       "published_at": "2026-08-19T17:07:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
-      "published_at": "2026-08-19T17:03:41+00:00"
     }
   ]
 }
