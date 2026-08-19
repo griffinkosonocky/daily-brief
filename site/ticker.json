@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-19T03:07:04+00:00",
+  "updated_at": "2026-08-19T03:57:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "published_at": "2026-08-19T03:56:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hormuz traffic slows as uncertainty over waterway persists",
+      "published_at": "2026-08-19T03:39:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five Australian rules footy players suspended amid police investigation",
+      "published_at": "2026-08-19T03:36:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "published_at": "2026-08-19T03:12:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Husband and mother-in-law charged over Indian bride's death",
+      "published_at": "2026-08-19T03:04:07+00:00"
+    },
     {
       "source": "BBC",
       "text": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
@@ -12,9 +37,9 @@
       "published_at": "2026-08-19T02:51:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "published_at": "2026-08-19T02:41:36+00:00"
+      "source": "Reuters",
+      "text": "Tech selloff weighs down Wall Street as bond yields climb",
+      "published_at": "2026-08-19T02:33:35+00:00"
     },
     {
       "source": "BBC",
@@ -43,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Climate change is driving record heat in Europe's seas, scientists say",
-      "published_at": "2026-08-18T23:18:41+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "UK employers raise pay by least in 10 months, Brightmine says",
       "published_at": "2026-08-18T23:13:15+00:00"
     },
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "US sanctions ICC president, senior trial lawyer in latest attack on court",
       "published_at": "2026-08-18T22:42:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "ZZ Top drummer Frank Beard dies aged 77",
-      "published_at": "2026-08-18T22:25:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The Indian activist jailed after taking on a luxury hotel plan",
-      "published_at": "2026-08-18T22:18:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meta hooked children on Facebook and Instagram, US court hears",
-      "published_at": "2026-08-18T22:11:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Disney, ABC sue FCC over threats to broadcast licenses",
-      "published_at": "2026-08-18T22:04:14+00:00"
     }
   ]
 }
