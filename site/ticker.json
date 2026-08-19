@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-18T23:31:50+00:00",
+  "updated_at": "2026-08-19T01:49:14+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "SK Hynix union finalising preliminary wage deal, source says",
+      "published_at": "2026-08-19T00:50:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "published_at": "2026-08-19T00:07:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Plunging private foreign demand could fan US bond rout flames: McGeever",
+      "published_at": "2026-08-18T23:30:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Climate change is driving record heat in Europe's seas, scientists say",
+      "published_at": "2026-08-18T23:18:41+00:00"
+    },
     {
       "source": "Reuters",
       "text": "UK employers raise pay by least in 10 months, Brightmine says",
@@ -8,8 +28,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Climate change is driving record heat in Europe's seas, scientists say",
-      "published_at": "2026-08-18T23:09:28+00:00"
+      "text": "Beyond marathons and backflips, China's robots face a commercial test",
+      "published_at": "2026-08-18T23:00:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US sanctions ICC president, senior trial lawyer in latest attack on court",
+      "published_at": "2026-08-18T22:42:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "ZZ Top drummer Frank Beard dies aged 77",
+      "published_at": "2026-08-18T22:25:46+00:00"
     },
     {
       "source": "BBC",
@@ -28,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
-      "published_at": "2026-08-18T21:47:57+00:00"
+      "text": "Carney and Trump speak again as tariff deadline looms",
+      "published_at": "2026-08-18T22:00:57+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
       "published_at": "2026-08-18T21:04:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "published_at": "2026-08-18T20:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rodri ends glittering Man City spell with move to Barca",
-      "published_at": "2026-08-18T20:43:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "published_at": "2026-08-18T20:39:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's pipeline ambitions hinge on uncertain output expansion",
-      "published_at": "2026-08-18T20:31:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "published_at": "2026-08-18T20:27:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar range-bound as markets price dovish Fed response",
-      "published_at": "2026-08-18T20:24:26+00:00"
     }
   ]
 }
