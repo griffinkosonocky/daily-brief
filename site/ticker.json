@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-19T13:54:45+00:00",
+  "updated_at": "2026-08-19T14:48:08+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+      "published_at": "2026-08-19T14:19:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea shortens war games with US, citing Washington request",
+      "published_at": "2026-08-19T14:16:27+00:00"
+    },
     {
       "source": "BBC",
       "text": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
@@ -10,6 +20,11 @@
       "source": "Reuters",
       "text": "Iran's Qalibaf visits assassination site of Soleimani in Baghdad",
       "published_at": "2026-08-19T13:46:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Don't blame US bond market indigestion on AI debt binge",
+      "published_at": "2026-08-19T13:03:30+00:00"
     },
     {
       "source": "BBC",
@@ -27,14 +42,14 @@
       "published_at": "2026-08-19T12:43:13+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
+      "published_at": "2026-08-19T12:32:16+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "published_at": "2026-08-19T12:25:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
-      "published_at": "2026-08-19T12:01:20+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Skoda CEO says VW aims to finalise India partner this year to share risk, drive growth",
       "published_at": "2026-08-19T10:55:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "published_at": "2026-08-19T10:47:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
-      "published_at": "2026-08-19T10:47:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's parliament approves Yevhenii Khmara as new defence minister",
-      "published_at": "2026-08-19T10:41:44+00:00"
     }
   ]
 }
