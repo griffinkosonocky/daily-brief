@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-19T10:55:26+00:00",
+  "updated_at": "2026-08-19T11:35:08+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+      "published_at": "2026-08-19T11:14:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Europe’s data centre crown is France’s to lose",
+      "published_at": "2026-08-19T11:04:41+00:00"
+    },
     {
       "source": "BBC",
       "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "published_at": "2026-08-19T10:49:25+00:00"
+      "published_at": "2026-08-19T11:00:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "published_at": "2026-08-19T10:47:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Hyrox's popularity soars, fitness-racing hybrid chases Olympic dream",
+      "published_at": "2026-08-19T10:41:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Bonds out, robots in",
+      "published_at": "2026-08-19T10:38:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Springboks braced for breakdown battle against old foes New Zealand",
+      "published_at": "2026-08-19T10:34:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Villa bolster squad with arrivals of Suzuki and Ruggeri",
+      "published_at": "2026-08-19T10:31:44+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "US charges 17 Iranians over 'massive' cyber theft campaign",
       "published_at": "2026-08-19T09:48:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "published_at": "2026-08-19T09:29:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan criticises US over 'unfortunate' sanctions on ICC",
-      "published_at": "2026-08-19T09:27:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China robot makers flock to Beijing show, seek path to mass adoption",
-      "published_at": "2026-08-19T09:23:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Feeling restless? Level up your life by starting a side quest",
-      "published_at": "2026-08-19T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-      "published_at": "2026-08-19T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
-      "published_at": "2026-08-19T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-      "published_at": "2026-08-19T09:00:00+00:00"
     }
   ]
 }
