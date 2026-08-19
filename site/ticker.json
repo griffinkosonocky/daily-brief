@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-19T09:45:05+00:00",
+  "updated_at": "2026-08-19T10:41:09+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
+      "published_at": "2026-08-19T10:17:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kyrgios provisionally suspended after testing positive for cocaine",
+      "published_at": "2026-08-19T10:16:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Apparent human remains found in US reservoir as water levels hit record low",
+      "published_at": "2026-08-19T10:10:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How India's blocking of a film exposing real-life police abuses backfired",
+      "published_at": "2026-08-19T10:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Striking hospital employees sound alarm over workplace violence",
+      "published_at": "2026-08-19T10:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "published_at": "2026-08-19T09:48:16+00:00"
+    },
     {
       "source": "NPR",
       "text": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
@@ -8,13 +38,13 @@
     },
     {
       "source": "Reuters",
-      "text": "China robot makers flock to Beijing show, seek path to mass adoption",
-      "published_at": "2026-08-19T09:19:47+00:00"
+      "text": "Japan criticises US over 'unfortunate' sanctions on ICC",
+      "published_at": "2026-08-19T09:27:31+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Kyrgios provisionally suspended after testing positive for cocaine",
-      "published_at": "2026-08-19T09:09:22+00:00"
+      "text": "China robot makers flock to Beijing show, seek path to mass adoption",
+      "published_at": "2026-08-19T09:19:47+00:00"
     },
     {
       "source": "BBC",
@@ -28,11 +58,6 @@
     },
     {
       "source": "NPR",
-      "text": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-      "published_at": "2026-08-19T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
       "published_at": "2026-08-19T09:00:00+00:00"
     },
@@ -42,39 +67,14 @@
       "published_at": "2026-08-19T09:00:00+00:00"
     },
     {
+      "source": "NPR",
+      "text": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+      "published_at": "2026-08-19T09:00:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
       "published_at": "2026-08-19T08:25:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Chery Automobile to set up UK research centre",
-      "published_at": "2026-08-19T08:07:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-      "published_at": "2026-08-19T07:51:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian steel mills face margin squeeze as global coking coal prices rise",
-      "published_at": "2026-08-19T07:25:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "published_at": "2026-08-19T07:21:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China completes first stage of work at disputed South China Sea reef, images show",
-      "published_at": "2026-08-19T07:19:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
-      "published_at": "2026-08-19T06:57:51+00:00"
     }
   ]
 }
