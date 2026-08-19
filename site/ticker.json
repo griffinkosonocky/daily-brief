@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-19T07:49:41+00:00",
+  "updated_at": "2026-08-19T08:50:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+      "published_at": "2026-08-19T08:25:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China robot makers flock to Beijing show, seek path to mass adoption",
+      "published_at": "2026-08-19T08:04:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+      "published_at": "2026-08-19T07:51:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian steel mills face margin squeeze as global coking coal prices rise",
+      "published_at": "2026-08-19T07:25:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China completes first stage of work at disputed South China Sea reef, images show",
+      "published_at": "2026-08-19T07:19:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Sacked Ukrainian defence minister calls for presidential election",
@@ -13,32 +38,27 @@
     },
     {
       "source": "Reuters",
-      "text": "Japan says US sanctions on ICC, President Akane 'very unfortunate' - reuters.com",
+      "text": "Japan criticises U.S. over 'unfortunate' sanctions on ICC",
       "published_at": "2026-08-19T06:44:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China seen holding loan rates steady in August despite economic weakness - reuters.com",
+      "text": "China seen holding loan rates steady in August despite economic weakness",
       "published_at": "2026-08-19T06:15:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Swiss voters look set to reject proposal to change neutrality, poll shows - reuters.com",
-      "published_at": "2026-08-19T06:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Insight: As Europe bakes, momentum grows for climate-resilient farming - reuters.com",
+      "text": "Insight: As Europe bakes, momentum grows for climate-resilient farming",
       "published_at": "2026-08-19T06:02:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Three midweek thoughts — dodging AI, uber bulls and intervention flub - reuters.com",
+      "text": "Three midweek thoughts — dodging AI, uber bulls and intervention flub",
       "published_at": "2026-08-19T06:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "The little reactors that could? How SMRs became nuclear's best bet - reuters.com",
+      "text": "The little reactors that could? How SMRs became nuclear's best bet",
       "published_at": "2026-08-19T06:00:00+00:00"
     },
     {
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "KKR to buy 6% stake in India's BookMyShow for up to $50 million, source says - reuters.com",
+      "text": "KKR to buy 6% stake in India's BookMyShow for up to $50 million, source says",
       "published_at": "2026-08-19T05:21:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Charles Schwab to scale India centre workforce to 2,000 by 2027 - reuters.com",
+      "text": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
       "published_at": "2026-08-19T05:16:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thai teen found in suitcase died from suffocation, police reveal",
-      "published_at": "2026-08-19T05:04:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Families' agonising search for answers as thousands still missing in Gaza",
-      "published_at": "2026-08-19T05:04:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "published_at": "2026-08-19T05:00:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-      "published_at": "2026-08-19T04:55:08+00:00"
     }
   ]
 }
