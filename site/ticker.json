@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-19T18:49:34+00:00",
+  "updated_at": "2026-08-19T19:34:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Pakistani government files challenge against Imran Khan private hospital move",
+      "published_at": "2026-08-19T19:17:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Who is Natalie Harp, Trump's right-hand woman?",
+      "published_at": "2026-08-19T19:02:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
+      "published_at": "2026-08-19T18:46:10+00:00"
+    },
     {
       "source": "BBC",
       "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "published_at": "2026-08-19T18:43:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump taps White House adviser Overton to lead FDA",
+      "published_at": "2026-08-19T18:31:11+00:00"
     },
     {
       "source": "BBC",
@@ -20,6 +40,11 @@
       "source": "BBC",
       "text": "Canada and US say they are finalising a trade deal, but details remain murky",
       "published_at": "2026-08-19T17:47:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "published_at": "2026-08-19T17:46:01+00:00"
     },
     {
       "source": "BBC",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
       "published_at": "2026-08-19T17:03:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump taps White House adviser Overton to lead FDA",
-      "published_at": "2026-08-19T17:03:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Washington and AI debt deluge is rinsing consumers",
-      "published_at": "2026-08-19T17:00:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "published_at": "2026-08-19T16:31:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy's trial puts postpartum psychosis on the map",
-      "published_at": "2026-08-19T16:30:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Balogun furore risks eroding faith in officiating, say Webb and Masters",
-      "published_at": "2026-08-19T16:29:26+00:00"
     }
   ]
 }
