@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-20T19:39:37+00:00",
+  "updated_at": "2026-08-20T20:40:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Dozens dead after boat capsizes in north-western Nigeria",
+      "published_at": "2026-08-20T20:27:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "published_at": "2026-08-20T20:08:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "published_at": "2026-08-20T20:00:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "published_at": "2026-08-20T19:54:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "published_at": "2026-08-20T19:52:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crypto shares climb after Treasury's doubled buybacks boost risk assets",
+      "published_at": "2026-08-20T19:31:44+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Vox cuts jobs in first restructuring since James Murdoch's takeover, source says",
@@ -13,13 +43,23 @@
     },
     {
       "source": "BBC",
-      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "published_at": "2026-08-20T19:19:20+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "published_at": "2026-08-20T18:55:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
+      "published_at": "2026-08-20T18:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources",
+      "published_at": "2026-08-20T18:44:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN candidate Baki vows focus on conflict prevention, UN renewal",
+      "published_at": "2026-08-20T18:29:56+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources",
-      "published_at": "2026-08-20T18:14:45+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
       "published_at": "2026-08-20T18:04:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "published_at": "2026-08-20T17:14:55+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Cameroon president returns home after 10-week absence",
-      "published_at": "2026-08-20T17:08:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Como mayor bans 'beasts' in city centre after being hit by bike",
-      "published_at": "2026-08-20T16:53:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Three things to know about the $40 trillion federal debt",
-      "published_at": "2026-08-20T16:50:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "published_at": "2026-08-20T16:49:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - The US pioneers Operation Twist and Shout",
-      "published_at": "2026-08-20T16:34:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Togo charges two French journalists over incorrect documents, rights group says",
-      "published_at": "2026-08-20T16:00:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Crypto shares climb after Treasury's doubled buybacks boost risk assets",
-      "published_at": "2026-08-20T15:26:52+00:00"
+      "text": "Nvidia to ship AI chip for China by year-end, The Information reports",
+      "published_at": "2026-08-20T17:34:02+00:00"
     }
   ]
 }
