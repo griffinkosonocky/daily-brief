@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-20T04:48:08+00:00",
+  "updated_at": "2026-08-20T05:41:21+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "published_at": "2026-08-20T05:25:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "published_at": "2026-08-20T05:10:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "published_at": "2026-08-20T05:07:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "published_at": "2026-08-20T05:01:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "published_at": "2026-08-20T04:49:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - HKEX diversification drive has a focus problem",
+      "published_at": "2026-08-20T04:43:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: How long can this Bessent put last?",
@@ -18,7 +48,7 @@
     },
     {
       "source": "Reuters",
-      "text": "China Evergrande founder sentenced to life imprisonment, CCTV reports",
+      "text": "China Evergrande founder sentenced to life in prison",
       "published_at": "2026-08-20T04:15:00+00:00"
     },
     {
@@ -27,19 +57,9 @@
       "published_at": "2026-08-20T03:22:57+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "published_at": "2026-08-20T03:16:22+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Australia's Rugby Sevens squads to move to Brisbane ahead of 2032 Games",
       "published_at": "2026-08-20T03:16:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "published_at": "2026-08-20T03:12:07+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Giant whales move into Greenland waters as ice disappears",
       "published_at": "2026-08-20T02:05:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bonds steady after US Treasury comes to the rescue",
-      "published_at": "2026-08-20T01:25:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fortescue hopes for swift return to normal China trade conditions",
-      "published_at": "2026-08-20T01:14:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "published_at": "2026-08-20T00:53:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
-      "published_at": "2026-08-20T00:53:00+00:00"
     }
   ]
 }
