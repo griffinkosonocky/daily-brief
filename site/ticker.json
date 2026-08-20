@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-20T16:47:24+00:00",
+  "updated_at": "2026-08-20T17:39:50+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "published_at": "2026-08-20T17:14:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "U.S. targets Hezbollah with fresh sanctions, emphasizes ties to Iranian government",
+      "published_at": "2026-08-20T17:13:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia to ship AI chip for China by year-end, The Information reports",
+      "published_at": "2026-08-20T17:10:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
+      "published_at": "2026-08-20T16:57:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "published_at": "2026-08-20T16:53:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Three things to know about the $40 trillion federal debt",
+      "published_at": "2026-08-20T16:50:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "published_at": "2026-08-20T16:49:11+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Breakingviews - The US pioneers Operation Twist and Shout",
       "published_at": "2026-08-20T16:24:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India allows duty-free imports of 1 million metric tons of raw sugar",
+      "published_at": "2026-08-20T16:03:20+00:00"
     },
     {
       "source": "BBC",
@@ -12,69 +52,29 @@
       "published_at": "2026-08-20T16:00:27+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Trump threatens to isolate Iran. Who are its trading partners?",
+      "published_at": "2026-08-20T15:54:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crypto shares climb after Treasury's doubled buybacks boost risk assets",
+      "published_at": "2026-08-20T15:26:52+00:00"
+    },
+    {
       "source": "NPR",
       "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
       "published_at": "2026-08-20T15:18:21+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US unemployment claims dipped last week, showing stability in job market",
+      "published_at": "2026-08-20T15:14:10+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Landslide at unlicensed Colombian gold mine kills 13",
       "published_at": "2026-08-20T15:07:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Google deal gets Marvell only so far to $1 trln",
-      "published_at": "2026-08-20T15:03:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
-      "published_at": "2026-08-20T14:52:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kazakhstan to hold snap election expected to tighten president's control",
-      "published_at": "2026-08-20T14:44:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Crypto shares climb after Trump advocates for Clarity Act",
-      "published_at": "2026-08-20T14:21:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Athletics unveils lane draft, jump-offs for new Ultimate Championship",
-      "published_at": "2026-08-20T14:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say",
-      "published_at": "2026-08-20T14:19:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia",
-      "published_at": "2026-08-20T14:12:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall St slips on rising bond yields; Walmart results weigh",
-      "published_at": "2026-08-20T14:04:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Barca bring back Cancelo for third spell on deal until 2029",
-      "published_at": "2026-08-20T14:01:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T13:56:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Walmart reports rare sales miss as consumers cut spending, shares fall",
-      "published_at": "2026-08-20T13:36:36+00:00"
     }
   ]
 }
