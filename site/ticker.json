@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-20T14:49:27+00:00",
+  "updated_at": "2026-08-20T15:45:09+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "published_at": "2026-08-20T15:18:21+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "At least 13 workers killed in landslide at Colombian gold mine",
-      "published_at": "2026-08-20T14:34:15+00:00"
+      "text": "Togo charges two French journalists over incorrect documents, rights group says",
+      "published_at": "2026-08-20T15:16:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Landslide at unlicensed Colombian gold mine kills 13",
+      "published_at": "2026-08-20T15:07:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Google deal gets Marvell only so far to $1 trln",
+      "published_at": "2026-08-20T15:03:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
+      "published_at": "2026-08-20T14:55:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
+      "published_at": "2026-08-20T14:52:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kazakhstan to hold snap election expected to tighten president's control",
+      "published_at": "2026-08-20T14:44:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia mine collapse kills 13",
+      "published_at": "2026-08-20T14:39:15+00:00"
     },
     {
       "source": "Reuters",
@@ -13,8 +48,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Crypto shares climb after Trump advocates for Clarity Act",
+      "published_at": "2026-08-20T14:21:22+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say",
       "published_at": "2026-08-20T14:19:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia",
+      "published_at": "2026-08-20T14:12:26+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "published_at": "2026-08-20T13:56:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Walmart reports rare sales miss as consumers cut spending, shares fall",
-      "published_at": "2026-08-20T13:36:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India allows duty-free imports of sugar",
-      "published_at": "2026-08-20T13:25:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former world champion Simpson diagnosed with rare heart condition",
-      "published_at": "2026-08-20T13:17:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US designates American held by China as wrongfully detained",
-      "published_at": "2026-08-20T13:14:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
-      "published_at": "2026-08-20T13:12:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "published_at": "2026-08-20T13:04:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK statistics office revises up 2023 and 2024 growth estimates",
-      "published_at": "2026-08-20T13:01:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Assad officer extradited to Syria on war crimes charges for first time",
-      "published_at": "2026-08-20T12:38:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bangladesh elects ruling party veteran Alamgir as president",
-      "published_at": "2026-08-20T12:35:09+00:00"
     }
   ]
 }
