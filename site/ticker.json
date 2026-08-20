@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-19T23:32:36+00:00",
+  "updated_at": "2026-08-20T01:47:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Bonds steady after US Treasury comes to the rescue",
+      "published_at": "2026-08-20T01:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fortescue hopes for swift return to normal China trade conditions",
+      "published_at": "2026-08-20T01:14:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "published_at": "2026-08-20T01:02:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "published_at": "2026-08-20T00:53:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "published_at": "2026-08-20T00:48:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "published_at": "2026-08-20T00:18:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Don't blame US bond market indigestion on AI debt binge: McGeever",
+      "published_at": "2026-08-19T23:31:33+00:00"
+    },
     {
       "source": "NPR",
       "text": "California passes toughest wildfire rules in the U.S. for home landscaping",
@@ -10,11 +45,6 @@
       "source": "BBC",
       "text": "Who is Natalie Harp, Trump's right-hand woman?",
       "published_at": "2026-08-19T23:11:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "published_at": "2026-08-19T22:55:37+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
       "published_at": "2026-08-19T20:25:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-      "published_at": "2026-08-19T20:09:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump the builder carves his legacy in stone as pressures mount",
-      "published_at": "2026-08-19T20:06:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump picks White House ally Overton to lead embattled FDA",
-      "published_at": "2026-08-19T20:05:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Monte dei Paschi board to discuss takeover defence options on Thursday",
-      "published_at": "2026-08-19T19:59:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "published_at": "2026-08-19T19:59:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-      "published_at": "2026-08-19T19:45:11+00:00"
     }
   ]
 }
