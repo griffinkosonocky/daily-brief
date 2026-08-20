@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-20T03:56:43+00:00",
+  "updated_at": "2026-08-20T04:48:08+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: How long can this Bessent put last?",
+      "published_at": "2026-08-20T04:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+      "published_at": "2026-08-20T04:18:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "published_at": "2026-08-20T04:17:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China Evergrande founder sentenced to life imprisonment, CCTV reports",
+      "published_at": "2026-08-20T04:15:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Dollar hugs three-month lows as Treasury seeks to sooth the bond market",
+      "text": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
       "published_at": "2026-08-20T00:53:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Don't blame US bond market indigestion on AI debt binge: McGeever",
-      "published_at": "2026-08-19T23:31:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "California passes toughest wildfire rules in the U.S. for home landscaping",
-      "published_at": "2026-08-19T23:19:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Who is Natalie Harp, Trump's right-hand woman?",
-      "published_at": "2026-08-19T23:11:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China drove global electric truck, bus sales above half a million in 2025",
-      "published_at": "2026-08-19T22:05:02+00:00"
     }
   ]
 }
