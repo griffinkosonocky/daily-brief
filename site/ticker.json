@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-20T07:01:55+00:00",
+  "updated_at": "2026-08-20T07:51:56+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T06:44:20+00:00"
+      "text": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "published_at": "2026-08-20T07:37:55+00:00"
     },
     {
       "source": "BBC",
       "text": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "published_at": "2026-08-20T06:39:14+00:00"
+      "published_at": "2026-08-20T07:33:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "published_at": "2026-08-20T07:31:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African rand flat as investors mull US Treasury move",
+      "published_at": "2026-08-20T07:28:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
+      "published_at": "2026-08-20T07:10:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "published_at": "2026-08-20T07:08:35+00:00"
     },
     {
       "source": "Reuters",
@@ -25,6 +45,11 @@
       "source": "BBC",
       "text": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "published_at": "2026-08-20T06:08:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four workers dead after being hit by train in Japan",
+      "published_at": "2026-08-20T06:02:10+00:00"
     },
     {
       "source": "Reuters",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: How long can this Bessent put last?",
-      "published_at": "2026-08-20T04:32:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
-      "published_at": "2026-08-20T04:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "published_at": "2026-08-20T04:17:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China Evergrande founder sentenced to life in prison",
-      "published_at": "2026-08-20T04:15:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli warns Turkey against 'dangerous adventures' in Syria; Syria says no Turkish build-up planned",
-      "published_at": "2026-08-20T03:24:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump vows tougher economic measures on Iran and supporting countries",
-      "published_at": "2026-08-20T03:22:57+00:00"
+      "text": "Breakingviews - HKEX diversification drive has a focus problem",
+      "published_at": "2026-08-20T04:43:00+00:00"
     }
   ]
 }
