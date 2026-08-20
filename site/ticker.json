@@ -1,20 +1,35 @@
 {
-  "updated_at": "2026-08-20T20:40:25+00:00",
+  "updated_at": "2026-08-20T21:38:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "published_at": "2026-08-20T20:51:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Fishermen rescued after five days adrift in cool box",
+      "published_at": "2026-08-20T20:41:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "published_at": "2026-08-20T20:40:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "Dozens dead after boat capsizes in north-western Nigeria",
       "published_at": "2026-08-20T20:27:36+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Nvidia denies report it is rolling out China AI chip by year-end",
+      "published_at": "2026-08-20T20:16:35+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "published_at": "2026-08-20T20:08:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-      "published_at": "2026-08-20T20:00:57+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "UN candidate Baki vows focus on conflict prevention, UN renewal",
       "published_at": "2026-08-20T18:29:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
-      "published_at": "2026-08-20T18:20:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
-      "published_at": "2026-08-20T18:04:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia to ship AI chip for China by year-end, The Information reports",
-      "published_at": "2026-08-20T17:34:02+00:00"
     }
   ]
 }
