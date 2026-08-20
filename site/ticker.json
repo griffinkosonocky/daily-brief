@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-08-20T15:45:09+00:00",
+  "updated_at": "2026-08-20T16:47:24+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "published_at": "2026-08-20T15:18:21+00:00"
+      "source": "Reuters",
+      "text": "Breakingviews - The US pioneers Operation Twist and Shout",
+      "published_at": "2026-08-20T16:24:28+00:00"
     },
     {
       "source": "BBC",
       "text": "Togo charges two French journalists over incorrect documents, rights group says",
-      "published_at": "2026-08-20T15:16:44+00:00"
+      "published_at": "2026-08-20T16:00:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "published_at": "2026-08-20T15:18:21+00:00"
     },
     {
       "source": "BBC",
@@ -23,11 +28,6 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
-      "published_at": "2026-08-20T14:55:24+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
       "published_at": "2026-08-20T14:52:34+00:00"
     },
@@ -38,18 +38,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Colombia mine collapse kills 13",
-      "published_at": "2026-08-20T14:39:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says",
-      "published_at": "2026-08-20T14:21:47+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Crypto shares climb after Trump advocates for Clarity Act",
       "published_at": "2026-08-20T14:21:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Athletics unveils lane draft, jump-offs for new Ultimate Championship",
+      "published_at": "2026-08-20T14:19:43+00:00"
     },
     {
       "source": "Reuters",
@@ -75,6 +70,11 @@
       "source": "BBC",
       "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "published_at": "2026-08-20T13:56:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Walmart reports rare sales miss as consumers cut spending, shares fall",
+      "published_at": "2026-08-20T13:36:36+00:00"
     }
   ]
 }
