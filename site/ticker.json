@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-20T18:55:17+00:00",
+  "updated_at": "2026-08-20T19:39:37+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Vox cuts jobs in first restructuring since James Murdoch's takeover, source says",
+      "published_at": "2026-08-20T19:27:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+      "published_at": "2026-08-20T19:22:20+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Bessent urges US partners to back plans to 'squash' Iran economy",
-      "published_at": "2026-08-20T18:40:46+00:00"
+      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "published_at": "2026-08-20T19:19:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "published_at": "2026-08-20T18:55:14+00:00"
     },
     {
       "source": "Reuters",
@@ -52,29 +67,14 @@
       "published_at": "2026-08-20T16:34:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "India allows duty-free imports of 1 million metric tons of raw sugar",
-      "published_at": "2026-08-20T16:03:20+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Togo charges two French journalists over incorrect documents, rights group says",
       "published_at": "2026-08-20T16:00:27+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
-      "published_at": "2026-08-20T15:55:21+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Crypto shares climb after Treasury's doubled buybacks boost risk assets",
       "published_at": "2026-08-20T15:26:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "published_at": "2026-08-20T15:18:21+00:00"
     }
   ]
 }
