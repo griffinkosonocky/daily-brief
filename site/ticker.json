@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-20T17:39:50+00:00",
+  "updated_at": "2026-08-20T18:55:17+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "published_at": "2026-08-20T18:40:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
+      "published_at": "2026-08-20T18:20:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources",
+      "published_at": "2026-08-20T18:14:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
+      "published_at": "2026-08-20T18:04:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
@@ -8,18 +28,8 @@
     },
     {
       "source": "Reuters",
-      "text": "U.S. targets Hezbollah with fresh sanctions, emphasizes ties to Iranian government",
-      "published_at": "2026-08-20T17:13:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia to ship AI chip for China by year-end, The Information reports",
-      "published_at": "2026-08-20T17:10:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
-      "published_at": "2026-08-20T16:57:25+00:00"
+      "text": "Cameroon president returns home after 10-week absence",
+      "published_at": "2026-08-20T17:08:41+00:00"
     },
     {
       "source": "BBC",
@@ -39,7 +49,7 @@
     {
       "source": "Reuters",
       "text": "Breakingviews - The US pioneers Operation Twist and Shout",
-      "published_at": "2026-08-20T16:24:28+00:00"
+      "published_at": "2026-08-20T16:34:25+00:00"
     },
     {
       "source": "Reuters",
@@ -53,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump threatens to isolate Iran. Who are its trading partners?",
-      "published_at": "2026-08-20T15:54:22+00:00"
+      "text": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
+      "published_at": "2026-08-20T15:55:21+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
       "published_at": "2026-08-20T15:18:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US unemployment claims dipped last week, showing stability in job market",
-      "published_at": "2026-08-20T15:14:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Landslide at unlicensed Colombian gold mine kills 13",
-      "published_at": "2026-08-20T15:07:57+00:00"
     }
   ]
 }
