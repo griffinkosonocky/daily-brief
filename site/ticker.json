@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-20T10:41:46+00:00",
+  "updated_at": "2026-08-20T10:56:57+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say",
+      "published_at": "2026-08-20T10:53:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
+      "published_at": "2026-08-20T10:46:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "published_at": "2026-08-20T10:41:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Bond yields are still relatively low",
+      "published_at": "2026-08-20T10:37:38+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "PSG heavily fancied to win sixth successive Ligue 1 title",
-      "published_at": "2026-08-20T09:15:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump vows tougher economic measures on Iran and supporting countries",
-      "published_at": "2026-08-20T09:13:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
-      "published_at": "2026-08-20T09:09:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Privacy advocates call on Maryland to investigate data brokers",
-      "published_at": "2026-08-20T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "published_at": "2026-08-20T09:00:00+00:00"
+      "text": "EXCLUSIVE: US designates American held by China as wrongfully detained",
+      "published_at": "2026-08-20T09:21:16+00:00"
     }
   ]
 }
