@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-08-20T13:07:14+00:00",
+  "updated_at": "2026-08-20T14:49:27+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "At least 13 workers killed in landslide at Colombian gold mine",
+      "published_at": "2026-08-20T14:34:15+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Ghana's mineworkers demand release of $34.5 million in trapped savings",
-      "published_at": "2026-08-20T12:47:43+00:00"
+      "text": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says",
+      "published_at": "2026-08-20T14:21:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say",
+      "published_at": "2026-08-20T14:19:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall St slips on rising bond yields; Walmart results weigh",
+      "published_at": "2026-08-20T14:04:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Barca bring back Cancelo for third spell on deal until 2029",
+      "published_at": "2026-08-20T14:01:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "published_at": "2026-08-20T13:56:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Walmart reports rare sales miss as consumers cut spending, shares fall",
+      "published_at": "2026-08-20T13:36:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India allows duty-free imports of sugar",
+      "published_at": "2026-08-20T13:25:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former world champion Simpson diagnosed with rare heart condition",
+      "published_at": "2026-08-20T13:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US designates American held by China as wrongfully detained",
+      "published_at": "2026-08-20T13:14:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
+      "published_at": "2026-08-20T13:12:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "published_at": "2026-08-20T13:04:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK statistics office revises up 2023 and 2024 growth estimates",
+      "published_at": "2026-08-20T13:01:58+00:00"
     },
     {
       "source": "BBC",
@@ -13,68 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Chinese companies to watch at the World Robot Conference",
-      "published_at": "2026-08-20T12:11:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say",
-      "published_at": "2026-08-20T12:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How would a vote of no confidence work to oust FIFA president Infantino?",
-      "published_at": "2026-08-20T11:42:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "published_at": "2026-08-20T11:30:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
-      "published_at": "2026-08-20T11:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Bond yields are still relatively low",
-      "published_at": "2026-08-20T11:25:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fan groups back online petition calling for Infantino's resignation, FIFA reforms",
-      "published_at": "2026-08-20T11:11:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Former Liberian vice-president charged in drug-trafficking probe",
-      "published_at": "2026-08-20T11:08:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T11:06:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
-      "published_at": "2026-08-20T10:59:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: El Niño and its effects on food supply chains",
-      "published_at": "2026-08-20T10:57:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say",
-      "published_at": "2026-08-20T10:53:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "published_at": "2026-08-20T10:41:25+00:00"
+      "text": "Bangladesh elects ruling party veteran Alamgir as president",
+      "published_at": "2026-08-20T12:35:09+00:00"
     }
   ]
 }
