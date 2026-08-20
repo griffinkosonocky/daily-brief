@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-20T03:06:40+00:00",
+  "updated_at": "2026-08-20T03:56:43+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "published_at": "2026-08-20T02:16:49+00:00"
+      "published_at": "2026-08-20T03:22:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "published_at": "2026-08-20T03:16:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia's Rugby Sevens squads to move to Brisbane ahead of 2032 Games",
+      "published_at": "2026-08-20T03:16:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "published_at": "2026-08-20T03:12:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada and US say they are finalising a trade deal",
+      "published_at": "2026-08-20T03:10:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former Liberian vice president charged in drug-trafficking probe",
+      "published_at": "2026-08-20T03:09:24+00:00"
     },
     {
       "source": "BBC",
@@ -32,16 +57,6 @@
       "published_at": "2026-08-20T00:53:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "published_at": "2026-08-20T00:48:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "published_at": "2026-08-20T00:18:01+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Don't blame US bond market indigestion on AI debt binge: McGeever",
       "published_at": "2026-08-19T23:31:33+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "China drove global electric truck, bus sales above half a million in 2025",
       "published_at": "2026-08-19T22:05:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan has few answers as bond rout puts fiscal plans at risk",
-      "published_at": "2026-08-19T22:00:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say",
-      "published_at": "2026-08-19T21:56:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "published_at": "2026-08-19T21:32:15+00:00"
     }
   ]
 }
