@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-20T07:51:56+00:00",
+  "updated_at": "2026-08-20T08:51:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
+      "published_at": "2026-08-20T08:40:55+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "published_at": "2026-08-20T07:37:55+00:00"
+      "published_at": "2026-08-20T08:39:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australian mushroom murderer Erin Patterson begins appeal",
+      "published_at": "2026-08-20T08:35:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four workers dead after being hit by train in Japan",
+      "published_at": "2026-08-20T08:14:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The trials of Evergrande, from default to founder's life sentence",
+      "published_at": "2026-08-20T08:12:48+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +40,6 @@
       "source": "Reuters",
       "text": "South African rand flat as investors mull US Treasury move",
       "published_at": "2026-08-20T07:28:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
-      "published_at": "2026-08-20T07:10:16+00:00"
     },
     {
       "source": "BBC",
@@ -47,11 +62,6 @@
       "published_at": "2026-08-20T06:08:02+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Four workers dead after being hit by train in Japan",
-      "published_at": "2026-08-20T06:02:10+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "The Iran war energy crisis is just getting started",
       "published_at": "2026-08-20T06:00:00+00:00"
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Missing teen hiker found dead in Australian bush after eight-day search",
       "published_at": "2026-08-20T05:45:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "published_at": "2026-08-20T05:01:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - HKEX diversification drive has a focus problem",
-      "published_at": "2026-08-20T04:43:00+00:00"
     }
   ]
 }
