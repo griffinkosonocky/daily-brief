@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-21T10:41:49+00:00",
+  "updated_at": "2026-08-21T10:57:35+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+      "published_at": "2026-08-21T10:48:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "published_at": "2026-08-21T10:46:09+00:00"
+    },
     {
       "source": "Reuters",
       "text": "EU closes antitrust probe into RTX's Pratt & Whitney",
@@ -48,11 +58,6 @@
     },
     {
       "source": "NPR",
-      "text": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-      "published_at": "2026-08-21T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Federal government thins the herds of wild horses in Colorado",
       "published_at": "2026-08-21T09:00:00+00:00"
     },
@@ -67,14 +72,9 @@
       "published_at": "2026-08-21T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Hyundai Motor's South Korean union stages first full strike in a decade over pay",
-      "published_at": "2026-08-21T08:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global stocks set for biggest weekly fall since mid-July as bond yields, oil stay high",
-      "published_at": "2026-08-21T08:46:16+00:00"
+      "source": "NPR",
+      "text": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+      "published_at": "2026-08-21T09:00:00+00:00"
     }
   ]
 }
