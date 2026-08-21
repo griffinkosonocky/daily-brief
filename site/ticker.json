@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-08-21T09:48:37+00:00",
+  "updated_at": "2026-08-21T10:41:49+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "EU closes antitrust probe into RTX's Pratt & Whitney",
+      "published_at": "2026-08-21T10:10:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How Tether's bitcoin mining plans in Uruguay unraveled",
+      "published_at": "2026-08-21T10:10:11+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Meghan could return to acting once back in UK",
-      "published_at": "2026-08-21T09:48:00+00:00"
+      "text": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "published_at": "2026-08-21T10:03:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "published_at": "2026-08-21T09:53:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As sustainable funds struggle, give investors a direct way to back the custodians of nature",
+      "published_at": "2026-08-21T09:53:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UBS Global Wealth Management lifts S&P 500 year-end target to 8,100",
+      "published_at": "2026-08-21T09:45:44+00:00"
     },
     {
       "source": "Reuters",
       "text": "Global equity fund inflows hit three-week high before late selloff",
       "published_at": "2026-08-21T09:23:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Airbus backs down on return-to-office after protests, sources say",
+      "published_at": "2026-08-21T09:18:13+00:00"
     },
     {
       "source": "NPR",
@@ -37,44 +67,14 @@
       "published_at": "2026-08-21T09:00:00+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-21T08:46:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the US economy is ringing alarm bells",
-      "published_at": "2026-08-21T08:38:18+00:00"
+      "source": "Reuters",
+      "text": "Hyundai Motor's South Korean union stages first full strike in a decade over pay",
+      "published_at": "2026-08-21T08:49:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian rupee futures open interest balloons on arbitrage trades, likely intervention",
-      "published_at": "2026-08-21T08:19:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India orders removal of Google Firebase accounts after spotting scam pattern",
-      "published_at": "2026-08-21T08:15:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South African rand strengthens against weaker dollar, supported by gold gains",
-      "published_at": "2026-08-21T07:54:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland 'very disappointed' after Israel drops probe into killing of Polish citizen",
-      "published_at": "2026-08-21T07:37:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Five missing after fire in Swiss Alpine town",
-      "published_at": "2026-08-21T07:06:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Panama Canal to cut number of ships passing through due to El Niño",
-      "published_at": "2026-08-21T06:46:08+00:00"
+      "text": "Global stocks set for biggest weekly fall since mid-July as bond yields, oil stay high",
+      "published_at": "2026-08-21T08:46:16+00:00"
     }
   ]
 }
