@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-08-21T22:36:08+00:00",
+  "updated_at": "2026-08-21T23:34:00+00:00",
   "headlines": [
     {
       "source": "Reuters",
       "text": "Tesla and others begin record vehicle recall in China",
-      "published_at": "2026-08-21T22:24:04+00:00"
+      "published_at": "2026-08-21T23:02:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two injured in stabbing attack at Canada Sikh temple",
+      "published_at": "2026-08-21T22:45:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: What we know about the door handles that triggered China’s record auto recall",
+      "published_at": "2026-08-21T22:24:32+00:00"
     },
     {
       "source": "Reuters",
       "text": "One killed, three injured when man attacks Swedish school with sword",
       "published_at": "2026-08-21T22:21:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Families protest in Nigeria over children abducted nearly 100 days ago",
+      "published_at": "2026-08-21T21:14:32+00:00"
     },
     {
       "source": "BBC",
@@ -25,6 +40,11 @@
       "source": "Reuters",
       "text": "Supreme Court lets Trump continue work on White House ballroom for now",
       "published_at": "2026-08-21T20:47:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Werro wins in Lausanne as Tebogo, Wanyonyi lay down markers for Budapest",
+      "published_at": "2026-08-21T20:43:43+00:00"
     },
     {
       "source": "Reuters",
@@ -48,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Airbus backs down on return-to-office after protests, sources say",
-      "published_at": "2026-08-21T19:21:28+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
       "published_at": "2026-08-21T18:56:43+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Supreme Court allows Trump's ballroom construction to continue for now",
       "published_at": "2026-08-21T18:47:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-      "published_at": "2026-08-21T18:29:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two injured in stabbing attack at Canada Sikh temple",
-      "published_at": "2026-08-21T18:27:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
-      "published_at": "2026-08-21T18:24:41+00:00"
     }
   ]
 }
