@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-21T11:35:49+00:00",
+  "updated_at": "2026-08-21T13:05:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Indian rupee futures open interest balloons on arbitrage trades, likely intervention",
+      "published_at": "2026-08-21T12:19:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China launches biggest ever auto recall campaign over door handle safety",
+      "published_at": "2026-08-21T12:15:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World rugby, UK bodies lose bid to throw out concussion lawsuits",
+      "published_at": "2026-08-21T12:02:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "published_at": "2026-08-21T11:57:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "published_at": "2026-08-21T11:42:10+00:00"
+    },
     {
       "source": "BBC",
       "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
@@ -13,13 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "CORRECTED EXCLUSIVE Chery's robot affiliate AiMOGA eyes IPO, targets overseas market",
-      "published_at": "2026-08-21T11:03:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tesla to fix software for millions of China-made, imported EVs in China",
-      "published_at": "2026-08-21T10:59:13+00:00"
+      "text": "How Tether's bitcoin mining plans in Uruguay unraveled",
+      "published_at": "2026-08-21T10:51:12+00:00"
     },
     {
       "source": "BBC",
@@ -35,11 +55,6 @@
       "source": "Reuters",
       "text": "EU closes antitrust probe into RTX's Pratt & Whitney",
       "published_at": "2026-08-21T10:10:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How Tether's bitcoin mining plans in Uruguay unraveled",
-      "published_at": "2026-08-21T10:10:11+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "As sustainable funds struggle, give investors a direct way to back the custodians of nature",
       "published_at": "2026-08-21T09:53:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UBS Global Wealth Management lifts S&P 500 year-end target to 8,100",
-      "published_at": "2026-08-21T09:45:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global equity fund inflows hit three-week high before late selloff",
-      "published_at": "2026-08-21T09:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa's Cell C reports higher annual profit as prepaid revenue grows, debt falls",
-      "published_at": "2026-08-21T09:11:43+00:00"
     }
   ]
 }
