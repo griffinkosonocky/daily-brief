@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-21T14:48:49+00:00",
+  "updated_at": "2026-08-21T15:44:06+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Several injured after sword attack at Swedish school",
+      "published_at": "2026-08-21T15:42:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysia's JDT go unbeaten for world record 109th league match",
+      "published_at": "2026-08-21T15:32:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Official creditors back Ethiopia bond restructuring, flag risks in warrant",
+      "published_at": "2026-08-21T15:23:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Arsenal bolster defence with Konsa signing from Villa",
+      "published_at": "2026-08-21T15:19:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
+      "published_at": "2026-08-21T15:04:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Appeals court upholds block on DOJ subpoenas to NY AG James' office",
+      "published_at": "2026-08-21T14:53:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chinese flash-memory chipmaker YMTC parent targets $4.9 billion in Shanghai IPO",
+      "published_at": "2026-08-21T14:53:06+00:00"
+    },
     {
       "source": "BBC",
       "text": "Corruption charges dropped against South Africa's police intelligence boss",
@@ -12,9 +47,9 @@
       "published_at": "2026-08-21T14:35:50+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Several injured after sword attack at Swedish school",
-      "published_at": "2026-08-21T14:32:18+00:00"
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+      "published_at": "2026-08-21T14:33:33+00:00"
     },
     {
       "source": "BBC",
@@ -37,44 +72,9 @@
       "published_at": "2026-08-21T13:32:28+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
-      "published_at": "2026-08-21T13:29:31+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Five missing after fire in Swiss Alpine town",
       "published_at": "2026-08-21T13:10:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "published_at": "2026-08-21T13:07:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World rugby, UK bodies lose bid to throw out concussion lawsuits",
-      "published_at": "2026-08-21T12:34:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's forex pile rises to six-month peak on sustained capital inflows",
-      "published_at": "2026-08-21T12:07:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "published_at": "2026-08-21T11:57:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-      "published_at": "2026-08-21T11:42:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-      "published_at": "2026-08-21T11:25:10+00:00"
     }
   ]
 }
