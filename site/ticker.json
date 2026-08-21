@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-21T04:50:09+00:00",
+  "updated_at": "2026-08-21T05:44:16+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "MPS launches all-share offers for Banco BPM, Banca Generali",
+      "published_at": "2026-08-21T05:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "published_at": "2026-08-21T05:30:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Tata structure shortchanges its investor-charities",
+      "published_at": "2026-08-21T05:18:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: So much for the Bessent bid",
@@ -12,14 +27,29 @@
       "published_at": "2026-08-21T04:27:13+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "India's Tata Motors PV to raise car prices from September as cost pressures bite",
+      "published_at": "2026-08-21T03:32:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Hong Kong's Tiananmen activists guilty in national security trial",
       "published_at": "2026-08-21T02:59:46+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "China pledges timely fiscal support to bolster growth",
+      "published_at": "2026-08-21T02:54:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Japan executes man who killed five in Pachinko parlour fire",
       "published_at": "2026-08-21T02:49:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ships passing through Hormuz hover in single digits, data shows",
+      "published_at": "2026-08-21T02:43:00+00:00"
     },
     {
       "source": "BBC",
@@ -32,6 +62,11 @@
       "published_at": "2026-08-21T02:31:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Australia investigates fourth close call at Sydney airport in less than a month",
+      "published_at": "2026-08-21T02:30:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "US sanctions more Cuban companies and officials",
       "published_at": "2026-08-21T02:06:28+00:00"
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Asia shares downbeat on the week as bond yields, oil stay high",
       "published_at": "2026-08-21T01:23:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "El Niño set to be 'strongest in living memory', says Met Office",
-      "published_at": "2026-08-21T00:33:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-      "published_at": "2026-08-21T00:04:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US says it will impose 'toughest sanctions in history' on Iran",
-      "published_at": "2026-08-20T23:59:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why Nigeria's one-time political giant may face extinction",
-      "published_at": "2026-08-20T23:21:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "published_at": "2026-08-20T23:16:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the US economy is ringing alarm bells",
-      "published_at": "2026-08-20T23:15:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China, Indonesia ministers meet on Friday, to discuss security and economic issues",
-      "published_at": "2026-08-20T23:03:45+00:00"
     }
   ]
 }
