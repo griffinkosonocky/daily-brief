@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-21T19:33:02+00:00",
+  "updated_at": "2026-08-21T20:35:58+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "published_at": "2026-08-21T19:49:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Supreme Court lets Trump continue work on White House ballroom for now",
+      "published_at": "2026-08-21T19:38:58+00:00"
+    },
     {
       "source": "Reuters",
       "text": "One killed, three injured when man attacks Swedish school with sword",
@@ -12,9 +22,9 @@
       "published_at": "2026-08-21T19:22:05+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "published_at": "2026-08-21T18:51:43+00:00"
+      "source": "Reuters",
+      "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
+      "published_at": "2026-08-21T18:56:43+00:00"
     },
     {
       "source": "NPR",
@@ -25,6 +35,11 @@
       "source": "BBC",
       "text": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
       "published_at": "2026-08-21T18:29:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexican governor accused by US of cartel ties returns to office",
+      "published_at": "2026-08-21T18:27:48+00:00"
     },
     {
       "source": "BBC",
@@ -43,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-      "published_at": "2026-08-21T17:06:55+00:00"
+      "text": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions",
+      "published_at": "2026-08-21T17:49:33+00:00"
     },
     {
       "source": "Reuters",
@@ -52,29 +67,14 @@
       "published_at": "2026-08-21T17:01:46+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "NATO members discuss Strait of Hormuz options without alliance involvement",
+      "published_at": "2026-08-21T16:51:52+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
       "published_at": "2026-08-21T16:40:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case",
-      "published_at": "2026-08-21T16:33:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "published_at": "2026-08-21T16:26:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Appeals court upholds block on US Justice Department subpoenas to NY AG James' office",
-      "published_at": "2026-08-21T16:23:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "published_at": "2026-08-21T16:20:55+00:00"
     }
   ]
 }
