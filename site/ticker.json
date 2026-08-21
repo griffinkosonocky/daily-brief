@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-21T03:12:26+00:00",
+  "updated_at": "2026-08-21T04:50:09+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: So much for the Bessent bid",
+      "published_at": "2026-08-21T04:31:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "published_at": "2026-08-21T04:27:13+00:00"
+    },
     {
       "source": "BBC",
       "text": "Hong Kong's Tiananmen activists guilty in national security trial",
       "published_at": "2026-08-21T02:59:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Japan executes man who killed five in Pachinko parlour fire",
+      "published_at": "2026-08-21T02:49:27+00:00"
     },
     {
       "source": "BBC",
@@ -15,11 +30,6 @@
       "source": "Reuters",
       "text": "Samsung Elec to convene board meeting Friday to discuss shareholder return plan, says source",
       "published_at": "2026-08-21T02:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia investigates fourth close call at Sydney airport in less than a month",
-      "published_at": "2026-08-21T02:30:00+00:00"
     },
     {
       "source": "BBC",
@@ -35,6 +45,11 @@
       "source": "BBC",
       "text": "El Niño set to be 'strongest in living memory', says Met Office",
       "published_at": "2026-08-21T00:33:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
+      "published_at": "2026-08-21T00:04:10+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "China, Indonesia ministers meet on Friday, to discuss security and economic issues",
       "published_at": "2026-08-20T23:03:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say",
-      "published_at": "2026-08-20T23:00:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "published_at": "2026-08-20T22:43:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Delta, Aeromexico win US court battle to keep joint venture",
-      "published_at": "2026-08-20T22:41:06+00:00"
     }
   ]
 }
