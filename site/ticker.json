@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-21T13:56:01+00:00",
+  "updated_at": "2026-08-21T14:48:49+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Corruption charges dropped against South Africa's police intelligence boss",
+      "published_at": "2026-08-21T14:38:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tornadoes touch down in New York and Delaware",
+      "published_at": "2026-08-21T14:35:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Several injured after sword attack at Swedish school",
+      "published_at": "2026-08-21T14:32:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
+      "published_at": "2026-08-21T14:23:22+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "US service sector fuels acceleration in business activity, S&P Global says",
-      "published_at": "2026-08-21T13:49:44+00:00"
+      "text": "Tesla and others begin record vehicle recall in China",
+      "published_at": "2026-08-21T13:58:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "published_at": "2026-08-21T13:44:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Priyanka Chopra Jonas on making a film about love and caste inequality",
+      "published_at": "2026-08-21T13:32:28+00:00"
     },
     {
       "source": "Reuters",
@@ -28,16 +58,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive",
-      "published_at": "2026-08-21T12:27:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China launches biggest ever auto recall campaign over door handle safety",
-      "published_at": "2026-08-21T12:15:59+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "India's forex pile rises to six-month peak on sustained capital inflows",
       "published_at": "2026-08-21T12:07:44+00:00"
     },
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
       "published_at": "2026-08-21T11:25:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How Tether's bitcoin mining plans in Uruguay unraveled",
-      "published_at": "2026-08-21T10:51:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "published_at": "2026-08-21T10:48:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "published_at": "2026-08-21T10:46:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU closes antitrust probe into RTX's Pratt & Whitney",
-      "published_at": "2026-08-21T10:10:20+00:00"
     }
   ]
 }
