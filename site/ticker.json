@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-21T07:53:07+00:00",
+  "updated_at": "2026-08-21T08:53:39+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-21T08:46:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why the US economy is ringing alarm bells",
+      "published_at": "2026-08-21T08:38:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India orders removal of Google Firebase accounts after spotting scam pattern",
+      "published_at": "2026-08-21T08:15:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South African rand strengthens against weaker dollar, supported by gold gains",
+      "published_at": "2026-08-21T07:54:22+00:00"
+    },
     {
       "source": "BBC",
       "text": "El Niño set to be 'strongest in living memory', says Met Office",
       "published_at": "2026-08-21T07:43:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Poland 'very disappointed' after Israel drops probe into killing of Polish citizen",
+      "published_at": "2026-08-21T07:37:44+00:00"
     },
     {
       "source": "Reuters",
@@ -33,48 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Website of India's IndiGo blocks some bookings in week's second disruption",
+      "text": "UK posts unexpected budget deficit in July as spending rises",
+      "published_at": "2026-08-21T06:29:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British retail sales slip in July after World Cup boost",
+      "published_at": "2026-08-21T06:16:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's IndiGo website experiences booking problems for second time this week",
       "published_at": "2026-08-21T06:09:00+00:00"
     },
     {
       "source": "NPR",
       "text": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
       "published_at": "2026-08-21T05:49:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "published_at": "2026-08-21T05:47:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-      "published_at": "2026-08-21T05:41:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "MPS launches all-share offers for Banco BPM, Banca Generali",
-      "published_at": "2026-08-21T05:32:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "published_at": "2026-08-21T05:30:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Tata structure shortchanges its investor-charities",
-      "published_at": "2026-08-21T05:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "published_at": "2026-08-21T05:00:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: So much for the Bessent bid",
-      "published_at": "2026-08-21T04:31:00+00:00"
     }
   ]
 }
