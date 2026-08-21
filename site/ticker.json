@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-21T21:34:58+00:00",
+  "updated_at": "2026-08-21T22:36:08+00:00",
   "headlines": [
     {
       "source": "Reuters",
       "text": "Tesla and others begin record vehicle recall in China",
-      "published_at": "2026-08-21T21:29:31+00:00"
+      "published_at": "2026-08-21T22:24:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One killed, three injured when man attacks Swedish school with sword",
+      "published_at": "2026-08-21T22:21:44+00:00"
     },
     {
       "source": "BBC",
@@ -13,18 +18,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Mexican governor accused by US of cartel ties returns to office",
+      "published_at": "2026-08-21T20:55:40+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Supreme Court lets Trump continue work on White House ballroom for now",
       "published_at": "2026-08-21T20:47:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
-      "published_at": "2026-08-21T20:20:25+00:00"
+      "text": "Mexico expects trade outcomes similar to emerging US-Canada deal",
+      "published_at": "2026-08-21T20:40:56+00:00"
     },
     {
       "source": "Reuters",
-      "text": "One killed, three injured when man attacks Swedish school with sword",
-      "published_at": "2026-08-21T20:05:49+00:00"
+      "text": "Trump to temporarily ease US beef tariffs, irking cattle producers",
+      "published_at": "2026-08-21T19:54:26+00:00"
     },
     {
       "source": "BBC",
@@ -62,19 +72,9 @@
       "published_at": "2026-08-21T18:27:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "published_at": "2026-08-21T18:09:38+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Migrants flown to Equatorial Guinea after resisting Liberia deportation under Trump deal, sources say",
-      "published_at": "2026-08-21T17:59:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "published_at": "2026-08-21T16:40:59+00:00"
+      "text": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
+      "published_at": "2026-08-21T18:24:41+00:00"
     }
   ]
 }
