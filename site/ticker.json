@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-21T05:44:16+00:00",
+  "updated_at": "2026-08-21T07:03:06+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Panama Canal to cut number of ships passing through due to El Niño",
+      "published_at": "2026-08-21T06:46:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+      "published_at": "2026-08-21T06:41:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Survival mode': Indiana residents endure a ninth day without power",
+      "published_at": "2026-08-21T06:40:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Website of India's IndiGo blocks some bookings in week's second disruption",
+      "published_at": "2026-08-21T06:09:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+      "published_at": "2026-08-21T05:49:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "published_at": "2026-08-21T05:47:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+      "published_at": "2026-08-21T05:41:15+00:00"
+    },
     {
       "source": "Reuters",
       "text": "MPS launches all-share offers for Banco BPM, Banca Generali",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Myanmar military offensive targets land for Russia-backed port project",
+      "published_at": "2026-08-21T04:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "India's Tata Motors PV to raise car prices from September as cost pressures bite",
       "published_at": "2026-08-21T03:32:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "published_at": "2026-08-21T02:59:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China pledges timely fiscal support to bolster growth",
-      "published_at": "2026-08-21T02:54:00+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Japan executes man who killed five in Pachinko parlour fire",
       "published_at": "2026-08-21T02:49:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ships passing through Hormuz hover in single digits, data shows",
-      "published_at": "2026-08-21T02:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "published_at": "2026-08-21T02:33:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Samsung Elec to convene board meeting Friday to discuss shareholder return plan, says source",
-      "published_at": "2026-08-21T02:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia investigates fourth close call at Sydney airport in less than a month",
-      "published_at": "2026-08-21T02:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US sanctions more Cuban companies and officials",
-      "published_at": "2026-08-21T02:06:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asia shares downbeat on the week as bond yields, oil stay high",
-      "published_at": "2026-08-21T01:23:00+00:00"
     }
   ]
 }
