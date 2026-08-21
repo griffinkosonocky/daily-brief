@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-21T18:51:34+00:00",
+  "updated_at": "2026-08-21T19:33:02+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "One killed, three injured when man attacks Swedish school with sword",
+      "published_at": "2026-08-21T19:26:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "One killed in sword attack at Swedish school",
+      "published_at": "2026-08-21T19:22:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "published_at": "2026-08-21T18:51:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court allows Trump's ballroom construction to continue for now",
+      "published_at": "2026-08-21T18:47:48+00:00"
+    },
     {
       "source": "BBC",
       "text": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
@@ -13,16 +33,6 @@
     },
     {
       "source": "BBC",
-      "text": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
-      "published_at": "2026-08-21T18:23:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German state politician calls for EU tariffs on Chinese hybrid cars, letter shows",
-      "published_at": "2026-08-21T18:09:44+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
       "published_at": "2026-08-21T18:09:38+00:00"
     },
@@ -30,16 +40,6 @@
       "source": "Reuters",
       "text": "Migrants flown to Equatorial Guinea after resisting Liberia deportation under Trump deal, sources say",
       "published_at": "2026-08-21T17:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions",
-      "published_at": "2026-08-21T17:49:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Man armed with sword injures several people at Swedish high school",
-      "published_at": "2026-08-21T17:25:27+00:00"
     },
     {
       "source": "Reuters",
@@ -63,11 +63,6 @@
     },
     {
       "source": "BBC",
-      "text": "Two teenagers seriously injured after sword attack at Swedish school",
-      "published_at": "2026-08-21T16:32:37+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
       "published_at": "2026-08-21T16:26:53+00:00"
     },
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Appeals court upholds block on US Justice Department subpoenas to NY AG James' office",
       "published_at": "2026-08-21T16:23:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+      "published_at": "2026-08-21T16:20:55+00:00"
     }
   ]
 }
