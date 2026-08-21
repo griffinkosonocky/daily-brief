@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-21T13:05:54+00:00",
+  "updated_at": "2026-08-21T13:56:01+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Indian rupee futures open interest balloons on arbitrage trades, likely intervention",
-      "published_at": "2026-08-21T12:19:47+00:00"
+      "text": "US service sector fuels acceleration in business activity, S&P Global says",
+      "published_at": "2026-08-21T13:49:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+      "published_at": "2026-08-21T13:29:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five missing after fire in Swiss Alpine town",
+      "published_at": "2026-08-21T13:10:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "published_at": "2026-08-21T13:07:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World rugby, UK bodies lose bid to throw out concussion lawsuits",
+      "published_at": "2026-08-21T12:34:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global stocks set for biggest weekly fall since mid-July, dollar on the defensive",
+      "published_at": "2026-08-21T12:27:09+00:00"
     },
     {
       "source": "Reuters",
@@ -13,8 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "World rugby, UK bodies lose bid to throw out concussion lawsuits",
-      "published_at": "2026-08-21T12:02:01+00:00"
+      "text": "India's forex pile rises to six-month peak on sustained capital inflows",
+      "published_at": "2026-08-21T12:07:44+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +50,6 @@
       "source": "NPR",
       "text": "Top Iran official says US focus on economic warfare shows it has failed militarily",
       "published_at": "2026-08-21T11:42:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "published_at": "2026-08-21T11:31:51+00:00"
     },
     {
       "source": "NPR",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "EU closes antitrust probe into RTX's Pratt & Whitney",
       "published_at": "2026-08-21T10:10:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - ZIM’s shipping boom softens deal shipwreck",
-      "published_at": "2026-08-21T10:03:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "published_at": "2026-08-21T10:03:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "published_at": "2026-08-21T09:53:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As sustainable funds struggle, give investors a direct way to back the custodians of nature",
-      "published_at": "2026-08-21T09:53:26+00:00"
     }
   ]
 }
