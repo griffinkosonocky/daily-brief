@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-21T08:53:39+00:00",
+  "updated_at": "2026-08-21T09:48:37+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Meghan could return to acting once back in UK",
+      "published_at": "2026-08-21T09:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global equity fund inflows hit three-week high before late selloff",
+      "published_at": "2026-08-21T09:23:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What to know about this weekend's IndyCar race on the National Mall",
+      "published_at": "2026-08-21T09:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+      "published_at": "2026-08-21T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal government thins the herds of wild horses in Colorado",
+      "published_at": "2026-08-21T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "published_at": "2026-08-21T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+      "published_at": "2026-08-21T09:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Morning news brief",
@@ -13,6 +48,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Indian rupee futures open interest balloons on arbitrage trades, likely intervention",
+      "published_at": "2026-08-21T08:19:18+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "India orders removal of Google Firebase accounts after spotting scam pattern",
       "published_at": "2026-08-21T08:15:06+00:00"
     },
@@ -22,19 +62,9 @@
       "published_at": "2026-08-21T07:54:22+00:00"
     },
     {
-      "source": "BBC",
-      "text": "El Niño set to be 'strongest in living memory', says Met Office",
-      "published_at": "2026-08-21T07:43:30+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Poland 'very disappointed' after Israel drops probe into killing of Polish citizen",
       "published_at": "2026-08-21T07:37:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India set to approve $1.2 billion incentive plan to make building equipment, sources say",
-      "published_at": "2026-08-21T07:09:43+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Panama Canal to cut number of ships passing through due to El Niño",
       "published_at": "2026-08-21T06:46:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-      "published_at": "2026-08-21T06:41:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Survival mode': Indiana residents endure a ninth day without power",
-      "published_at": "2026-08-21T06:40:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK posts unexpected budget deficit in July as spending rises",
-      "published_at": "2026-08-21T06:29:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British retail sales slip in July after World Cup boost",
-      "published_at": "2026-08-21T06:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's IndiGo website experiences booking problems for second time this week",
-      "published_at": "2026-08-21T06:09:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
-      "published_at": "2026-08-21T05:49:48+00:00"
     }
   ]
 }
