@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-21T01:53:44+00:00",
+  "updated_at": "2026-08-21T03:12:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "published_at": "2026-08-21T02:59:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "published_at": "2026-08-21T02:33:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Samsung Elec to convene board meeting Friday to discuss shareholder return plan, says source",
+      "published_at": "2026-08-21T02:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia investigates fourth close call at Sydney airport in less than a month",
+      "published_at": "2026-08-21T02:30:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US sanctions more Cuban companies and officials",
+      "published_at": "2026-08-21T02:06:28+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Asia shares downbeat on the week as bond yields, oil stay high",
       "published_at": "2026-08-21T01:23:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "El Niño set to be 'strongest in living memory', says Met Office",
+      "published_at": "2026-08-21T00:33:21+00:00"
     },
     {
       "source": "Reuters",
@@ -20,6 +50,11 @@
       "source": "BBC",
       "text": "How much could Trump's 'economic D-Day' hurt Iran?",
       "published_at": "2026-08-20T23:16:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why the US economy is ringing alarm bells",
+      "published_at": "2026-08-20T23:15:15+00:00"
     },
     {
       "source": "Reuters",
@@ -38,43 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-      "published_at": "2026-08-20T22:19:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "published_at": "2026-08-20T22:01:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "FBI arrests woman over alleged plot to bomb New York capitol building",
-      "published_at": "2026-08-20T21:03:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
-      "published_at": "2026-08-20T20:58:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Fishermen rescued after five days adrift in cool box",
-      "published_at": "2026-08-20T20:41:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens dead after boat capsizes in north-western Nigeria",
-      "published_at": "2026-08-20T20:27:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "published_at": "2026-08-20T20:08:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-      "published_at": "2026-08-20T19:54:19+00:00"
+      "text": "Delta, Aeromexico win US court battle to keep joint venture",
+      "published_at": "2026-08-20T22:41:06+00:00"
     }
   ]
 }
