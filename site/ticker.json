@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T16:47:29+00:00",
+  "updated_at": "2026-08-21T17:38:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
+      "published_at": "2026-08-21T17:01:46+00:00"
+    },
     {
       "source": "NPR",
       "text": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
@@ -13,8 +18,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Shadow banks enter a newly uncertain era",
-      "published_at": "2026-08-21T16:29:50+00:00"
+      "text": "Bolivia ousts economy minister after lawmaker pressure, in blow to Paz",
+      "published_at": "2026-08-21T16:29:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "published_at": "2026-08-21T16:26:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Appeals court upholds block on US Justice Department subpoenas to NY AG James' office",
+      "published_at": "2026-08-21T16:23:53+00:00"
     },
     {
       "source": "BBC",
@@ -32,6 +47,16 @@
       "published_at": "2026-08-21T16:05:09+00:00"
     },
     {
+      "source": "BBC",
+      "text": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "published_at": "2026-08-21T15:58:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tesla and others begin record vehicle recall in China",
+      "published_at": "2026-08-21T15:58:55+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Man armed with sword injures several people at Swedish high school",
       "published_at": "2026-08-21T15:52:04+00:00"
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Volkswagen needs deep cuts to remain competitive, CEO says ahead of crunch talks",
+      "published_at": "2026-08-21T15:51:24+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Malaysia's JDT go unbeaten for world record 109th league match",
       "published_at": "2026-08-21T15:32:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Official creditors back Ethiopia bond restructuring, flag risks in warrant",
-      "published_at": "2026-08-21T15:23:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Arsenal bolster defence with Konsa signing from Villa",
-      "published_at": "2026-08-21T15:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-      "published_at": "2026-08-21T15:04:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
-      "published_at": "2026-08-21T15:00:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Appeals court upholds block on DOJ subpoenas to NY AG James' office",
-      "published_at": "2026-08-21T14:53:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Corruption charges dropped against South Africa's police intelligence boss",
-      "published_at": "2026-08-21T14:38:05+00:00"
     }
   ]
 }
