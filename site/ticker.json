@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-21T10:57:35+00:00",
+  "updated_at": "2026-08-21T11:35:49+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "published_at": "2026-08-21T11:31:51+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "published_at": "2026-08-21T11:25:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "CORRECTED EXCLUSIVE Chery's robot affiliate AiMOGA eyes IPO, targets overseas market",
+      "published_at": "2026-08-21T11:03:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tesla to fix software for millions of China-made, imported EVs in China",
+      "published_at": "2026-08-21T10:59:13+00:00"
+    },
     {
       "source": "BBC",
       "text": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
@@ -20,6 +40,11 @@
       "source": "Reuters",
       "text": "How Tether's bitcoin mining plans in Uruguay unraveled",
       "published_at": "2026-08-21T10:10:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - ZIM’s shipping boom softens deal shipwreck",
+      "published_at": "2026-08-21T10:03:19+00:00"
     },
     {
       "source": "BBC",
@@ -48,33 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Airbus backs down on return-to-office after protests, sources say",
-      "published_at": "2026-08-21T09:18:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What to know about this weekend's IndyCar race on the National Mall",
-      "published_at": "2026-08-21T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal government thins the herds of wild horses in Colorado",
-      "published_at": "2026-08-21T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "published_at": "2026-08-21T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-      "published_at": "2026-08-21T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-      "published_at": "2026-08-21T09:00:00+00:00"
+      "text": "South Africa's Cell C reports higher annual profit as prepaid revenue grows, debt falls",
+      "published_at": "2026-08-21T09:11:43+00:00"
     }
   ]
 }
