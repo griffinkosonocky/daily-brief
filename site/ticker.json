@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-20T23:35:28+00:00",
+  "updated_at": "2026-08-21T01:53:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Asia shares downbeat on the week as bond yields, oil stay high",
+      "published_at": "2026-08-21T01:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US says it will impose 'toughest sanctions in history' on Iran",
+      "published_at": "2026-08-20T23:59:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Nigeria's one-time political giant may face extinction",
+      "published_at": "2026-08-20T23:21:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "published_at": "2026-08-20T23:16:45+00:00"
+    },
     {
       "source": "Reuters",
       "text": "China, Indonesia ministers meet on Friday, to discuss security and economic issues",
       "published_at": "2026-08-20T23:03:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say",
+      "published_at": "2026-08-20T23:00:17+00:00"
     },
     {
       "source": "BBC",
@@ -15,6 +40,21 @@
       "source": "Reuters",
       "text": "Wall Street sinks as bond yields rise, Walmart results disappoint",
       "published_at": "2026-08-20T22:19:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "published_at": "2026-08-20T22:01:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "published_at": "2026-08-20T21:03:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns",
+      "published_at": "2026-08-20T20:58:59+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "NPR",
       "text": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
       "published_at": "2026-08-20T19:54:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "published_at": "2026-08-20T19:52:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Crypto shares climb after Treasury's doubled buybacks boost risk assets",
-      "published_at": "2026-08-20T19:31:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vox cuts jobs in first restructuring since James Murdoch's takeover, source says",
-      "published_at": "2026-08-20T19:27:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
-      "published_at": "2026-08-20T19:22:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "published_at": "2026-08-20T18:55:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says",
-      "published_at": "2026-08-20T18:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Soccer-Regional powerhouses weigh no-confidence vote in bid to oust Infantino - sources",
-      "published_at": "2026-08-20T18:44:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
-      "published_at": "2026-08-20T18:20:15+00:00"
     }
   ]
 }
