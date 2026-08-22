@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:35:08+00:00",
+  "updated_at": "2026-08-22T10:48:46+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -15,6 +15,11 @@
       "source": "Reuters",
       "text": "South Africa's former world boxing champion Tete shot dead outside his home",
       "published_at": "2026-08-22T09:32:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
+      "published_at": "2026-08-22T09:18:15+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
       "published_at": "2026-08-22T00:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "published_at": "2026-08-22T00:03:10+00:00"
     }
   ]
 }
