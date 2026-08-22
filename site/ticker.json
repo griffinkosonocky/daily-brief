@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-22T13:39:46+00:00",
+  "updated_at": "2026-08-22T14:33:17+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+      "published_at": "2026-08-22T14:10:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
+      "published_at": "2026-08-22T13:51:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fourteen killed in strike on Myanmar monastery",
+      "published_at": "2026-08-22T13:48:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy says Macron agreed to accelerate air defence deliveries",
+      "published_at": "2026-08-22T13:40:01+00:00"
+    },
     {
       "source": "BBC",
       "text": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -48,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-      "published_at": "2026-08-22T07:07:29+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "From science fair to strategic showcase: a decade of China’s robot games",
       "published_at": "2026-08-22T05:35:00+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "U.S.-Canada trade talks collapse just before deadline for tariffs",
       "published_at": "2026-08-22T04:36:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "published_at": "2026-08-22T03:43:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "published_at": "2026-08-22T02:39:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-      "published_at": "2026-08-22T00:43:00+00:00"
     }
   ]
 }
