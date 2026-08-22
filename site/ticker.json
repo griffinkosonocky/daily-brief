@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-22T01:46:34+00:00",
+  "updated_at": "2026-08-22T03:03:38+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+      "published_at": "2026-08-22T01:47:54+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "text": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says",
+      "published_at": "2026-08-22T01:36:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Iran not ready to make the 'right deal'",
       "published_at": "2026-08-22T01:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+      "published_at": "2026-08-22T00:43:00+00:00"
     },
     {
       "source": "BBC",
@@ -47,16 +62,6 @@
       "published_at": "2026-08-21T22:03:48+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
-      "published_at": "2026-08-21T21:46:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Families protest in Nigeria over children abducted nearly 100 days ago",
-      "published_at": "2026-08-21T21:14:32+00:00"
-    },
-    {
       "source": "BBC",
       "text": "One killed in sword attack at Swedish school",
       "published_at": "2026-08-21T21:03:24+00:00"
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Mexico expects trade outcomes similar to emerging US-Canada deal",
       "published_at": "2026-08-21T20:40:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
-      "published_at": "2026-08-21T20:20:25+00:00"
     }
   ]
 }
