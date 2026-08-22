@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-22T14:33:17+00:00",
+  "updated_at": "2026-08-22T15:31:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Carney faces crucial test after walking away from Trump's deal",
+      "published_at": "2026-08-22T15:00:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "published_at": "2026-08-22T14:35:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
@@ -58,11 +68,6 @@
     },
     {
       "source": "BBC",
-      "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "published_at": "2026-08-22T08:40:49+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Sydney Marathon medal mistakenly depicts Munich stadium",
       "published_at": "2026-08-22T07:53:57+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "From science fair to strategic showcase: a decade of China’s robot games",
       "published_at": "2026-08-22T05:35:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-      "published_at": "2026-08-22T04:36:27+00:00"
     }
   ]
 }
