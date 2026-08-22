@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-22T07:39:50+00:00",
+  "updated_at": "2026-08-22T08:42:38+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
+      "published_at": "2026-08-22T07:07:29+00:00"
+    },
     {
       "source": "BBC",
       "text": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
@@ -39,12 +44,7 @@
     {
       "source": "Reuters",
       "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-      "published_at": "2026-08-22T02:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says",
-      "published_at": "2026-08-22T01:36:06+00:00"
+      "published_at": "2026-08-22T00:43:00+00:00"
     },
     {
       "source": "BBC",
