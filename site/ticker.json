@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-22T09:37:18+00:00",
+  "updated_at": "2026-08-22T10:35:08+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Chinese humanoid robot 'Lightning' beats human 100m world record, state media says",
+      "published_at": "2026-08-22T10:07:43+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "published_at": "2026-08-22T09:13:26+00:00"
+      "text": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+      "published_at": "2026-08-22T10:01:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa's former world boxing champion Tete shot dead outside his home",
+      "published_at": "2026-08-22T09:32:13+00:00"
     },
     {
       "source": "BBC",
@@ -18,6 +28,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
+      "published_at": "2026-08-22T07:07:29+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "From science fair to strategic showcase: a decade of China’s robot games",
       "published_at": "2026-08-22T05:35:00+00:00"
     },
@@ -28,7 +43,7 @@
     },
     {
       "source": "NPR",
-      "text": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "text": "U.S.-Canada trade talks collapse just before deadline for tariffs",
       "published_at": "2026-08-22T04:36:27+00:00"
     },
     {
@@ -40,6 +55,11 @@
       "source": "BBC",
       "text": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "published_at": "2026-08-22T02:39:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says",
+      "published_at": "2026-08-22T01:36:06+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
       "published_at": "2026-08-22T00:03:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-      "published_at": "2026-08-21T23:41:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexican governor accused by US of cartel ties returns to office",
-      "published_at": "2026-08-21T23:28:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two injured in stabbing attack at Canada Sikh temple",
-      "published_at": "2026-08-21T22:45:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "published_at": "2026-08-21T22:36:12+00:00"
     }
   ]
 }
