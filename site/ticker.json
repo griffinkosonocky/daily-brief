@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-22T10:48:46+00:00",
+  "updated_at": "2026-08-22T11:30:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "published_at": "2026-08-22T11:21:05+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Chinese humanoid robot 'Lightning' beats human 100m world record, state media says",
@@ -42,11 +47,6 @@
       "published_at": "2026-08-22T05:35:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "published_at": "2026-08-22T04:46:33+00:00"
-    },
-    {
       "source": "NPR",
       "text": "U.S.-Canada trade talks collapse just before deadline for tariffs",
       "published_at": "2026-08-22T04:36:27+00:00"
@@ -63,11 +63,6 @@
     },
     {
       "source": "Reuters",
-      "text": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says",
-      "published_at": "2026-08-22T01:36:06+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
       "published_at": "2026-08-22T01:05:00+00:00"
     },
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
       "published_at": "2026-08-22T00:43:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "published_at": "2026-08-22T00:03:10+00:00"
     }
   ]
 }
