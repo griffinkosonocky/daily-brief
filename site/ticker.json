@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-21T23:34:00+00:00",
+  "updated_at": "2026-08-22T01:46:34+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Tesla and others begin record vehicle recall in China",
-      "published_at": "2026-08-21T23:02:17+00:00"
+      "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "published_at": "2026-08-22T01:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "published_at": "2026-08-22T00:40:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexican governor accused by US of cartel ties returns to office",
+      "published_at": "2026-08-21T23:28:41+00:00"
     },
     {
       "source": "BBC",
@@ -12,14 +22,34 @@
       "published_at": "2026-08-21T22:45:01+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Explainer: What we know about the door handles that triggered China’s record auto recall",
-      "published_at": "2026-08-21T22:24:32+00:00"
+      "source": "BBC",
+      "text": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "published_at": "2026-08-21T22:36:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "These bookshops let Chinese readers question their country - now the doors are closing",
+      "published_at": "2026-08-21T22:26:25+00:00"
     },
     {
       "source": "Reuters",
       "text": "One killed, three injured when man attacks Swedish school with sword",
       "published_at": "2026-08-21T22:21:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+      "published_at": "2026-08-21T22:15:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply",
+      "published_at": "2026-08-21T22:03:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
+      "published_at": "2026-08-21T21:46:19+00:00"
     },
     {
       "source": "Reuters",
@@ -33,18 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Mexican governor accused by US of cartel ties returns to office",
-      "published_at": "2026-08-21T20:55:40+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Supreme Court lets Trump continue work on White House ballroom for now",
       "published_at": "2026-08-21T20:47:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Werro wins in Lausanne as Tebogo, Wanyonyi lay down markers for Budapest",
-      "published_at": "2026-08-21T20:43:43+00:00"
     },
     {
       "source": "Reuters",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump to temporarily ease US beef tariffs, irking cattle producers",
-      "published_at": "2026-08-21T19:54:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "published_at": "2026-08-21T19:49:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Israel is expanding settlements in drive to reshape West Bank",
-      "published_at": "2026-08-21T19:31:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-      "published_at": "2026-08-21T18:56:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court allows Trump's ballroom construction to continue for now",
-      "published_at": "2026-08-21T18:47:48+00:00"
+      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
+      "published_at": "2026-08-21T20:20:25+00:00"
     }
   ]
 }
