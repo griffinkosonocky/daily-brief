@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-22T08:42:38+00:00",
+  "updated_at": "2026-08-22T09:37:18+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-      "published_at": "2026-08-22T07:07:29+00:00"
-    },
     {
       "source": "BBC",
       "text": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "published_at": "2026-08-22T06:40:30+00:00"
+      "published_at": "2026-08-22T09:13:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "published_at": "2026-08-22T08:40:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "published_at": "2026-08-22T07:53:57+00:00"
     },
     {
       "source": "Reuters",
       "text": "From science fair to strategic showcase: a decade of China’s robot games",
       "published_at": "2026-08-22T05:35:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump heads into midterms short on foreign policy wins",
-      "published_at": "2026-08-22T05:04:00+00:00"
     },
     {
       "source": "BBC",
@@ -43,6 +43,11 @@
     },
     {
       "source": "Reuters",
+      "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "published_at": "2026-08-22T01:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
       "published_at": "2026-08-22T00:43:00+00:00"
     },
@@ -50,11 +55,6 @@
       "source": "BBC",
       "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
       "published_at": "2026-08-22T00:03:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130",
-      "published_at": "2026-08-21T23:57:21+00:00"
     },
     {
       "source": "BBC",
