@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-22T05:37:15+00:00",
+  "updated_at": "2026-08-22T06:55:31+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "published_at": "2026-08-22T05:15:58+00:00"
+      "text": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "published_at": "2026-08-22T06:40:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "From science fair to strategic showcase: a decade of China’s robot games",
+      "published_at": "2026-08-22T05:35:00+00:00"
     },
     {
       "source": "Reuters",
@@ -23,6 +28,11 @@
     },
     {
       "source": "BBC",
+      "text": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "published_at": "2026-08-22T03:43:26+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
       "published_at": "2026-08-22T02:39:10+00:00"
     },
@@ -32,14 +42,19 @@
       "published_at": "2026-08-22T02:09:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
-      "published_at": "2026-08-22T01:05:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
       "published_at": "2026-08-22T00:03:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130",
+      "published_at": "2026-08-21T23:57:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "published_at": "2026-08-21T23:41:33+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "These bookshops let Chinese readers question their country - now the doors are closing",
       "published_at": "2026-08-21T22:26:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Modi spent years building his strong image - why is he making Gen Z reels now?",
-      "published_at": "2026-08-21T22:15:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports",
-      "published_at": "2026-08-21T21:39:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "One killed in sword attack at Swedish school",
-      "published_at": "2026-08-21T21:03:24+00:00"
     }
   ]
 }
