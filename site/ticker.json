@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-22T04:44:07+00:00",
+  "updated_at": "2026-08-22T05:37:15+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "published_at": "2026-08-22T05:15:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump heads into midterms short on foreign policy wins",
+      "published_at": "2026-08-22T05:04:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "published_at": "2026-08-22T04:46:33+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
@@ -8,18 +23,23 @@
     },
     {
       "source": "BBC",
-      "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "published_at": "2026-08-22T03:17:29+00:00"
+      "text": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "published_at": "2026-08-22T02:39:10+00:00"
     },
     {
       "source": "Reuters",
       "text": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-      "published_at": "2026-08-22T00:43:00+00:00"
+      "published_at": "2026-08-22T02:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "published_at": "2026-08-22T01:05:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "published_at": "2026-08-22T00:40:47+00:00"
+      "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "published_at": "2026-08-22T00:03:10+00:00"
     },
     {
       "source": "Reuters",
@@ -42,39 +62,19 @@
       "published_at": "2026-08-21T22:26:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "One killed, three injured when man attacks Swedish school with sword",
-      "published_at": "2026-08-21T22:21:44+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Modi spent years building his strong image - why is he making Gen Z reels now?",
       "published_at": "2026-08-21T22:15:32+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply",
-      "published_at": "2026-08-21T22:03:48+00:00"
+      "text": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports",
+      "published_at": "2026-08-21T21:39:22+00:00"
     },
     {
       "source": "BBC",
       "text": "One killed in sword attack at Swedish school",
       "published_at": "2026-08-21T21:03:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Supreme Court lets Trump continue work on White House ballroom for now",
-      "published_at": "2026-08-21T20:47:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico expects trade outcomes similar to emerging US-Canada deal",
-      "published_at": "2026-08-21T20:40:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
-      "published_at": "2026-08-21T20:20:25+00:00"
     }
   ]
 }
