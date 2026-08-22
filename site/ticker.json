@@ -1,20 +1,15 @@
 {
-  "updated_at": "2026-08-22T03:52:23+00:00",
+  "updated_at": "2026-08-22T04:44:07+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "published_at": "2026-08-22T04:36:27+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
       "published_at": "2026-08-22T03:17:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least 13 Tunisians missing after migrant boat sinks off Tunisia, group says",
-      "published_at": "2026-08-22T01:36:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Iran not ready to make the 'right deal'",
-      "published_at": "2026-08-22T01:05:00+00:00"
     },
     {
       "source": "Reuters",
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Mexico expects trade outcomes similar to emerging US-Canada deal",
       "published_at": "2026-08-21T20:40:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US plans $725 million payment towards its large UN debt",
+      "published_at": "2026-08-21T20:20:25+00:00"
     }
   ]
 }
