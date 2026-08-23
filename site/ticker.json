@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-23T19:30:43+00:00",
+  "updated_at": "2026-08-23T20:34:57+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump waves green flag to start IndyCar race through Washington streets",
+      "published_at": "2026-08-23T20:19:36+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -12,9 +17,19 @@
       "published_at": "2026-08-23T18:17:37+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "published_at": "2026-08-23T18:17:34+00:00"
+      "source": "Reuters",
+      "text": "Health of Norway's king deteriorates while in hospital, palace says",
+      "published_at": "2026-08-23T18:07:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jefferson-Wooden beats Alfred in Silesia, Seville takes men's sprint",
+      "published_at": "2026-08-23T18:03:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
+      "published_at": "2026-08-23T17:54:37+00:00"
     },
     {
       "source": "BBC",
@@ -27,6 +42,11 @@
       "published_at": "2026-08-23T16:55:37+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Germany's AfD eyes Saxony-Anhalt win as first step toward federal power",
+      "published_at": "2026-08-23T16:43:00+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
       "published_at": "2026-08-23T16:15:30+00:00"
@@ -37,44 +57,24 @@
       "published_at": "2026-08-23T15:54:32+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "published_at": "2026-08-23T13:35:06+00:00"
+      "source": "Reuters",
+      "text": "New Zealand select Mo’unga at flyhalf to face Lions on South Africa tour",
+      "published_at": "2026-08-23T15:04:58+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "published_at": "2026-08-23T12:56:43+00:00"
+      "source": "Reuters",
+      "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
+      "published_at": "2026-08-23T14:06:42+00:00"
     },
     {
-      "source": "BBC",
-      "text": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "published_at": "2026-08-23T12:52:08+00:00"
+      "source": "Reuters",
+      "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
+      "published_at": "2026-08-23T13:56:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Wicker Man director's sons complete their late father's film trilogy",
-      "published_at": "2026-08-23T12:51:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Becerra, running for governor of California, faces a health insurance problem",
-      "published_at": "2026-08-23T12:50:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-      "published_at": "2026-08-23T12:48:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Robot boxing, football and sprinting at World Humanoid Games",
-      "published_at": "2026-08-23T12:47:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'New season, new trim' - Haaland reveals buzzcut",
-      "published_at": "2026-08-23T12:36:54+00:00"
+      "source": "Reuters",
+      "text": "Man City set to sign Morocco midfielder Bouaddi from Lille",
+      "published_at": "2026-08-23T13:51:43+00:00"
     }
   ]
 }
