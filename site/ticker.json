@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-23T13:41:36+00:00",
+  "updated_at": "2026-08-23T14:34:53+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
+      "published_at": "2026-08-23T13:56:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Man City set to sign Morocco midfielder Bouaddi from Lille",
+      "published_at": "2026-08-23T13:51:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "published_at": "2026-08-23T13:35:06+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Kejelcha regains half marathon world record in Buenos Aires",
@@ -8,8 +23,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say",
+      "published_at": "2026-08-23T13:15:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Singapore will investigate any tariff evasion, but must be realistic given volume of trade, PM says",
       "published_at": "2026-08-23T13:13:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Pakistan's army chief to visit Tehran on Monday",
+      "published_at": "2026-08-23T13:13:07+00:00"
     },
     {
       "source": "Reuters",
@@ -20,11 +45,6 @@
       "source": "BBC",
       "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "published_at": "2026-08-23T12:56:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
-      "published_at": "2026-08-23T12:55:01+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "'New season, new trim' - Haaland reveals buzzcut",
       "published_at": "2026-08-23T12:36:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Golf brand apologises for advert that shows woman being pushed over",
-      "published_at": "2026-08-23T12:25:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "published_at": "2026-08-23T11:50:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-      "published_at": "2026-08-23T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says",
-      "published_at": "2026-08-23T08:55:43+00:00"
     }
   ]
 }
