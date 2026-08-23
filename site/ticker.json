@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-23T15:32:55+00:00",
+  "updated_at": "2026-08-23T16:37:34+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "published_at": "2026-08-23T16:15:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "published_at": "2026-08-23T15:54:32+00:00"
+    },
     {
       "source": "Reuters",
       "text": "New Zealand select Mo’unga at flyhalf to face Lions on South Africa tour",
@@ -43,11 +53,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say",
-      "published_at": "2026-08-23T13:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Singapore will investigate any tariff evasion, but must be realistic given volume of trade, PM says",
       "published_at": "2026-08-23T13:13:44+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Wicker Man director's sons complete their late father's film trilogy",
       "published_at": "2026-08-23T12:51:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Becerra, running for governor of California, faces a health insurance problem",
-      "published_at": "2026-08-23T12:50:09+00:00"
     }
   ]
 }
