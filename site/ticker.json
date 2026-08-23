@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:31:28+00:00",
+  "updated_at": "2026-08-23T22:33:37+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -20,11 +20,6 @@
       "source": "BBC",
       "text": "Guinea rubbish landfill collapse kills 30",
       "published_at": "2026-08-23T18:17:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "published_at": "2026-08-23T18:16:16+00:00"
     },
     {
       "source": "Reuters",
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
       "published_at": "2026-08-23T14:06:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
+      "published_at": "2026-08-23T13:56:00+00:00"
     }
   ]
 }
