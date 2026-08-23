@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:48:15+00:00",
+  "updated_at": "2026-08-23T05:39:17+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -10,6 +10,11 @@
       "source": "BBC",
       "text": "Swedish sword attack victim was 17-year-old girl, police say",
       "published_at": "2026-08-23T01:34:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "published_at": "2026-08-22T23:22:02+00:00"
     },
     {
       "source": "Reuters",
@@ -38,7 +43,7 @@
     },
     {
       "source": "BBC",
-      "text": "Carney say Trump started trade war with fresh tarrifs 'attack'",
+      "text": "Carney says Trump started trade war with fresh tarrifs 'attack'",
       "published_at": "2026-08-22T20:10:00+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada",
       "published_at": "2026-08-22T17:03:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "published_at": "2026-08-22T17:02:06+00:00"
     }
   ]
 }
