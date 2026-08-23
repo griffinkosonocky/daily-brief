@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T10:49:04+00:00",
+  "updated_at": "2026-08-23T11:30:57+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -22,11 +22,6 @@
       "published_at": "2026-08-23T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
-      "published_at": "2026-08-23T06:04:09+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "published_at": "2026-08-23T05:46:43+00:00"
@@ -45,6 +40,11 @@
       "source": "BBC",
       "text": "'We're not going to run from it': Sydney Marathon laughs off medal error",
       "published_at": "2026-08-23T03:44:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
+      "published_at": "2026-08-23T01:54:00+00:00"
     },
     {
       "source": "BBC",
