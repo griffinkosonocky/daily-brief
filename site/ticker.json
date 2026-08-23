@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-08-23T17:30:43+00:00",
+  "updated_at": "2026-08-23T18:44:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Guinea rubbish landfill collapse kills 30",
+      "published_at": "2026-08-23T18:17:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "published_at": "2026-08-23T18:17:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jefferson-Wooden beats Alfred in Silesia, Seville takes men's sprint",
+      "published_at": "2026-08-23T18:03:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
+      "published_at": "2026-08-23T17:39:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France links sharp rise in drownings to heatwaves",
+      "published_at": "2026-08-23T17:39:33+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Eleven bodies recovered after boat carrying migrants sinks off Tunisia",
       "published_at": "2026-08-23T17:00:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "published_at": "2026-08-23T16:57:05+00:00"
     },
     {
       "source": "NPR",
@@ -28,18 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say",
-      "published_at": "2026-08-23T15:20:41+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "New Zealand select Mo’unga at flyhalf to face Lions on South Africa tour",
       "published_at": "2026-08-23T15:04:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France links rise in drownings to heatwaves",
-      "published_at": "2026-08-23T15:00:17+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Kejelcha regains half marathon world record in Buenos Aires",
       "published_at": "2026-08-23T13:19:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Singapore will investigate any tariff evasion, but must be realistic given volume of trade, PM says",
-      "published_at": "2026-08-23T13:13:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says Pakistan's army chief to visit Tehran on Monday",
-      "published_at": "2026-08-23T13:13:07+00:00"
     }
   ]
 }
