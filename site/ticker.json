@@ -1,25 +1,55 @@
 {
-  "updated_at": "2026-08-23T11:30:57+00:00",
+  "updated_at": "2026-08-23T12:58:11+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "published_at": "2026-08-23T10:22:32+00:00"
+      "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "published_at": "2026-08-23T12:56:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Becerra, running for governor of California, faces a health insurance problem",
+      "published_at": "2026-08-23T12:50:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "published_at": "2026-08-23T12:48:05+00:00"
     },
     {
       "source": "BBC",
       "text": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "published_at": "2026-08-23T09:42:05+00:00"
+      "published_at": "2026-08-23T12:47:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
+      "published_at": "2026-08-23T12:07:51+00:00"
     },
     {
       "source": "BBC",
-      "text": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "published_at": "2026-08-23T09:37:05+00:00"
+      "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "published_at": "2026-08-23T11:50:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Pakistan's army chief to visit Tehran on Monday",
+      "published_at": "2026-08-23T11:08:00+00:00"
     },
     {
       "source": "NPR",
       "text": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
       "published_at": "2026-08-23T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hungary Paks nuclear plant could operate at full capacity by Wednesday, PM Magyar says",
+      "published_at": "2026-08-23T08:55:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Happy Cummins praises Australia response, Green's batting after Mackay win",
+      "published_at": "2026-08-23T08:11:23+00:00"
     },
     {
       "source": "BBC",
@@ -28,7 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+      "text": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
       "published_at": "2026-08-23T04:47:00+00:00"
     },
     {
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
       "published_at": "2026-08-23T01:54:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Girl, 17, killed in Swedish sword attack, police say",
-      "published_at": "2026-08-23T01:34:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "published_at": "2026-08-22T23:45:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "published_at": "2026-08-22T23:22:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
-      "published_at": "2026-08-22T21:46:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Syria says Israeli strike near Damascus violation of international law",
-      "published_at": "2026-08-22T21:42:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa's former world boxing champion Tete shot dead outside his home",
-      "published_at": "2026-08-22T21:03:28+00:00"
     }
   ]
 }
