@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-23T20:34:57+00:00",
+  "updated_at": "2026-08-23T21:31:28+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Trump waves green flag to start IndyCar race through Washington streets",
       "published_at": "2026-08-23T20:19:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New pro-presidential party wins large majority in Kazakh election, exit polls show",
+      "published_at": "2026-08-23T19:28:54+00:00"
     },
     {
       "source": "BBC",
@@ -15,6 +20,11 @@
       "source": "BBC",
       "text": "Guinea rubbish landfill collapse kills 30",
       "published_at": "2026-08-23T18:17:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says new sanctions threatened by 'desperate' US will fail",
+      "published_at": "2026-08-23T18:16:16+00:00"
     },
     {
       "source": "Reuters",
@@ -53,7 +63,7 @@
     },
     {
       "source": "BBC",
-      "text": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "text": "Frustration builds in Indiana town struggling without power for 12 days",
       "published_at": "2026-08-23T15:54:32+00:00"
     },
     {
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
       "published_at": "2026-08-23T14:06:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
-      "published_at": "2026-08-23T13:56:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Man City set to sign Morocco midfielder Bouaddi from Lille",
-      "published_at": "2026-08-23T13:51:43+00:00"
     }
   ]
 }
