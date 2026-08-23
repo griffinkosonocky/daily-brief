@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-23T16:37:34+00:00",
+  "updated_at": "2026-08-23T17:30:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Eleven bodies recovered after boat carrying migrants sinks off Tunisia",
+      "published_at": "2026-08-23T17:00:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "published_at": "2026-08-23T16:57:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "published_at": "2026-08-23T16:55:37+00:00"
+    },
     {
       "source": "NPR",
       "text": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
@@ -10,6 +25,11 @@
       "source": "BBC",
       "text": "Thousands struggling without power in Indiana 12 days after severe storms",
       "published_at": "2026-08-23T15:54:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli airstrikes in Gaza kill two people, including a 4-year-old boy, medics say",
+      "published_at": "2026-08-23T15:20:41+00:00"
     },
     {
       "source": "Reuters",
@@ -37,11 +57,6 @@
       "published_at": "2026-08-23T13:51:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-      "published_at": "2026-08-23T13:46:29+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Kejelcha breaks men's half marathon world record by 29 seconds",
       "published_at": "2026-08-23T13:35:06+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Iran says Pakistan's army chief to visit Tehran on Monday",
       "published_at": "2026-08-23T13:13:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "published_at": "2026-08-23T12:56:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "published_at": "2026-08-23T12:52:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wicker Man director's sons complete their late father's film trilogy",
-      "published_at": "2026-08-23T12:51:15+00:00"
     }
   ]
 }
