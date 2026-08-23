@@ -376,5 +376,11 @@
     "sport": "Sports",
     "question": "Who has played the most tournaments in the German national soccer team?",
     "answer": "Lothar Matthäus"
+  },
+  {
+    "date": "2026-08-23",
+    "sport": "Sports",
+    "question": "Which of these English football clubs is based in Liverpool?",
+    "answer": "Everton"
   }
 ]
