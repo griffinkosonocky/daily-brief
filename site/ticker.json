@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-08-22T23:31:04+00:00",
+  "updated_at": "2026-08-23T01:56:13+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Swedish sword attack victim was 17-year-old girl, police say",
+      "published_at": "2026-08-23T01:34:15+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "New Zealand call up replacements after concussion injuries in first test",
-      "published_at": "2026-08-22T23:06:09+00:00"
+      "text": "Pegula rallies past defending champion Swiatek as Fils reaches Cincinnati final",
+      "published_at": "2026-08-22T23:50:29+00:00"
     },
     {
       "source": "Reuters",
       "text": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs",
       "published_at": "2026-08-22T21:46:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Syria says Israeli strike near Damascus violation of international law",
+      "published_at": "2026-08-22T21:42:42+00:00"
     },
     {
       "source": "Reuters",
@@ -47,6 +57,11 @@
       "published_at": "2026-08-22T19:14:19+00:00"
     },
     {
+      "source": "BBC",
+      "text": "The hotel booking mix-up that could free mushroom murderer",
+      "published_at": "2026-08-22T19:03:03+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis",
       "published_at": "2026-08-22T17:08:12+00:00"
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
       "published_at": "2026-08-22T17:02:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainian drones kill at least 10, hit warehouse of Russian online retailer Ozon",
-      "published_at": "2026-08-22T16:58:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US military newspaper editor voices censorship fears after being fired",
-      "published_at": "2026-08-22T16:57:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt teenager Abdelkarim pushing for Barca place after prolific pre-season",
-      "published_at": "2026-08-22T16:49:47+00:00"
     }
   ]
 }
