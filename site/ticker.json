@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-23T05:39:17+00:00",
+  "updated_at": "2026-08-23T06:56:50+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "published_at": "2026-08-23T05:46:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Alibaba proposes Hong Kong share placement worth $10 billion",
+      "published_at": "2026-08-23T04:47:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "'We're not going to run from it': Sydney Marathon laughs off medal error",
@@ -8,7 +18,7 @@
     },
     {
       "source": "BBC",
-      "text": "Swedish sword attack victim was 17-year-old girl, police say",
+      "text": "Girl, 17, killed in Swedish sword attack, police say",
       "published_at": "2026-08-23T01:34:15+00:00"
     },
     {
@@ -43,11 +53,6 @@
     },
     {
       "source": "BBC",
-      "text": "Carney says Trump started trade war with fresh tarrifs 'attack'",
-      "published_at": "2026-08-22T20:10:00+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Carney faces crucial test after walking away from Trump's deal",
       "published_at": "2026-08-22T20:02:46+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis",
       "published_at": "2026-08-22T17:08:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada",
-      "published_at": "2026-08-22T17:03:42+00:00"
     }
   ]
 }
