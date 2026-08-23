@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-23T14:34:53+00:00",
+  "updated_at": "2026-08-23T15:32:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "New Zealand select Mo’unga at flyhalf to face Lions on South Africa tour",
+      "published_at": "2026-08-23T15:04:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France links rise in drownings to heatwaves",
+      "published_at": "2026-08-23T15:00:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
+      "published_at": "2026-08-23T14:06:42+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Nordic nations say they have lost confidence in Infantino and FIFA governance",
@@ -10,6 +25,11 @@
       "source": "Reuters",
       "text": "Man City set to sign Morocco midfielder Bouaddi from Lille",
       "published_at": "2026-08-23T13:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
+      "published_at": "2026-08-23T13:46:29+00:00"
     },
     {
       "source": "BBC",
@@ -37,11 +57,6 @@
       "published_at": "2026-08-23T13:13:07+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Lanier crushes Naraoka to become first Frenchman to win singles world title",
-      "published_at": "2026-08-23T13:01:35+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "published_at": "2026-08-23T12:56:43+00:00"
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Becerra, running for governor of California, faces a health insurance problem",
       "published_at": "2026-08-23T12:50:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-      "published_at": "2026-08-23T12:48:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Robot boxing, football and sprinting at World Humanoid Games",
-      "published_at": "2026-08-23T12:47:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'New season, new trim' - Haaland reveals buzzcut",
-      "published_at": "2026-08-23T12:36:54+00:00"
     }
   ]
 }
