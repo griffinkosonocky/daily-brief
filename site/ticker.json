@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-23T09:37:58+00:00",
+  "updated_at": "2026-08-23T10:35:57+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "published_at": "2026-08-23T10:22:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "published_at": "2026-08-23T09:42:05+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
@@ -22,9 +32,19 @@
       "published_at": "2026-08-23T04:47:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Man City boss Maresca targets next Rodri after midfielder's exit",
+      "published_at": "2026-08-23T04:13:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "'We're not going to run from it': Sydney Marathon laughs off medal error",
       "published_at": "2026-08-23T03:44:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
+      "published_at": "2026-08-23T01:54:00+00:00"
     },
     {
       "source": "BBC",
@@ -32,9 +52,9 @@
       "published_at": "2026-08-23T01:34:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Kryvyi Rih survivor recalls casualties in parking lot after Russian strike",
-      "published_at": "2026-08-23T01:31:09+00:00"
+      "source": "BBC",
+      "text": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "published_at": "2026-08-22T23:45:01+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "South Africa's former world boxing champion Tete shot dead outside his home",
       "published_at": "2026-08-22T21:03:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration's 75-country visa ban was illegal, judge rules",
-      "published_at": "2026-08-22T20:53:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's Unifor union, GM reach tentative agreements",
-      "published_at": "2026-08-22T20:24:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Carney faces crucial test after walking away from Trump's deal",
-      "published_at": "2026-08-22T20:02:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pegula to meet Gauff in all-American Cincinnati final, Tiafoe faces Fils",
-      "published_at": "2026-08-22T20:02:00+00:00"
     }
   ]
 }
