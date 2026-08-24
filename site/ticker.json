@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:39:01+00:00",
+  "updated_at": "2026-08-24T23:31:06+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -8,13 +8,28 @@
     },
     {
       "source": "NPR",
-      "text": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+      "text": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
       "published_at": "2026-08-24T22:22:13+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trump administration plans to revoke visas of foreigners seeking asylum",
       "published_at": "2026-08-24T22:18:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
+      "published_at": "2026-08-24T21:52:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chelsea start Alonso era with exciting 3-2 win at neighbours Fulham",
+      "published_at": "2026-08-24T21:42:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "published_at": "2026-08-24T21:17:31+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Trabzonspor sign Brazil's Fabinho for two years on free transfer",
       "published_at": "2026-08-24T19:28:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "published_at": "2026-08-24T19:12:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tunisian hospital receives 19 bodies after migrant boat sinks",
-      "published_at": "2026-08-24T17:50:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-24T17:29:59+00:00"
     }
   ]
 }
