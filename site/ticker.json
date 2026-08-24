@@ -1,25 +1,30 @@
 {
-  "updated_at": "2026-08-24T21:39:05+00:00",
+  "updated_at": "2026-08-24T22:39:01+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "US Supreme Court lifts a judicial hurdle to Trump's mail-in ballot curbs",
-      "published_at": "2026-08-24T21:19:16+00:00"
+      "text": "Haiti gang raid leaves 30 dead, as residents demand stronger protections",
+      "published_at": "2026-08-24T22:24:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+      "published_at": "2026-08-24T22:22:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump administration plans to revoke visas of foreigners seeking asylum",
+      "published_at": "2026-08-24T22:18:23+00:00"
     },
     {
       "source": "Reuters",
       "text": "TRADING DAY Tech, tariffs & Treasuries",
-      "published_at": "2026-08-24T21:12:09+00:00"
+      "published_at": "2026-08-24T21:13:38+00:00"
     },
     {
       "source": "Reuters",
       "text": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
       "published_at": "2026-08-24T21:08:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
-      "published_at": "2026-08-24T21:01:00+00:00"
     },
     {
       "source": "Reuters",
@@ -33,8 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Gang attack on hillside town near Haiti's capital leaves 30 dead",
-      "published_at": "2026-08-24T20:31:43+00:00"
+      "text": "WestJet cabin crew approve proposed deal after strike",
+      "published_at": "2026-08-24T20:37:46+00:00"
     },
     {
       "source": "Reuters",
@@ -43,13 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
-      "published_at": "2026-08-24T19:35:45+00:00"
+      "text": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says",
+      "published_at": "2026-08-24T19:43:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
-      "published_at": "2026-08-24T19:35:39+00:00"
+      "text": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+      "published_at": "2026-08-24T19:35:45+00:00"
     },
     {
       "source": "Reuters",
@@ -63,18 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Israel's Netanyahu says Iran tried to kill one of his sons",
-      "published_at": "2026-08-24T18:54:22+00:00"
+      "text": "Tunisian hospital receives 19 bodies after migrant boat sinks",
+      "published_at": "2026-08-24T17:50:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
-      "published_at": "2026-08-24T18:20:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Altria, Philip Morris International sign contract manufacturing deals",
-      "published_at": "2026-08-24T18:01:02+00:00"
+      "source": "BBC",
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "published_at": "2026-08-24T17:29:59+00:00"
     }
   ]
 }
