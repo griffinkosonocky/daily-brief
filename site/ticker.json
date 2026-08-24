@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T10:49:13+00:00",
+  "updated_at": "2026-08-24T11:02:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
+      "published_at": "2026-08-24T10:49:47+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -25,16 +30,6 @@
       "source": "BBC",
       "text": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
       "published_at": "2026-08-24T10:05:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
-      "published_at": "2026-08-24T10:03:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
-      "published_at": "2026-08-24T10:00:47+00:00"
     },
     {
       "source": "Reuters",
@@ -75,6 +70,11 @@
       "source": "NPR",
       "text": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
       "published_at": "2026-08-24T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+      "published_at": "2026-08-24T08:53:36+00:00"
     }
   ]
 }

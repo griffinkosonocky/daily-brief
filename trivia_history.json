@@ -382,5 +382,11 @@
     "sport": "Sports",
     "question": "Which of these English football clubs is based in Liverpool?",
     "answer": "Everton"
+  },
+  {
+    "date": "2026-08-24",
+    "sport": "Sports",
+    "question": "What is the oldest team in the NFL?",
+    "answer": "Arizona Cardinals"
   }
 ]
