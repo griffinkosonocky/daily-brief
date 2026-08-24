@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-24T14:54:35+00:00",
+  "updated_at": "2026-08-24T15:51:14+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "World Cup winners, FIFA legends say Infantino blinded by power",
+      "published_at": "2026-08-24T15:38:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "published_at": "2026-08-24T15:14:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Supermaxing prisons protected by minimum security",
+      "published_at": "2026-08-24T15:11:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
+      "published_at": "2026-08-24T15:10:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Treasury to broaden scope of secondary sanctions on Iran, source says",
+      "published_at": "2026-08-24T15:08:55+00:00"
+    },
     {
       "source": "Reuters",
       "text": "New Zealand's Mo’unga returns to stake World Cup claims",
@@ -8,13 +33,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump threatens 50% tariffs on all cars and trucks amid Canada trade spat",
-      "published_at": "2026-08-24T14:28:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold rally gains momentum ahead of US inflation, Jackson Hole event",
-      "published_at": "2026-08-24T14:08:00+00:00"
+      "text": "Norway will drill in Arctic regardless of EU's position, says energy minister",
+      "published_at": "2026-08-24T14:23:09+00:00"
     },
     {
       "source": "BBC",
@@ -38,11 +58,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Venice adds Gaza documentary by Oscar-winning team to main competition",
-      "published_at": "2026-08-24T13:32:52+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
       "published_at": "2026-08-24T13:31:53+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
       "published_at": "2026-08-24T13:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India says economic cooperation with Russia has grown very significantly",
-      "published_at": "2026-08-24T12:30:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
-      "published_at": "2026-08-24T12:26:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "New Zealand to introduce bill for under-16s social media ban",
-      "published_at": "2026-08-24T12:17:34+00:00"
     }
   ]
 }
