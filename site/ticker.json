@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-08-24T09:58:38+00:00",
+  "updated_at": "2026-08-24T10:49:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "published_at": "2026-08-24T10:40:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Access to Zambian courts prevented as election petition deadline looms",
+      "published_at": "2026-08-24T10:22:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "published_at": "2026-08-24T10:08:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India does not have sugar shortage, industry official says",
+      "published_at": "2026-08-24T10:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "published_at": "2026-08-24T10:05:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
+      "published_at": "2026-08-24T10:03:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
+      "published_at": "2026-08-24T10:00:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China says Middle East at critical point, calls for cooling tensions and dialogue",
+      "published_at": "2026-08-24T09:59:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale",
       "published_at": "2026-08-24T09:48:30+00:00"
     },
     {
+      "source": "BBC",
+      "text": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "published_at": "2026-08-24T09:47:22+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Washington, D.C.'s first IndyCar race packed the National Mall",
       "published_at": "2026-08-24T09:36:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe stitches together plan to close the loop in the fashion industry",
+      "published_at": "2026-08-24T09:26:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say",
+      "published_at": "2026-08-24T09:14:28+00:00"
     },
     {
       "source": "BBC",
@@ -20,61 +75,6 @@
       "source": "NPR",
       "text": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
       "published_at": "2026-08-24T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-      "published_at": "2026-08-24T08:53:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say",
-      "published_at": "2026-08-24T08:46:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-24T08:46:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran warns vessels violating Hormuz transit rules of fines, detention",
-      "published_at": "2026-08-24T08:45:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
-      "published_at": "2026-08-24T08:41:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "published_at": "2026-08-24T08:34:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four arrested over boxing champion's murder in South Africa",
-      "published_at": "2026-08-24T08:32:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "King of Norway's health has worsened, palace says",
-      "published_at": "2026-08-24T08:31:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine wants peace but won't give in, Zelenskiy says on Independence Day",
-      "published_at": "2026-08-24T08:31:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Alibaba's $10 bln share sale starts AI countdown",
-      "published_at": "2026-08-24T08:04:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trabzonspor set to sign Fabinho on free transfer",
-      "published_at": "2026-08-24T07:23:45+00:00"
     }
   ]
 }
