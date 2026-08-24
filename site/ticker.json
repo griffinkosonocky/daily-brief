@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-24T08:59:41+00:00",
+  "updated_at": "2026-08-24T09:58:38+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale",
+      "published_at": "2026-08-24T09:48:30+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Washington, D.C.'s first IndyCar race packed the National Mall",
+      "published_at": "2026-08-24T09:36:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Guinea rubbish landfill collapse kills 31",
+      "published_at": "2026-08-24T09:03:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
+      "published_at": "2026-08-24T09:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
@@ -8,8 +28,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say",
+      "published_at": "2026-08-24T08:46:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-24T08:46:05+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Iran warns vessels violating Hormuz transit rules of fines, detention",
       "published_at": "2026-08-24T08:45:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Wildfire seen near Reno as tens of thousands told to evacuate",
+      "published_at": "2026-08-24T08:41:11+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Ukraine wants peace but won't give in, Zelenskiy says on Independence Day",
+      "published_at": "2026-08-24T08:31:30+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Breakingviews - Alibaba's $10 bln share sale starts AI countdown",
-      "published_at": "2026-08-24T08:03:45+00:00"
+      "published_at": "2026-08-24T08:04:40+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trabzonspor set to sign Fabinho on free transfer",
       "published_at": "2026-08-24T07:23:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Shein aims for almost $27bn valuation in stock market debut",
-      "published_at": "2026-08-24T07:00:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "published_at": "2026-08-24T06:55:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen workers criticise board's communication",
-      "published_at": "2026-08-24T06:32:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-      "published_at": "2026-08-24T06:22:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU approves further €6.1 billion for Ukraine's defence",
-      "published_at": "2026-08-24T06:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Shein fashions bizarre upside-down IPO",
-      "published_at": "2026-08-24T06:12:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US refiners face historic stress test as global crisis looms",
-      "published_at": "2026-08-24T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US LNG exports set for endurance test as high gas prices bite",
-      "published_at": "2026-08-24T06:00:00+00:00"
     }
   ]
 }
