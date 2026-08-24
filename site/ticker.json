@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-24T16:51:28+00:00",
+  "updated_at": "2026-08-24T17:40:23+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "published_at": "2026-08-24T17:29:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "published_at": "2026-08-24T17:24:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraq's Australian coach Arnold renews contract for six months",
+      "published_at": "2026-08-24T16:38:10+00:00"
+    },
     {
       "source": "Reuters",
       "text": "World Cup winners, FIFA legends say Infantino blinded by power",
@@ -10,6 +25,11 @@
       "source": "Reuters",
       "text": "Gang attack near Haiti's capital leaves 30 dead",
       "published_at": "2026-08-24T16:24:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Video appears to show 600 people abducted in Nigeria mosque attack, residents say",
+      "published_at": "2026-08-24T16:11:57+00:00"
     },
     {
       "source": "Reuters",
@@ -23,13 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports",
-      "published_at": "2026-08-24T16:04:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-24T15:54:16+00:00"
+      "text": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu",
+      "published_at": "2026-08-24T15:51:27+00:00"
     },
     {
       "source": "BBC",
@@ -38,18 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
-      "published_at": "2026-08-24T15:10:59+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "New Zealand's Mo’unga returns to stake World Cup claims",
       "published_at": "2026-08-24T14:37:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen workers criticise board's communication",
-      "published_at": "2026-08-24T14:30:35+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
       "published_at": "2026-08-24T13:45:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "published_at": "2026-08-24T13:35:07+00:00"
     }
   ]
 }
