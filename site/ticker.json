@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-23T23:31:34+00:00",
+  "updated_at": "2026-08-24T01:53:54+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Inflow cushion to anchor rupee against month-end flows; bonds track oil, Treasuries",
+      "published_at": "2026-08-24T01:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
+      "published_at": "2026-08-24T01:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "KPMG Australia plans to cut 5% of jobs, warns soft conditions to persist",
+      "published_at": "2026-08-24T01:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports",
+      "published_at": "2026-08-24T00:11:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno",
+      "published_at": "2026-08-23T23:27:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
+      "published_at": "2026-08-23T23:12:32+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-      "published_at": "2026-08-23T23:00:07+00:00"
+      "published_at": "2026-08-23T23:09:09+00:00"
     },
     {
       "source": "Reuters",
@@ -43,38 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Health of Norway's king deteriorates while in hospital, palace says",
-      "published_at": "2026-08-23T18:07:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Jefferson-Wooden beats Alfred in Silesia, Seville takes men's sprint",
       "published_at": "2026-08-23T18:03:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "France links sharp rise in drownings to heatwaves",
-      "published_at": "2026-08-23T17:39:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Thousands in northwest Indiana still without power nearly two weeks after storm",
-      "published_at": "2026-08-23T16:55:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's AfD eyes Saxony-Anhalt win as first step toward federal power",
-      "published_at": "2026-08-23T16:43:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-      "published_at": "2026-08-23T16:15:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Frustration builds in Indiana town struggling without power for 12 days",
-      "published_at": "2026-08-23T15:54:32+00:00"
     }
   ]
 }
