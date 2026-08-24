@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-24T03:12:39+00:00",
+  "updated_at": "2026-08-24T04:56:55+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says",
+      "published_at": "2026-08-24T04:42:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "From Australia to Europe, countries move to curb children's social media access",
+      "published_at": "2026-08-24T04:35:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Shein aims for almost $27bn valuation in stock market debut",
+      "published_at": "2026-08-24T04:06:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "published_at": "2026-08-24T03:55:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+      "published_at": "2026-08-24T03:47:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "published_at": "2026-08-24T03:27:11+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Inflow cushion to anchor rupee against month-end flows; bonds track oil, Treasuries",
@@ -13,7 +43,7 @@
     },
     {
       "source": "Reuters",
-      "text": "KPMG Australia plans to cut 5% of jobs, warns soft conditions to persist",
+      "text": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
       "published_at": "2026-08-24T01:02:00+00:00"
     },
     {
@@ -23,8 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Samsung Electronics shares fall after shareholder return announcement",
+      "text": "Samsung Electronics shares skid as record shareholder returns disappoint",
       "published_at": "2026-08-24T00:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil falls as US prepares to unveil new Iran sanctions",
+      "published_at": "2026-08-23T23:18:00+00:00"
     },
     {
       "source": "Reuters",
@@ -37,44 +72,9 @@
       "published_at": "2026-08-23T23:09:09+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Learning to live in a post-American world",
-      "published_at": "2026-08-23T21:21:23+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Trump waves green flag to start IndyCar race through Washington streets",
-      "published_at": "2026-08-23T20:19:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli airstrike hits Gaza's Zawayda, causing massive destruction",
-      "published_at": "2026-08-23T20:01:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New pro-presidential party wins large majority in Kazakh election, exit polls show",
-      "published_at": "2026-08-23T19:28:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "published_at": "2026-08-23T19:11:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Landslide at Guinea landfill kills 30, government says",
-      "published_at": "2026-08-23T19:03:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Guinea rubbish landfill collapse kills 30",
-      "published_at": "2026-08-23T18:17:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "published_at": "2026-08-23T18:16:16+00:00"
+      "text": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "published_at": "2026-08-23T23:07:10+00:00"
     }
   ]
 }
