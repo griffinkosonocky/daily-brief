@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-24T20:43:42+00:00",
+  "updated_at": "2026-08-24T21:39:05+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says",
-      "published_at": "2026-08-24T19:43:43+00:00"
+      "text": "US Supreme Court lifts a judicial hurdle to Trump's mail-in ballot curbs",
+      "published_at": "2026-08-24T21:19:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TRADING DAY Tech, tariffs & Treasuries",
+      "published_at": "2026-08-24T21:12:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
+      "published_at": "2026-08-24T21:08:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US plans to revoke tourism and business visas of up to 200,000 foreigners, AP reports",
+      "published_at": "2026-08-24T21:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain, France pledge stronger support as Ukraine marks Independence Day",
+      "published_at": "2026-08-24T20:54:25+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "published_at": "2026-08-24T20:53:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gang attack on hillside town near Haiti's capital leaves 30 dead",
+      "published_at": "2026-08-24T20:31:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German state leader urges joint action to avert Volkswagen plant closures",
+      "published_at": "2026-08-24T20:24:51+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Altria, Philip Morris International sign contract manufacturing deals",
       "published_at": "2026-08-24T18:01:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-24T17:29:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "published_at": "2026-08-24T17:24:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Mark Carney sensibly avoids stepping in fertilizer",
-      "published_at": "2026-08-24T17:06:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada to spend C$11 billion to build six new icebreakers, Carney says",
-      "published_at": "2026-08-24T16:31:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup winners, FIFA legends say Infantino blinded by power",
-      "published_at": "2026-08-24T16:29:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Miners support FTSE 100 as investors eye key events",
-      "published_at": "2026-08-24T16:10:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports",
-      "published_at": "2026-08-24T16:04:15+00:00"
     }
   ]
 }
