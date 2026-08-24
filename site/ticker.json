@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-08-24T13:08:47+00:00",
+  "updated_at": "2026-08-24T14:54:35+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Drone hits Dagestan logistics hub belonging to Russia's Ozon",
-      "published_at": "2026-08-24T12:34:57+00:00"
+      "text": "New Zealand's Mo’unga returns to stake World Cup claims",
+      "published_at": "2026-08-24T14:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump threatens 50% tariffs on all cars and trucks amid Canada trade spat",
+      "published_at": "2026-08-24T14:28:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold rally gains momentum ahead of US inflation, Jackson Hole event",
+      "published_at": "2026-08-24T14:08:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Access to Zambian courts prevented as election petition deadline looms",
+      "published_at": "2026-08-24T14:02:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "published_at": "2026-08-24T13:56:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
+      "published_at": "2026-08-24T13:45:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T13:35:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venice adds Gaza documentary by Oscar-winning team to main competition",
+      "published_at": "2026-08-24T13:32:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
+      "published_at": "2026-08-24T13:31:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "published_at": "2026-08-24T13:14:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Move over, Warsh. Treasury's Bessent also has a credibility problem",
+      "published_at": "2026-08-24T13:04:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
+      "published_at": "2026-08-24T13:00:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "India says economic cooperation with Russia has grown very significantly",
       "published_at": "2026-08-24T12:30:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico's economy grows 1.4% in Q2 from previous quarter",
-      "published_at": "2026-08-24T12:27:45+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "New Zealand to introduce bill for under-16s social media ban",
       "published_at": "2026-08-24T12:17:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Oil’s elevated price could yet become a floor",
-      "published_at": "2026-08-24T12:11:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Miners support UK stocks as investors eye key events",
-      "published_at": "2026-08-24T11:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's TCS to buy Porsche's IT unit for enterprise value of $373 million",
-      "published_at": "2026-08-24T11:45:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "published_at": "2026-08-24T11:27:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Guinea rubbish landfill collapse kills 31",
-      "published_at": "2026-08-24T11:26:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China says Middle East at critical point, calls for cooling tensions and dialogue",
-      "published_at": "2026-08-24T11:20:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Access to Zambian courts prevented as election petition deadline looms",
-      "published_at": "2026-08-24T11:17:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
-      "published_at": "2026-08-24T11:15:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four arrested over suspected poisoning of elephants in Kenya",
-      "published_at": "2026-08-24T11:08:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
-      "published_at": "2026-08-24T10:49:47+00:00"
     }
   ]
 }
