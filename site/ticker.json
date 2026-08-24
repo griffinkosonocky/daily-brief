@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-24T07:15:40+00:00",
+  "updated_at": "2026-08-24T08:59:41+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+      "published_at": "2026-08-24T08:53:36+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "GSK scores regulatory wins for chronic hepatitis B drug, cancer therapy",
-      "published_at": "2026-08-24T07:11:29+00:00"
+      "text": "Iran warns vessels violating Hormuz transit rules of fines, detention",
+      "published_at": "2026-08-24T08:45:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "published_at": "2026-08-24T08:34:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four arrested over boxing champion's murder in South Africa",
+      "published_at": "2026-08-24T08:32:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "King of Norway's health has worsened, palace says",
+      "published_at": "2026-08-24T08:31:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Alibaba's $10 bln share sale starts AI countdown",
+      "published_at": "2026-08-24T08:03:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trabzonspor set to sign Fabinho on free transfer",
+      "published_at": "2026-08-24T07:23:45+00:00"
     },
     {
       "source": "BBC",
@@ -18,13 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "South African rand holds near multi-month high as Iran sanctions loom",
-      "published_at": "2026-08-24T06:54:00+00:00"
+      "text": "Volkswagen workers criticise board's communication",
+      "published_at": "2026-08-24T06:32:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Volkswagen workers criticise board's communication",
-      "published_at": "2026-08-24T06:32:00+00:00"
+      "text": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+      "published_at": "2026-08-24T06:22:00+00:00"
     },
     {
       "source": "Reuters",
@@ -38,43 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
-      "published_at": "2026-08-24T06:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US refiners face historic stress test as global crisis looms",
       "published_at": "2026-08-24T06:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "China probes use of formaldehyde to keep cabbages fresh",
-      "published_at": "2026-08-24T05:40:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian shark attack victim grateful for 'second chance at life'",
-      "published_at": "2026-08-24T05:31:53+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Breakingviews - Alibaba's $10 bln share sale starts AI countdown",
-      "published_at": "2026-08-24T05:03:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nearly three million Teslas recalled in China over hidden door handles",
-      "published_at": "2026-08-24T05:01:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "published_at": "2026-08-24T05:00:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says",
-      "published_at": "2026-08-24T04:42:00+00:00"
+      "text": "US LNG exports set for endurance test as high gas prices bite",
+      "published_at": "2026-08-24T06:00:00+00:00"
     }
   ]
 }
