@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-24T04:56:55+00:00",
+  "updated_at": "2026-08-24T05:49:33+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Australian shark attack victim grateful for 'second chance at life'",
+      "published_at": "2026-08-24T05:31:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+      "published_at": "2026-08-24T05:16:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Shein aims for almost $27bn valuation in stock market debut",
+      "published_at": "2026-08-24T05:09:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Alibaba's $10 bln share sale starts AI countdown",
+      "published_at": "2026-08-24T05:03:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly three million Teslas recalled in China over hidden door handles",
+      "published_at": "2026-08-24T05:01:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "published_at": "2026-08-24T05:00:22+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says",
@@ -12,9 +42,9 @@
       "published_at": "2026-08-24T04:35:53+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Shein aims for almost $27bn valuation in stock market debut",
-      "published_at": "2026-08-24T04:06:54+00:00"
+      "source": "Reuters",
+      "text": "Mixing economic wars, trade wars and actual wars",
+      "published_at": "2026-08-24T04:34:00+00:00"
     },
     {
       "source": "BBC",
@@ -25,11 +55,6 @@
       "source": "NPR",
       "text": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
       "published_at": "2026-08-24T03:47:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "published_at": "2026-08-24T03:27:11+00:00"
     },
     {
       "source": "Reuters",
@@ -47,34 +72,9 @@
       "published_at": "2026-08-24T01:02:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Australian shark attack victim grateful for 'second chance at life'",
-      "published_at": "2026-08-24T00:34:59+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Samsung Electronics shares skid as record shareholder returns disappoint",
       "published_at": "2026-08-24T00:18:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil falls as US prepares to unveil new Iran sanctions",
-      "published_at": "2026-08-23T23:18:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
-      "published_at": "2026-08-23T23:12:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-      "published_at": "2026-08-23T23:09:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "published_at": "2026-08-23T23:07:10+00:00"
     }
   ]
 }
