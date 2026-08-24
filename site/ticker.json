@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-24T19:38:13+00:00",
+  "updated_at": "2026-08-24T20:43:42+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says",
+      "published_at": "2026-08-24T19:43:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+      "published_at": "2026-08-24T19:35:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
+      "published_at": "2026-08-24T19:35:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trabzonspor sign Brazil's Fabinho for two years on free transfer",
+      "published_at": "2026-08-24T19:28:39+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "published_at": "2026-08-24T19:12:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel's Netanyahu says Iran tried to kill one of his sons",
+      "published_at": "2026-08-24T18:54:22+00:00"
     },
     {
       "source": "Reuters",
@@ -15,11 +40,6 @@
       "source": "Reuters",
       "text": "Altria, Philip Morris International sign contract manufacturing deals",
       "published_at": "2026-08-24T18:01:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US removes Syria's designation as State Sponsor of Terrorism list",
-      "published_at": "2026-08-24T17:54:47+00:00"
     },
     {
       "source": "BBC",
@@ -33,18 +53,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Italy's banking shake-up: all the M&A deals since 2025",
-      "published_at": "2026-08-24T17:15:22+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Breakingviews - Mark Carney sensibly avoids stepping in fertilizer",
       "published_at": "2026-08-24T17:06:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraq's Australian coach Arnold renews contract for six months",
-      "published_at": "2026-08-24T16:38:10+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports",
       "published_at": "2026-08-24T16:04:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "published_at": "2026-08-24T15:14:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Supermaxing prisons protected by minimum security",
-      "published_at": "2026-08-24T15:11:38+00:00"
     }
   ]
 }
