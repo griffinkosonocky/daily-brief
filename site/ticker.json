@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T01:53:54+00:00",
+  "updated_at": "2026-08-24T03:12:39+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -17,14 +17,14 @@
       "published_at": "2026-08-24T01:02:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports",
-      "published_at": "2026-08-24T00:11:00+00:00"
+      "source": "BBC",
+      "text": "Australian shark attack victim grateful for 'second chance at life'",
+      "published_at": "2026-08-24T00:34:59+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno",
-      "published_at": "2026-08-23T23:27:57+00:00"
+      "text": "Samsung Electronics shares fall after shareholder return announcement",
+      "published_at": "2026-08-24T00:18:00+00:00"
     },
     {
       "source": "Reuters",
@@ -37,9 +37,9 @@
       "published_at": "2026-08-23T23:09:09+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Landslide at Guinea landfill kills 30, government says",
-      "published_at": "2026-08-23T21:45:43+00:00"
+      "source": "NPR",
+      "text": "Learning to live in a post-American world",
+      "published_at": "2026-08-23T21:21:23+00:00"
     },
     {
       "source": "BBC",
@@ -62,6 +62,11 @@
       "published_at": "2026-08-23T19:11:30+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Landslide at Guinea landfill kills 30, government says",
+      "published_at": "2026-08-23T19:03:00+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Guinea rubbish landfill collapse kills 30",
       "published_at": "2026-08-23T18:17:37+00:00"
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Iran says new sanctions threatened by 'desperate' US will fail",
       "published_at": "2026-08-23T18:16:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jefferson-Wooden beats Alfred in Silesia, Seville takes men's sprint",
-      "published_at": "2026-08-23T18:03:06+00:00"
     }
   ]
 }
