@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-24T17:40:23+00:00",
+  "updated_at": "2026-08-24T18:54:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T18:39:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
+      "published_at": "2026-08-24T18:20:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
+      "published_at": "2026-08-24T18:00:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tunisian hospital receives 19 bodies after migrant boat sinks",
+      "published_at": "2026-08-24T17:50:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
@@ -13,23 +33,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Italy's banking shake-up: all the M&A deals since 2025",
+      "published_at": "2026-08-24T17:15:22+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Iraq's Australian coach Arnold renews contract for six months",
       "published_at": "2026-08-24T16:38:10+00:00"
     },
     {
       "source": "Reuters",
+      "text": "Canada to spend C$11 billion to build six new icebreakers, Carney says",
+      "published_at": "2026-08-24T16:31:14+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "World Cup winners, FIFA legends say Infantino blinded by power",
       "published_at": "2026-08-24T16:29:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gang attack near Haiti's capital leaves 30 dead",
-      "published_at": "2026-08-24T16:24:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Video appears to show 600 people abducted in Nigeria mosque attack, residents say",
-      "published_at": "2026-08-24T16:11:57+00:00"
     },
     {
       "source": "Reuters",
@@ -43,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu",
-      "published_at": "2026-08-24T15:51:27+00:00"
+      "text": "Shares dip on pressure from technology; yields and oil fall",
+      "published_at": "2026-08-24T15:49:43+00:00"
     },
     {
       "source": "BBC",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "New Zealand's Mo’unga returns to stake World Cup claims",
-      "published_at": "2026-08-24T14:37:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway will drill in Arctic regardless of EU's position, says energy minister",
-      "published_at": "2026-08-24T14:23:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Access to Zambian courts prevented as election petition deadline looms",
-      "published_at": "2026-08-24T14:02:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "published_at": "2026-08-24T13:56:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
-      "published_at": "2026-08-24T13:45:32+00:00"
+      "text": "Breakingviews - Supermaxing prisons protected by minimum security",
+      "published_at": "2026-08-24T15:11:38+00:00"
     }
   ]
 }
