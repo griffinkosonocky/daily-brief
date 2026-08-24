@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-24T11:02:33+00:00",
+  "updated_at": "2026-08-24T11:38:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Oil’s elevated price could yet become a floor",
+      "published_at": "2026-08-24T11:30:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+      "published_at": "2026-08-24T11:27:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Guinea rubbish landfill collapse kills 31",
+      "published_at": "2026-08-24T11:26:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "published_at": "2026-08-24T11:25:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China says Middle East at critical point, calls for cooling tensions and dialogue",
+      "published_at": "2026-08-24T11:20:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Access to Zambian courts prevented as election petition deadline looms",
+      "published_at": "2026-08-24T11:17:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four arrested over suspected poisoning of elephants in Kenya",
+      "published_at": "2026-08-24T11:08:27+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation",
@@ -13,18 +48,13 @@
     },
     {
       "source": "BBC",
-      "text": "Access to Zambian courts prevented as election petition deadline looms",
-      "published_at": "2026-08-24T10:22:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "published_at": "2026-08-24T10:08:40+00:00"
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T10:39:23+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India does not have sugar shortage, industry official says",
-      "published_at": "2026-08-24T10:05:43+00:00"
+      "text": "Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale",
+      "published_at": "2026-08-24T10:18:30+00:00"
     },
     {
       "source": "BBC",
@@ -32,18 +62,8 @@
       "published_at": "2026-08-24T10:05:22+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "China says Middle East at critical point, calls for cooling tensions and dialogue",
-      "published_at": "2026-08-24T09:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale",
-      "published_at": "2026-08-24T09:48:30+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "text": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "published_at": "2026-08-24T09:47:22+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Europe stitches together plan to close the loop in the fashion industry",
       "published_at": "2026-08-24T09:26:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say",
-      "published_at": "2026-08-24T09:14:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Guinea rubbish landfill collapse kills 31",
-      "published_at": "2026-08-24T09:03:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
-      "published_at": "2026-08-24T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-      "published_at": "2026-08-24T08:53:36+00:00"
     }
   ]
 }
