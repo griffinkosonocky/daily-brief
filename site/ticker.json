@@ -1,25 +1,30 @@
 {
-  "updated_at": "2026-08-25T07:54:42+00:00",
+  "updated_at": "2026-08-25T08:54:50+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-08-25T08:44:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "published_at": "2026-08-25T08:08:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lego sales rise as World Cup products draw new customers",
+      "published_at": "2026-08-25T07:50:09+00:00"
+    },
     {
       "source": "BBC",
       "text": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
       "published_at": "2026-08-25T07:39:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Lego sales rise as World Cup products draw new customers",
-      "published_at": "2026-08-25T07:02:40+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Lockerbie bombing trial postponed days before it was due to start",
       "published_at": "2026-08-25T06:59:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "published_at": "2026-08-25T06:54:46+00:00"
     },
     {
       "source": "Reuters",
@@ -33,7 +38,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Germany's Q2 economic growth at 0.3%, surpassing initial estimate",
+      "text": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
+      "published_at": "2026-08-25T06:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany's Q2 economic growth surpasses initial estimate on exports",
       "published_at": "2026-08-25T06:06:00+00:00"
     },
     {
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Australian bank investors brace for tough times as mortgage demand plummets",
       "published_at": "2026-08-25T04:58:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-      "published_at": "2026-08-25T04:56:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Songs created by AI banned from Australia's music charts",
-      "published_at": "2026-08-25T04:54:01+00:00"
     }
   ]
 }
