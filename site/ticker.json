@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-08-25T05:41:56+00:00",
+  "updated_at": "2026-08-25T07:03:53+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Lockerbie bombing trial postponed days before it was due to start",
+      "published_at": "2026-08-25T06:59:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "published_at": "2026-08-25T06:54:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T06:47:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Sinopec boss presses reset for world's biggest oil refiner",
+      "published_at": "2026-08-25T06:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The US fiscal hole has an AI problem at its core",
+      "published_at": "2026-08-25T06:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
       "published_at": "2026-08-25T05:24:16+00:00"
     },
     {
-      "source": "NPR",
-      "text": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "published_at": "2026-08-25T05:14:03+00:00"
+      "source": "Reuters",
+      "text": "Gold Fields posts 81% jump in half-year profit, boosts dividend",
+      "published_at": "2026-08-25T05:19:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Six months into Iran war, almost half of global oil flows from war zones",
-      "published_at": "2026-08-25T05:05:00+00:00"
+      "text": "Zara clothing supplier Pearl Global evaluates Africa expansion as Europe demand grows",
+      "published_at": "2026-08-25T05:16:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "published_at": "2026-08-25T05:14:03+00:00"
     },
     {
       "source": "Reuters",
@@ -38,43 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Insight: India wanted red flags on chip packets and soda. Big Food fought back.",
-      "published_at": "2026-08-25T04:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold retreats from three-month high as investors await US inflation data",
-      "published_at": "2026-08-25T03:55:55+00:00"
+      "text": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "published_at": "2026-08-25T04:40:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-      "published_at": "2026-08-25T03:50:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank likely intervenes to keep lid on rupee weakness, traders say",
-      "published_at": "2026-08-25T03:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New Zealand's main opposition party supports social media ban for under-16s",
-      "published_at": "2026-08-25T03:26:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "NZ religious sect leader jailed over death of Chinese follower",
-      "published_at": "2026-08-25T03:07:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Canada could hit back to hurt the US economy - and Trump",
-      "published_at": "2026-08-25T02:49:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares subdued as Middle East tensions persist, Nifty expiry looms",
-      "published_at": "2026-08-25T02:22:00+00:00"
+      "text": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "published_at": "2026-08-25T04:06:34+00:00"
     }
   ]
 }
