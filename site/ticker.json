@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-25T14:01:28+00:00",
+  "updated_at": "2026-08-25T14:58:12+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Two unvaccinated people die of measles in Pennsylvania",
+      "published_at": "2026-08-25T14:54:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Several states will decide voter ID ballot measures this year",
+      "published_at": "2026-08-25T14:40:36+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-25T13:30:53+00:00"
+      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
+      "published_at": "2026-08-25T13:41:39+00:00"
     },
     {
       "source": "Reuters",
@@ -23,18 +33,18 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
-      "published_at": "2026-08-25T12:51:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
-      "published_at": "2026-08-25T12:45:49+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Kenya Airways first-half pretax loss 16.1 billion shillings",
       "published_at": "2026-08-25T12:22:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ghana bars unrefined artisanal gold dore exports from September 1",
+      "published_at": "2026-08-25T11:55:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Brain disease in dead NFL players 'higher than previously shown'",
+      "published_at": "2026-08-25T11:54:40+00:00"
     },
     {
       "source": "BBC",
@@ -53,11 +63,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Canadian lenders BMO, Scotiabank beat profit estimates",
-      "published_at": "2026-08-25T11:32:52+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
       "published_at": "2026-08-25T11:30:35+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Indian police use water cannon at new protest over test paper leaks",
       "published_at": "2026-08-25T10:59:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
-      "published_at": "2026-08-25T10:57:45+00:00"
     }
   ]
 }
