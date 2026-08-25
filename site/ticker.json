@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-08-25T11:37:40+00:00",
+  "updated_at": "2026-08-25T13:06:29+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
-      "published_at": "2026-08-25T11:15:44+00:00"
+      "text": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
+      "published_at": "2026-08-25T12:45:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
+      "published_at": "2026-08-25T12:37:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kenya Airways first-half pretax loss 16.1 billion shillings",
+      "published_at": "2026-08-25T12:22:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T12:00:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lockerbie bombing trial postponed days before it was due to start",
+      "published_at": "2026-08-25T11:54:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China warns it will protect its interests after US widens sanctions against Iran",
+      "published_at": "2026-08-25T11:53:36+00:00"
     },
     {
       "source": "Reuters",
       "text": "Breakingviews - Prosus is struggling to shed Tencent shadow",
-      "published_at": "2026-08-25T11:13:56+00:00"
+      "published_at": "2026-08-25T11:36:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
+      "published_at": "2026-08-25T11:30:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India wanted red flags on chip packets and soda. Big Food fought back.",
+      "published_at": "2026-08-25T11:21:07+00:00"
     },
     {
       "source": "NPR",
@@ -23,13 +58,13 @@
     },
     {
       "source": "Reuters",
-      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
-      "published_at": "2026-08-25T10:57:43+00:00"
+      "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
+      "published_at": "2026-08-25T10:57:45+00:00"
     },
     {
-      "source": "BBC",
-      "text": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "published_at": "2026-08-25T10:56:03+00:00"
+      "source": "Reuters",
+      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
+      "published_at": "2026-08-25T10:57:43+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
       "published_at": "2026-08-25T10:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-      "published_at": "2026-08-25T10:27:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Economic salvos",
-      "published_at": "2026-08-25T10:22:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "published_at": "2026-08-25T09:50:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US firefighters say major blaze near Reno about a quarter contained",
-      "published_at": "2026-08-25T09:49:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New installations emerge on islet as China accelerates South China Sea build-up",
-      "published_at": "2026-08-25T09:42:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lockerbie bombing trial postponed days before it was due to start",
-      "published_at": "2026-08-25T09:08:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-      "published_at": "2026-08-25T09:07:09+00:00"
     }
   ]
 }
