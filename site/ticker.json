@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-25T08:54:50+00:00",
+  "updated_at": "2026-08-25T09:47:32+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says",
+      "published_at": "2026-08-25T09:08:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lockerbie bombing trial postponed days before it was due to start",
+      "published_at": "2026-08-25T09:08:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "published_at": "2026-08-25T09:07:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How to understand this heat wave (as told by NPR's senior climate editor)",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "When is suspending students discrimination? Education Dept. renews an old fight",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Morning news brief",
@@ -12,19 +57,9 @@
       "published_at": "2026-08-25T08:08:26+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Lego sales rise as World Cup products draw new customers",
-      "published_at": "2026-08-25T07:50:09+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
       "published_at": "2026-08-25T07:39:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lockerbie bombing trial postponed days before it was due to start",
-      "published_at": "2026-08-25T06:59:03+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
       "published_at": "2026-08-25T06:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's Q2 economic growth surpasses initial estimate on exports",
-      "published_at": "2026-08-25T06:06:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The US fiscal hole has an AI problem at its core",
-      "published_at": "2026-08-25T06:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "published_at": "2026-08-25T05:24:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold Fields posts 81% jump in half-year profit, boosts dividend",
-      "published_at": "2026-08-25T05:19:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "published_at": "2026-08-25T05:14:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Death of the consumer conglomerate? Unilever bets less is more",
-      "published_at": "2026-08-25T05:03:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australian bank investors brace for tough times as mortgage demand plummets",
-      "published_at": "2026-08-25T04:58:00+00:00"
     }
   ]
 }
