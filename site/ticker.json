@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-25T20:40:26+00:00",
+  "updated_at": "2026-08-25T21:38:29+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Oil, yields slide",
+      "published_at": "2026-08-25T21:26:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+      "published_at": "2026-08-25T20:47:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dolly Parton, queen of country music, dies at 80",
+      "published_at": "2026-08-25T20:45:03+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Why Trump's mail-in ballot order will likely head back to the courts",
@@ -32,11 +47,6 @@
       "published_at": "2026-08-25T18:17:32+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US FAA says antenna relocated after Marine One safety incident",
-      "published_at": "2026-08-25T18:16:10+00:00"
-    },
-    {
       "source": "NPR",
       "text": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
       "published_at": "2026-08-25T18:15:23+00:00"
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Two unvaccinated people die of measles in Pennsylvania",
       "published_at": "2026-08-25T16:43:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "published_at": "2026-08-25T16:40:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "European rights court orders Turkey to free imprisoned businessman",
-      "published_at": "2026-08-25T15:58:20+00:00"
     }
   ]
 }
