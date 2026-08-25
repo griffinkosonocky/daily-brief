@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-25T19:40:53+00:00",
+  "updated_at": "2026-08-25T20:40:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Why Trump's mail-in ballot order will likely head back to the courts",
+      "published_at": "2026-08-25T20:28:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "published_at": "2026-08-25T19:50:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "published_at": "2026-08-25T19:48:14+00:00"
+    },
     {
       "source": "BBC",
       "text": "Mass arrests in global crackdown on West African cyber-crime networks",
@@ -17,29 +32,29 @@
       "published_at": "2026-08-25T18:17:32+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US FAA says antenna relocated after Marine One safety incident",
+      "published_at": "2026-08-25T18:16:10+00:00"
+    },
+    {
       "source": "NPR",
       "text": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
       "published_at": "2026-08-25T18:15:23+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "published_at": "2026-08-25T17:54:03+00:00"
+      "source": "Reuters",
+      "text": "Nigeria's president orders rescue after mass kidnapping exposes security failings",
+      "published_at": "2026-08-25T18:01:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gaza parents urged to stop children flying kites after Israel warning to Hamas",
-      "published_at": "2026-08-25T17:28:41+00:00"
+      "text": "Explainer: The super peso is back — and it's starting to hurt",
+      "published_at": "2026-08-25T17:37:07+00:00"
     },
     {
       "source": "Reuters",
       "text": "Breakingviews - Gluemaker clash betrays sticky activism era",
       "published_at": "2026-08-25T17:01:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "published_at": "2026-08-25T16:56:20+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "European rights court orders Turkey to free imprisoned businessman",
       "published_at": "2026-08-25T15:58:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dick's Sporting cuts forecasts as weak sneaker demand trips Foot Locker, shares plunge",
-      "published_at": "2026-08-25T15:22:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-      "published_at": "2026-08-25T15:20:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "published_at": "2026-08-25T15:18:50+00:00"
     }
   ]
 }
