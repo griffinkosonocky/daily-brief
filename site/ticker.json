@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-25T21:38:29+00:00",
+  "updated_at": "2026-08-25T22:39:24+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
+      "published_at": "2026-08-25T21:32:19+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trading Day: Oil, yields slide",
@@ -35,11 +40,6 @@
       "source": "BBC",
       "text": "Mass arrests in global crackdown on West African cyber-crime networks",
       "published_at": "2026-08-25T19:30:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
-      "published_at": "2026-08-25T18:49:43+00:00"
     },
     {
       "source": "NPR",
