@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-25T13:06:29+00:00",
+  "updated_at": "2026-08-25T14:01:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T13:30:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World braces as Trump's Canada tariff stand-off escalates",
+      "published_at": "2026-08-25T13:09:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wallabies looking for confidence-boosting success in Argentina",
+      "published_at": "2026-08-25T13:08:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
+      "published_at": "2026-08-25T13:03:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
+      "published_at": "2026-08-25T12:51:41+00:00"
+    },
     {
       "source": "Reuters",
       "text": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
@@ -8,18 +33,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
-      "published_at": "2026-08-25T12:37:47+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Kenya Airways first-half pretax loss 16.1 billion shillings",
       "published_at": "2026-08-25T12:22:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-25T12:00:44+00:00"
     },
     {
       "source": "BBC",
@@ -28,7 +43,7 @@
     },
     {
       "source": "BBC",
-      "text": "China warns it will protect its interests after US widens sanctions against Iran",
+      "text": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "published_at": "2026-08-25T11:53:36+00:00"
     },
     {
@@ -38,13 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
-      "published_at": "2026-08-25T11:30:35+00:00"
+      "text": "Canadian lenders BMO, Scotiabank beat profit estimates",
+      "published_at": "2026-08-25T11:32:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India wanted red flags on chip packets and soda. Big Food fought back.",
-      "published_at": "2026-08-25T11:21:07+00:00"
+      "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
+      "published_at": "2026-08-25T11:30:35+00:00"
     },
     {
       "source": "NPR",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
       "published_at": "2026-08-25T10:57:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
-      "published_at": "2026-08-25T10:57:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
-      "published_at": "2026-08-25T10:45:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-      "published_at": "2026-08-25T10:30:00+00:00"
     }
   ]
 }
