@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-25T03:08:37+00:00",
+  "updated_at": "2026-08-25T04:49:32+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Insight: India wanted red flags on chip packets and soda. Big Food fought back.",
+      "published_at": "2026-08-25T04:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "published_at": "2026-08-25T03:50:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "NZ religious sect leader jailed over death of Chinese follower",
+      "published_at": "2026-08-25T03:07:34+00:00"
+    },
     {
       "source": "BBC",
       "text": "How Canada could hit back to hurt the US economy - and Trump",
@@ -8,7 +23,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Indian shares seen lower as Mideast tensions persist, Nifty expiry looms",
+      "text": "Indian shares subdued as Middle East tensions persist, Nifty expiry looms",
       "published_at": "2026-08-25T02:22:00+00:00"
     },
     {
@@ -23,7 +38,7 @@
     },
     {
       "source": "Reuters",
-      "text": "China proposes road traffic law amendment with autonomous vehicles section, Xinhua says",
+      "text": "Indian economic growth likely slowed to 7.1% in April-June quarter - Reuters poll",
       "published_at": "2026-08-25T02:09:00+00:00"
     },
     {
@@ -38,6 +53,21 @@
     },
     {
       "source": "Reuters",
+      "text": "Iran vows to retaliate after US widens sanctions",
+      "published_at": "2026-08-25T00:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea's SK Hynix union members reject wage agreement in vote",
+      "published_at": "2026-08-25T00:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T00:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
       "published_at": "2026-08-25T00:33:00+00:00"
     },
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "US removes Syria from list of state sponsors of terrorism",
       "published_at": "2026-08-25T00:17:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Moment tornado tears through southern France",
-      "published_at": "2026-08-25T00:16:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-25T00:09:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nearly three million Teslas recalled in China over hidden door handles",
-      "published_at": "2026-08-24T23:53:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "published_at": "2026-08-24T23:48:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Caste divides make scorching summers harder in a parched corner of India",
-      "published_at": "2026-08-24T23:36:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Move over, Warsh. Treasury's Bessent also has a credibility problem",
-      "published_at": "2026-08-24T23:30:32+00:00"
     }
   ]
 }
