@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-08-24T23:31:06+00:00",
+  "updated_at": "2026-08-25T01:47:50+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "How Canada could hit back to hurt the US economy - and Trump",
+      "published_at": "2026-08-25T00:40:06+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Haiti gang raid leaves 30 dead, as residents demand stronger protections",
-      "published_at": "2026-08-24T22:24:11+00:00"
+      "text": "South Korea's SK Hynix union members reject wage agreement in vote",
+      "published_at": "2026-08-25T00:34:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US removes Syria from list of state sponsors of terrorism",
+      "published_at": "2026-08-25T00:17:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Moment tornado tears through southern France",
+      "published_at": "2026-08-25T00:16:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T00:09:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan issues indictments over alleged illegal export of AI servers to China",
+      "published_at": "2026-08-24T23:53:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nearly three million Teslas recalled in China over hidden door handles",
+      "published_at": "2026-08-24T23:53:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "published_at": "2026-08-24T23:48:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Caste divides make scorching summers harder in a parched corner of India",
+      "published_at": "2026-08-24T23:36:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Move over, Warsh. Treasury's Bessent also has a credibility problem",
+      "published_at": "2026-08-24T23:30:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haiti gang raid leaves 47 dead, as residents demand stronger protections",
+      "published_at": "2026-08-24T23:27:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia",
+      "published_at": "2026-08-24T22:25:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion",
+      "published_at": "2026-08-24T22:24:44+00:00"
     },
     {
       "source": "NPR",
@@ -12,69 +72,9 @@
       "published_at": "2026-08-24T22:22:13+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump administration plans to revoke visas of foreigners seeking asylum",
-      "published_at": "2026-08-24T22:18:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Supreme Court hands a win to Trump over mail-in ballot restrictions",
-      "published_at": "2026-08-24T21:52:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chelsea start Alonso era with exciting 3-2 win at neighbours Fulham",
-      "published_at": "2026-08-24T21:42:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-      "published_at": "2026-08-24T21:17:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "TRADING DAY Tech, tariffs & Treasuries",
-      "published_at": "2026-08-24T21:13:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
-      "published_at": "2026-08-24T21:08:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain, France pledge stronger support as Ukraine marks Independence Day",
-      "published_at": "2026-08-24T20:54:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "published_at": "2026-08-24T20:53:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WestJet cabin crew approve proposed deal after strike",
-      "published_at": "2026-08-24T20:37:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German state leader urges joint action to avert Volkswagen plant closures",
-      "published_at": "2026-08-24T20:24:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says",
-      "published_at": "2026-08-24T19:43:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
-      "published_at": "2026-08-24T19:35:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trabzonspor sign Brazil's Fabinho for two years on free transfer",
-      "published_at": "2026-08-24T19:28:39+00:00"
+      "source": "BBC",
+      "text": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "published_at": "2026-08-24T22:13:20+00:00"
     }
   ]
 }
