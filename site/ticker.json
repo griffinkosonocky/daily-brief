@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-25T16:51:06+00:00",
+  "updated_at": "2026-08-25T17:40:48+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "CIA chief in Moscow for unannounced talks, US media reports",
-      "published_at": "2026-08-25T16:49:31+00:00"
+      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "published_at": "2026-08-25T16:56:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say",
+      "published_at": "2026-08-25T16:48:57+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +25,6 @@
       "source": "BBC",
       "text": "European rights court orders Turkey to free imprisoned businessman",
       "published_at": "2026-08-25T15:58:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dick's Sporting cuts forecasts as weak sneaker demand trips Foot Locker, shares plunge",
-      "published_at": "2026-08-25T15:22:25+00:00"
     },
     {
       "source": "NPR",
@@ -52,14 +52,14 @@
       "published_at": "2026-08-25T14:59:12+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
-      "published_at": "2026-08-25T14:54:37+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Several states will decide voter ID ballot measures this year",
       "published_at": "2026-08-25T14:40:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's LeBlanc says retaliatory tariffs on U.S. may be announced on Tuesday",
+      "published_at": "2026-08-25T13:46:38+00:00"
     },
     {
       "source": "Reuters",
@@ -73,8 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Kenya Airways first-half pretax loss 15.92 billion shillings",
-      "published_at": "2026-08-25T13:05:50+00:00"
+      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
+      "published_at": "2026-08-25T13:03:53+00:00"
     }
   ]
 }
