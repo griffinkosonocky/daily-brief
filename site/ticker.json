@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-25T15:54:48+00:00",
+  "updated_at": "2026-08-25T16:51:06+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "CIA chief in Moscow for unannounced talks, US media reports",
-      "published_at": "2026-08-25T15:43:50+00:00"
+      "published_at": "2026-08-25T16:49:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two unvaccinated people die of measles in Pennsylvania",
+      "published_at": "2026-08-25T16:43:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Gluemaker clash betrays sticky activism era",
+      "published_at": "2026-08-25T16:40:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "European rights court orders Turkey to free imprisoned businessman",
+      "published_at": "2026-08-25T15:58:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dick's Sporting cuts forecasts as weak sneaker demand trips Foot Locker, shares plunge",
+      "published_at": "2026-08-25T15:22:25+00:00"
     },
     {
       "source": "NPR",
@@ -12,14 +32,9 @@
       "published_at": "2026-08-25T15:20:18+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Greenhushing is killing us: why companies must break their silence on climate change",
-      "published_at": "2026-08-25T15:13:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Armenian ex-president Kocharyan charged with corruption in crackdown on government critics",
-      "published_at": "2026-08-25T15:10:51+00:00"
+      "source": "BBC",
+      "text": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "published_at": "2026-08-25T15:18:50+00:00"
     },
     {
       "source": "Reuters",
@@ -42,11 +57,6 @@
       "published_at": "2026-08-25T14:54:37+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Two unvaccinated people die of measles in Pennsylvania",
-      "published_at": "2026-08-25T14:54:34+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Several states will decide voter ID ballot measures this year",
       "published_at": "2026-08-25T14:40:36+00:00"
@@ -63,18 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Wallabies looking for confidence-boosting success in Argentina",
-      "published_at": "2026-08-25T13:08:30+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Kenya Airways first-half pretax loss 15.92 billion shillings",
       "published_at": "2026-08-25T13:05:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
-      "published_at": "2026-08-25T13:03:53+00:00"
     }
   ]
 }
