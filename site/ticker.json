@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-25T04:49:32+00:00",
+  "updated_at": "2026-08-25T05:41:56+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+      "published_at": "2026-08-25T05:24:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "published_at": "2026-08-25T05:14:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Six months into Iran war, almost half of global oil flows from war zones",
+      "published_at": "2026-08-25T05:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Death of the consumer conglomerate? Unilever bets less is more",
+      "published_at": "2026-08-25T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australian bank investors brace for tough times as mortgage demand plummets",
+      "published_at": "2026-08-25T04:58:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "published_at": "2026-08-25T04:56:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Songs created by AI banned from Australia's music charts",
+      "published_at": "2026-08-25T04:54:01+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Insight: India wanted red flags on chip packets and soda. Big Food fought back.",
       "published_at": "2026-08-25T04:05:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Gold retreats from three-month high as investors await US inflation data",
+      "published_at": "2026-08-25T03:55:55+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
       "published_at": "2026-08-25T03:50:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely intervenes to keep lid on rupee weakness, traders say",
+      "published_at": "2026-08-25T03:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand's main opposition party supports social media ban for under-16s",
+      "published_at": "2026-08-25T03:26:00+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Indian shares subdued as Middle East tensions persist, Nifty expiry looms",
       "published_at": "2026-08-25T02:22:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China robot maker Unitree's post-listing slump sparks bubble fears",
-      "published_at": "2026-08-25T02:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold rises to highest since mid-May as buying momentum builds",
-      "published_at": "2026-08-25T02:10:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian economic growth likely slowed to 7.1% in April-June quarter - Reuters poll",
-      "published_at": "2026-08-25T02:09:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "French tourist dies in Death Valley after car gets stuck in mud",
-      "published_at": "2026-08-25T02:08:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "published_at": "2026-08-25T01:48:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran vows to retaliate after US widens sanctions",
-      "published_at": "2026-08-25T00:57:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Korea's SK Hynix union members reject wage agreement in vote",
-      "published_at": "2026-08-25T00:34:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-25T00:33:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "The Hormuz crude volume debate masks the real shortage of refined fuels",
-      "published_at": "2026-08-25T00:33:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US removes Syria from list of state sponsors of terrorism",
-      "published_at": "2026-08-25T00:17:25+00:00"
     }
   ]
 }
