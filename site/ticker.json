@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-25T10:45:32+00:00",
+  "updated_at": "2026-08-25T10:59:22+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
+      "published_at": "2026-08-25T10:45:12+00:00"
+    },
     {
       "source": "NPR",
       "text": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
@@ -15,11 +20,6 @@
       "source": "Reuters",
       "text": "Morning Bid: Economic salvos",
       "published_at": "2026-08-25T10:22:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
-      "published_at": "2026-08-25T10:09:20+00:00"
     },
     {
       "source": "BBC",

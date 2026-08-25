@@ -388,5 +388,11 @@
     "sport": "Sports",
     "question": "What is the oldest team in the NFL?",
     "answer": "Arizona Cardinals"
+  },
+  {
+    "date": "2026-08-25",
+    "sport": "Sports",
+    "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+    "answer": "Duck"
   }
 ]
