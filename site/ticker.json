@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-25T14:58:12+00:00",
+  "updated_at": "2026-08-25T15:54:48+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "CIA chief in Moscow for unannounced talks, US media reports",
+      "published_at": "2026-08-25T15:43:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "published_at": "2026-08-25T15:20:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Greenhushing is killing us: why companies must break their silence on climate change",
+      "published_at": "2026-08-25T15:13:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Armenian ex-president Kocharyan charged with corruption in crackdown on government critics",
+      "published_at": "2026-08-25T15:10:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
+      "published_at": "2026-08-25T15:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Too much information, not enough understanding: Opella’s push for health literacy",
+      "published_at": "2026-08-25T15:01:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
+      "published_at": "2026-08-25T14:59:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
+      "published_at": "2026-08-25T14:54:37+00:00"
+    },
     {
       "source": "BBC",
       "text": "Two unvaccinated people die of measles in Pennsylvania",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Kenya Airways first-half pretax loss 15.92 billion shillings",
+      "published_at": "2026-08-25T13:05:50+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
       "published_at": "2026-08-25T13:03:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenya Airways first-half pretax loss 16.1 billion shillings",
-      "published_at": "2026-08-25T12:22:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ghana bars unrefined artisanal gold dore exports from September 1",
-      "published_at": "2026-08-25T11:55:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Brain disease in dead NFL players 'higher than previously shown'",
-      "published_at": "2026-08-25T11:54:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lockerbie bombing trial postponed days before it was due to start",
-      "published_at": "2026-08-25T11:54:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "published_at": "2026-08-25T11:53:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Prosus is struggling to shed Tencent shadow",
-      "published_at": "2026-08-25T11:36:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach",
-      "published_at": "2026-08-25T11:30:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "published_at": "2026-08-25T11:09:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian police use water cannon at new protest over test paper leaks",
-      "published_at": "2026-08-25T10:59:34+00:00"
     }
   ]
 }
