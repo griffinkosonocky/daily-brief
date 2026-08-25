@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-25T17:40:48+00:00",
+  "updated_at": "2026-08-25T18:53:36+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+      "published_at": "2026-08-25T18:17:32+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+      "published_at": "2026-08-25T18:15:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nigeria's president orders rescue after mass kidnapping exposes security failings",
+      "published_at": "2026-08-25T18:01:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "published_at": "2026-08-25T17:54:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gaza parents urged to stop children flying kites after Israel warning to Hamas",
+      "published_at": "2026-08-25T17:28:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Gluemaker clash betrays sticky activism era",
+      "published_at": "2026-08-25T17:01:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
@@ -17,14 +47,14 @@
       "published_at": "2026-08-25T16:43:08+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Breakingviews - Gluemaker clash betrays sticky activism era",
-      "published_at": "2026-08-25T16:40:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "European rights court orders Turkey to free imprisoned businessman",
       "published_at": "2026-08-25T15:58:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dick's Sporting cuts forecasts as weak sneaker demand trips Foot Locker, shares plunge",
+      "published_at": "2026-08-25T15:22:25+00:00"
     },
     {
       "source": "NPR",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Too much information, not enough understanding: Opella’s push for health literacy",
       "published_at": "2026-08-25T15:01:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
-      "published_at": "2026-08-25T14:59:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Several states will decide voter ID ballot measures this year",
-      "published_at": "2026-08-25T14:40:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's LeBlanc says retaliatory tariffs on U.S. may be announced on Tuesday",
-      "published_at": "2026-08-25T13:46:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
-      "published_at": "2026-08-25T13:41:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World braces as Trump's Canada tariff stand-off escalates",
-      "published_at": "2026-08-25T13:09:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount, sources say",
-      "published_at": "2026-08-25T13:03:53+00:00"
     }
   ]
 }
