@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-25T09:47:32+00:00",
+  "updated_at": "2026-08-25T10:45:32+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+      "published_at": "2026-08-25T10:30:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+      "published_at": "2026-08-25T10:27:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Economic salvos",
+      "published_at": "2026-08-25T10:22:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
+      "published_at": "2026-08-25T10:09:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "published_at": "2026-08-25T09:50:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports",
+      "published_at": "2026-08-25T09:49:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US firefighters say major blaze near Reno about a quarter contained",
+      "published_at": "2026-08-25T09:49:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New installations emerge on islet as China accelerates South China Sea build-up",
+      "published_at": "2026-08-25T09:42:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian police use water cannon at new protest over test paper leaks",
+      "published_at": "2026-08-25T09:37:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says",
@@ -17,24 +62,9 @@
       "published_at": "2026-08-25T09:07:09+00:00"
     },
     {
-      "source": "NPR",
-      "text": "How to understand this heat wave (as told by NPR's senior climate editor)",
-      "published_at": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-      "published_at": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-      "published_at": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "When is suspending students discrimination? Education Dept. renews an old fight",
-      "published_at": "2026-08-25T09:00:00+00:00"
+      "source": "BBC",
+      "text": "British man charged in Singapore two years after alleged theft at airport",
+      "published_at": "2026-08-25T09:01:35+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+      "text": "When is suspending students discrimination? Education Dept. renews an old fight",
       "published_at": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-08-25T08:44:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "published_at": "2026-08-25T08:08:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "published_at": "2026-08-25T07:39:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Philippines seeking to expand military drone capabilities, says defence chief",
-      "published_at": "2026-08-25T06:43:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New Sinopec boss presses reset for world's biggest oil refiner",
-      "published_at": "2026-08-25T06:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vietnam says its foreign minister will visit Myanmar on Wednesday",
-      "published_at": "2026-08-25T06:30:00+00:00"
     }
   ]
 }
