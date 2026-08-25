@@ -1,25 +1,65 @@
 {
-  "updated_at": "2026-08-25T22:39:24+00:00",
+  "updated_at": "2026-08-25T23:33:32+00:00",
   "headlines": [
     {
       "source": "Reuters",
+      "text": "Yen bears, it’s time to recalibrate",
+      "published_at": "2026-08-25T23:12:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
+      "published_at": "2026-08-25T23:03:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Peru to welcome Pope Leo with hymn honoring slain nun",
+      "published_at": "2026-08-25T23:01:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature",
+      "published_at": "2026-08-25T23:01:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
+      "published_at": "2026-08-25T22:54:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+      "published_at": "2026-08-25T22:50:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Jackson Hole's big question: who pays the government's bill?",
+      "published_at": "2026-08-25T22:49:52+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
-      "published_at": "2026-08-25T21:32:19+00:00"
+      "published_at": "2026-08-25T22:48:27+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trading Day: Oil, yields slide",
-      "published_at": "2026-08-25T21:26:09+00:00"
+      "published_at": "2026-08-25T21:47:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "U.S. military officer who called for Trump impeachment faces three charges",
+      "published_at": "2026-08-25T21:43:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Why the bond market may be resetting expectations about the US",
+      "published_at": "2026-08-25T21:29:02+00:00"
     },
     {
       "source": "NPR",
       "text": "South Carolina U.S. senate runoff election will test Trump's endorsement",
       "published_at": "2026-08-25T20:47:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dolly Parton, queen of country music, dies at 80",
-      "published_at": "2026-08-25T20:45:03+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "published_at": "2026-08-25T19:48:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "published_at": "2026-08-25T19:30:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-      "published_at": "2026-08-25T18:17:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-      "published_at": "2026-08-25T18:15:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nigeria's president orders rescue after mass kidnapping exposes security failings",
-      "published_at": "2026-08-25T18:01:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: The super peso is back — and it's starting to hurt",
-      "published_at": "2026-08-25T17:37:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Gluemaker clash betrays sticky activism era",
-      "published_at": "2026-08-25T17:01:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say",
-      "published_at": "2026-08-25T16:48:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two unvaccinated people die of measles in Pennsylvania",
-      "published_at": "2026-08-25T16:43:08+00:00"
     }
   ]
 }
