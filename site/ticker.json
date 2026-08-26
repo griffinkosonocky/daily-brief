@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-26T04:51:08+00:00",
+  "updated_at": "2026-08-26T05:45:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Seven dead, including six Chinese nationals, nine are missing in Russia's gas plant fire",
+      "published_at": "2026-08-26T05:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - JPMorgan India options ban augurs faster crackdown",
+      "published_at": "2026-08-26T05:17:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Retired teacher Dan J. Sullivan advances in US Senate race in Alaska",
@@ -8,8 +18,13 @@
     },
     {
       "source": "Reuters",
-      "text": "At least 14 infants killed in Islamabad hospital fire, local TV reports",
+      "text": "At least 15 infants killed in Islamabad hospital fire, local TV reports",
       "published_at": "2026-08-26T03:43:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-26T03:28:00+00:00"
     },
     {
       "source": "Reuters",
@@ -23,7 +38,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Australia inflation tops forecasts in July, adds to rate risk",
+      "text": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
+      "published_at": "2026-08-26T02:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia inflation runs hot in July, adding to rate hike risk",
       "published_at": "2026-08-26T01:42:00+00:00"
     },
     {
@@ -38,11 +58,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Yen bears, it’s time to recalibrate",
-      "published_at": "2026-08-25T23:12:27+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
       "published_at": "2026-08-25T23:03:58+00:00"
     },
@@ -53,28 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-25T23:00:37+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Explainer: The super peso is back — and it's starting to hurt",
       "published_at": "2026-08-25T22:55:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: India investigates fragrance giants over price collusion, document shows",
-      "published_at": "2026-08-25T22:54:26+00:00"
     },
     {
       "source": "NPR",
       "text": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
       "published_at": "2026-08-25T22:50:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Why the bond market may be resetting expectations about the US",
-      "published_at": "2026-08-25T22:50:37+00:00"
     }
   ]
 }
