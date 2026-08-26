@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-26T09:53:23+00:00",
+  "updated_at": "2026-08-26T10:47:57+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Falling oil calms nervy markets",
+      "published_at": "2026-08-26T10:33:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Why big banks are going global once again",
+      "published_at": "2026-08-26T09:48:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+      "published_at": "2026-08-26T09:47:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "What Darline Graham's GOP primary win says about Trump",
       "published_at": "2026-08-26T09:26:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India equity outlook cut again as foreign funds seek value elsewhere in Asia",
+      "published_at": "2026-08-26T09:23:44+00:00"
     },
     {
       "source": "NPR",
@@ -13,7 +33,7 @@
     },
     {
       "source": "NPR",
-      "text": "Soaring summer power bills spark protests -- and even disconnections",
+      "text": "Soaring summer power bills spark protests — and even disconnections",
       "published_at": "2026-08-26T09:01:00+00:00"
     },
     {
@@ -22,14 +42,29 @@
       "published_at": "2026-08-26T09:00:00+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Canada's retaliation tests the limit of American power under Trump",
+      "published_at": "2026-08-26T08:47:18+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "US-Iran war spurs Europe, Asia to boost renewables",
-      "published_at": "2026-08-26T08:37:44+00:00"
+      "text": "European shares flat ahead of Nvidia earnings",
+      "published_at": "2026-08-26T08:46:36+00:00"
     },
     {
       "source": "Reuters",
       "text": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
       "published_at": "2026-08-26T08:26:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "published_at": "2026-08-26T08:17:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "published_at": "2026-08-26T08:01:56+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
       "published_at": "2026-08-26T07:34:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Seven charts point to tighter energy markets through 2027",
-      "published_at": "2026-08-26T07:33:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Test your global economic knowledge with this quick Planet Money quiz!",
-      "published_at": "2026-08-26T07:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
-      "published_at": "2026-08-26T07:27:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel",
-      "published_at": "2026-08-26T07:13:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hyundai lifts margin target, expands US hybrid lineup",
-      "published_at": "2026-08-26T06:41:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Iran war sinks into energy trench warfare six months on",
-      "published_at": "2026-08-26T06:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-      "published_at": "2026-08-26T05:45:58+00:00"
     }
   ]
 }
