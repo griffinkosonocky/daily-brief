@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-26T11:01:03+00:00",
+  "updated_at": "2026-08-26T11:38:52+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
-      "published_at": "2026-08-26T10:56:50+00:00"
+      "text": "The heart, hope and steely determination behind a musical legacy",
+      "published_at": "2026-08-26T11:32:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "published_at": "2026-08-26T11:05:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Airbus employees in Spain resume strike after rejecting offer",
+      "published_at": "2026-08-26T11:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "published_at": "2026-08-26T11:02:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Boston Scientific hit by cyberattack, global operations affected",
+      "published_at": "2026-08-26T10:49:43+00:00"
     },
     {
       "source": "Reuters",
@@ -17,9 +37,9 @@
       "published_at": "2026-08-26T10:33:44+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Volkswagen CEO tells staff cost-cutting journey 'is not over'",
-      "published_at": "2026-08-26T09:53:46+00:00"
+      "source": "BBC",
+      "text": "Radiation link in flight attendant's breast cancer, French court finds",
+      "published_at": "2026-08-26T10:29:36+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Canada's retaliation tests the limit of American power under Trump",
       "published_at": "2026-08-26T08:47:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European shares flat ahead of Nvidia earnings",
-      "published_at": "2026-08-26T08:46:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
-      "published_at": "2026-08-26T08:26:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-      "published_at": "2026-08-26T08:17:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "published_at": "2026-08-26T08:01:56+00:00"
     }
   ]
 }
