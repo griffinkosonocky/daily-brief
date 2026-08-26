@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-25T23:33:32+00:00",
+  "updated_at": "2026-08-26T01:54:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump administration issues pause on visa appointments for applicants worldwide",
+      "published_at": "2026-08-26T00:21:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World braces as Trump's Canada tariff stand-off escalates",
+      "published_at": "2026-08-25T23:30:30+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Yen bears, it’s time to recalibrate",
@@ -13,13 +23,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Peru to welcome Pope Leo with hymn honoring slain nun",
-      "published_at": "2026-08-25T23:01:17+00:00"
+      "text": "One in three UK employers have cut entry-level jobs, survey shows",
+      "published_at": "2026-08-25T23:03:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature",
-      "published_at": "2026-08-25T23:01:04+00:00"
+      "text": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
+      "published_at": "2026-08-25T23:03:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
+      "published_at": "2026-08-25T23:00:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: The super peso is back — and it's starting to hurt",
+      "published_at": "2026-08-25T22:55:08+00:00"
     },
     {
       "source": "Reuters",
@@ -33,6 +53,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Explainer: Why the bond market may be resetting expectations about the US",
+      "published_at": "2026-08-25T22:50:37+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Explainer: Jackson Hole's big question: who pays the government's bill?",
       "published_at": "2026-08-25T22:49:52+00:00"
     },
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trading Day: Oil, yields slide",
-      "published_at": "2026-08-25T21:47:51+00:00"
+      "text": "US starts returning staff to Middle East missions after Iran war evacuations, sources say",
+      "published_at": "2026-08-25T22:41:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "U.S. military officer who called for Trump impeachment faces three charges",
-      "published_at": "2026-08-25T21:43:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why the bond market may be resetting expectations about the US",
-      "published_at": "2026-08-25T21:29:02+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "South Carolina U.S. senate runoff election will test Trump's endorsement",
-      "published_at": "2026-08-25T20:47:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Why Trump's mail-in ballot order will likely head back to the courts",
-      "published_at": "2026-08-25T20:28:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "published_at": "2026-08-25T19:50:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "published_at": "2026-08-25T19:48:14+00:00"
+      "text": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
+      "published_at": "2026-08-25T22:21:00+00:00"
     }
   ]
 }
