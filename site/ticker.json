@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-26T03:14:41+00:00",
+  "updated_at": "2026-08-26T04:51:08+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
-      "published_at": "2026-08-26T02:17:00+00:00"
+      "text": "Retired teacher Dan J. Sullivan advances in US Senate race in Alaska",
+      "published_at": "2026-08-26T04:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 14 infants killed in Islamabad hospital fire, local TV reports",
+      "published_at": "2026-08-26T03:43:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - JD deal showcases stakes of a China-EU cold war",
+      "published_at": "2026-08-26T03:28:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China flexes its auto-safety chops with huge recall of Tesla, other cars",
+      "published_at": "2026-08-26T02:43:45+00:00"
     },
     {
       "source": "Reuters",
@@ -30,11 +45,6 @@
       "source": "Reuters",
       "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
       "published_at": "2026-08-25T23:03:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "One in three UK employers have cut entry-level jobs, survey shows",
-      "published_at": "2026-08-25T23:03:43+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Explainer: Why the bond market may be resetting expectations about the US",
       "published_at": "2026-08-25T22:50:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
-      "published_at": "2026-08-25T22:48:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US starts returning staff to Middle East missions after Iran war evacuations, sources say",
-      "published_at": "2026-08-25T22:41:45+00:00"
     }
   ]
 }
