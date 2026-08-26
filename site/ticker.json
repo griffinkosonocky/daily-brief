@@ -1,20 +1,55 @@
 {
-  "updated_at": "2026-08-26T11:38:52+00:00",
+  "updated_at": "2026-08-26T13:11:38+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt",
+      "published_at": "2026-08-26T12:36:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "published_at": "2026-08-26T12:32:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "published_at": "2026-08-26T12:27:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "published_at": "2026-08-26T12:17:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran and Oman reach agreements on share of Hormuz and revenues, Revolutionary Guards say",
+      "published_at": "2026-08-26T12:16:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Why big banks are going global once again",
+      "published_at": "2026-08-26T12:09:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall St futures subdued as Nvidia results, inflation take center stage",
+      "published_at": "2026-08-26T11:33:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "The heart, hope and steely determination behind a musical legacy",
       "published_at": "2026-08-26T11:32:11+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Airbus employees in Spain resume strike after rejecting offer",
+      "published_at": "2026-08-26T11:31:23+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
       "published_at": "2026-08-26T11:05:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airbus employees in Spain resume strike after rejecting offer",
-      "published_at": "2026-08-26T11:05:43+00:00"
     },
     {
       "source": "BBC",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "Radiation link in flight attendant's breast cancer, French court finds",
       "published_at": "2026-08-26T10:29:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Why big banks are going global once again",
-      "published_at": "2026-08-26T09:48:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What Darline Graham's GOP primary win says about Trump",
-      "published_at": "2026-08-26T09:26:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India equity outlook cut again as foreign funds seek value elsewhere in Asia",
-      "published_at": "2026-08-26T09:23:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
-      "published_at": "2026-08-26T09:02:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Soaring summer power bills spark protests — and even disconnections",
-      "published_at": "2026-08-26T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-      "published_at": "2026-08-26T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada's retaliation tests the limit of American power under Trump",
-      "published_at": "2026-08-26T08:47:18+00:00"
     }
   ]
 }
