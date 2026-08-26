@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-26T01:54:07+00:00",
+  "updated_at": "2026-08-26T03:14:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
+      "published_at": "2026-08-26T02:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia inflation tops forecasts in July, adds to rate risk",
+      "published_at": "2026-08-26T01:42:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump administration issues pause on visa appointments for applicants worldwide",
@@ -58,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Explainer: Jackson Hole's big question: who pays the government's bill?",
-      "published_at": "2026-08-25T22:49:52+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
       "published_at": "2026-08-25T22:48:27+00:00"
     },
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "US starts returning staff to Middle East missions after Iran war evacuations, sources say",
       "published_at": "2026-08-25T22:41:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
-      "published_at": "2026-08-25T22:21:00+00:00"
     }
   ]
 }
