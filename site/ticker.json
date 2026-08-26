@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-08-26T08:57:13+00:00",
+  "updated_at": "2026-08-26T09:53:23+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "What Darline Graham's GOP primary win says about Trump",
+      "published_at": "2026-08-26T09:26:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "published_at": "2026-08-26T09:02:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Soaring summer power bills spark protests -- and even disconnections",
+      "published_at": "2026-08-26T09:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "published_at": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US-Iran war spurs Europe, Asia to boost renewables",
+      "published_at": "2026-08-26T08:37:44+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
       "published_at": "2026-08-26T08:26:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swedish prosecutors hold second man over deadly school attack",
+      "published_at": "2026-08-26T07:43:43+00:00"
     },
     {
       "source": "NPR",
@@ -12,14 +42,14 @@
       "published_at": "2026-08-26T07:34:59+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Seven charts point to tighter energy markets through 2027",
+      "published_at": "2026-08-26T07:33:15+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Test your global economic knowledge with this quick Planet Money quiz!",
       "published_at": "2026-08-26T07:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Seven charts point to tighter energy markets through 2027",
-      "published_at": "2026-08-26T07:29:52+00:00"
     },
     {
       "source": "Reuters",
@@ -33,13 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Former Bayern quartet part of group investing in Portuguese side Estrela",
-      "published_at": "2026-08-26T06:25:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nepal flash flood washes away villages, damages roads, power projects",
-      "published_at": "2026-08-26T06:12:00+00:00"
+      "text": "Hyundai lifts margin target, expands US hybrid lineup",
+      "published_at": "2026-08-26T06:41:00+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
       "published_at": "2026-08-26T05:45:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-      "published_at": "2026-08-26T05:45:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Six Chinese nationals among seven killed in Russian gas plant fire",
-      "published_at": "2026-08-26T05:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - JPMorgan India options ban augurs faster crackdown",
-      "published_at": "2026-08-26T05:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Some oil companies to avoid ships on Iran blacklist, sources say",
-      "published_at": "2026-08-26T04:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Retired teacher Dan J. Sullivan advances in US Senate race in Alaska",
-      "published_at": "2026-08-26T04:34:00+00:00"
     }
   ]
 }
