@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-26T13:11:38+00:00",
+  "updated_at": "2026-08-26T14:57:11+00:00",
   "headlines": [
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt",
-      "published_at": "2026-08-26T12:36:32+00:00"
-    },
     {
       "source": "BBC",
       "text": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "published_at": "2026-08-26T12:32:47+00:00"
+      "published_at": "2026-08-26T14:42:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta reaches $16.68 billion settlement over social media harms to children",
+      "published_at": "2026-08-26T14:05:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino",
+      "published_at": "2026-08-26T14:03:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "published_at": "2026-08-26T13:55:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "published_at": "2026-08-26T13:49:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Dolly Parton didn't just write hits — she created an American songbook",
+      "published_at": "2026-08-26T13:46:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Boston Scientific hit by cyberattack, global operations affected",
+      "published_at": "2026-08-26T13:39:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meta, states agree to $17 billion settlement in child safety trial",
+      "published_at": "2026-08-26T13:33:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'We will always love you' - world mourns Dolly Parton",
+      "published_at": "2026-08-26T13:31:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen CEO tells factory staff cost-cutting journey 'is not over'",
+      "published_at": "2026-08-26T13:23:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt",
+      "published_at": "2026-08-26T12:56:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Senate Democrats urge Israel to rein in West Bank violence",
+      "published_at": "2026-08-26T12:47:39+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Iran and Oman reach agreements on share of Hormuz and revenues, Revolutionary Guards say",
       "published_at": "2026-08-26T12:16:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Why big banks are going global once again",
-      "published_at": "2026-08-26T12:09:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall St futures subdued as Nvidia results, inflation take center stage",
-      "published_at": "2026-08-26T11:33:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The heart, hope and steely determination behind a musical legacy",
-      "published_at": "2026-08-26T11:32:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airbus employees in Spain resume strike after rejecting offer",
-      "published_at": "2026-08-26T11:31:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
-      "published_at": "2026-08-26T11:05:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "published_at": "2026-08-26T11:02:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boston Scientific hit by cyberattack, global operations affected",
-      "published_at": "2026-08-26T10:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
-      "published_at": "2026-08-26T10:49:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Morning Bid: Falling oil calms nervy markets",
-      "published_at": "2026-08-26T10:33:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Radiation link in flight attendant's breast cancer, French court finds",
-      "published_at": "2026-08-26T10:29:36+00:00"
     }
   ]
 }
