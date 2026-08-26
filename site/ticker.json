@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-26T05:45:43+00:00",
+  "updated_at": "2026-08-26T07:04:19+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Seven dead, including six Chinese nationals, nine are missing in Russia's gas plant fire",
-      "published_at": "2026-08-26T05:19:00+00:00"
+      "text": "Former Bayern quartet part of group investing in Portuguese side Estrela",
+      "published_at": "2026-08-26T06:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US-Iran war sinks into energy trench warfare six months on",
+      "published_at": "2026-08-26T06:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "published_at": "2026-08-26T05:45:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+      "published_at": "2026-08-26T05:45:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SoftBank mulls up to $20 billion bond sale for OpenAI financing, Bloomberg News reports",
+      "published_at": "2026-08-26T05:26:00+00:00"
     },
     {
       "source": "Reuters",
@@ -34,17 +54,17 @@
     {
       "source": "Reuters",
       "text": "China flexes its auto-safety chops with huge recall of Tesla, other cars",
-      "published_at": "2026-08-26T02:43:45+00:00"
+      "published_at": "2026-08-26T02:42:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
+      "text": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes",
       "published_at": "2026-08-26T02:17:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Australia inflation runs hot in July, adding to rate hike risk",
-      "published_at": "2026-08-26T01:42:00+00:00"
+      "text": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
+      "published_at": "2026-08-26T01:51:00+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "World braces as Trump's Canada tariff stand-off escalates",
       "published_at": "2026-08-25T23:30:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's sugar mills, refiners seen importing just half of duty-free quota",
-      "published_at": "2026-08-25T23:03:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India IT industry body urges US to weigh H-1B visa benefits as Trump proposes hefty fee",
-      "published_at": "2026-08-25T23:03:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: The super peso is back — and it's starting to hurt",
-      "published_at": "2026-08-25T22:55:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-      "published_at": "2026-08-25T22:50:57+00:00"
     }
   ]
 }
