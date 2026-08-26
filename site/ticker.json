@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-26T16:32:18+00:00",
+  "updated_at": "2026-08-26T19:17:00+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
+      "published_at": "2026-08-26T19:00:13+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-      "published_at": "2026-08-26T15:42:45+00:00"
+      "text": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "published_at": "2026-08-26T18:22:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Volkswagen CEO, labour boss set for clash as crucial board meeting nears",
-      "published_at": "2026-08-26T15:17:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boston Scientific hit by cyberattack, global operations affected",
-      "published_at": "2026-08-26T15:00:28+00:00"
+      "text": "Ivory Coast's delayed cocoa crop could mean congested ports ahead of EU rules, sources say",
+      "published_at": "2026-08-26T18:15:44+00:00"
     },
     {
       "source": "NPR",
-      "text": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
-      "published_at": "2026-08-26T14:58:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "published_at": "2026-08-26T14:42:03+00:00"
+      "text": "Immigration arrests soar, hitting 50,000 in July",
+      "published_at": "2026-08-26T18:08:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Kremlin says ousted Ukrainian defence minister's remarks show Kyiv is consumed by infighting",
-      "published_at": "2026-08-26T14:32:14+00:00"
+      "text": "Explainer: Haiti's conflict in numbers as gangs inflict another night of terror",
+      "published_at": "2026-08-26T18:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pentagon official to brief NATO allies as review fuels questions",
+      "published_at": "2026-08-26T18:00:21+00:00"
     },
     {
       "source": "Reuters",
       "text": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino",
-      "published_at": "2026-08-26T14:03:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "published_at": "2026-08-26T13:55:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-      "published_at": "2026-08-26T13:49:55+00:00"
+      "published_at": "2026-08-26T17:40:42+00:00"
     },
     {
       "source": "NPR",
-      "text": "How Dolly Parton wrote the story of a changing America",
-      "published_at": "2026-08-26T13:46:34+00:00"
+      "text": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+      "published_at": "2026-08-26T17:36:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India equity outlook cut again as foreign funds seek value elsewhere in Asia",
+      "published_at": "2026-08-26T17:32:04+00:00"
     },
     {
       "source": "NPR",
-      "text": "Meta, states agree to $17 billion settlement in child safety trial",
-      "published_at": "2026-08-26T13:33:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'We will always love you' - world mourns Dolly Parton",
-      "published_at": "2026-08-26T13:31:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kidnappers attacked Nigerian village to warn against military bases: analyst",
-      "published_at": "2026-08-26T13:20:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt",
-      "published_at": "2026-08-26T12:56:20+00:00"
+      "text": "States try new tactics to bring down high hospital prices",
+      "published_at": "2026-08-26T17:29:13+00:00"
     },
     {
       "source": "NPR",
-      "text": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
-      "published_at": "2026-08-26T12:27:19+00:00"
+      "text": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
+      "published_at": "2026-08-26T17:15:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen CEO, labour boss dig in ahead of key board meeting",
+      "published_at": "2026-08-26T17:07:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House to announce new drug pricing deals with biotechs, Bloomberg News reports",
+      "published_at": "2026-08-26T17:06:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "European shares muted as investors assess Iran-Oman talks, U.S. inflation",
+      "published_at": "2026-08-26T16:41:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sectors Up Close: Is Nvidia’s dominance under threat?",
+      "published_at": "2026-08-26T16:05:51+00:00"
     }
   ]
 }
