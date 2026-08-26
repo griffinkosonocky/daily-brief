@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-26T19:17:00+00:00",
+  "updated_at": "2026-08-26T23:25:19+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "published_at": "2026-08-26T23:11:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "published_at": "2026-08-26T23:08:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The question dominating Indian politics: Is it worse when women swear?",
+      "published_at": "2026-08-26T23:03:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find",
+      "published_at": "2026-08-26T22:07:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "published_at": "2026-08-26T22:02:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US religious freedom panel urges sanctions against India's RSS during chief's US visit",
+      "published_at": "2026-08-26T21:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction",
+      "published_at": "2026-08-26T21:45:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Drugstores say Medicare's $50 obesity drug program is catching on",
+      "published_at": "2026-08-26T21:11:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "TRADING DAY Hot inflation cools sentiment",
+      "published_at": "2026-08-26T21:09:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino",
+      "published_at": "2026-08-26T21:07:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "published_at": "2026-08-26T19:19:46+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate",
@@ -20,61 +75,6 @@
       "source": "NPR",
       "text": "Immigration arrests soar, hitting 50,000 in July",
       "published_at": "2026-08-26T18:08:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Haiti's conflict in numbers as gangs inflict another night of terror",
-      "published_at": "2026-08-26T18:07:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pentagon official to brief NATO allies as review fuels questions",
-      "published_at": "2026-08-26T18:00:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino",
-      "published_at": "2026-08-26T17:40:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-      "published_at": "2026-08-26T17:36:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India equity outlook cut again as foreign funds seek value elsewhere in Asia",
-      "published_at": "2026-08-26T17:32:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "States try new tactics to bring down high hospital prices",
-      "published_at": "2026-08-26T17:29:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
-      "published_at": "2026-08-26T17:15:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen CEO, labour boss dig in ahead of key board meeting",
-      "published_at": "2026-08-26T17:07:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House to announce new drug pricing deals with biotechs, Bloomberg News reports",
-      "published_at": "2026-08-26T17:06:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European shares muted as investors assess Iran-Oman talks, U.S. inflation",
-      "published_at": "2026-08-26T16:41:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sectors Up Close: Is Nvidia’s dominance under threat?",
-      "published_at": "2026-08-26T16:05:51+00:00"
     }
   ]
 }
