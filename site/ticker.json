@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-26T07:55:56+00:00",
+  "updated_at": "2026-08-26T08:57:13+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi",
+      "published_at": "2026-08-26T08:26:52+00:00"
+    },
     {
       "source": "NPR",
       "text": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
@@ -19,17 +24,12 @@
     {
       "source": "Reuters",
       "text": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
-      "published_at": "2026-08-26T07:22:03+00:00"
+      "published_at": "2026-08-26T07:27:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "European shares edge higher as oil falls; Nvidia earnings in focus",
-      "published_at": "2026-08-26T07:16:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping",
-      "published_at": "2026-08-26T07:05:43+00:00"
+      "text": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel",
+      "published_at": "2026-08-26T07:13:29+00:00"
     },
     {
       "source": "Reuters",
@@ -58,23 +58,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Six Chinese nationals among seven killed in Russian gas plant fire",
+      "published_at": "2026-08-26T05:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Breakingviews - JPMorgan India options ban augurs faster crackdown",
       "published_at": "2026-08-26T05:17:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "At least 14 infants killed in Islamabad hospital fire",
-      "published_at": "2026-08-26T03:43:00+00:00"
+      "text": "Some oil companies to avoid ships on Iran blacklist, sources say",
+      "published_at": "2026-08-26T04:49:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bessent's D-Day sanctions are more Anzio, but Iran response is key",
-      "published_at": "2026-08-26T03:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - JD deal showcases stakes of a China-EU cold war",
-      "published_at": "2026-08-26T03:28:00+00:00"
+      "text": "Retired teacher Dan J. Sullivan advances in US Senate race in Alaska",
+      "published_at": "2026-08-26T04:34:00+00:00"
     }
   ]
 }
