@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-26T10:47:57+00:00",
+  "updated_at": "2026-08-26T11:01:03+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+      "published_at": "2026-08-26T10:56:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Some Chinese workers see an ally in Brussels as EU trade tensions mount",
+      "published_at": "2026-08-26T10:49:35+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Morning Bid: Falling oil calms nervy markets",
@@ -8,13 +18,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - Why big banks are going global once again",
-      "published_at": "2026-08-26T09:48:57+00:00"
+      "text": "Volkswagen CEO tells staff cost-cutting journey 'is not over'",
+      "published_at": "2026-08-26T09:53:46+00:00"
     },
     {
-      "source": "BBC",
-      "text": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-      "published_at": "2026-08-26T09:47:08+00:00"
+      "source": "Reuters",
+      "text": "Breakingviews - Why big banks are going global once again",
+      "published_at": "2026-08-26T09:48:57+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
       "published_at": "2026-08-26T08:01:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Swedish prosecutors hold second man over deadly school attack",
-      "published_at": "2026-08-26T07:43:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-      "published_at": "2026-08-26T07:34:59+00:00"
     }
   ]
 }
