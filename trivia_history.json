@@ -400,5 +400,11 @@
     "sport": "Sports",
     "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
     "answer": "Carlos Sainz Jr."
+  },
+  {
+    "date": "2026-08-27",
+    "sport": "Sports",
+    "question": "Which of these NHL teams originally played in Atlanta?",
+    "answer": "Calgary Flames"
   }
 ]
