@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-08-28T18:35:52+00:00",
+  "updated_at": "2026-08-28T21:14:29+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "published_at": "2026-08-28T21:01:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know about deadly Nepal-Tibet floods",
+      "published_at": "2026-08-28T20:23:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Greenland says findings on genocide allegation not final",
+      "published_at": "2026-08-28T19:57:50+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "published_at": "2026-08-28T18:13:28+00:00"
+      "published_at": "2026-08-28T19:40:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "After 6 months of war, Iran's battered regime remains entrenched",
+      "published_at": "2026-08-28T19:35:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trans Mountain CEO says US trade rift adds urgency to Canada's oil pipeline plan",
+      "published_at": "2026-08-28T19:33:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "published_at": "2026-08-28T19:05:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump administration appeals $16 billion Hudson Tunnel funding order",
+      "published_at": "2026-08-28T17:56:30+00:00"
     },
     {
       "source": "BBC",
       "text": "Satellite images reveal scale of flood devastation in Nepal villages",
       "published_at": "2026-08-28T17:36:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Focus: Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough",
-      "published_at": "2026-08-28T17:33:24+00:00"
     },
     {
       "source": "BBC",
@@ -37,44 +67,14 @@
       "published_at": "2026-08-28T16:30:59+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US judge questions but won't yet block Trump's new birthright citizenship order",
+      "published_at": "2026-08-28T16:12:42+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
       "published_at": "2026-08-28T16:05:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What we know about deadly Nepal-Tibet floods",
-      "published_at": "2026-08-28T15:58:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait",
-      "published_at": "2026-08-28T15:29:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "published_at": "2026-08-28T15:15:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer-What Is Visual Verification and Why Does Reuters Practice It? - U.S. News & World Report",
-      "published_at": "2026-08-28T15:10:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-      "published_at": "2026-08-28T14:38:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two-year curfew lifted in Sudan's capital",
-      "published_at": "2026-08-28T14:18:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poll finds Icelandic voters swing to narrowly opposing EU membership",
-      "published_at": "2026-08-28T14:17:43+00:00"
     }
   ]
 }

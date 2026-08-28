@@ -406,5 +406,11 @@
     "sport": "Sports",
     "question": "Which of these NHL teams originally played in Atlanta?",
     "answer": "Calgary Flames"
+  },
+  {
+    "date": "2026-08-28",
+    "sport": "Sports",
+    "question": "The UEFA Champions League is an annual club football competition featuring clubs from which continent?",
+    "answer": "Europe"
   }
 ]
