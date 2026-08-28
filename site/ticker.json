@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-27T20:39:59+00:00",
+  "updated_at": "2026-08-28T05:19:35+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Toyota sales, production fall on sharp declines in China, Middle East",
+      "published_at": "2026-08-28T04:33:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+      "published_at": "2026-08-28T04:25:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
+      "published_at": "2026-08-28T03:52:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
-      "published_at": "2026-08-27T20:39:16+00:00"
+      "text": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "published_at": "2026-08-28T03:41:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: China's robots fail early market test",
+      "published_at": "2026-08-28T03:36:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "published_at": "2026-08-28T03:23:21+00:00"
     },
     {
       "source": "BBC",
       "text": "What we know about deadly Nepal-Tibet floods",
-      "published_at": "2026-08-27T20:38:48+00:00"
+      "published_at": "2026-08-28T03:15:35+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Rupert Murdoch considering re-merger of Fox Corp and News Corp, court documents and video show",
-      "published_at": "2026-08-27T19:33:56+00:00"
+      "text": "South Korea backs Trump bid to revive North Korea talks, seeks nuclear progress",
+      "published_at": "2026-08-28T02:58:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "American Russell hurdles to world record in Zurich",
-      "published_at": "2026-08-27T19:29:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump directs federal government to rename Lake Ontario to Lake America",
-      "published_at": "2026-08-27T18:53:17+00:00"
+      "text": "Trump administration seeks to restrict internships for international students",
+      "published_at": "2026-08-28T02:48:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Swiatek arrives in New York in renewed form with seventh major in sight",
-      "published_at": "2026-08-27T18:49:43+00:00"
+      "text": "Advent, Stripe consortium is said to drop pursuit of PayPal, Bloomberg News reports",
+      "published_at": "2026-08-28T02:16:04+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Major tech companies call for defensive surge to defeat AI-driven hacks",
-      "published_at": "2026-08-27T18:49:13+00:00"
+      "text": "Shares turn cautious ahead of Warsh speech; FX, bonds hold breath",
+      "published_at": "2026-08-28T01:56:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "published_at": "2026-08-28T01:43:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: As US public finances crumble, private sector thrives",
+      "published_at": "2026-08-27T23:30:23+00:00"
     },
     {
       "source": "Reuters",
       "text": "UEFA asks US court for FIFA documents in planned Swiss case against Infantino",
-      "published_at": "2026-08-27T18:48:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hundreds killed and more than 1,000 missing after Himalayan flood",
-      "published_at": "2026-08-27T18:16:08+00:00"
+      "published_at": "2026-08-27T23:28:02+00:00"
     },
     {
       "source": "BBC",
-      "text": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
-      "published_at": "2026-08-27T18:13:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-      "published_at": "2026-08-27T18:12:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After six months, the Iran war has reached its endgame — a costly stalemate",
-      "published_at": "2026-08-27T18:03:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "published_at": "2026-08-27T17:42:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Demolition of modernist arts complex in Tbilisi sparks outcry",
-      "published_at": "2026-08-27T17:24:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Reactions to death of Ratko Mladic, former general convicted of Bosnia genocide",
-      "published_at": "2026-08-27T17:12:52+00:00"
+      "text": "Trump signs order to rename Lake Ontario as Lake America",
+      "published_at": "2026-08-27T23:14:43+00:00"
     }
   ]
 }
