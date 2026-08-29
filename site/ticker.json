@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-08-29T02:07:16+00:00",
+  "updated_at": "2026-08-29T09:58:21+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "published_at": "2026-08-29T01:21:43+00:00"
+      "text": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "published_at": "2026-08-29T09:38:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+      "published_at": "2026-08-29T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why is one WNBA team calling in national security experts?",
+      "published_at": "2026-08-29T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "published_at": "2026-08-29T08:48:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "published_at": "2026-08-29T07:11:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Leao bids emotional farewell to Milan amid reports of Galatasaray switch",
+      "published_at": "2026-08-29T06:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild",
+      "published_at": "2026-08-29T04:38:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+      "published_at": "2026-08-29T04:30:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "published_at": "2026-08-29T03:54:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue",
+      "published_at": "2026-08-29T02:43:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "published_at": "2026-08-29T02:42:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "published_at": "2026-08-29T02:07:55+00:00"
     },
     {
       "source": "BBC",
       "text": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "published_at": "2026-08-29T01:14:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iceland votes on whether to start EU membership talks",
-      "published_at": "2026-08-29T01:02:00+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "published_at": "2026-08-29T00:46:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
-      "published_at": "2026-08-29T00:35:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "published_at": "2026-08-29T00:32:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chinese memory chipmaker CXMT sues Pentagon over 'Chinese military company' designation",
-      "published_at": "2026-08-29T00:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What tariffs will really cost Canadians and Americans",
-      "published_at": "2026-08-29T00:15:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-      "published_at": "2026-08-29T00:06:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada poaches dozens of top US researchers for its universities",
-      "published_at": "2026-08-28T23:47:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough",
-      "published_at": "2026-08-28T22:31:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks",
-      "published_at": "2026-08-28T22:22:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pegula, Tiafoe see progress on diversity in tennis at US Open",
-      "published_at": "2026-08-28T22:21:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "published_at": "2026-08-28T22:05:41+00:00"
     }
   ]
 }
