@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-29T09:58:21+00:00",
+  "updated_at": "2026-08-29T15:01:34+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-      "published_at": "2026-08-29T09:38:07+00:00"
+      "text": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "published_at": "2026-08-29T14:43:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hungry bears wander into US West homes, shops in record numbers",
+      "published_at": "2026-08-29T14:31:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "published_at": "2026-08-29T14:22:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "published_at": "2026-08-29T14:18:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "published_at": "2026-08-29T13:55:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Opinion: Remembering Dolly Parton",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The bridges of Rwanda open up new worlds",
+      "published_at": "2026-08-29T11:54:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+      "published_at": "2026-08-29T11:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+      "published_at": "2026-08-29T10:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -18,7 +58,7 @@
     },
     {
       "source": "BBC",
-      "text": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "text": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
       "published_at": "2026-08-29T08:48:34+00:00"
     },
     {
@@ -33,48 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild",
-      "published_at": "2026-08-29T04:38:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
-      "published_at": "2026-08-29T04:30:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "published_at": "2026-08-29T03:54:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue",
-      "published_at": "2026-08-29T02:43:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "published_at": "2026-08-29T02:42:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "published_at": "2026-08-29T02:07:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "published_at": "2026-08-29T01:14:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "published_at": "2026-08-29T00:56:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "published_at": "2026-08-29T00:46:02+00:00"
+      "text": "Indigenous Canadian chief calls Lake Ontario renaming disrespectful",
+      "published_at": "2026-08-29T05:14:56+00:00"
     }
   ]
 }
