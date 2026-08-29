@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-29T18:23:43+00:00",
+  "updated_at": "2026-08-29T21:41:30+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+      "published_at": "2026-08-29T21:09:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "published_at": "2026-08-29T20:13:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Former Ecuadorian president imprisoned for corruption",
+      "published_at": "2026-08-29T19:44:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Norway's new king remembers 'my dear father' in first speech",
+      "published_at": "2026-08-29T19:06:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "published_at": "2026-08-29T18:30:32+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Texas Tech softball players injured in lake accident",
@@ -22,11 +47,6 @@
       "published_at": "2026-08-29T15:54:40+00:00"
     },
     {
-      "source": "BBC",
-      "text": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "published_at": "2026-08-29T15:27:56+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Hungry bears wander into US West homes, shops in record numbers",
       "published_at": "2026-08-29T14:31:20+00:00"
@@ -37,44 +57,24 @@
       "published_at": "2026-08-29T14:22:19+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "India's HDFC Bank CEO Jagdishan to step down in October",
+      "published_at": "2026-08-29T14:01:47+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Deadly strike on Kyiv warehouse prompts evacuations",
       "published_at": "2026-08-29T13:55:55+00:00"
     },
     {
       "source": "Reuters",
+      "text": "Russia extends ban on diesel exports until September 30",
+      "published_at": "2026-08-29T13:54:09+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US military families ride 'roller coaster of emotions' over six months of Iran war",
       "published_at": "2026-08-29T13:09:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Remembering Dolly Parton",
-      "published_at": "2026-08-29T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The bridges of Rwanda open up new worlds",
-      "published_at": "2026-08-29T11:54:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
-      "published_at": "2026-08-29T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-      "published_at": "2026-08-29T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why is one WNBA team calling in national security experts?",
-      "published_at": "2026-08-29T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-      "published_at": "2026-08-29T09:00:00+00:00"
     }
   ]
 }
