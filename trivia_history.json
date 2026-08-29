@@ -412,5 +412,11 @@
     "sport": "Sports",
     "question": "The UEFA Champions League is an annual club football competition featuring clubs from which continent?",
     "answer": "Europe"
+  },
+  {
+    "date": "2026-08-29",
+    "sport": "Sports",
+    "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+    "answer": "2009"
   }
 ]
