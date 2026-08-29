@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-08-29T15:10:34+00:00",
+  "updated_at": "2026-08-29T18:23:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Texas Tech softball players injured in lake accident",
+      "published_at": "2026-08-29T17:55:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "published_at": "2026-08-29T17:52:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "published_at": "2026-08-29T16:15:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "published_at": "2026-08-29T15:54:40+00:00"
+    },
     {
       "source": "BBC",
       "text": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "published_at": "2026-08-29T14:43:04+00:00"
+      "published_at": "2026-08-29T15:27:56+00:00"
     },
     {
       "source": "Reuters",
@@ -18,13 +38,13 @@
     },
     {
       "source": "BBC",
-      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "published_at": "2026-08-29T14:18:11+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Deadly strike on Kyiv warehouse prompts evacuations",
       "published_at": "2026-08-29T13:55:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US military families ride 'roller coaster of emotions' over six months of Iran war",
+      "published_at": "2026-08-29T13:09:27+00:00"
     },
     {
       "source": "NPR",
@@ -48,33 +68,13 @@
     },
     {
       "source": "NPR",
-      "text": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-      "published_at": "2026-08-29T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Why is one WNBA team calling in national security experts?",
       "published_at": "2026-08-29T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "published_at": "2026-08-29T08:48:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "published_at": "2026-08-29T07:11:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Leao bids emotional farewell to Milan amid reports of Galatasaray switch",
-      "published_at": "2026-08-29T06:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild",
-      "published_at": "2026-08-29T04:38:00+00:00"
+      "source": "NPR",
+      "text": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+      "published_at": "2026-08-29T09:00:00+00:00"
     }
   ]
 }
