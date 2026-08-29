@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-28T21:14:29+00:00",
+  "updated_at": "2026-08-29T02:07:16+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "published_at": "2026-08-29T01:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "published_at": "2026-08-29T01:14:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iceland votes on whether to start EU membership talks",
+      "published_at": "2026-08-29T01:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "published_at": "2026-08-29T00:56:19+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "published_at": "2026-08-28T21:01:39+00:00"
+      "published_at": "2026-08-29T00:46:02+00:00"
     },
     {
       "source": "BBC",
-      "text": "What we know about deadly Nepal-Tibet floods",
-      "published_at": "2026-08-28T20:23:28+00:00"
+      "text": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+      "published_at": "2026-08-29T00:35:04+00:00"
     },
     {
       "source": "BBC",
-      "text": "Greenland says findings on genocide allegation not final",
-      "published_at": "2026-08-28T19:57:50+00:00"
+      "text": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "published_at": "2026-08-29T00:32:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chinese memory chipmaker CXMT sues Pentagon over 'Chinese military company' designation",
+      "published_at": "2026-08-29T00:18:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "published_at": "2026-08-28T19:40:45+00:00"
+      "text": "What tariffs will really cost Canadians and Americans",
+      "published_at": "2026-08-29T00:15:19+00:00"
     },
     {
       "source": "NPR",
-      "text": "After 6 months of war, Iran's battered regime remains entrenched",
-      "published_at": "2026-08-28T19:35:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trans Mountain CEO says US trade rift adds urgency to Canada's oil pipeline plan",
-      "published_at": "2026-08-28T19:33:45+00:00"
+      "text": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+      "published_at": "2026-08-29T00:06:04+00:00"
     },
     {
       "source": "BBC",
-      "text": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "published_at": "2026-08-28T19:05:23+00:00"
+      "text": "Canada poaches dozens of top US researchers for its universities",
+      "published_at": "2026-08-28T23:47:38+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump administration appeals $16 billion Hudson Tunnel funding order",
-      "published_at": "2026-08-28T17:56:30+00:00"
+      "text": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough",
+      "published_at": "2026-08-28T22:31:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks",
+      "published_at": "2026-08-28T22:22:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pegula, Tiafoe see progress on diversity in tennis at US Open",
+      "published_at": "2026-08-28T22:21:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Satellite images reveal scale of flood devastation in Nepal villages",
-      "published_at": "2026-08-28T17:36:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "published_at": "2026-08-28T17:29:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How Shein had to make peace with China to finally go public​",
-      "published_at": "2026-08-28T17:26:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Shanghai plans subsidies to kick start dormant offshore debt market, sources say",
-      "published_at": "2026-08-28T17:00:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Violence breaks out in Ceuta as migrant crisis continues",
-      "published_at": "2026-08-28T16:30:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge questions but won't yet block Trump's new birthright citizenship order",
-      "published_at": "2026-08-28T16:12:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "published_at": "2026-08-28T16:05:40+00:00"
+      "text": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "published_at": "2026-08-28T22:05:41+00:00"
     }
   ]
 }
