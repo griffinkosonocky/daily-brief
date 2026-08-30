@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-08-30T00:13:21+00:00",
+  "updated_at": "2026-08-30T06:34:46+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Hrgovic storms back to defeat Itauma for IBF heavyweight title",
-      "published_at": "2026-08-29T23:05:57+00:00"
+      "source": "BBC",
+      "text": "One dead and five injured in Swiss shooting, police say",
+      "published_at": "2026-08-30T06:27:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "WhatsApp chat used to send cash for crime and extremism",
+      "published_at": "2026-08-30T04:59:56+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "published_at": "2026-08-29T22:40:51+00:00"
+      "published_at": "2026-08-30T04:01:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iceland EU referendum on a knife edge as counting continues",
+      "published_at": "2026-08-30T03:57:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China identifies countries of 261 foreigners missing in Himalayan mudslide",
+      "published_at": "2026-08-30T03:45:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Icelanders vote on whether they want to join the EU",
+      "published_at": "2026-08-30T01:47:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Emotional Federer full of love and gratitude at Hall of Fame induction",
+      "published_at": "2026-08-30T01:45:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada installs large Lake Ontario sign in latest jab at US",
+      "published_at": "2026-08-30T00:17:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hrgovic storms back to defeat Itauma for IBF heavyweight title",
+      "published_at": "2026-08-29T22:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Finland's Stubb tells German newspaper Russia unlikely to risk attack on NATO",
+      "published_at": "2026-08-29T21:51:44+00:00"
     },
     {
       "source": "NPR",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
       "published_at": "2026-08-29T18:30:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Texas Tech softball players injured in lake accident",
-      "published_at": "2026-08-29T17:55:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "published_at": "2026-08-29T17:52:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "published_at": "2026-08-29T15:54:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Photos: See the aftermath of deadly flash floods in Nepal",
-      "published_at": "2026-08-29T14:22:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "published_at": "2026-08-29T13:55:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US military families ride 'roller coaster of emotions' over six months of Iran war",
-      "published_at": "2026-08-29T13:09:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Remembering Dolly Parton",
-      "published_at": "2026-08-29T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The bridges of Rwanda open up new worlds",
-      "published_at": "2026-08-29T11:54:36+00:00"
     }
   ]
 }
