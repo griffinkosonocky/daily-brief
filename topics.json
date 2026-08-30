@@ -483,7 +483,7 @@
     "title": "The Hundred Years' War and the Birth of Nations",
     "era": "Medieval",
     "region": "Western Europe",
-    "used_on": null
+    "used_on": "2026-08-30"
   },
   {
     "title": "The Council of Constance and Church Reform",
@@ -537,6 +537,186 @@
     "title": "The Opium Wars and Western Imperialism in China",
     "era": "Modern",
     "region": "East Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Minoan Civilization and the Palace of Knossos",
+    "era": "Ancient",
+    "region": "Eastern Mediterranean",
+    "used_on": null
+  },
+  {
+    "title": "The Shang Dynasty and the Origins of Chinese Writing",
+    "era": "Ancient",
+    "region": "East Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Nubian Kingdoms and Gold Trade with Egypt",
+    "era": "Ancient",
+    "region": "Northeast Africa",
+    "used_on": null
+  },
+  {
+    "title": "The Vedic Period and the Composition of the Rigveda",
+    "era": "Ancient",
+    "region": "South Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Phoenician Expansion and Alphabet Innovation",
+    "era": "Ancient",
+    "region": "Levant and Mediterranean",
+    "used_on": null
+  },
+  {
+    "title": "The Oracle at Delphi and Greek Religious Authority",
+    "era": "Ancient",
+    "region": "Classical Greece",
+    "used_on": null
+  },
+  {
+    "title": "The Hellenistic Kingdoms After Alexander's Death",
+    "era": "Ancient",
+    "region": "Mediterranean and Near East",
+    "used_on": null
+  },
+  {
+    "title": "The Han Dynasty's Expansion into the Tarim Basin",
+    "era": "Ancient",
+    "region": "Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Nabataean Desert Cities and Trade Monopolies",
+    "era": "Ancient",
+    "region": "Arabian Peninsula",
+    "used_on": null
+  },
+  {
+    "title": "The Jewish Temple and the Second Commonwealth Period",
+    "era": "Ancient",
+    "region": "Levant",
+    "used_on": null
+  },
+  {
+    "title": "The Axial Age Philosophers and the Birth of Philosophy",
+    "era": "Ancient",
+    "region": "Eurasia",
+    "used_on": null
+  },
+  {
+    "title": "The Etruscan Civilization and Pre-Roman Italy",
+    "era": "Ancient",
+    "region": "Mediterranean Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Hopewell Culture and Mound Building in North America",
+    "era": "Ancient",
+    "region": "North America",
+    "used_on": null
+  },
+  {
+    "title": "The Parthian Empire's Silk Road Control",
+    "era": "Ancient",
+    "region": "Central and Western Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Sogdian Merchants and Cultural Intermediaries",
+    "era": "Medieval",
+    "region": "Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Byzantine Iconoclasm Controversy",
+    "era": "Medieval",
+    "region": "Eastern Mediterranean",
+    "used_on": null
+  },
+  {
+    "title": "The Vakataka Dynasty and Classical Indian Culture",
+    "era": "Medieval",
+    "region": "South Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Cahokia Mississippian Civilization at Its Peak",
+    "era": "Medieval",
+    "region": "North America",
+    "used_on": null
+  },
+  {
+    "title": "The Nara Period and the Founding of Japanese Buddhism",
+    "era": "Medieval",
+    "region": "East Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Aksumite-Sasanian War Over Arabia",
+    "era": "Medieval",
+    "region": "Horn of Africa and Arabian Peninsula",
+    "used_on": null
+  },
+  {
+    "title": "The Tocharian Kingdoms and Indo-European Cultures",
+    "era": "Medieval",
+    "region": "Central Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Kilwa Sultanate and Swahili Coastal Dominance",
+    "era": "Medieval",
+    "region": "East Africa",
+    "used_on": null
+  },
+  {
+    "title": "The Angor Wat's Expansion and Khmer Hydraulics",
+    "era": "Medieval",
+    "region": "Southeast Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Sufism Movement and Islamic Mysticism",
+    "era": "Medieval",
+    "region": "Islamic World",
+    "used_on": null
+  },
+  {
+    "title": "The Venetian-Genoese Rivalry and Mediterranean Commerce",
+    "era": "Medieval",
+    "region": "Southern Europe",
+    "used_on": null
+  },
+  {
+    "title": "The Inca Conquest of the Andean Highlands",
+    "era": "Early Modern",
+    "region": "South America",
+    "used_on": null
+  },
+  {
+    "title": "The Songhai Empire and the Timbuktu Manuscripts",
+    "era": "Early Modern",
+    "region": "West Africa",
+    "used_on": null
+  },
+  {
+    "title": "The Safavid-Ottoman Border Wars and Shiism",
+    "era": "Early Modern",
+    "region": "Middle East",
+    "used_on": null
+  },
+  {
+    "title": "The Jesuit Missions in Japan and Cultural Exchange",
+    "era": "Early Modern",
+    "region": "East Asia",
+    "used_on": null
+  },
+  {
+    "title": "The Maratha Confederacy and Mughal Decline",
+    "era": "Early Modern",
+    "region": "South Asia",
     "used_on": null
   }
 ]

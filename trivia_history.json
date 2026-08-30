@@ -418,5 +418,11 @@
     "sport": "Sports",
     "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
     "answer": "2009"
+  },
+  {
+    "date": "2026-08-30",
+    "sport": "Sports",
+    "question": "In what sport is a \"shuttlecock\" used?",
+    "answer": "Badminton"
   }
 ]

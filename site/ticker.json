@@ -1,25 +1,45 @@
 {
-  "updated_at": "2026-08-30T12:48:36+00:00",
+  "updated_at": "2026-08-30T14:56:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Iceland votes against restarting EU membership talks",
+      "published_at": "2026-08-30T14:45:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "published_at": "2026-08-30T14:36:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada installs large Lake Ontario sign in latest jab at US",
+      "published_at": "2026-08-30T14:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
+      "published_at": "2026-08-30T14:16:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Seven die, many more missing after ferry capsizes off North Cyprus",
+      "published_at": "2026-08-30T13:55:25+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "published_at": "2026-08-30T12:45:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "published_at": "2026-08-30T12:44:08+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
-      "published_at": "2026-08-30T12:26:09+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
       "published_at": "2026-08-30T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iceland votes against restarting talks on joining EU",
-      "published_at": "2026-08-30T10:49:11+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Zambian opposition leader charged with treason",
       "published_at": "2026-08-30T09:08:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
-      "published_at": "2026-08-30T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-      "published_at": "2026-08-30T08:32:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Incoming Swiss bank lobby chief warns against over-regulation, FT says",
-      "published_at": "2026-08-30T08:16:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
-      "published_at": "2026-08-30T07:45:10+00:00"
     }
   ]
 }
