@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-08-30T14:56:07+00:00",
+  "updated_at": "2026-08-30T17:23:48+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "At least eight die, 17 missing after ferry capsizes off North Cyprus",
+      "published_at": "2026-08-30T17:15:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambian opposition leader charged with treason",
+      "published_at": "2026-08-30T17:06:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "published_at": "2026-08-30T16:48:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia says it helped to repel Niger attempted coup",
+      "published_at": "2026-08-30T16:33:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Several people die after ferry capsizes off North Cyprus",
+      "published_at": "2026-08-30T16:13:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iceland votes against restarting EU membership talks",
-      "published_at": "2026-08-30T14:45:05+00:00"
+      "published_at": "2026-08-30T16:11:44+00:00"
     },
     {
       "source": "NPR",
@@ -15,16 +40,6 @@
       "source": "BBC",
       "text": "Canada installs large Lake Ontario sign in latest jab at US",
       "published_at": "2026-08-30T14:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
-      "published_at": "2026-08-30T14:16:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Seven die, many more missing after ferry capsizes off North Cyprus",
-      "published_at": "2026-08-30T13:55:25+00:00"
     },
     {
       "source": "NPR",
@@ -52,29 +67,14 @@
       "published_at": "2026-08-30T10:40:22+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
+      "published_at": "2026-08-30T10:32:20+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "NASA has successfully launched its newest space telescope",
+      "text": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
       "published_at": "2026-08-30T10:30:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How a comic book store got swept into the tariff storm",
-      "published_at": "2026-08-30T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
-      "published_at": "2026-08-30T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-      "published_at": "2026-08-30T09:52:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambian opposition leader charged with treason",
-      "published_at": "2026-08-30T09:08:23+00:00"
     }
   ]
 }
