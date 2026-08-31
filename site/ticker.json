@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-08-31T17:42:15+00:00",
+  "updated_at": "2026-08-31T19:58:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "published_at": "2026-08-31T18:58:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "No fairytale ending, but Messi leaves defining legacy for Argentina",
+      "published_at": "2026-08-31T18:47:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Argentina forward Lionel Messi",
+      "published_at": "2026-08-31T18:46:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'All the joy he gave us': Argentines thank Messi as he announces international retirement",
+      "published_at": "2026-08-31T18:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sabalenka's gets US Open 'three-peat' campaign off to strong start",
+      "published_at": "2026-08-31T18:42:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Chinese court freezes $300 million of Nexperia assets in Wingtech case",
+      "published_at": "2026-08-31T18:22:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-congressman George Santos banned from betting platform for life",
+      "published_at": "2026-08-31T18:15:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Leaders gather in Kyrgyzstan for the World Nomad Games",
+      "published_at": "2026-08-31T18:01:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "published_at": "2026-08-31T17:54:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Positive developments' expected after IMF mission to Senegal, source says",
+      "published_at": "2026-08-31T17:53:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Argentina's Messi ends international career",
+      "published_at": "2026-08-31T17:39:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
       "published_at": "2026-08-31T17:30:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "published_at": "2026-08-31T17:13:39+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +67,14 @@
       "published_at": "2026-08-31T17:06:39+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "published_at": "2026-08-31T17:00:09+00:00"
+      "source": "Reuters",
+      "text": "Lindsey Vonn's 'long road' back still includes ACL repair",
+      "published_at": "2026-08-31T17:01:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'I haven't lost my hope' - the search for missing loved ones",
-      "published_at": "2026-08-31T16:42:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "published_at": "2026-08-31T16:37:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Company offering reward for safe return of truckload of beer",
-      "published_at": "2026-08-31T16:32:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "John Galliano exhibition at New York Met cancelled after backlash",
-      "published_at": "2026-08-31T15:30:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Messi retires from Argentina duty with 'nothing left to give'",
-      "published_at": "2026-08-31T15:18:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "published_at": "2026-08-31T15:00:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "published_at": "2026-08-31T14:50:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Iran trade strikes for first time in weeks",
-      "published_at": "2026-08-31T13:47:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man arrested after Swiss rave shooting that killed woman",
-      "published_at": "2026-08-31T13:11:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The jury's options in Lindsay Clancy's murder trial",
-      "published_at": "2026-08-31T11:53:21+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
-      "published_at": "2026-08-31T11:50:17+00:00"
+      "source": "Reuters",
+      "text": "G20 host US pushes growth agenda to allay debt market concerns",
+      "published_at": "2026-08-31T16:44:52+00:00"
     }
   ]
 }
