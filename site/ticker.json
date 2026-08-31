@@ -1,35 +1,70 @@
 {
-  "updated_at": "2026-08-31T13:35:31+00:00",
+  "updated_at": "2026-08-31T17:42:15+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "published_at": "2026-08-31T17:30:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "published_at": "2026-08-31T17:13:39+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
+      "published_at": "2026-08-31T17:06:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "published_at": "2026-08-31T17:00:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I haven't lost my hope' - the search for missing loved ones",
+      "published_at": "2026-08-31T16:42:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Lionel Messi says he's retiring from playing internationally for Argentina",
+      "published_at": "2026-08-31T16:37:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Company offering reward for safe return of truckload of beer",
+      "published_at": "2026-08-31T16:32:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "John Galliano exhibition at New York Met cancelled after backlash",
+      "published_at": "2026-08-31T15:30:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Messi retires from Argentina duty with 'nothing left to give'",
+      "published_at": "2026-08-31T15:18:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "published_at": "2026-08-31T15:00:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "published_at": "2026-08-31T14:50:36+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade strikes for first time in weeks",
+      "published_at": "2026-08-31T13:47:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "Man arrested after Swiss rave shooting that killed woman",
       "published_at": "2026-08-31T13:11:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "published_at": "2026-08-31T12:55:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia invests $3.5 billion in MediaTek convertible bonds",
-      "published_at": "2026-08-31T12:54:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India must uphold water-sharing treaty with Pakistan, international court says",
-      "published_at": "2026-08-31T12:30:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New stability record for Italy's Meloni may prove fleeting",
-      "published_at": "2026-08-31T12:15:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German unions warn of massive opposition in turnaround dispute with Volkswagen",
-      "published_at": "2026-08-31T12:08:14+00:00"
     },
     {
       "source": "BBC",
@@ -38,43 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
+      "text": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
       "published_at": "2026-08-31T11:50:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
-      "published_at": "2026-08-31T11:41:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Adobe to offer free access to AI tools in Saudi Arabia in $4 billion deal",
-      "published_at": "2026-08-31T11:39:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
-      "published_at": "2026-08-31T11:20:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending",
-      "published_at": "2026-08-31T11:08:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At Jackson Hole, global central bankers glimpse dystopian AI future",
-      "published_at": "2026-08-31T11:05:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chinese court freezes $300 million of Nexperia assets in Wingtech case",
-      "published_at": "2026-08-31T11:02:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Turkey's wealth fund to become shareholder in local EV maker TOGG, Vestel and Anadolu to exit",
-      "published_at": "2026-08-31T11:00:38+00:00"
     }
   ]
 }
