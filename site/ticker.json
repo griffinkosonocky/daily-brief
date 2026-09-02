@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-02T18:37:02+00:00",
+  "updated_at": "2026-09-02T21:46:02+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "South African airline behind daring stadium stunt cancels next flyby",
+      "published_at": "2026-09-02T21:21:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say - reuters.com",
+      "published_at": "2026-09-02T21:19:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US hit Iran 'very hard,' renewed strikes won't last long - reuters.com",
+      "published_at": "2026-09-02T21:05:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: TRADING DAY Yen jumps, oil pumps - reuters.com",
+      "published_at": "2026-09-02T21:04:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "published_at": "2026-09-02T20:21:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "published_at": "2026-09-02T20:12:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says renewed US campaign against Iran won't last long - reuters.com",
+      "published_at": "2026-09-02T20:11:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Ceuta as Spain rallies over enclave's migrant crisis - reuters.com",
+      "published_at": "2026-09-02T20:08:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The IRS slashed its staff. One result? More taxes going uncollected",
+      "published_at": "2026-09-02T19:56:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+      "published_at": "2026-09-02T19:48:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Misplaced mail forces Wings C Li Yueru to miss FIBA World Cup - reuters.com",
+      "published_at": "2026-09-02T19:41:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "published_at": "2026-09-02T19:05:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As schools re-open, Congo drops remote learning plan in Ebola red zone - reuters.com",
+      "published_at": "2026-09-02T18:47:40+00:00"
+    },
     {
       "source": "NPR",
       "text": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "published_at": "2026-09-02T18:17:19+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "published_at": "2026-09-02T17:33:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "published_at": "2026-09-02T17:05:09+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Pegula sprints past Kenin to reach US Open third round",
-      "published_at": "2026-09-02T17:03:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South African airline behind daring stadium stunt cancels next flyby, regulator says",
-      "published_at": "2026-09-02T16:58:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "published_at": "2026-09-02T16:49:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New immigration court tactic leads to huge lines and chaos in Miami",
-      "published_at": "2026-09-02T16:42:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak",
-      "published_at": "2026-09-02T16:38:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "published_at": "2026-09-02T16:12:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Understanding the tech giants' oversized influence in American schools",
-      "published_at": "2026-09-02T16:08:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "published_at": "2026-09-02T15:57:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "published_at": "2026-09-02T15:33:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to meet with travel industry CEOs on tourism push",
-      "published_at": "2026-09-02T15:29:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "published_at": "2026-09-02T15:20:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-      "published_at": "2026-09-02T15:18:09+00:00"
+      "text": "Explainer: Why is Senegal reworking its debt and what makes it different? - reuters.com",
+      "published_at": "2026-09-02T18:15:43+00:00"
     }
   ]
 }
