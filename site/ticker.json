@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-09-02T14:24:08+00:00",
+  "updated_at": "2026-09-02T14:37:42+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "published_at": "2026-09-02T14:34:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India draws $136.38 billion in forex inflows, bolstering support for rupee",
+      "published_at": "2026-09-02T14:23:05+00:00"
+    },
     {
       "source": "BBC",
       "text": "Tiger Woods gets five-year driving ban after reckless driving plea",
       "published_at": "2026-09-02T14:11:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to meet with travel industry CEOs",
-      "published_at": "2026-09-02T14:09:27+00:00"
     },
     {
       "source": "NPR",
@@ -28,8 +33,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
-      "published_at": "2026-09-02T13:44:03+00:00"
+      "text": "China's Xi urges new Middle East security framework during Egypt visit",
+      "published_at": "2026-09-02T13:44:51+00:00"
     },
     {
       "source": "Reuters",
@@ -42,11 +47,6 @@
       "published_at": "2026-09-02T13:17:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Tencent-backed Enflame IPO draws 6,109 times online demand",
-      "published_at": "2026-09-02T13:17:24+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "published_at": "2026-09-02T13:16:26+00:00"
@@ -57,24 +57,24 @@
       "published_at": "2026-09-02T13:12:13+00:00"
     },
     {
-      "source": "BBC",
-      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "published_at": "2026-09-02T13:04:47+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Nvidia CEO urges G20 to avoid AI rules on 'theoretical' harms",
-      "published_at": "2026-09-02T13:02:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Xi urges new Middle East security framework during Egypt visit",
-      "published_at": "2026-09-02T12:59:53+00:00"
+      "text": "Ceuta residents call for calm as Spain rallies over enclave's migrant crisis",
+      "published_at": "2026-09-02T12:57:43+00:00"
     },
     {
       "source": "NPR",
       "text": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
       "published_at": "2026-09-02T12:22:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R",
+      "published_at": "2026-09-02T12:21:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "published_at": "2026-09-02T12:14:31+00:00"
     }
   ]
 }

@@ -430,5 +430,11 @@
     "sport": "Sports",
     "question": "What is the nickname of Northampton town's rugby union club?",
     "answer": "Saints"
+  },
+  {
+    "date": "2026-09-02",
+    "sport": "Sports",
+    "question": "What city did the Lakers represent before relocating to Los Angeles?",
+    "answer": "Minneapolis"
   }
 ]
