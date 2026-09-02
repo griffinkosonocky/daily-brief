@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-02T00:03:50+00:00",
+  "updated_at": "2026-09-02T04:23:16+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "published_at": "2026-09-01T23:56:44+00:00"
+      "text": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "published_at": "2026-09-02T03:19:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares open lower as widening Iran conflict sends oil higher",
+      "published_at": "2026-09-02T02:23:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Germany says Russia behind Leipzig airport drone attack",
+      "published_at": "2026-09-02T01:59:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar holds firm at nearly two-week high as Middle East hostilities lift oil",
+      "published_at": "2026-09-02T01:03:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate",
+      "published_at": "2026-09-02T00:38:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BOJ chief signals chance of September rate hike, debate on price risks",
+      "published_at": "2026-09-02T00:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Efficiency or resilience? Democracies can only pick one: Joachim Klement",
+      "published_at": "2026-09-01T23:15:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "published_at": "2026-09-01T22:44:47+00:00"
     },
     {
       "source": "Reuters",
@@ -12,19 +47,19 @@
       "published_at": "2026-09-01T22:44:02+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Putin says Russia is winning on battlefield, will not negotiate with 'terrorists'",
-      "published_at": "2026-09-01T22:29:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes",
-      "published_at": "2026-09-01T22:22:20+00:00"
-    },
-    {
       "source": "NPR",
       "text": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
       "published_at": "2026-09-01T22:18:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgian court orders trial for corruption, money laundering linked to Congo passport deal",
+      "published_at": "2026-09-01T22:13:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US refusals of crucial newborn vitamin spike, raising risk of dangerous bleeding",
+      "published_at": "2026-09-01T21:48:37+00:00"
     },
     {
       "source": "BBC",
@@ -33,48 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Honduran court drops charges against former president pardoned by Trump",
-      "published_at": "2026-09-01T21:38:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine parliament fails to pass parcel tax law tied to IMF, EU funding",
-      "published_at": "2026-09-01T21:36:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK economic outlook improves but firms wary of investment, BCC says",
-      "published_at": "2026-09-01T21:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism",
       "published_at": "2026-09-01T21:26:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: TRADING DAY Over and rout",
-      "published_at": "2026-09-01T21:07:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Germany says Russia behind Leipzig airport drone attack",
-      "published_at": "2026-09-01T21:05:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "published_at": "2026-09-01T20:24:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "published_at": "2026-09-01T20:05:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli special forces capture Hamas official in raid on Gaza City",
-      "published_at": "2026-09-01T19:31:58+00:00"
+      "text": "SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand",
+      "published_at": "2026-09-01T21:16:59+00:00"
     }
   ]
 }
