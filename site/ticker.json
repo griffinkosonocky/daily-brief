@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-02T21:46:02+00:00",
+  "updated_at": "2026-09-03T00:08:01+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Nepal rescuers race to reach any survivors trapped in tunnels a week after disaster",
+      "published_at": "2026-09-02T22:46:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cameroon's Eto'o says African federations should support Infantino",
+      "published_at": "2026-09-02T22:32:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+      "published_at": "2026-09-02T21:59:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "published_at": "2026-09-02T21:34:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Justice Department pursuing hackers behind attack on X users",
+      "published_at": "2026-09-02T21:23:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "South African airline behind daring stadium stunt cancels next flyby",
@@ -8,18 +33,18 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say - reuters.com",
+      "text": "EXCLUSIVE: Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say",
       "published_at": "2026-09-02T21:19:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says US hit Iran 'very hard,' renewed strikes won't last long - reuters.com",
-      "published_at": "2026-09-02T21:05:40+00:00"
+      "text": "Trump meets with travel industry CEOs on push to boost foreign tourism",
+      "published_at": "2026-09-02T21:12:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: TRADING DAY Yen jumps, oil pumps - reuters.com",
-      "published_at": "2026-09-02T21:04:17+00:00"
+      "text": "US-Iran strikes raise fears of renewed war across the Middle East",
+      "published_at": "2026-09-02T21:06:12+00:00"
     },
     {
       "source": "BBC",
@@ -33,13 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says renewed US campaign against Iran won't last long - reuters.com",
+      "text": "Trump says renewed US campaign against Iran won't last long",
       "published_at": "2026-09-02T20:11:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands protest in Ceuta as Spain rallies over enclave's migrant crisis - reuters.com",
-      "published_at": "2026-09-02T20:08:09+00:00"
     },
     {
       "source": "NPR",
@@ -53,28 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Misplaced mail forces Wings C Li Yueru to miss FIBA World Cup - reuters.com",
+      "text": "Misplaced mail forces Wings C Li Yueru to miss FIBA World Cup",
       "published_at": "2026-09-02T19:41:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-      "published_at": "2026-09-02T19:05:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As schools re-open, Congo drops remote learning plan in Ebola red zone - reuters.com",
-      "published_at": "2026-09-02T18:47:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-      "published_at": "2026-09-02T18:17:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Why is Senegal reworking its debt and what makes it different? - reuters.com",
-      "published_at": "2026-09-02T18:15:43+00:00"
     }
   ]
 }
