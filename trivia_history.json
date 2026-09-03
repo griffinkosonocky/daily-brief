@@ -436,5 +436,11 @@
     "sport": "Sports",
     "question": "What city did the Lakers represent before relocating to Los Angeles?",
     "answer": "Minneapolis"
+  },
+  {
+    "date": "2026-09-03",
+    "sport": "Sports",
+    "question": "Who was the first footballer to score 200 goals in the English Premier League?",
+    "answer": "Alan Shearer"
   }
 ]
