@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-09-03T21:40:21+00:00",
+  "updated_at": "2026-09-04T00:00:11+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Hedge funds pose greater threat to US Treasuries than China ever did: McGeever",
+      "published_at": "2026-09-03T23:30:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volkswagen flags 50,000 job cuts across group as board approves turnaround plan",
+      "published_at": "2026-09-03T22:31:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Transplanted pig kidney works in US man's body for record 271 days",
+      "published_at": "2026-09-03T22:31:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US investigating if missile hit Iran wedding, Vance says",
+      "published_at": "2026-09-03T22:19:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+      "published_at": "2026-09-03T22:19:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: Waller cools Fed hike hoopla",
+      "published_at": "2026-09-03T22:09:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BASF sues Apple in US, says iPhones infringe face authentication patents",
+      "published_at": "2026-09-03T22:00:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
+      "published_at": "2026-09-03T21:35:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kenya's president orders Tata Chemicals to end operations in the country",
+      "published_at": "2026-09-03T21:20:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Vance says no talks with Iran until Hormuz attacks stop",
       "published_at": "2026-09-03T21:02:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran buries victims of reported US wedding attack, fires on Kuwait",
+      "published_at": "2026-09-03T20:58:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Billionaire Leon Black sues US House committee over Epstein investigation",
+      "published_at": "2026-09-03T20:56:41+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump administration takes mail-in ballot fight to US Supreme Court",
-      "published_at": "2026-09-03T20:46:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Britain 'on the edge of disaster,' citing immigration and energy concerns",
-      "published_at": "2026-09-03T20:13:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Feminist activist Gloria Steinem dies at age 92",
-      "published_at": "2026-09-03T20:12:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-      "published_at": "2026-09-03T19:56:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen board approves turnaround plan, flags 50,000 possible job cuts across group",
-      "published_at": "2026-09-03T19:55:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada July trade surplus shrinks, US exports drop",
-      "published_at": "2026-09-03T19:45:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
-      "published_at": "2026-09-03T19:04:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Billionaire Leon Black sues US House committee over Epstein investigation",
-      "published_at": "2026-09-03T19:02:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Trump and the left: Republicans' two-pronged midterms strategy",
-      "published_at": "2026-09-03T18:45:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
-      "published_at": "2026-09-03T18:42:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US labor market remains stable; services input price rises point to elevated inflation",
-      "published_at": "2026-09-03T18:40:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFA accuses UEFA of 'smear campaign' in fight over Infantino plan",
-      "published_at": "2026-09-03T18:36:42+00:00"
+      "text": "US imposes new sanctions on Raul Castro's grandson, Cuban companies",
+      "published_at": "2026-09-03T20:45:10+00:00"
     }
   ]
 }
