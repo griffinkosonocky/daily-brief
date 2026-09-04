@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T14:17:15+00:00",
+  "updated_at": "2026-09-04T14:28:36+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "published_at": "2026-09-04T14:17:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada loses 41,700 jobs as summer hiring fades; unemployment rate holds steady",
+      "published_at": "2026-09-04T14:07:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World food prices at highest since 2022 as supply risks mount, FAO says",
+      "published_at": "2026-09-04T13:43:55+00:00"
+    },
     {
       "source": "NPR",
       "text": "Philippine vice president is ordered arrested for threats against the president",
@@ -27,6 +42,11 @@
       "published_at": "2026-09-04T13:20:26+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: Norway offers a case study in US financial gravity",
+      "published_at": "2026-09-04T13:16:16+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Body of world's youngest traditional king returns home to Uganda amid succession row",
       "published_at": "2026-09-04T13:00:44+00:00"
@@ -42,11 +62,6 @@
       "published_at": "2026-09-04T12:50:28+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Canada's job market loses steam as employment drops by over 41,000",
-      "published_at": "2026-09-04T12:48:42+00:00"
-    },
-    {
       "source": "BBC",
       "text": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
       "published_at": "2026-09-04T12:39:05+00:00"
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Breakingviews - COMMENTARY: VW’s rescue wagon shifts into first gear",
       "published_at": "2026-09-04T12:03:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio to visit Colombia, Ecuador and Peru next week",
-      "published_at": "2026-09-04T12:01:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "published_at": "2026-09-04T11:54:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-      "published_at": "2026-09-04T11:29:11+00:00"
     }
   ]
 }
