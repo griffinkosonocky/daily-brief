@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-09-04T18:19:49+00:00",
+  "updated_at": "2026-09-04T21:23:47+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+      "published_at": "2026-09-04T21:11:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+      "published_at": "2026-09-04T20:15:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "published_at": "2026-09-04T20:03:52+00:00"
+    },
     {
       "source": "BBC",
       "text": "UN votes to adopt new world map to reflect Africa's true size",
-      "published_at": "2026-09-04T17:26:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "published_at": "2026-09-04T17:16:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lindsay Clancy trial judge plans to declare mistrial but allows emergency appeal",
-      "published_at": "2026-09-04T17:15:35+00:00"
+      "published_at": "2026-09-04T19:44:40+00:00"
     },
     {
       "source": "BBC",
@@ -22,24 +27,9 @@
       "published_at": "2026-09-04T17:14:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
-      "published_at": "2026-09-04T17:12:33+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Whatever happened to the U.S. campaign to ban child marriage?",
       "published_at": "2026-09-04T17:01:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN approves resolution in support of map that shows Africa's true size",
-      "published_at": "2026-09-04T16:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "LIV's Peter Uihlein DQ'd from DP World Tour Q School",
-      "published_at": "2026-09-04T16:51:34+00:00"
     },
     {
       "source": "BBC",
@@ -47,23 +37,8 @@
       "published_at": "2026-09-04T16:49:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
-      "published_at": "2026-09-04T16:41:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian drone strikes Ukraine's security service HQ, escalating air war",
-      "published_at": "2026-09-04T16:35:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "published_at": "2026-09-04T16:30:50+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
+      "text": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
       "published_at": "2026-09-04T16:20:30+00:00"
     },
     {
@@ -72,9 +47,34 @@
       "published_at": "2026-09-04T16:02:32+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Senior aides to Reform UK's Farage step down after foreign funding sting",
-      "published_at": "2026-09-04T15:39:24+00:00"
+      "source": "NPR",
+      "text": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
+      "published_at": "2026-09-04T15:04:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "published_at": "2026-09-04T14:40:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Philippine vice president is ordered arrested for threats against the president",
+      "published_at": "2026-09-04T13:42:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Myanmar military head visits Vietnam to normalize relations",
+      "published_at": "2026-09-04T13:35:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "published_at": "2026-09-04T13:00:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "published_at": "2026-09-04T12:39:05+00:00"
     }
   ]
 }
