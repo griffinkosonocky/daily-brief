@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-04T21:23:47+00:00",
+  "updated_at": "2026-09-04T23:58:58+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "published_at": "2026-09-04T23:07:23+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "published_at": "2026-09-04T22:48:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "published_at": "2026-09-04T22:46:02+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.N. backs a new world map showing Africa in its true relative size",
+      "published_at": "2026-09-04T22:26:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+      "published_at": "2026-09-04T22:26:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Body of King Oyo Nyimba, once world's youngest monarch, returns to Uganda for burial",
+      "published_at": "2026-09-04T22:18:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
+      "published_at": "2026-09-04T22:17:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "published_at": "2026-09-04T22:02:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lindsay Clancy trial over killing her children ends in mistrial",
+      "published_at": "2026-09-04T22:00:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+      "published_at": "2026-09-04T21:47:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuela August inflation slows to 8.9%, central bank says",
+      "published_at": "2026-09-04T21:36:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO warehouse storing medical supplies attacked overnight in Kyiv region, WHO says",
+      "published_at": "2026-09-04T21:26:45+00:00"
+    },
     {
       "source": "NPR",
       "text": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
       "published_at": "2026-09-04T21:11:56+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
-      "published_at": "2026-09-04T20:15:05+00:00"
+      "source": "Reuters",
+      "text": "Opponents seek to block US from starting work on Trump arch in Washington",
+      "published_at": "2026-09-04T21:08:44+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "published_at": "2026-09-04T20:03:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UN votes to adopt new world map to reflect Africa's true size",
-      "published_at": "2026-09-04T19:44:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "published_at": "2026-09-04T17:14:21+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Whatever happened to the U.S. campaign to ban child marriage?",
-      "published_at": "2026-09-04T17:01:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "published_at": "2026-09-04T16:49:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
-      "published_at": "2026-09-04T16:20:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "published_at": "2026-09-04T16:02:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-      "published_at": "2026-09-04T15:04:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "published_at": "2026-09-04T14:40:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Philippine vice president is ordered arrested for threats against the president",
-      "published_at": "2026-09-04T13:42:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Myanmar military head visits Vietnam to normalize relations",
-      "published_at": "2026-09-04T13:35:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "published_at": "2026-09-04T13:00:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "published_at": "2026-09-04T12:39:05+00:00"
+      "source": "Reuters",
+      "text": "Nscale seeks about $3.5 billion pre-IPO funding, source says",
+      "published_at": "2026-09-04T20:48:11+00:00"
     }
   ]
 }
