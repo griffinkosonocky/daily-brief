@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-05T04:18:01+00:00",
+  "updated_at": "2026-09-05T08:59:22+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says",
+      "published_at": "2026-09-05T08:51:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least two dead in blast at Bolivia military barracks",
+      "published_at": "2026-09-05T08:41:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How escalating attacks are upending daily life in Kyiv",
+      "published_at": "2026-09-05T08:13:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Philippines Vice President Sara Duterte posts bail after arrest",
+      "published_at": "2026-09-05T07:21:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+      "published_at": "2026-09-05T06:53:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "published_at": "2026-09-05T06:37:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "published_at": "2026-09-05T04:28:21+00:00"
+    },
     {
       "source": "BBC",
       "text": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
@@ -8,23 +43,18 @@
     },
     {
       "source": "BBC",
-      "text": "At least two dead in blast at Bolivia military barracks",
-      "published_at": "2026-09-05T02:59:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tate brothers charged with further trafficking and sex crimes in Romania",
-      "published_at": "2026-09-05T02:29:21+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "How much can Canada fight back in its trade war with the US?",
       "published_at": "2026-09-05T02:13:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump grants clemency to 30 people, White House pardon czar says",
-      "published_at": "2026-09-05T01:39:00+00:00"
+      "source": "BBC",
+      "text": "Why are European countries moving their gold out of North America?",
+      "published_at": "2026-09-05T01:42:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+      "published_at": "2026-09-05T01:26:29+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "published_at": "2026-09-04T23:07:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "published_at": "2026-09-04T22:48:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "published_at": "2026-09-04T22:46:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starbucks anti-unionization case brought by NLRB narrowed by US appeals court",
-      "published_at": "2026-09-04T22:42:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.N. backs a new world map showing Africa in its true relative size",
-      "published_at": "2026-09-04T22:26:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
-      "published_at": "2026-09-04T22:26:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Body of King Oyo Nyimba, once world's youngest monarch, returns to Uganda for burial",
-      "published_at": "2026-09-04T22:18:26+00:00"
     }
   ]
 }
