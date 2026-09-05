@@ -1,25 +1,65 @@
 {
-  "updated_at": "2026-09-05T21:09:42+00:00",
+  "updated_at": "2026-09-05T23:49:36+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "published_at": "2026-09-05T20:41:59+00:00"
+      "text": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "published_at": "2026-09-05T23:20:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "published_at": "2026-09-05T22:44:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough",
+      "published_at": "2026-09-05T22:27:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Central Command says it hit three Iranian oil tankers",
+      "published_at": "2026-09-05T22:06:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Players find comfort and companionship with canines on tour",
+      "published_at": "2026-09-05T21:45:58+00:00"
     },
     {
       "source": "BBC",
       "text": "US envoys meet Putin in Moscow for Ukraine talks",
-      "published_at": "2026-09-05T20:15:49+00:00"
+      "published_at": "2026-09-05T21:39:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, Iranian forces fire at vessels in waters near Iran",
+      "published_at": "2026-09-05T21:37:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "published_at": "2026-09-05T21:29:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+      "published_at": "2026-09-05T21:01:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Prince William to attend King Harald's funeral in Norway",
+      "published_at": "2026-09-05T21:00:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Werro holds off Broeders-Bol, Bednarek shines at Diamond League Final",
+      "published_at": "2026-09-05T20:44:35+00:00"
     },
     {
       "source": "Reuters",
       "text": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner",
       "published_at": "2026-09-05T18:57:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-      "published_at": "2026-09-05T18:15:00+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "At least two dead in blast at Bolivia military barracks",
       "published_at": "2026-09-05T15:22:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NATO will not tolerate hybrid actions against members, US envoy says",
-      "published_at": "2026-09-05T15:16:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "published_at": "2026-09-05T15:05:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian Valieva's neutral athlete status revoked, source says",
-      "published_at": "2026-09-05T15:04:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Luka Modric to play for Croatia in Nations League",
-      "published_at": "2026-09-05T14:36:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US military strikes three Iranian crude oil carriers, Central Command says",
-      "published_at": "2026-09-05T14:16:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venice film 'Primetime' probes line between news and showbiz",
-      "published_at": "2026-09-05T14:15:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "published_at": "2026-09-05T14:07:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: A sculpture in perpetual motion, removed",
-      "published_at": "2026-09-05T12:00:00+00:00"
     }
   ]
 }
