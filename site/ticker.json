@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-09-05T13:30:27+00:00",
+  "updated_at": "2026-09-05T15:59:50+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "At least two dead in blast at Bolivia military barracks",
+      "published_at": "2026-09-05T15:22:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "published_at": "2026-09-05T15:14:21+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "published_at": "2026-09-05T12:23:00+00:00"
+      "published_at": "2026-09-05T15:05:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "published_at": "2026-09-05T15:05:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+      "published_at": "2026-09-05T14:42:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Luka Modric to play for Croatia in Nations League",
+      "published_at": "2026-09-05T14:36:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US military strikes three Iranian crude oil carriers, Central Command says",
+      "published_at": "2026-09-05T14:16:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venice film 'Primetime' probes line between news and showbiz",
+      "published_at": "2026-09-05T14:15:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "published_at": "2026-09-05T14:07:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What different world maps get right - and what they get wrong",
+      "published_at": "2026-09-05T13:46:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays",
+      "published_at": "2026-09-05T12:53:43+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "NPR",
       "text": "Whatever happened to the floating schools of Bangladesh?",
       "published_at": "2026-09-05T11:26:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "VIDEO: On the border with horse smugglers and screwworm",
-      "published_at": "2026-09-05T11:20:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "published_at": "2026-09-05T11:08:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "published_at": "2026-09-05T10:02:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Manchester like a local",
-      "published_at": "2026-09-05T10:00:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino to attend Under-20 Women's World Cup opener in Katowice",
-      "published_at": "2026-09-05T09:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump signs order to remove endangered species protection for grey wolves",
-      "published_at": "2026-09-05T09:12:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "published_at": "2026-09-05T09:12:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "published_at": "2026-09-05T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Flock cameras draw opposition from across the political spectrum",
-      "published_at": "2026-09-05T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says",
-      "published_at": "2026-09-05T08:51:49+00:00"
     }
   ]
 }
