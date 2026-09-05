@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:37:45+00:00",
+  "updated_at": "2026-09-05T13:30:27+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -10,6 +10,11 @@
       "source": "NPR",
       "text": "Opinion: A sculpture in perpetual motion, removed",
       "published_at": "2026-09-05T12:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump administration to dig at triumphal arch site despite no final federal approvals",
+      "published_at": "2026-09-05T11:43:24+00:00"
     },
     {
       "source": "Reuters",
@@ -30,11 +35,6 @@
       "source": "NPR",
       "text": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
       "published_at": "2026-09-05T11:08:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Life in Kyiv gets tougher with round-the-clock Russian strikes",
-      "published_at": "2026-09-05T10:12:54+00:00"
     },
     {
       "source": "BBC",
