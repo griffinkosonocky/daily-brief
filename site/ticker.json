@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-04T23:58:58+00:00",
+  "updated_at": "2026-09-05T04:18:01+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+      "published_at": "2026-09-05T04:03:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least two dead in blast at Bolivia military barracks",
+      "published_at": "2026-09-05T02:59:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tate brothers charged with further trafficking and sex crimes in Romania",
+      "published_at": "2026-09-05T02:29:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How much can Canada fight back in its trade war with the US?",
+      "published_at": "2026-09-05T02:13:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump grants clemency to 30 people, White House pardon czar says",
+      "published_at": "2026-09-05T01:39:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "published_at": "2026-09-05T01:16:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UN votes to adopt new world map to reflect Africa's true size",
+      "published_at": "2026-09-05T00:53:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lindsay Clancy trial over killing her children ends in mistrial",
+      "published_at": "2026-09-04T23:43:26+00:00"
+    },
     {
       "source": "BBC",
       "text": "Germany's far-right AfD bids for first taste of power in eastern vote",
@@ -17,6 +57,11 @@
       "published_at": "2026-09-04T22:46:02+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Starbucks anti-unionization case brought by NLRB narrowed by US appeals court",
+      "published_at": "2026-09-04T22:42:47+00:00"
+    },
+    {
       "source": "NPR",
       "text": "The U.N. backs a new world map showing Africa in its true relative size",
       "published_at": "2026-09-04T22:26:35+00:00"
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "Body of King Oyo Nyimba, once world's youngest monarch, returns to Uganda for burial",
       "published_at": "2026-09-04T22:18:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
-      "published_at": "2026-09-04T22:17:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "published_at": "2026-09-04T22:02:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lindsay Clancy trial over killing her children ends in mistrial",
-      "published_at": "2026-09-04T22:00:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "4 things investigators learned about the dysfunction at Trump's Labor Department",
-      "published_at": "2026-09-04T21:47:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela August inflation slows to 8.9%, central bank says",
-      "published_at": "2026-09-04T21:36:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO warehouse storing medical supplies attacked overnight in Kyiv region, WHO says",
-      "published_at": "2026-09-04T21:26:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
-      "published_at": "2026-09-04T21:11:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Opponents seek to block US from starting work on Trump arch in Washington",
-      "published_at": "2026-09-04T21:08:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nscale seeks about $3.5 billion pre-IPO funding, source says",
-      "published_at": "2026-09-04T20:48:11+00:00"
     }
   ]
 }
