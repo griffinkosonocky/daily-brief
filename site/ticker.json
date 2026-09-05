@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-09-05T15:59:50+00:00",
+  "updated_at": "2026-09-05T18:12:26+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner",
+      "published_at": "2026-09-05T17:53:43+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "At least two dead in blast at Bolivia military barracks",
-      "published_at": "2026-09-05T15:22:41+00:00"
+      "text": "US envoys meet Putin in Moscow for Ukraine talks",
+      "published_at": "2026-09-05T17:18:31+00:00"
     },
     {
       "source": "BBC",
       "text": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "published_at": "2026-09-05T15:14:21+00:00"
+      "published_at": "2026-09-05T17:15:05+00:00"
     },
     {
       "source": "BBC",
-      "text": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "published_at": "2026-09-05T15:05:14+00:00"
+      "text": "What different world maps get right - and what they get wrong",
+      "published_at": "2026-09-05T16:14:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino tight-lipped on abandoned proposal, says FIFA focused on growth",
+      "published_at": "2026-09-05T16:09:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+      "published_at": "2026-09-05T15:52:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least two dead in blast at Bolivia military barracks",
+      "published_at": "2026-09-05T15:22:41+00:00"
     },
     {
       "source": "NPR",
@@ -23,8 +43,8 @@
     },
     {
       "source": "Reuters",
-      "text": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-      "published_at": "2026-09-05T14:42:01+00:00"
+      "text": "Russian Valieva's neutral athlete status revoked, source says",
+      "published_at": "2026-09-05T15:04:41+00:00"
     },
     {
       "source": "Reuters",
@@ -47,16 +67,6 @@
       "published_at": "2026-09-05T14:07:38+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What different world maps get right - and what they get wrong",
-      "published_at": "2026-09-05T13:46:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays",
-      "published_at": "2026-09-05T12:53:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Opinion: A sculpture in perpetual motion, removed",
       "published_at": "2026-09-05T12:00:00+00:00"
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "Trump administration to dig at triumphal arch site despite no final federal approvals",
       "published_at": "2026-09-05T11:43:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US ambassador visits Palestinian town amid rise in West Bank settler violence",
-      "published_at": "2026-09-05T11:33:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Whatever happened to the floating schools of Bangladesh?",
-      "published_at": "2026-09-05T11:26:09+00:00"
     }
   ]
 }
