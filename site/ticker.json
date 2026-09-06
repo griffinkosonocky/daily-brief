@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:37:58+00:00",
+  "updated_at": "2026-09-06T13:45:23+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -30,6 +30,11 @@
       "source": "Reuters",
       "text": "At flood-destroyed China-Nepal border, no sign of a once-busy port",
       "published_at": "2026-09-06T11:16:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK business minister to meet Jaguar Land Rover CEO over job cuts",
+      "published_at": "2026-09-06T10:21:43+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Why a famous Montreal sandwich shop has been forced to swap its soda",
       "published_at": "2026-09-06T06:04:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "published_at": "2026-09-06T01:54:29+00:00"
     }
   ]
 }
