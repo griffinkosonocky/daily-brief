@@ -1,9 +1,34 @@
 {
-  "updated_at": "2026-09-06T04:28:54+00:00",
+  "updated_at": "2026-09-06T09:21:00+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+      "published_at": "2026-09-06T09:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+      "published_at": "2026-09-06T08:44:48+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "text": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "published_at": "2026-09-06T08:05:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "published_at": "2026-09-06T07:06:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+      "published_at": "2026-09-06T06:04:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US envoys set for Ukraine talks after meeting Putin in Russia",
       "published_at": "2026-09-06T02:24:16+00:00"
     },
     {
@@ -15,11 +40,6 @@
       "source": "BBC",
       "text": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
       "published_at": "2026-09-06T00:17:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes",
-      "published_at": "2026-09-06T00:06:00+00:00"
     },
     {
       "source": "BBC",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "Players find comfort and companionship with canines on tour",
       "published_at": "2026-09-05T21:45:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "published_at": "2026-09-05T21:29:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-      "published_at": "2026-09-05T21:01:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Prince William to attend King Harald's funeral in Norway",
-      "published_at": "2026-09-05T21:00:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Werro holds off Broeders-Bol, Bednarek shines at Diamond League Final",
-      "published_at": "2026-09-05T20:44:35+00:00"
     }
   ]
 }
