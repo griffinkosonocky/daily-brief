@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-09-06T16:57:28+00:00",
+  "updated_at": "2026-09-06T19:05:43+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "German far-right set for big win in eastern state - exit polls",
-      "published_at": "2026-09-06T16:54:41+00:00"
+      "text": "German far-right set for big win in eastern state, projections show",
+      "published_at": "2026-09-06T19:05:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "published_at": "2026-09-06T18:33:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - reuters.com",
+      "published_at": "2026-09-06T17:39:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "published_at": "2026-09-06T17:00:56+00:00"
     },
     {
       "source": "BBC",
@@ -17,38 +32,33 @@
       "published_at": "2026-09-06T16:36:48+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Far-right AfD posts historic German state election win, exit polls show",
-      "published_at": "2026-09-06T16:09:43+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
       "published_at": "2026-09-06T16:00:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dozens left behind on French beach after failed Channel crossing",
+      "text": "Dozens left behind on French beach after failed Channel crossing - reuters.com",
       "published_at": "2026-09-06T16:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "published_at": "2026-09-06T15:32:27+00:00"
+      "source": "Reuters",
+      "text": "Italian Grand Prix re-started after Leclerc crashes out - reuters.com",
+      "published_at": "2026-09-06T14:04:39+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iran to tackle economic issues, says further attacks will be 'more painful'",
+      "text": "Iran to tackle economic issues, says further attacks will be 'more painful' - reuters.com",
       "published_at": "2026-09-06T14:04:02+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Six rescued after multi-storey building collapses in India's Delhi, ANI reports",
+      "text": "Six rescued after multi-storey building collapses in India's Delhi, ANI reports - reuters.com",
       "published_at": "2026-09-06T13:53:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "At flood-destroyed border, China teams scour ruins of once-busy port",
+      "text": "At flood-destroyed border, China teams scour ruins of once-busy port - reuters.com",
       "published_at": "2026-09-06T13:28:51+00:00"
     },
     {
@@ -58,23 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Russia's Lavrov calls accusations of Moscow's involvement in Leipzig drone incident 'start of real war', TASS reports",
+      "text": "Russia's Lavrov calls accusations of Moscow's involvement in Leipzig drone incident 'start of real war', TASS reports - reuters.com",
       "published_at": "2026-09-06T11:29:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Moscow not ruling out trilateral meeting of Russian, US and Chinese leaders, agencies report",
+      "text": "Moscow not ruling out trilateral meeting of Russian, US and Chinese leaders, agencies report - reuters.com",
       "published_at": "2026-09-06T11:14:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK business minister to meet Jaguar Land Rover CEO over job cuts",
-      "published_at": "2026-09-06T10:21:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "American Muslims are giving Texas barbecue a halal makeover",
-      "published_at": "2026-09-06T10:00:00+00:00"
     }
   ]
 }
