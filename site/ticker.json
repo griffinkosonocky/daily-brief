@@ -1,20 +1,55 @@
 {
-  "updated_at": "2026-09-06T13:45:23+00:00",
+  "updated_at": "2026-09-06T16:57:28+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "China to pump $54 billion into state banks, insurers in capital-boosting push",
-      "published_at": "2026-09-06T13:26:19+00:00"
+      "source": "BBC",
+      "text": "German far-right set for big win in eastern state - exit polls",
+      "published_at": "2026-09-06T16:54:41+00:00"
     },
     {
       "source": "BBC",
-      "text": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-      "published_at": "2026-09-06T13:16:21+00:00"
+      "text": "Dozens feared trapped in collapsed building in Delhi",
+      "published_at": "2026-09-06T16:54:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "German exit polls suggest far-right party has big lead in regional election",
+      "published_at": "2026-09-06T16:36:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says",
-      "published_at": "2026-09-06T12:21:12+00:00"
+      "text": "Far-right AfD posts historic German state election win, exit polls show",
+      "published_at": "2026-09-06T16:09:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "published_at": "2026-09-06T16:00:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dozens left behind on French beach after failed Channel crossing",
+      "published_at": "2026-09-06T16:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+      "published_at": "2026-09-06T15:32:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran to tackle economic issues, says further attacks will be 'more painful'",
+      "published_at": "2026-09-06T14:04:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Six rescued after multi-storey building collapses in India's Delhi, ANI reports",
+      "published_at": "2026-09-06T13:53:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At flood-destroyed border, China teams scour ruins of once-busy port",
+      "published_at": "2026-09-06T13:28:51+00:00"
     },
     {
       "source": "BBC",
@@ -28,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "At flood-destroyed China-Nepal border, no sign of a once-busy port",
-      "published_at": "2026-09-06T11:16:55+00:00"
+      "text": "Moscow not ruling out trilateral meeting of Russian, US and Chinese leaders, agencies report",
+      "published_at": "2026-09-06T11:14:27+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "American Muslims are giving Texas barbecue a halal makeover",
       "published_at": "2026-09-06T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "published_at": "2026-09-06T09:56:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
-      "published_at": "2026-09-06T09:51:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-      "published_at": "2026-09-06T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-      "published_at": "2026-09-06T08:44:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "published_at": "2026-09-06T08:05:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US carrier Abraham Lincoln departs Thailand after respite visit",
-      "published_at": "2026-09-06T06:36:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-      "published_at": "2026-09-06T06:04:51+00:00"
     }
   ]
 }
