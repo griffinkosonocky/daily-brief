@@ -1,19 +1,49 @@
 {
-  "updated_at": "2026-09-06T19:05:43+00:00",
+  "updated_at": "2026-09-06T21:17:57+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "published_at": "2026-09-06T20:52:12+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "German far-right set for big win in eastern state, projections show",
-      "published_at": "2026-09-06T19:05:07+00:00"
+      "published_at": "2026-09-06T20:45:11+00:00"
     },
     {
       "source": "BBC",
       "text": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "published_at": "2026-09-06T18:33:50+00:00"
+      "published_at": "2026-09-06T20:41:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Video shows damaged Amazon cargo plane after crash",
+      "published_at": "2026-09-06T20:41:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+      "published_at": "2026-09-06T19:54:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - reuters.com",
+      "text": "Amazon Prime Air Boeing 767 overruns runway at Miami airport",
+      "published_at": "2026-09-06T19:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran to tackle economic issues, says further attacks will be 'more painful'",
+      "published_at": "2026-09-06T19:23:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Germany's far-right AfD celebrate projected win in state election",
+      "published_at": "2026-09-06T18:32:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say",
       "published_at": "2026-09-06T17:39:39+00:00"
     },
     {
@@ -38,43 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Dozens left behind on French beach after failed Channel crossing - reuters.com",
+      "text": "Dozens left behind on French beach after failed Channel crossing",
       "published_at": "2026-09-06T16:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Italian Grand Prix re-started after Leclerc crashes out - reuters.com",
+      "text": "Italian Grand Prix re-started after Leclerc crashes out",
       "published_at": "2026-09-06T14:04:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran to tackle economic issues, says further attacks will be 'more painful' - reuters.com",
-      "published_at": "2026-09-06T14:04:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Six rescued after multi-storey building collapses in India's Delhi, ANI reports - reuters.com",
-      "published_at": "2026-09-06T13:53:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At flood-destroyed border, China teams scour ruins of once-busy port - reuters.com",
-      "published_at": "2026-09-06T13:28:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What different world maps get right - and what they get wrong",
-      "published_at": "2026-09-06T12:09:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia's Lavrov calls accusations of Moscow's involvement in Leipzig drone incident 'start of real war', TASS reports - reuters.com",
-      "published_at": "2026-09-06T11:29:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Moscow not ruling out trilateral meeting of Russian, US and Chinese leaders, agencies report - reuters.com",
-      "published_at": "2026-09-06T11:14:27+00:00"
     }
   ]
 }
