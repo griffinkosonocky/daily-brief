@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-07T10:10:43+00:00",
+  "updated_at": "2026-09-07T15:59:14+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "published_at": "2026-09-07T15:40:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+      "published_at": "2026-09-07T15:37:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "published_at": "2026-09-07T15:27:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+      "published_at": "2026-09-07T14:57:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US imports more Congo copper as consumer acceptance grows",
+      "published_at": "2026-09-07T14:50:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hapag-Lloyd plans improvements to $4.2 billion bid for Israel's ZIM",
+      "published_at": "2026-09-07T14:49:50+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "published_at": "2026-09-07T10:03:08+00:00"
+      "published_at": "2026-09-07T14:04:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Serbia's government asks president to dissolve parliament, paving way for elections",
+      "published_at": "2026-09-07T13:55:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Labor gains",
+      "published_at": "2026-09-07T13:44:02+00:00"
     },
     {
       "source": "BBC",
-      "text": "Probe begins into why Amazon cargo plane overran Miami runway",
-      "published_at": "2026-09-07T09:54:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jaguar Land Rover to cut 4,000 jobs globally over next two years",
-      "published_at": "2026-09-07T09:48:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China hands former securities regulator Wang Jianjun life sentence over bribery",
-      "published_at": "2026-09-07T09:25:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French wine output to be among lowest in 30 years after heatwaves",
-      "published_at": "2026-09-07T09:13:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Belgium withholds support for Infantino over Balogun red-card row",
-      "published_at": "2026-09-07T09:11:34+00:00"
+      "text": "Israeli strikes in southern Lebanese village kill 12",
+      "published_at": "2026-09-07T13:39:23+00:00"
     },
     {
       "source": "NPR",
-      "text": "'Her body temperature was 106': How heat is killing Americans in their homes",
-      "published_at": "2026-09-07T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The first day of school: Bells, bikes, buses and big feelings",
-      "published_at": "2026-09-07T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The copper peptide trend has gone from creams to injections — ahead of the science",
-      "published_at": "2026-09-07T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli strikes in southern Lebanese village kill nine",
-      "published_at": "2026-09-07T08:57:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-09-07T08:44:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-      "published_at": "2026-09-07T08:26:09+00:00"
+      "text": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "published_at": "2026-09-07T13:31:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say",
-      "published_at": "2026-09-07T08:24:56+00:00"
+      "text": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
+      "published_at": "2026-09-07T13:10:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Berlin police probe substation fire amid series of attacks on grid",
-      "published_at": "2026-09-07T08:12:09+00:00"
+      "text": "Breakingviews - COMMENTARY: Germany’s far right is slow-burning economic risk",
+      "published_at": "2026-09-07T13:10:10+00:00"
     },
     {
-      "source": "BBC",
-      "text": "How quiz-show winnings kick-started coach's career - with Old Trafford next",
-      "published_at": "2026-09-07T08:04:12+00:00"
+      "source": "Reuters",
+      "text": "UK retailer Next wins appeal to pay warehouse staff higher basic pay",
+      "published_at": "2026-09-07T12:48:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK minister condemns anti-migrant protests in Portsmouth",
+      "published_at": "2026-09-07T12:29:43+00:00"
     }
   ]
 }
