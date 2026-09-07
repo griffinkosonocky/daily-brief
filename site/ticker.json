@@ -1,20 +1,60 @@
 {
-  "updated_at": "2026-09-07T16:25:03+00:00",
+  "updated_at": "2026-09-07T20:31:30+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Mauricio Pochettino's goal: Keep USMNT drama to a minimum",
+      "published_at": "2026-09-07T19:23:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
+      "published_at": "2026-09-07T18:48:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Investigators begin work on why cargo plane overran Miami runway",
+      "published_at": "2026-09-07T17:46:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Europe’s biggest mobile operators in talks for satellite-to-mobile venture, Bloomberg News reports",
+      "published_at": "2026-09-07T17:44:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+      "published_at": "2026-09-07T17:25:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK's Bayeux Tapestry exhibition set to wow visitors with battle scenes, scale",
+      "published_at": "2026-09-07T17:07:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Haiti gangs shift operations into countryside, report says",
+      "published_at": "2026-09-07T17:04:29+00:00"
+    },
     {
       "source": "BBC",
       "text": "Tanzanian President Samia's husband dies in hospital",
       "published_at": "2026-09-07T16:23:02+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-      "published_at": "2026-09-07T15:40:47+00:00"
+      "source": "Reuters",
+      "text": "London stocks end lower as rising oil, rate-hike bets weigh",
+      "published_at": "2026-09-07T16:18:04+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - reuters.com",
-      "published_at": "2026-09-07T15:37:47+00:00"
+      "text": "Taiwan's Wistron raises $1.5 billion in global share sale to fund raw material purchases",
+      "published_at": "2026-09-07T16:00:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "published_at": "2026-09-07T15:40:47+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "US imports more Congo copper as consumer acceptance grows - reuters.com",
+      "text": "US imports more Congo copper as consumer acceptance grows",
       "published_at": "2026-09-07T14:50:51+00:00"
     },
     {
       "source": "BBC",
       "text": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
       "published_at": "2026-09-07T14:50:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hapag-Lloyd plans improvements to $4.2 billion bid for Israel's ZIM - reuters.com",
-      "published_at": "2026-09-07T14:49:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "published_at": "2026-09-07T14:04:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Serbia's government asks president to dissolve parliament, paving way for elections - reuters.com",
-      "published_at": "2026-09-07T13:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Labor gains - reuters.com",
-      "published_at": "2026-09-07T13:44:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli strikes in southern Lebanese village kill 12",
-      "published_at": "2026-09-07T13:39:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-      "published_at": "2026-09-07T13:31:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan - reuters.com",
-      "published_at": "2026-09-07T13:10:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Germany’s far right is slow-burning economic risk - reuters.com",
-      "published_at": "2026-09-07T13:10:10+00:00"
     }
   ]
 }
