@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-07T15:59:14+00:00",
+  "updated_at": "2026-09-07T16:25:03+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Tanzanian President Samia's husband dies in hospital",
+      "published_at": "2026-09-07T16:23:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
@@ -8,7 +13,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - reuters.com",
       "published_at": "2026-09-07T15:37:47+00:00"
     },
     {
@@ -23,12 +28,17 @@
     },
     {
       "source": "Reuters",
-      "text": "US imports more Congo copper as consumer acceptance grows",
+      "text": "US imports more Congo copper as consumer acceptance grows - reuters.com",
       "published_at": "2026-09-07T14:50:51+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "published_at": "2026-09-07T14:50:50+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Hapag-Lloyd plans improvements to $4.2 billion bid for Israel's ZIM",
+      "text": "Hapag-Lloyd plans improvements to $4.2 billion bid for Israel's ZIM - reuters.com",
       "published_at": "2026-09-07T14:49:50+00:00"
     },
     {
@@ -38,12 +48,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Serbia's government asks president to dissolve parliament, paving way for elections",
+      "text": "Serbia's government asks president to dissolve parliament, paving way for elections - reuters.com",
       "published_at": "2026-09-07T13:55:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: Labor gains",
+      "text": "PODCAST: Labor gains - reuters.com",
       "published_at": "2026-09-07T13:44:02+00:00"
     },
     {
@@ -58,23 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
+      "text": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan - reuters.com",
       "published_at": "2026-09-07T13:10:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Germany’s far right is slow-burning economic risk",
+      "text": "Breakingviews - COMMENTARY: Germany’s far right is slow-burning economic risk - reuters.com",
       "published_at": "2026-09-07T13:10:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK retailer Next wins appeal to pay warehouse staff higher basic pay",
-      "published_at": "2026-09-07T12:48:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK minister condemns anti-migrant protests in Portsmouth",
-      "published_at": "2026-09-07T12:29:43+00:00"
     }
   ]
 }
