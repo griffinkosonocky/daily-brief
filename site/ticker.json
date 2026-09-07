@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-07T20:31:30+00:00",
+  "updated_at": "2026-09-07T23:27:29+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "NTSB calls deadly Amazon Prime Air cargo plane crash 'devastating'",
+      "published_at": "2026-09-07T22:57:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "published_at": "2026-09-07T22:23:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Southeast Asia emerges as a crucial driver of China's clean-tech exports: Maguire",
+      "published_at": "2026-09-07T22:21:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Noah Lyles (hamstring) drops out of World Athletics Ultimate Championship",
+      "published_at": "2026-09-07T22:05:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
+      "published_at": "2026-09-07T22:03:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rybakina thumps Osaka to reach US Open quarters, close in on top ranking",
+      "published_at": "2026-09-07T21:33:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "published_at": "2026-09-07T21:12:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
+      "published_at": "2026-09-07T21:08:45+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Mauricio Pochettino's goal: Keep USMNT drama to a minimum",
@@ -8,23 +48,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran warns US energy assets in Gulf are vulnerable after latest clashes",
-      "published_at": "2026-09-07T18:48:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Investigators begin work on why cargo plane overran Miami runway",
-      "published_at": "2026-09-07T17:46:25+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Europe’s biggest mobile operators in talks for satellite-to-mobile venture, Bloomberg News reports",
-      "published_at": "2026-09-07T17:44:37+00:00"
+      "published_at": "2026-09-07T19:19:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power",
-      "published_at": "2026-09-07T17:25:52+00:00"
+      "text": "Saxony-Anhalt election delivers a blow to Merz and a warning to Europe",
+      "published_at": "2026-09-07T17:26:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert",
+      "published_at": "2026-09-07T17:13:38+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "Tanzanian President Samia's husband dies in hospital",
       "published_at": "2026-09-07T16:23:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "London stocks end lower as rising oil, rate-hike bets weigh",
-      "published_at": "2026-09-07T16:18:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan's Wistron raises $1.5 billion in global share sale to fund raw material purchases",
-      "published_at": "2026-09-07T16:00:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-      "published_at": "2026-09-07T15:40:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "published_at": "2026-09-07T15:27:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "published_at": "2026-09-07T14:57:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US imports more Congo copper as consumer acceptance grows",
-      "published_at": "2026-09-07T14:50:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
-      "published_at": "2026-09-07T14:50:50+00:00"
     }
   ]
 }
