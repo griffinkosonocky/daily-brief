@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-09-06T23:48:33+00:00",
+  "updated_at": "2026-09-07T04:28:22+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "published_at": "2026-09-07T04:07:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian central bank likely intervened to support rupee, traders say",
+      "published_at": "2026-09-07T03:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+      "published_at": "2026-09-07T03:00:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat",
+      "published_at": "2026-09-07T02:53:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+      "published_at": "2026-09-07T02:26:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asia tech shares rally, others hesitant as oil rises",
+      "published_at": "2026-09-07T01:06:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ship fuel shortage looms as refiners strained by war favour other products",
+      "published_at": "2026-09-07T01:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "published_at": "2026-09-07T00:57:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "published_at": "2026-09-07T00:01:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU to give Greenland a cash boost amid Trump annexation drive",
+      "published_at": "2026-09-06T23:57:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
       "published_at": "2026-09-06T23:13:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK finance minister Healey seeks growth through decentralising power",
+      "published_at": "2026-09-06T23:05:00+00:00"
     },
     {
       "source": "BBC",
@@ -20,61 +75,6 @@
       "source": "Reuters",
       "text": "Sabalenka fights past Townsend into US Open quarters",
       "published_at": "2026-09-06T20:57:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "published_at": "2026-09-06T20:52:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "published_at": "2026-09-06T20:41:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Video shows damaged Amazon cargo plane after crash",
-      "published_at": "2026-09-06T20:41:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "published_at": "2026-09-06T19:54:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Germany's far-right AfD celebrate projected win in state election",
-      "published_at": "2026-09-06T18:32:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say",
-      "published_at": "2026-09-06T17:39:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "published_at": "2026-09-06T17:00:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens feared trapped in collapsed building in Delhi",
-      "published_at": "2026-09-06T16:54:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "German exit polls suggest far-right party has big lead in regional election",
-      "published_at": "2026-09-06T16:36:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "published_at": "2026-09-06T16:00:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dozens left behind on French beach after failed Channel crossing",
-      "published_at": "2026-09-06T16:00:00+00:00"
     }
   ]
 }
