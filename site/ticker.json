@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-08T14:28:04+00:00",
+  "updated_at": "2026-09-08T14:42:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "More than 100,000 back complaint over Infantino's Trump ties, says FairSquare",
+      "published_at": "2026-09-08T14:25:44+00:00"
+    },
     {
       "source": "BBC",
       "text": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns",
       "published_at": "2026-09-08T14:03:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "published_at": "2026-09-08T13:58:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four Renoir paintings worth millions stolen in French museum heist",
+      "published_at": "2026-09-08T13:35:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Capped at home, China extends its aluminium dominance abroad",
+      "published_at": "2026-09-08T13:26:22+00:00"
     },
     {
       "source": "NPR",
@@ -22,6 +42,11 @@
       "published_at": "2026-09-08T13:05:20+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Dangote expects fuel shortages beyond Iran war as it spurs expansion",
+      "published_at": "2026-09-08T13:03:43+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Whatever happened to the Taliban threat: 'We will flog the women'?",
       "published_at": "2026-09-08T13:01:58+00:00"
@@ -30,11 +55,6 @@
       "source": "Reuters",
       "text": "German police detain suspect after sabotage attacks on power grid",
       "published_at": "2026-09-08T12:59:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thai bourse operator to list 28 foreign depository receipts as investors seek global exposure",
-      "published_at": "2026-09-08T12:48:11+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "GE Aerospace to buy castings maker CPP for nearly $12 billion",
       "published_at": "2026-09-08T12:12:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
-      "published_at": "2026-09-08T12:05:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Solvay in talks with One Investment Management on rare earths partnership",
-      "published_at": "2026-09-08T11:55:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Google warns of lower quality as it revamps Europe search results to avoid EU fines",
-      "published_at": "2026-09-08T11:41:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "published_at": "2026-09-08T11:38:07+00:00"
     }
   ]
 }
