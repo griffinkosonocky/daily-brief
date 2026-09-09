@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-09-09T14:44:10+00:00",
+  "updated_at": "2026-09-09T16:33:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "published_at": "2026-09-09T16:07:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "published_at": "2026-09-09T16:01:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
+      "published_at": "2026-09-09T15:34:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US says it will help develop Kenya's critical minerals processing",
+      "published_at": "2026-09-09T15:19:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
+      "published_at": "2026-09-09T15:18:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israel to open embassy in Slovenia as relations thaw",
+      "published_at": "2026-09-09T15:04:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "published_at": "2026-09-09T15:01:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Singapore's DBS faces $1 billion lawsuit in alleged 1MDB-linked claim",
+      "published_at": "2026-09-09T14:50:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Costa Rican man, 119, seeks recognition as world's oldest person",
+      "published_at": "2026-09-09T14:15:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Toronto International Film Festival targets younger audience with independent premieres",
@@ -10,6 +55,11 @@
       "source": "NPR",
       "text": "Greetings from Paris, where the 2024 Olympics balloon rises again",
       "published_at": "2026-09-09T13:56:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net",
+      "published_at": "2026-09-09T13:56:11+00:00"
     },
     {
       "source": "NPR",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Singapore's DBS sued for $1 billion in 1MDB-linked claim",
-      "published_at": "2026-09-09T13:15:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Whatever happened to the measles outbreak that shocked a country this year?",
-      "published_at": "2026-09-09T13:04:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump officials propose sweeping changes to the census that would reshape voting maps",
-      "published_at": "2026-09-09T12:58:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico's REITs poised to benefit from manufacturing, AI boom, exchange chief says",
-      "published_at": "2026-09-09T12:07:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "published_at": "2026-09-09T12:06:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India sugar refiners likely to divert 250,000 tons to domestic market, industry executive says",
-      "published_at": "2026-09-09T11:37:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "published_at": "2026-09-09T11:29:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starbucks CEO Niccol brought back customers. Investors want fatter margins next",
-      "published_at": "2026-09-09T11:22:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Angola moves to open local bond market, eyes JPMorgan debt benchmark",
-      "published_at": "2026-09-09T11:20:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: In a global economic heatwave, beware financial wildfires",
-      "published_at": "2026-09-09T11:13:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "published_at": "2026-09-09T11:12:27+00:00"
+      "text": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll",
+      "published_at": "2026-09-09T13:29:11+00:00"
     }
   ]
 }
