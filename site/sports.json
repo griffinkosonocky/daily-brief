@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-09-08",
-  "generated_at_ct": "Sep 8, 2026 at 9:40 AM CT",
+  "date_key": "2026-09-09",
+  "generated_at_ct": "Sep 9, 2026 at 9:42 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -16,8 +16,45 @@
       "key": "americanfootball_nfl",
       "label": "NFL",
       "full_name": "NFL",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "8c94552d022acec4a0458d70c19d3da9",
+          "sport_key": "americanfootball_nfl",
+          "league": "NFL",
+          "league_name": "NFL",
+          "status_key": "upcoming",
+          "status_label": "7:20 PM CT",
+          "commence_time": "2026-09-10T00:20:00Z",
+          "commence_ct": "7:20 PM CT",
+          "sort_time": "2026-09-10T00:20:00+00:00",
+          "home_team": "Seattle Seahawks",
+          "away_team": "New England Patriots",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:41 AM CT",
+            "summary": "Seattle Seahawks -3",
+            "outcomes": [
+              {
+                "name": "New England Patriots",
+                "point": 3.0,
+                "point_label": "+3",
+                "price": 100,
+                "price_label": "+100"
+              },
+              {
+                "name": "Seattle Seahawks",
+                "point": -3.0,
+                "point_label": "-3",
+                "price": -120,
+                "price_label": "-120"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     },
@@ -50,18 +87,18 @@
     }
   ],
   "summary": {
-    "games": 0,
+    "games": 1,
     "live": 0,
     "final": 0,
-    "upcoming": 0,
-    "spreads": 0
+    "upcoming": 1,
+    "spreads": 1
   },
   "quota": {
-    "remaining": "471",
-    "used": "29",
+    "remaining": "467",
+    "used": "33",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-09-08T14:42:25+00:00"
+  "generated_at": "2026-09-09T14:44:09+00:00"
 }

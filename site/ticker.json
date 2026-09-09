@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-09T11:14:13+00:00",
+  "updated_at": "2026-09-09T14:44:10+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Toronto International Film Festival targets younger audience with independent premieres",
+      "published_at": "2026-09-09T14:11:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "published_at": "2026-09-09T13:56:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+      "published_at": "2026-09-09T13:34:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "published_at": "2026-09-09T13:29:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Singapore's DBS sued for $1 billion in 1MDB-linked claim",
+      "published_at": "2026-09-09T13:15:10+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Whatever happened to the measles outbreak that shocked a country this year?",
+      "published_at": "2026-09-09T13:04:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump officials propose sweeping changes to the census that would reshape voting maps",
+      "published_at": "2026-09-09T12:58:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico's REITs poised to benefit from manufacturing, AI boom, exchange chief says",
+      "published_at": "2026-09-09T12:07:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "published_at": "2026-09-09T12:06:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India sugar refiners likely to divert 250,000 tons to domestic market, industry executive says",
+      "published_at": "2026-09-09T11:37:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "published_at": "2026-09-09T11:29:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Starbucks CEO Niccol brought back customers. Investors want fatter margins next",
+      "published_at": "2026-09-09T11:22:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Angola moves to open local bond market, eyes JPMorgan debt benchmark",
+      "published_at": "2026-09-09T11:20:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: In a global economic heatwave, beware financial wildfires",
+      "published_at": "2026-09-09T11:13:07+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
       "published_at": "2026-09-09T11:12:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "GE Aerospace bets on 'black art' of casting to secure jet engine supply - reuters.com",
-      "published_at": "2026-09-09T10:50:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Morning Bid: Tit for tat - reuters.com",
-      "published_at": "2026-09-09T10:42:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: In a global economic heatwave, beware financial wildfires: Mike Dolan - reuters.com",
-      "published_at": "2026-09-09T10:41:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "published_at": "2026-09-09T10:20:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "published_at": "2026-09-09T09:47:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - reuters.com",
-      "published_at": "2026-09-09T09:35:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel to open embassy in Slovenia as relations thaw - reuters.com",
-      "published_at": "2026-09-09T09:12:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-      "published_at": "2026-09-09T09:09:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India August consumer inflation likely hit 20-month high on food, fuel prices: Reuters poll - reuters.com",
-      "published_at": "2026-09-09T09:07:38+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
-      "published_at": "2026-09-09T09:05:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "COMIC: If we fight, is our love doomed? And other honest questions about conflict",
-      "published_at": "2026-09-09T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-      "published_at": "2026-09-09T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judges may face unprecedented decisions this election. A new guide seeks to help",
-      "published_at": "2026-09-09T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-      "published_at": "2026-09-09T09:00:00+00:00"
     }
   ]
 }
