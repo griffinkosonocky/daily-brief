@@ -1,20 +1,70 @@
 {
-  "updated_at": "2026-09-09T19:43:22+00:00",
+  "updated_at": "2026-09-09T22:29:19+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Ugandan kingdom picks new monarch to succeed King Oyo Nyimba, once world's youngest",
-      "published_at": "2026-09-09T18:57:43+00:00"
+      "text": "Rybakina makes Kazakhstan history as US Open campaign defies early expectations",
+      "published_at": "2026-09-09T22:21:44+00:00"
     },
     {
       "source": "BBC",
-      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "published_at": "2026-09-09T18:53:15+00:00"
+      "text": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "published_at": "2026-09-09T22:17:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
+      "published_at": "2026-09-09T21:40:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court",
+      "published_at": "2026-09-09T21:25:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "published_at": "2026-09-09T21:23:45+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-      "published_at": "2026-09-09T18:42:28+00:00"
+      "published_at": "2026-09-09T20:47:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "published_at": "2026-09-09T20:42:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Iran war 'will end immediately after' US midterm elections",
+      "published_at": "2026-09-09T20:38:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "published_at": "2026-09-09T20:28:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran referred to UN Security Council for nuclear non-compliance",
+      "published_at": "2026-09-09T20:22:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthis attack southern Saudi cities for second day, Saudi-led coalition says",
+      "published_at": "2026-09-09T19:15:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
+      "published_at": "2026-09-09T18:59:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ugandan kingdom picks new monarch to succeed King Oyo Nyimba, once world's youngest",
+      "published_at": "2026-09-09T18:57:43+00:00"
     },
     {
       "source": "NPR",
@@ -25,56 +75,6 @@
       "source": "Reuters",
       "text": "Costa Rican man, 119, seeks recognition as world's oldest person",
       "published_at": "2026-09-09T18:38:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Singapore's DBS faces $1 billion lawsuit in alleged 1MDB-linked claim",
-      "published_at": "2026-09-09T18:18:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Special education head at Education Department abruptly resigns",
-      "published_at": "2026-09-09T17:48:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
-      "published_at": "2026-09-09T17:23:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
-      "published_at": "2026-09-09T17:23:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Google picks Finland for its largest single investment in Europe",
-      "published_at": "2026-09-09T17:06:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "published_at": "2026-09-09T16:46:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Norway bids farewell to King Harald",
-      "published_at": "2026-09-09T16:36:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "published_at": "2026-09-09T16:33:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Europe's royalty pay respects to King Harald V in Norway",
-      "published_at": "2026-09-09T16:30:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "GE Aerospace bets on 'black art' of castings to secure jet engine supply",
-      "published_at": "2026-09-09T16:27:28+00:00"
     }
   ]
 }
