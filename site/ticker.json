@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-09-09T00:07:36+00:00",
+  "updated_at": "2026-09-09T05:55:47+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
+      "published_at": "2026-09-09T05:41:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand public servants walk off job over pay offer",
+      "published_at": "2026-09-09T05:39:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+      "published_at": "2026-09-09T05:20:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dutch fintech Adyen sees long-term India opportunity, plans local expansion",
+      "published_at": "2026-09-09T04:47:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US slaps import ban on Canadian alcohol and other goods",
-      "published_at": "2026-09-09T00:01:53+00:00"
+      "text": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "published_at": "2026-09-09T04:26:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hong Kong's first leader after British handover dies",
+      "published_at": "2026-09-09T04:24:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk",
+      "published_at": "2026-09-09T04:07:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "published_at": "2026-09-09T03:03:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China curbs humanoid IPOs after Unitree’s volatile debut, The Information reports",
+      "published_at": "2026-09-09T02:41:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge dismisses suit by British anti-disinformation activist against deporting him",
+      "published_at": "2026-09-09T02:18:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "published_at": "2026-09-09T01:45:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "With large crowds expected, Norway to lay King Harald to rest",
+      "published_at": "2026-09-09T01:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "published_at": "2026-09-08T23:27:23+00:00"
     },
     {
       "source": "BBC",
@@ -13,68 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "text": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
       "published_at": "2026-09-08T23:11:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers",
-      "published_at": "2026-09-08T23:09:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "LIV Golf files for Chapter 11 bankruptcy in New Jersey",
-      "published_at": "2026-09-08T22:52:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio says US wants to reach trade deals with Colombia, Peru, Ecuador soon",
-      "published_at": "2026-09-08T22:36:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump directs GSA to take steps to remove Canadian goods from agency lists",
-      "published_at": "2026-09-08T22:18:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "published_at": "2026-09-08T21:46:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "published_at": "2026-09-08T21:41:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi nears deal to acquire Spanish second-tier club Eldense",
-      "published_at": "2026-09-08T21:38:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Amazon accused in lawsuit of systematic discrimination against pregnant employees",
-      "published_at": "2026-09-08T21:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US resumes immigrant visa processing for Hungary, Poland as pause remains elsewhere",
-      "published_at": "2026-09-08T21:27:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sabalenka happy to trade top ranking for US Open 'three-peat'",
-      "published_at": "2026-09-08T21:22:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "LIV files for bankruptcy protection with over $45m owed to players",
-      "published_at": "2026-09-08T21:20:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads",
-      "published_at": "2026-09-08T21:15:44+00:00"
     }
   ]
 }
