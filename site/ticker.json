@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-08T21:47:57+00:00",
+  "updated_at": "2026-09-09T00:07:36+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US slaps import ban on Canadian alcohol and other goods",
+      "published_at": "2026-09-09T00:01:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "published_at": "2026-09-08T23:11:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "published_at": "2026-09-08T23:11:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers",
+      "published_at": "2026-09-08T23:09:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "LIV Golf files for Chapter 11 bankruptcy in New Jersey",
+      "published_at": "2026-09-08T22:52:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio says US wants to reach trade deals with Colombia, Peru, Ecuador soon",
+      "published_at": "2026-09-08T22:36:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump directs GSA to take steps to remove Canadian goods from agency lists",
+      "published_at": "2026-09-08T22:18:51+00:00"
+    },
     {
       "source": "BBC",
       "text": "Paul Adams: British-Israeli relations at lowest ebb in decades",
@@ -12,69 +47,34 @@
       "published_at": "2026-09-08T21:41:11+00:00"
     },
     {
-      "source": "BBC",
-      "text": "LIV players will have option to leave after bankruptcy case filing",
-      "published_at": "2026-09-08T21:20:22+00:00"
+      "source": "Reuters",
+      "text": "Messi nears deal to acquire Spanish second-tier club Eldense",
+      "published_at": "2026-09-08T21:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon accused in lawsuit of systematic discrimination against pregnant employees",
+      "published_at": "2026-09-08T21:27:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: US resumes immigrant visa processing for Hungary, Poland as pause remains elsewhere",
-      "published_at": "2026-09-08T21:20:01+00:00"
+      "published_at": "2026-09-08T21:27:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sabalenka happy to trade top ranking for US Open 'three-peat'",
+      "published_at": "2026-09-08T21:22:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "LIV files for bankruptcy protection with over $45m owed to players",
+      "published_at": "2026-09-08T21:20:22+00:00"
     },
     {
       "source": "Reuters",
       "text": "JPMorgan names APAC, EMEA tech investment banking chiefs as international co-heads",
       "published_at": "2026-09-08T21:15:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nike shareholders reject climate proposal backed by Norway wealth fund",
-      "published_at": "2026-09-08T20:23:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt",
-      "published_at": "2026-09-08T20:21:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street slides, oil surges amid worries over inflation, Middle East",
-      "published_at": "2026-09-08T20:17:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New report shows the economic toll of ICE raids",
-      "published_at": "2026-09-08T20:17:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Huawei heads to trial in US over its business dealings in Iran",
-      "published_at": "2026-09-08T20:00:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kenya's foreign trader crackdown sparks fear among migrant communities",
-      "published_at": "2026-09-08T19:55:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Air traffic control issue disrupts flights at major UK airports",
-      "published_at": "2026-09-08T19:45:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "published_at": "2026-09-08T19:11:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Giving people control:' Australia plans new social media rules",
-      "published_at": "2026-09-08T18:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, dies at 89",
-      "published_at": "2026-09-08T18:40:40+00:00"
     }
   ]
 }
