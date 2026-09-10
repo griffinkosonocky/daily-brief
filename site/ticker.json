@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-09T22:29:19+00:00",
+  "updated_at": "2026-09-10T01:00:47+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Rybakina makes Kazakhstan history as US Open campaign defies early expectations",
+      "text": "Samsung, SK Hynix payouts test South Korea's reform drive as investors seek more - reuters.com",
+      "published_at": "2026-09-09T23:43:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top-seeded quartet set for US Open women's semi-final showdown - reuters.com",
+      "published_at": "2026-09-09T22:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hero Motors targets $401 million valuation in India IPO - reuters.com",
+      "published_at": "2026-09-09T22:27:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rybakina makes Kazakhstan history as US Open campaign defies early expectations - reuters.com",
       "published_at": "2026-09-09T22:21:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anthropic discloses fourth AI hacking incident missed in earlier review - reuters.com",
+      "published_at": "2026-09-09T22:18:17+00:00"
     },
     {
       "source": "BBC",
@@ -13,13 +33,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
-      "published_at": "2026-09-09T21:40:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court",
-      "published_at": "2026-09-09T21:25:43+00:00"
+      "text": "US states sue Trump administration for weakening endangered species protections - reuters.com",
+      "published_at": "2026-09-09T21:37:44+00:00"
     },
     {
       "source": "BBC",
@@ -28,7 +43,7 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "text": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - reuters.com",
       "published_at": "2026-09-09T20:47:20+00:00"
     },
     {
@@ -38,7 +53,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump says Iran war 'will end immediately after' US midterm elections",
+      "text": "Trump says Iran war 'will end immediately after' US midterm elections - reuters.com",
       "published_at": "2026-09-09T20:38:07+00:00"
     },
     {
@@ -53,28 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Houthis attack southern Saudi cities for second day, Saudi-led coalition says",
-      "published_at": "2026-09-09T19:15:29+00:00"
+      "text": "IMF says Angola needs fiscal consolidation to sustain economic stability - reuters.com",
+      "published_at": "2026-09-09T19:44:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
-      "published_at": "2026-09-09T18:59:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ugandan kingdom picks new monarch to succeed King Oyo Nyimba, once world's youngest",
+      "text": "Ugandan kingdom picks new monarch to succeed King Oyo Nyimba, once world's youngest - reuters.com",
       "published_at": "2026-09-09T18:57:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-      "published_at": "2026-09-09T18:39:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Costa Rican man, 119, seeks recognition as world's oldest person",
-      "published_at": "2026-09-09T18:38:50+00:00"
     }
   ]
 }
