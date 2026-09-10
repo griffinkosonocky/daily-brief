@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-09-09",
-  "generated_at_ct": "Sep 9, 2026 at 9:42 AM CT",
+  "date_key": "2026-09-10",
+  "generated_at_ct": "Sep 10, 2026 at 9:32 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -18,37 +18,37 @@
       "full_name": "NFL",
       "games": [
         {
-          "id": "8c94552d022acec4a0458d70c19d3da9",
+          "id": "acc580d74344ea3b31bbcdd057fe6a9c",
           "sport_key": "americanfootball_nfl",
           "league": "NFL",
           "league_name": "NFL",
           "status_key": "upcoming",
-          "status_label": "7:20 PM CT",
-          "commence_time": "2026-09-10T00:20:00Z",
-          "commence_ct": "7:20 PM CT",
-          "sort_time": "2026-09-10T00:20:00+00:00",
-          "home_team": "Seattle Seahawks",
-          "away_team": "New England Patriots",
+          "status_label": "7:35 PM CT",
+          "commence_time": "2026-09-11T00:35:00Z",
+          "commence_ct": "7:35 PM CT",
+          "sort_time": "2026-09-11T00:35:00+00:00",
+          "home_team": "Los Angeles Rams",
+          "away_team": "San Francisco 49ers",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "9:41 AM CT",
-            "summary": "Seattle Seahawks -3",
+            "last_update_ct": "9:33 AM CT",
+            "summary": "Los Angeles Rams -3.5",
             "outcomes": [
               {
-                "name": "New England Patriots",
-                "point": 3.0,
-                "point_label": "+3",
-                "price": 100,
-                "price_label": "+100"
+                "name": "Los Angeles Rams",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -118,
+                "price_label": "-118"
               },
               {
-                "name": "Seattle Seahawks",
-                "point": -3.0,
-                "point_label": "-3",
-                "price": -120,
-                "price_label": "-120"
+                "name": "San Francisco 49ers",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -102,
+                "price_label": "-102"
               }
             ]
           }
@@ -62,8 +62,45 @@
       "key": "americanfootball_ncaaf",
       "label": "CFB",
       "full_name": "College Football",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "18dec56516beb8daed598bc5c7a6872d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-09-11T00:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-09-11T00:00:00+00:00",
+          "home_team": "Miami Hurricanes",
+          "away_team": "Florida A&M Rattlers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:33 AM CT",
+            "summary": "Miami Hurricanes -58.5",
+            "outcomes": [
+              {
+                "name": "Florida A&M Rattlers",
+                "point": 58.5,
+                "point_label": "+58.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Miami Hurricanes",
+                "point": -58.5,
+                "point_label": "-58.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     },
@@ -87,18 +124,18 @@
     }
   ],
   "summary": {
-    "games": 1,
+    "games": 2,
     "live": 0,
     "final": 0,
-    "upcoming": 1,
-    "spreads": 1
+    "upcoming": 2,
+    "spreads": 2
   },
   "quota": {
-    "remaining": "467",
-    "used": "33",
+    "remaining": "462",
+    "used": "38",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-09-09T14:44:09+00:00"
+  "generated_at": "2026-09-10T14:34:18+00:00"
 }

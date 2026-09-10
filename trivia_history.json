@@ -466,5 +466,11 @@
     "sport": "Sports",
     "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
     "answer": "India"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "Sports",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "answer": "Qatar"
   }
 ]
