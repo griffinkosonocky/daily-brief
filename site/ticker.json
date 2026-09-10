@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-09-10T14:34:19+00:00",
+  "updated_at": "2026-09-10T16:19:39+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Explainer: What's happened to al Qaeda in the 25 years since 9/11?",
+      "published_at": "2026-09-10T16:05:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK bond yields soar to multi-decade highs on fresh Mideast conflict",
+      "published_at": "2026-09-10T16:00:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+      "published_at": "2026-09-10T15:44:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia strikes petrol station in Kyiv, global agribusiness in Dnipro",
+      "published_at": "2026-09-10T15:44:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Infantino can rely on enough votes to survive, opponents rethink strategy, sources say",
+      "published_at": "2026-09-10T15:41:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF say global growth on track to reach 3% in 2026, but risks remain high",
+      "published_at": "2026-09-10T15:09:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
+      "published_at": "2026-09-10T15:06:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How did 9/11 reshape national security?",
+      "published_at": "2026-09-10T14:53:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Casablanca will host 2030 World Cup final, says Moroccan federation chief",
+      "published_at": "2026-09-10T13:50:25+00:00"
+    },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks",
@@ -22,59 +67,14 @@
       "published_at": "2026-09-10T13:22:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "UK 30-year gilt yields hit highest since 1998",
-      "published_at": "2026-09-10T13:21:26+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "published_at": "2026-09-10T13:12:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: US CPI, where the significant meets the silly",
-      "published_at": "2026-09-10T13:03:20+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "OPEC further lowers 2026 global oil demand growth forecast",
       "published_at": "2026-09-10T13:00:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia strikes petrol station in Kyiv, global agribusiness in Dnipro",
-      "published_at": "2026-09-10T12:48:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French Football Federation withdraws support for FIFA president Infantino",
-      "published_at": "2026-09-10T12:39:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twenty-five dead after fire on cargo ship in eastern China",
-      "published_at": "2026-09-10T12:24:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volvo Cars to become Lynk & Co's European distributor starting 2027",
-      "published_at": "2026-09-10T12:13:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India launches tap-and-pay option for real-time payments ahead of full Apple Pay rollout",
-      "published_at": "2026-09-10T12:07:11+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-      "published_at": "2026-09-10T11:27:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: VinFast plans to develop two India-specific EVs in strategy shift, sources say",
-      "published_at": "2026-09-10T11:08:07+00:00"
     }
   ]
 }
