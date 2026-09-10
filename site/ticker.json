@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-10T19:35:51+00:00",
+  "updated_at": "2026-09-10T22:30:14+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "White House says it will send $500 Obamacare refunds to nearly a million Americans",
+      "published_at": "2026-09-10T22:05:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Lawsuit challenges intimidation of DHS observers across the country",
+      "published_at": "2026-09-10T21:07:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: Inflation palpitations",
+      "published_at": "2026-09-10T21:05:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Coach crash kills several people in Swiss Alps",
+      "published_at": "2026-09-10T20:44:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ecuadorean court sentences former President Bucaram in pandemic corruption case",
+      "published_at": "2026-09-10T20:30:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Man jailed after threatening to kill son's teacher in French village",
+      "published_at": "2026-09-10T20:10:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dispute over recycling machines drags struggle over Cairo's trash into public view",
+      "published_at": "2026-09-10T19:33:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Drones recreate Twin Towers in New York to honor 9/11 victims",
+      "published_at": "2026-09-10T19:23:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "More than 20 children killed in DR Congo school fire",
@@ -8,8 +48,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada agrees on C$350 million air defense package for Ukraine, Carney says",
-      "published_at": "2026-09-10T18:49:38+00:00"
+      "text": "ABC's Jimmy Kimmel says interview with Senate candidate Talarico will not air on network",
+      "published_at": "2026-09-10T19:12:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad",
+      "published_at": "2026-09-10T18:59:32+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
       "published_at": "2026-09-10T17:29:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How the WNBA became a political prop in the culture wars",
-      "published_at": "2026-09-10T17:22:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "published_at": "2026-09-10T17:13:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen earmarks €16 bln for job cuts, plant closures, source says",
-      "published_at": "2026-09-10T17:06:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nestle CEO says Middle East conflict driving inflation, higher supplier costs",
-      "published_at": "2026-09-10T17:00:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran is producing new missiles in limited quantities from existing components, WSJ reports",
-      "published_at": "2026-09-10T16:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Can Trump really pay $5,000 to every American adult?",
-      "published_at": "2026-09-10T16:48:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House copper tariff plan stalls amid affordability concerns, sources say",
-      "published_at": "2026-09-10T16:31:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "published_at": "2026-09-10T16:31:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: What's happened to al Qaeda in the 25 years since 9/11?",
-      "published_at": "2026-09-10T16:05:46+00:00"
     }
   ]
 }
