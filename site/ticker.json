@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-09-11T11:11:25+00:00",
+  "updated_at": "2026-09-11T14:31:44+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "published_at": "2026-09-11T14:16:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
+      "published_at": "2026-09-11T13:37:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
+      "published_at": "2026-09-11T13:33:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
+      "published_at": "2026-09-11T12:56:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Amazon Pay plans to expand insurance offerings in broader financial services push in India",
+      "published_at": "2026-09-11T12:26:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Princess Diana's 'revenge dress' goes up for auction",
+      "published_at": "2026-09-11T12:04:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "ECB's Makhlouf says further rate hikes could hurt economic growth",
+      "published_at": "2026-09-11T12:03:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
+      "published_at": "2026-09-11T11:55:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel says it has destroyed major underground Hezbollah base",
+      "published_at": "2026-09-11T11:34:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Firefighters battle blaze after Russian strike on Kyiv",
+      "published_at": "2026-09-11T11:15:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India needs forum for tech firms to engage foreign regulators, finance minister says",
+      "published_at": "2026-09-11T11:15:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Buddhist monk arrested in suspected $3m embezzlement scandal",
@@ -8,73 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says",
+      "published_at": "2026-09-11T10:49:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Morning Bid: Take a hike",
+      "published_at": "2026-09-11T10:45:22+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
       "published_at": "2026-09-11T10:27:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Uganda holding last-ditch talks over king's succession to allow him to be buried",
-      "published_at": "2026-09-11T10:09:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Americans to mark 25 years since September 11 attacks amid enduring grief, reflection",
-      "published_at": "2026-09-11T10:05:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-      "published_at": "2026-09-11T10:04:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Six Nigerians accused of romance scams to be extradited to the US",
-      "published_at": "2026-09-11T09:54:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say",
-      "published_at": "2026-09-11T09:49:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-      "published_at": "2026-09-11T09:47:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-      "published_at": "2026-09-11T09:38:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India partially cancels debt sale for first time in a year as rates spike",
-      "published_at": "2026-09-11T09:35:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sorry, we can't pay you $5,000 to do the news quiz. We're public media",
-      "published_at": "2026-09-11T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "They cleaned up ground zero. Now many are hiding from ICE",
-      "published_at": "2026-09-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
-      "published_at": "2026-09-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Empty seats, socialism and Trump dominate the Republican midterm convention",
-      "published_at": "2026-09-11T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-      "published_at": "2026-09-11T09:00:00+00:00"
     }
   ]
 }
