@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-09-10T22:30:14+00:00",
+  "updated_at": "2026-09-11T00:59:36+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "White House says it will send $500 Obamacare refunds to nearly a million Americans",
-      "published_at": "2026-09-10T22:05:44+00:00"
+      "text": "Europe drives global EV sales growth in August, offsetting China, North America weakness",
+      "published_at": "2026-09-10T23:44:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Lives at serious risk’ as power outages plague Gaza's hospitals",
+      "published_at": "2026-09-10T23:37:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: US CPI, where the significant and the silly collide",
+      "published_at": "2026-09-10T23:31:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This summer was hot. August shattered global heat records",
+      "published_at": "2026-09-10T21:30:52+00:00"
     },
     {
       "source": "NPR",
@@ -22,11 +37,6 @@
       "published_at": "2026-09-10T20:44:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Ecuadorean court sentences former President Bucaram in pandemic corruption case",
-      "published_at": "2026-09-10T20:30:46+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Man jailed after threatening to kill son's teacher in French village",
       "published_at": "2026-09-10T20:10:51+00:00"
@@ -35,11 +45,6 @@
       "source": "Reuters",
       "text": "Dispute over recycling machines drags struggle over Cairo's trash into public view",
       "published_at": "2026-09-10T19:33:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Drones recreate Twin Towers in New York to honor 9/11 victims",
-      "published_at": "2026-09-10T19:23:43+00:00"
     },
     {
       "source": "BBC",
@@ -57,6 +62,11 @@
       "published_at": "2026-09-10T18:59:32+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US appeals court rejects Trump mail-in ballot restrictions as Supreme Court considers rule",
+      "published_at": "2026-09-10T18:17:03+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
       "published_at": "2026-09-10T18:15:47+00:00"
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "Iran says IAEA moves will push countries to exit NPT",
       "published_at": "2026-09-10T18:13:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-      "published_at": "2026-09-10T18:07:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF says global growth on track to reach 3% in 2026, but risks remain high",
-      "published_at": "2026-09-10T17:29:44+00:00"
     }
   ]
 }
