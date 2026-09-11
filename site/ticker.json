@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-11T19:37:02+00:00",
+  "updated_at": "2026-09-11T22:30:28+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "published_at": "2026-09-11T22:17:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Six Nigerians accused of romance scams to be extradited to the US",
+      "published_at": "2026-09-11T21:07:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+      "published_at": "2026-09-11T20:29:31+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-      "published_at": "2026-09-11T19:19:05+00:00"
+      "text": "EXCLUSIVE: Trapped nine days in a dark tunnel, Nepali man tells his survival story",
+      "published_at": "2026-09-11T19:52:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "published_at": "2026-09-11T19:44:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "published_at": "2026-09-11T19:39:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How Anthropic says Claude was used for weapons, spying and cyber operations",
+      "published_at": "2026-09-11T19:25:28+00:00"
     },
     {
       "source": "NPR",
@@ -13,13 +43,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Twenty-five years after September 11, Americans reflect on attack that changed a nation",
-      "published_at": "2026-09-11T18:40:36+00:00"
+      "text": "EXCLUSIVE: Hong Kong watchdog tells firms how to cooperate in raids as scrutiny of share sales grows",
+      "published_at": "2026-09-11T18:35:26+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Hong Kong watchdog tells firms how to cooperate in raids as scrutiny of share sales grows",
-      "published_at": "2026-09-11T18:35:26+00:00"
+      "text": "Emotions run high as rival rallies mark UK's assisted dying debate",
+      "published_at": "2026-09-11T17:46:22+00:00"
     },
     {
       "source": "Reuters",
@@ -38,11 +68,6 @@
     },
     {
       "source": "BBC",
-      "text": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "published_at": "2026-09-11T16:58:34+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "How global trade and oil prices could be hit by Houthi advance",
       "published_at": "2026-09-11T16:13:39+00:00"
     },
@@ -50,31 +75,6 @@
       "source": "BBC",
       "text": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
       "published_at": "2026-09-11T16:00:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel says it has destroyed major underground Hezbollah base",
-      "published_at": "2026-09-11T15:50:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Cup final tug-of-war escalates as Morocco PM rebukes FA head, Spain stakes claim",
-      "published_at": "2026-09-11T15:47:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-      "published_at": "2026-09-11T15:34:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
-      "published_at": "2026-09-11T15:27:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "President Trump's Republican convention speech draws 2.5 million viewers on Fox News",
-      "published_at": "2026-09-11T14:23:13+00:00"
     }
   ]
 }
