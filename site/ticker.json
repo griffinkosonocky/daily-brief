@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-11T05:53:10+00:00",
+  "updated_at": "2026-09-11T11:11:25+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "published_at": "2026-09-11T10:50:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
+      "published_at": "2026-09-11T10:27:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Uganda holding last-ditch talks over king's succession to allow him to be buried",
+      "published_at": "2026-09-11T10:09:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Americans to mark 25 years since September 11 attacks amid enduring grief, reflection",
+      "published_at": "2026-09-11T10:05:45+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
-      "published_at": "2026-09-11T05:40:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Russia, China, Taiwan and Japan's World War Two legacy dispute",
-      "published_at": "2026-09-11T04:14:00+00:00"
+      "text": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+      "published_at": "2026-09-11T10:04:04+00:00"
     },
     {
       "source": "BBC",
-      "text": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
-      "published_at": "2026-09-11T04:10:24+00:00"
+      "text": "Six Nigerians accused of romance scams to be extradited to the US",
+      "published_at": "2026-09-11T09:54:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China targets mass deployment of self-driving vehicles by 2030",
-      "published_at": "2026-09-11T03:23:00+00:00"
+      "text": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say",
+      "published_at": "2026-09-11T09:49:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
+      "published_at": "2026-09-11T09:47:30+00:00"
     },
     {
       "source": "BBC",
-      "text": "'Driving a limo', 'getting ready for school'- Americans remember what they were doing on 9/11",
-      "published_at": "2026-09-11T02:48:43+00:00"
+      "text": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "published_at": "2026-09-11T09:38:23+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge",
-      "published_at": "2026-09-11T01:33:00+00:00"
+      "text": "India partially cancels debt sale for first time in a year as rates spike",
+      "published_at": "2026-09-11T09:35:01+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Taiwan's vice president on rare Europe visit for Italy democracy forum",
-      "published_at": "2026-09-11T01:27:00+00:00"
+      "source": "NPR",
+      "text": "Sorry, we can't pay you $5,000 to do the news quiz. We're public media",
+      "published_at": "2026-09-11T09:01:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Dollar holds gains, yen slips as Mideast energy shock deepens",
-      "published_at": "2026-09-11T01:08:00+00:00"
+      "source": "NPR",
+      "text": "They cleaned up ground zero. Now many are hiding from ICE",
+      "published_at": "2026-09-11T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Coach crash kills several people in Swiss Alps",
-      "published_at": "2026-09-11T01:01:18+00:00"
+      "source": "NPR",
+      "text": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
+      "published_at": "2026-09-11T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
-      "published_at": "2026-09-11T00:16:00+00:00"
+      "source": "NPR",
+      "text": "Empty seats, socialism and Trump dominate the Republican midterm convention",
+      "published_at": "2026-09-11T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "COMMENTARY: US CPI, where the significant and the silly collide",
-      "published_at": "2026-09-10T23:31:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-      "published_at": "2026-09-10T23:22:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US House to take up bill aimed at curbing data center-driven electricity costs",
-      "published_at": "2026-09-10T22:59:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
-      "published_at": "2026-09-10T22:48:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says",
-      "published_at": "2026-09-10T22:46:20+00:00"
+      "source": "NPR",
+      "text": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+      "published_at": "2026-09-11T09:00:00+00:00"
     }
   ]
 }
