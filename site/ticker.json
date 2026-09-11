@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-09-11T14:31:44+00:00",
+  "updated_at": "2026-09-11T16:23:43+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Spanish GP parks Formula One on football's doorstep",
+      "published_at": "2026-09-11T16:20:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel says it has destroyed major underground Hezbollah base",
+      "published_at": "2026-09-11T15:50:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "published_at": "2026-09-11T15:34:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
+      "published_at": "2026-09-11T15:27:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
+      "published_at": "2026-09-11T15:16:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US consumer inflation picks up in August",
+      "published_at": "2026-09-11T14:28:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "President Trump's Republican convention speech draws 2.5 million viewers on Fox News",
+      "published_at": "2026-09-11T14:23:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
+      "published_at": "2026-09-11T14:16:56+00:00"
+    },
     {
       "source": "NPR",
       "text": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
       "published_at": "2026-09-11T14:16:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Colgate-Palmolive seeks to divest some personal care brands, sources say",
+      "published_at": "2026-09-11T14:10:08+00:00"
     },
     {
       "source": "NPR",
@@ -13,13 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
-      "published_at": "2026-09-11T13:33:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-      "published_at": "2026-09-11T12:56:15+00:00"
+      "text": "9/11, 25 years on: the Reuters reporter who was with George W. Bush that morning",
+      "published_at": "2026-09-11T13:36:00+00:00"
     },
     {
       "source": "Reuters",
@@ -27,54 +67,14 @@
       "published_at": "2026-09-11T12:26:05+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Princess Diana's 'revenge dress' goes up for auction",
-      "published_at": "2026-09-11T12:04:46+00:00"
+      "source": "Reuters",
+      "text": "Magnitude 6.2 quake hits off Indonesia's maluku, agency says",
+      "published_at": "2026-09-11T12:15:03+00:00"
     },
     {
       "source": "Reuters",
-      "text": "ECB's Makhlouf says further rate hikes could hurt economic growth",
-      "published_at": "2026-09-11T12:03:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-      "published_at": "2026-09-11T11:55:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel says it has destroyed major underground Hezbollah base",
-      "published_at": "2026-09-11T11:34:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Firefighters battle blaze after Russian strike on Kyiv",
-      "published_at": "2026-09-11T11:15:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India needs forum for tech firms to engage foreign regulators, finance minister says",
-      "published_at": "2026-09-11T11:15:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "published_at": "2026-09-11T10:50:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi oil supply hits more than three-decade low after Houthi attacks, IEA says",
-      "published_at": "2026-09-11T10:49:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Morning Bid: Take a hike",
-      "published_at": "2026-09-11T10:45:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
-      "published_at": "2026-09-11T10:27:37+00:00"
+      "text": "India's FX reserves surge $45 billion on-week to hit record high on robust capital flows",
+      "published_at": "2026-09-11T12:14:47+00:00"
     }
   ]
 }
