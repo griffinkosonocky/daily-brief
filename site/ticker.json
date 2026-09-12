@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-09-12T17:03:21+00:00",
+  "updated_at": "2026-09-12T19:14:49+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "published_at": "2026-09-12T18:29:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "published_at": "2026-09-12T17:42:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+      "published_at": "2026-09-12T17:38:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Céline Dion fans prepare for comeback concert in Paris",
+      "published_at": "2026-09-12T17:36:20+00:00"
+    },
     {
       "source": "BBC",
       "text": "Uganda's King Oyo buried amid calls for unity over his successor",
       "published_at": "2026-09-12T16:55:31+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "published_at": "2026-09-12T16:38:02+00:00"
+      "source": "Reuters",
+      "text": "Explosion hits second weapons storage site in Bulgaria in weeks - reuters.com",
+      "published_at": "2026-09-12T16:17:27+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +40,6 @@
       "source": "BBC",
       "text": "French officials investigate if malicious act caused train derailment",
       "published_at": "2026-09-12T15:05:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Teen boy rescued after days adrift in Alaskan waters",
-      "published_at": "2026-09-12T15:03:14+00:00"
     },
     {
       "source": "BBC",
@@ -43,7 +58,12 @@
     },
     {
       "source": "Reuters",
-      "text": "Hamilton and Bearman crash in final Spanish GP practice, Antonelli top",
+      "text": "Danish FA chief says FIFA Legal Committee evaded questions on Infantino proposal - reuters.com",
+      "published_at": "2026-09-12T12:53:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hamilton and Bearman crash in final Spanish GP practice, Antonelli top - reuters.com",
       "published_at": "2026-09-12T12:29:39+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "OPINION: 25 years on, a nation still mourns",
       "published_at": "2026-09-12T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
-      "published_at": "2026-09-12T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
-      "published_at": "2026-09-12T10:55:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "published_at": "2026-09-12T10:00:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "published_at": "2026-09-12T10:00:00+00:00"
     }
   ]
 }
