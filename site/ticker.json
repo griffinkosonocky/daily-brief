@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-09-12T05:42:55+00:00",
+  "updated_at": "2026-09-12T10:39:19+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US and Ireland's relationship 'stronger than ever'",
+      "published_at": "2026-09-12T10:02:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "published_at": "2026-09-12T10:00:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+      "published_at": "2026-09-12T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "BRICS agrees on joint declaration before New Delhi summit, sources say",
+      "published_at": "2026-09-12T09:12:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why are the people building the most powerful AI so worried about what it could do?",
+      "published_at": "2026-09-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+      "published_at": "2026-09-12T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+      "published_at": "2026-09-12T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "published_at": "2026-09-12T08:04:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "BRICS leaders meet in India as wars and US tensions test the bloc",
+      "published_at": "2026-09-12T07:18:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+      "published_at": "2026-09-12T05:57:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "published_at": "2026-09-12T05:55:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -8,7 +63,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Shelton takes down Tiafoe to seal Zverev showdown in US Open final",
+      "text": "Shelton advances to US Open final for Zverev showdown",
       "published_at": "2026-09-12T03:16:00+00:00"
     },
     {
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "Arrest made over the death of black woman found hanged from tree in Mississippi",
       "published_at": "2026-09-12T02:29:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "published_at": "2026-09-12T00:55:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he would be OK with China building cars in US",
-      "published_at": "2026-09-12T00:50:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports",
-      "published_at": "2026-09-11T22:47:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "published_at": "2026-09-11T22:17:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says",
-      "published_at": "2026-09-11T22:07:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Passenger train derails in France leaving at least 44 injured",
-      "published_at": "2026-09-11T21:25:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Six Nigerians accused of romance scams to be extradited to the US",
-      "published_at": "2026-09-11T21:07:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "published_at": "2026-09-11T20:34:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-      "published_at": "2026-09-11T20:29:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's AfD says arms production could aid deportation drive in Saxony-Anhalt",
-      "published_at": "2026-09-11T20:12:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "published_at": "2026-09-11T19:44:58+00:00"
     }
   ]
 }
