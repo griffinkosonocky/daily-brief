@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-09-12T01:03:28+00:00",
+  "updated_at": "2026-09-12T05:42:55+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "published_at": "2026-09-12T04:43:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shelton takes down Tiafoe to seal Zverev showdown in US Open final",
+      "published_at": "2026-09-12T03:16:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "published_at": "2026-09-12T03:02:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "published_at": "2026-09-12T02:29:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "published_at": "2026-09-12T00:55:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump says he would be OK with China building cars in US",
       "published_at": "2026-09-12T00:50:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Arrest made over the death of black woman found hanged from tree",
-      "published_at": "2026-09-12T00:31:16+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports",
       "published_at": "2026-09-11T22:47:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lula maintains lead over Flavio Bolsonaro ahead of Brazil election, Datafolha poll shows",
-      "published_at": "2026-09-11T22:29:03+00:00"
     },
     {
       "source": "BBC",
@@ -57,24 +72,9 @@
       "published_at": "2026-09-11T20:12:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trapped nine days in a dark tunnel, Nepali man tells his survival story",
-      "published_at": "2026-09-11T19:52:47+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "published_at": "2026-09-11T19:44:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US House to vote on Russia sanctions backed by late Senator Graham",
-      "published_at": "2026-09-11T19:43:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-      "published_at": "2026-09-11T19:39:35+00:00"
     }
   ]
 }
