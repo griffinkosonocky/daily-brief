@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-09-12T14:02:48+00:00",
+  "updated_at": "2026-09-12T17:03:21+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "published_at": "2026-09-12T16:55:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "published_at": "2026-09-12T16:38:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "published_at": "2026-09-12T15:09:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "French officials investigate if malicious act caused train derailment",
+      "published_at": "2026-09-12T15:05:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Teen boy rescued after days adrift in Alaskan waters",
+      "published_at": "2026-09-12T15:03:14+00:00"
+    },
     {
       "source": "BBC",
       "text": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "published_at": "2026-09-12T13:56:20+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trapped in a tunnel for nine days: Nepali man recounts ordeal",
-      "published_at": "2026-09-12T13:19:02+00:00"
-    },
-    {
       "source": "NPR",
       "text": "'People are still afraid of those three letters': Fighting the stigma of HIV",
       "published_at": "2026-09-12T13:03:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Passenger train derails in France leaving at least 44 injured",
-      "published_at": "2026-09-12T13:02:55+00:00"
     },
     {
       "source": "BBC",
@@ -42,11 +57,6 @@
       "published_at": "2026-09-12T12:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "India's HDFC Bank submits two candidates to RBI for next CEO",
-      "published_at": "2026-09-12T11:59:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
       "published_at": "2026-09-12T11:00:00+00:00"
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
       "published_at": "2026-09-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why are the people building the most powerful AI so worried about what it could do?",
-      "published_at": "2026-09-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "published_at": "2026-09-12T09:00:00+00:00"
     }
   ]
 }
