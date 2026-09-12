@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-09-12T10:39:19+00:00",
+  "updated_at": "2026-09-12T13:40:15+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "US and Ireland's relationship 'stronger than ever'",
-      "published_at": "2026-09-12T10:02:45+00:00"
+      "text": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "published_at": "2026-09-12T13:27:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trapped in a tunnel for nine days: Nepali man recounts ordeal",
+      "published_at": "2026-09-12T13:19:02+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+      "published_at": "2026-09-12T13:03:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Passenger train derails in France leaving at least 44 injured",
+      "published_at": "2026-09-12T13:02:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Record heatwaves in France set to make champagne stronger",
+      "published_at": "2026-09-12T13:00:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hamilton and Bearman crash in final Spanish GP practice, Antonelli top",
+      "published_at": "2026-09-12T12:29:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "published_at": "2026-09-12T12:15:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "OPINION: 25 years on, a nation still mourns",
+      "published_at": "2026-09-12T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's HDFC Bank submits two candidates to RBI for next CEO",
+      "published_at": "2026-09-12T11:59:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
+      "published_at": "2026-09-12T11:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+      "published_at": "2026-09-12T10:55:14+00:00"
     },
     {
       "source": "BBC",
@@ -17,11 +67,6 @@
       "published_at": "2026-09-12T10:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "BRICS agrees on joint declaration before New Delhi summit, sources say",
-      "published_at": "2026-09-12T09:12:21+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Why are the people building the most powerful AI so worried about what it could do?",
       "published_at": "2026-09-12T09:00:00+00:00"
@@ -30,51 +75,6 @@
       "source": "NPR",
       "text": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
       "published_at": "2026-09-12T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "published_at": "2026-09-12T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "published_at": "2026-09-12T08:04:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "BRICS leaders meet in India as wars and US tensions test the bloc",
-      "published_at": "2026-09-12T07:18:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-      "published_at": "2026-09-12T05:57:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "published_at": "2026-09-12T05:55:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "published_at": "2026-09-12T04:43:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Shelton advances to US Open final for Zverev showdown",
-      "published_at": "2026-09-12T03:16:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "published_at": "2026-09-12T03:02:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "published_at": "2026-09-12T02:29:49+00:00"
     }
   ]
 }
