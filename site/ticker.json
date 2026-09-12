@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-09-12T19:14:49+00:00",
+  "updated_at": "2026-09-12T22:12:41+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "published_at": "2026-09-12T18:29:18+00:00"
+      "source": "BBC",
+      "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "published_at": "2026-09-12T21:25:28+00:00"
     },
     {
       "source": "BBC",
       "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "published_at": "2026-09-12T17:42:38+00:00"
+      "published_at": "2026-09-12T21:16:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "published_at": "2026-09-12T20:27:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Holders US battle past Spain to reach women's World Cup final",
+      "published_at": "2026-09-12T20:23:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fire at nursing home in Chile kills 16 residents",
+      "published_at": "2026-09-12T19:36:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Werro beats Hodgkinson in 800m thriller, Jefferson-Wooden lights up Budapest",
+      "published_at": "2026-09-12T19:33:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "published_at": "2026-09-12T19:31:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "published_at": "2026-09-12T18:29:18+00:00"
     },
     {
       "source": "BBC",
@@ -28,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Explosion hits second weapons storage site in Bulgaria in weeks - reuters.com",
-      "published_at": "2026-09-12T16:17:27+00:00"
+      "text": "Houthi advance in Yemen puts U.S. in a new bind",
+      "published_at": "2026-09-12T15:22:51+00:00"
     },
     {
       "source": "BBC",
@@ -42,39 +72,9 @@
       "published_at": "2026-09-12T15:05:53+00:00"
     },
     {
-      "source": "BBC",
-      "text": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "published_at": "2026-09-12T13:56:20+00:00"
-    },
-    {
       "source": "NPR",
       "text": "'People are still afraid of those three letters': Fighting the stigma of HIV",
       "published_at": "2026-09-12T13:03:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Record heatwaves in France set to make champagne stronger",
-      "published_at": "2026-09-12T13:00:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Danish FA chief says FIFA Legal Committee evaded questions on Infantino proposal - reuters.com",
-      "published_at": "2026-09-12T12:53:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hamilton and Bearman crash in final Spanish GP practice, Antonelli top - reuters.com",
-      "published_at": "2026-09-12T12:29:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "published_at": "2026-09-12T12:15:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "OPINION: 25 years on, a nation still mourns",
-      "published_at": "2026-09-12T12:00:00+00:00"
     }
   ]
 }
