@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-11T22:30:28+00:00",
+  "updated_at": "2026-09-12T01:03:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump says he would be OK with China building cars in US",
+      "published_at": "2026-09-12T00:50:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Arrest made over the death of black woman found hanged from tree",
+      "published_at": "2026-09-12T00:31:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports",
+      "published_at": "2026-09-11T22:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lula maintains lead over Flavio Bolsonaro ahead of Brazil election, Datafolha poll shows",
+      "published_at": "2026-09-11T22:29:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "published_at": "2026-09-11T22:17:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraqi military commander dismissed after drone attacks against Saudi Arabia, prime minister's office says",
+      "published_at": "2026-09-11T22:07:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Passenger train derails in France leaving at least 44 injured",
+      "published_at": "2026-09-11T21:25:32+00:00"
     },
     {
       "source": "BBC",
@@ -12,9 +42,19 @@
       "published_at": "2026-09-11T21:07:19+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "published_at": "2026-09-11T20:34:29+00:00"
+    },
+    {
       "source": "NPR",
       "text": "How shofars became the spiritual soundtrack of Rosh Hashanah",
       "published_at": "2026-09-11T20:29:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany's AfD says arms production could aid deportation drive in Saxony-Anhalt",
+      "published_at": "2026-09-11T20:12:17+00:00"
     },
     {
       "source": "Reuters",
@@ -27,54 +67,14 @@
       "published_at": "2026-09-11T19:44:58+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "US House to vote on Russia sanctions backed by late Senator Graham",
+      "published_at": "2026-09-11T19:43:18+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
       "published_at": "2026-09-11T19:39:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How Anthropic says Claude was used for weapons, spying and cyber operations",
-      "published_at": "2026-09-11T19:25:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-      "published_at": "2026-09-11T19:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Hong Kong watchdog tells firms how to cooperate in raids as scrutiny of share sales grows",
-      "published_at": "2026-09-11T18:35:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Emotions run high as rival rallies mark UK's assisted dying debate",
-      "published_at": "2026-09-11T17:46:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's former leader Justin Trudeau launches production company",
-      "published_at": "2026-09-11T17:38:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "published_at": "2026-09-11T17:32:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Peru awaits India response as trade talks near end, minister says",
-      "published_at": "2026-09-11T17:14:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How global trade and oil prices could be hit by Houthi advance",
-      "published_at": "2026-09-11T16:13:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "published_at": "2026-09-11T16:00:59+00:00"
     }
   ]
 }
