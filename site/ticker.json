@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-09-13T06:02:03+00:00",
+  "updated_at": "2026-09-13T11:42:33+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
-      "published_at": "2026-09-13T03:47:00+00:00"
+      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
+      "published_at": "2026-09-13T11:31:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran war reshapes Brics ties but also exposes divisons",
+      "published_at": "2026-09-13T11:23:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Republican senator's TV interview passes muster with FCC's Carr even though Democratic candidate's does not",
-      "published_at": "2026-09-13T03:04:00+00:00"
+      "text": "Sabitzer to take break from Austria national team",
+      "published_at": "2026-09-13T11:22:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "published_at": "2026-09-13T11:13:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "published_at": "2026-09-13T11:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "published_at": "2026-09-13T10:31:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia hits truck near Polish border in latest strike near NATO",
+      "published_at": "2026-09-13T10:12:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+      "published_at": "2026-09-13T09:42:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Xi pushes 'Greater BRICS' economic ties to give bloc larger global role",
+      "published_at": "2026-09-13T09:05:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How a young woman became an ISIS bride — and then an informant, helping save others",
+      "published_at": "2026-09-13T09:00:00+00:00"
     },
     {
       "source": "BBC",
@@ -22,59 +62,19 @@
       "published_at": "2026-09-12T23:54:06+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "published_at": "2026-09-12T23:51:05+00:00"
+    },
+    {
       "source": "Reuters",
       "text": "Ruthless Rybakina dethrones Sabalenka to capture first US Open crown",
       "published_at": "2026-09-12T22:43:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Teen rescued after spending days on capsized boat off Alaska",
-      "published_at": "2026-09-12T22:16:32+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Best friends for decades - until a DNA test revealed they were sisters",
       "published_at": "2026-09-12T22:00:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "published_at": "2026-09-12T21:25:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "published_at": "2026-09-12T21:19:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "published_at": "2026-09-12T21:16:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "published_at": "2026-09-12T20:27:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Holders US battle past Spain to reach women's World Cup final",
-      "published_at": "2026-09-12T20:23:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fire at nursing home in Chile kills 16 residents",
-      "published_at": "2026-09-12T19:36:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Werro beats Hodgkinson in 800m thriller, Jefferson-Wooden lights up Budapest",
-      "published_at": "2026-09-12T19:33:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "published_at": "2026-09-12T18:29:18+00:00"
     }
   ]
 }
