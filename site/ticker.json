@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-13T00:54:54+00:00",
+  "updated_at": "2026-09-13T06:02:03+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
+      "published_at": "2026-09-13T03:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Republican senator's TV interview passes muster with FCC's Carr even though Democratic candidate's does not",
+      "published_at": "2026-09-13T03:04:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "published_at": "2026-09-13T00:49:08+00:00"
+    },
     {
       "source": "NPR",
       "text": "Celine Dion returns to the stage after battling rare illness",
       "published_at": "2026-09-12T23:54:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ruthless Rybakina dethrones Sabalenka to capture first US Open crown",
+      "published_at": "2026-09-12T22:43:00+00:00"
     },
     {
       "source": "Reuters",
@@ -13,8 +33,18 @@
     },
     {
       "source": "BBC",
+      "text": "Best friends for decades - until a DNA test revealed they were sisters",
+      "published_at": "2026-09-12T22:00:28+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
       "published_at": "2026-09-12T21:25:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "published_at": "2026-09-12T21:19:11+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
       "published_at": "2026-09-12T18:29:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-      "published_at": "2026-09-12T17:38:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Céline Dion fans prepare for comeback concert in Paris",
-      "published_at": "2026-09-12T17:36:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "published_at": "2026-09-12T16:55:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explosion hits second weapons storage site in Bulgaria in weeks",
-      "published_at": "2026-09-12T16:17:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Houthi advance in Yemen puts U.S. in a new bind",
-      "published_at": "2026-09-12T15:22:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "published_at": "2026-09-12T15:09:55+00:00"
     }
   ]
 }
