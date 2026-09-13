@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-12T22:12:41+00:00",
+  "updated_at": "2026-09-13T00:54:54+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Celine Dion returns to the stage after battling rare illness",
+      "published_at": "2026-09-12T23:54:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Teen rescued after spending days on capsized boat off Alaska",
+      "published_at": "2026-09-12T22:16:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -32,11 +42,6 @@
       "published_at": "2026-09-12T19:33:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "published_at": "2026-09-12T19:31:59+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
       "published_at": "2026-09-12T18:29:18+00:00"
@@ -58,6 +63,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Explosion hits second weapons storage site in Bulgaria in weeks",
+      "published_at": "2026-09-12T16:17:27+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Houthi advance in Yemen puts U.S. in a new bind",
       "published_at": "2026-09-12T15:22:51+00:00"
     },
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "published_at": "2026-09-12T15:09:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "French officials investigate if malicious act caused train derailment",
-      "published_at": "2026-09-12T15:05:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-      "published_at": "2026-09-12T13:03:20+00:00"
     }
   ]
 }
