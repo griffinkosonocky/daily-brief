@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-13T19:24:23+00:00",
+  "updated_at": "2026-09-13T22:22:07+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Swedish party blocs tied after Sunday vote, projections say",
+      "published_at": "2026-09-13T21:17:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "published_at": "2026-09-13T19:34:36+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -10,16 +20,6 @@
       "source": "BBC",
       "text": "Trump downplays warnings of AI risks, citing rivalry with China",
       "published_at": "2026-09-13T18:49:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump doubles down on united Ireland comments on day two of visit",
-      "published_at": "2026-09-13T18:49:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dos Santos delivers again as Sedjati springs 800m surprise in Budapest",
-      "published_at": "2026-09-13T18:42:37+00:00"
     },
     {
       "source": "BBC",
@@ -38,13 +38,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump reiterates support for united Ireland, says won't talk about Scotland 'yet'",
-      "published_at": "2026-09-13T17:21:10+00:00"
+      "text": "Trump says Ukrainian attacks on Russian diesel 'hurting the world'",
+      "published_at": "2026-09-13T17:14:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says Ukrainian attacks on Russian diesel 'hurting the world'",
-      "published_at": "2026-09-13T17:14:40+00:00"
+      "text": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+      "published_at": "2026-09-13T17:09:24+00:00"
     },
     {
       "source": "Reuters",
@@ -53,8 +53,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+      "published_at": "2026-09-13T16:58:17+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
       "published_at": "2026-09-13T16:22:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "S&P Dow Jones Indices loosens Canadian index inclusion criteria",
+      "published_at": "2026-09-13T15:58:09+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "published_at": "2026-09-13T14:25:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists",
-      "published_at": "2026-09-13T14:15:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "published_at": "2026-09-13T14:01:44+00:00"
     }
   ]
 }
