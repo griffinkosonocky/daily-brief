@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-09-13T14:30:54+00:00",
+  "updated_at": "2026-09-13T16:10:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
+      "published_at": "2026-09-13T15:46:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump doubles down on united Ireland comments on day two of visit",
+      "published_at": "2026-09-13T15:42:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+      "published_at": "2026-09-13T15:34:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US congressman swims to safety after his plane is forced to land on a lake",
+      "published_at": "2026-09-13T15:30:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US could stay in Iran and keep oil, like Venezuela deal",
+      "published_at": "2026-09-13T15:11:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel",
+      "published_at": "2026-09-13T15:02:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "published_at": "2026-09-13T14:53:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France apologises for human rights criticism that sparked US walkout",
+      "published_at": "2026-09-13T14:47:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
+      "published_at": "2026-09-13T14:42:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "published_at": "2026-09-13T14:25:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists",
+      "published_at": "2026-09-13T14:15:12+00:00"
     },
     {
       "source": "BBC",
@@ -13,68 +63,18 @@
     },
     {
       "source": "NPR",
-      "text": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+      "text": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
       "published_at": "2026-09-13T14:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Kosovo parliament re-elects Albin Kurti as prime minister",
-      "published_at": "2026-09-13T13:45:43+00:00"
+      "text": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups",
+      "published_at": "2026-09-13T13:37:57+00:00"
     },
     {
       "source": "BBC",
       "text": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "published_at": "2026-09-13T13:30:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
-      "published_at": "2026-09-13T11:31:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran war reshapes Brics ties but also exposes divisions",
-      "published_at": "2026-09-13T11:23:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sabitzer to take break from Austria national team",
-      "published_at": "2026-09-13T11:22:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "published_at": "2026-09-13T11:13:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
-      "published_at": "2026-09-13T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Indonesian passenger ship overturns, sparking search for about 130 missing",
-      "published_at": "2026-09-13T10:31:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia hits truck near Polish border in latest strike near NATO",
-      "published_at": "2026-09-13T10:12:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boeing and engineers' union reach tentative contract agreement",
-      "published_at": "2026-09-13T09:08:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Xi pushes 'Greater BRICS' economic ties to give bloc larger global role",
-      "published_at": "2026-09-13T09:05:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "published_at": "2026-09-13T09:05:10+00:00"
     }
   ]
 }
