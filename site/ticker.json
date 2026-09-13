@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-13T11:42:33+00:00",
+  "updated_at": "2026-09-13T14:30:54+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "published_at": "2026-09-13T14:25:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "published_at": "2026-09-13T14:01:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+      "published_at": "2026-09-13T14:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kosovo parliament re-elects Albin Kurti as prime minister",
+      "published_at": "2026-09-13T13:45:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "published_at": "2026-09-13T13:30:38+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
@@ -8,7 +33,7 @@
     },
     {
       "source": "BBC",
-      "text": "Iran war reshapes Brics ties but also exposes divisons",
+      "text": "Iran war reshapes Brics ties but also exposes divisions",
       "published_at": "2026-09-13T11:23:42+00:00"
     },
     {
@@ -37,9 +62,9 @@
       "published_at": "2026-09-13T10:12:13+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "published_at": "2026-09-13T09:42:08+00:00"
+      "source": "Reuters",
+      "text": "Boeing and engineers' union reach tentative contract agreement",
+      "published_at": "2026-09-13T09:08:45+00:00"
     },
     {
       "source": "Reuters",
@@ -47,34 +72,9 @@
       "published_at": "2026-09-13T09:05:16+00:00"
     },
     {
-      "source": "NPR",
-      "text": "How a young woman became an ISIS bride — and then an informant, helping save others",
-      "published_at": "2026-09-13T09:00:00+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "published_at": "2026-09-13T00:49:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Celine Dion returns to the stage after battling rare illness",
-      "published_at": "2026-09-12T23:54:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "published_at": "2026-09-12T23:51:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ruthless Rybakina dethrones Sabalenka to capture first US Open crown",
-      "published_at": "2026-09-12T22:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Best friends for decades - until a DNA test revealed they were sisters",
-      "published_at": "2026-09-12T22:00:28+00:00"
+      "text": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "published_at": "2026-09-13T09:05:10+00:00"
     }
   ]
 }
