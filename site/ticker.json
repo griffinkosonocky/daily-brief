@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-09-14T00:59:09+00:00",
+  "updated_at": "2026-09-14T06:09:37+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
+      "published_at": "2026-09-14T05:46:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hyrox athlete sparks debate for continuing race after soiling herself",
+      "published_at": "2026-09-14T05:34:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+      "published_at": "2026-09-14T05:26:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "published_at": "2026-09-14T03:38:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "published_at": "2026-09-14T01:58:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "published_at": "2026-09-14T01:12:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump downplays report China entities helped Iran before attack that killed US troops",
+      "published_at": "2026-09-14T00:50:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar grinds higher, yen near 7-month high ahead of Fed, BOJ meetings",
+      "published_at": "2026-09-14T00:29:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon",
       "published_at": "2026-09-14T00:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz",
-      "published_at": "2026-09-13T23:33:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Michael Dell's DFO Management nears take-private deal for Baldwin Insurance Group, FT reports",
-      "published_at": "2026-09-13T23:24:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
-      "published_at": "2026-09-13T23:23:26+00:00"
     },
     {
       "source": "NPR",
@@ -29,7 +54,12 @@
     {
       "source": "Reuters",
       "text": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
-      "published_at": "2026-09-13T23:17:27+00:00"
+      "published_at": "2026-09-13T23:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
+      "published_at": "2026-09-13T22:54:53+00:00"
     },
     {
       "source": "NPR",
@@ -37,44 +67,14 @@
       "published_at": "2026-09-13T22:32:39+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Swedish party blocs tied after Sunday vote, projections say",
-      "published_at": "2026-09-13T22:27:54+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "US Open men's singles champion Alexander Zverev",
       "published_at": "2026-09-13T22:00:53+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
-      "published_at": "2026-09-13T21:32:30+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
       "published_at": "2026-09-13T21:03:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "published_at": "2026-09-13T19:34:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "published_at": "2026-09-13T19:14:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "published_at": "2026-09-13T18:49:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Questions mount over what an AI 'slowdown' would look like",
-      "published_at": "2026-09-13T18:20:22+00:00"
     }
   ]
 }
