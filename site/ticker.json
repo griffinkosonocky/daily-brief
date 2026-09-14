@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-09-14T16:25:15+00:00",
+  "updated_at": "2026-09-14T19:17:26+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "US invests in critical minerals but China maintains grip",
-      "published_at": "2026-09-14T16:08:56+00:00"
+      "text": "Bank of America CEO sees at least 10% drop in Q3 investment banking fees",
+      "published_at": "2026-09-14T18:58:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+      "published_at": "2026-09-14T18:45:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: AirBaltic in talks with unions to cut workers amid restructuring, CEO says",
-      "published_at": "2026-09-14T15:43:34+00:00"
+      "text": "EXCLUSIVE: Vista Equity exploring strategic options for financial software provider Finastra, sources say",
+      "published_at": "2026-09-14T18:26:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+      "published_at": "2026-09-14T18:25:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine wants specifics from partners on halting strikes, Zelenskiy says",
+      "published_at": "2026-09-14T17:50:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US senators weigh requiring AI giants to commit to preventing catastrophe",
+      "published_at": "2026-09-14T17:40:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Carney, locked in US trade war, pitches Canada to global investment titans",
+      "published_at": "2026-09-14T17:25:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "published_at": "2026-09-14T16:48:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
+      "published_at": "2026-09-14T16:40:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Africa's richest man launches continent's biggest share sale",
+      "published_at": "2026-09-14T16:23:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Kimberly-Clark prepares asset sales to win EU nod for Kenvue deal, sources say",
+      "published_at": "2026-09-14T15:47:41+00:00"
     },
     {
       "source": "Reuters",
@@ -18,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Kimberly-Clark prepares asset sales to win EU nod for Kenvue deal, sources say",
-      "published_at": "2026-09-14T15:07:34+00:00"
+      "text": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media",
+      "published_at": "2026-09-14T15:10:56+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "Body of missing runner found in South Africa",
       "published_at": "2026-09-14T14:58:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
-      "published_at": "2026-09-14T14:45:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lula, Bolsonaro neck-and-neck in Brazil runoff polls ahead of election",
-      "published_at": "2026-09-14T14:35:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
-      "published_at": "2026-09-14T14:27:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tech stocks slide on AI slowdown talks",
-      "published_at": "2026-09-14T14:19:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "From schoolyard sweets trader to Africa's richest man, Dangote eyes his biggest deal yet",
-      "published_at": "2026-09-14T14:10:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
-      "published_at": "2026-09-14T14:08:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
-      "published_at": "2026-09-14T14:03:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU should take more strategic and proactive role in Arctic, 12 member states say",
-      "published_at": "2026-09-14T13:51:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FIFPRO Europe calls for FIFA reform after Infantino's failed proposal",
-      "published_at": "2026-09-14T13:49:55+00:00"
     }
   ]
 }
