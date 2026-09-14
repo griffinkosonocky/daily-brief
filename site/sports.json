@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-09-13",
-  "generated_at_ct": "Sep 13, 2026 at 9:30 AM CT",
+  "date_key": "2026-09-14",
+  "generated_at_ct": "Sep 14, 2026 at 11:25 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -18,469 +18,37 @@
       "full_name": "NFL",
       "games": [
         {
-          "id": "7dddb296a42e7a41a774b24bd1709ce1",
+          "id": "5ad8135dc2b5f27de0b777acd317855a",
           "sport_key": "americanfootball_nfl",
           "league": "NFL",
           "league_name": "NFL",
           "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Tennessee Titans",
-          "away_team": "New York Jets",
+          "status_label": "7:15 PM CT",
+          "commence_time": "2026-09-15T00:15:00Z",
+          "commence_ct": "7:15 PM CT",
+          "sort_time": "2026-09-15T00:15:00+00:00",
+          "home_team": "Kansas City Chiefs",
+          "away_team": "Denver Broncos",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Tennessee Titans -1.5",
+            "last_update_ct": "11:24 AM CT",
+            "summary": "Kansas City Chiefs -2.5",
             "outcomes": [
               {
-                "name": "New York Jets",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Tennessee Titans",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "7e09efed7e12c659b82740b67ce2f9a1",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Houston Texans",
-          "away_team": "Buffalo Bills",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Buffalo Bills -1.5",
-            "outcomes": [
-              {
-                "name": "Buffalo Bills",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Houston Texans",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "95c01d1bb797d6df14824b106c5a9130",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Pittsburgh Steelers",
-          "away_team": "Atlanta Falcons",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Pittsburgh Steelers -6.5",
-            "outcomes": [
-              {
-                "name": "Atlanta Falcons",
-                "point": 6.5,
-                "point_label": "+6.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Pittsburgh Steelers",
-                "point": -6.5,
-                "point_label": "-6.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "b6cfdcbafa61ce220ba87dc2d9b80c77",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Indianapolis Colts",
-          "away_team": "Baltimore Ravens",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Baltimore Ravens -3.5",
-            "outcomes": [
-              {
-                "name": "Baltimore Ravens",
-                "point": -3.5,
-                "point_label": "-3.5",
-                "price": 102,
-                "price_label": "+102"
-              },
-              {
-                "name": "Indianapolis Colts",
-                "point": 3.5,
-                "point_label": "+3.5",
-                "price": -122,
-                "price_label": "-122"
-              }
-            ]
-          }
-        },
-        {
-          "id": "c1d3fcec25aaeb06ebd2244d33d338e0",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Detroit Lions",
-          "away_team": "New Orleans Saints",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Detroit Lions -7",
-            "outcomes": [
-              {
-                "name": "Detroit Lions",
-                "point": -7.0,
-                "point_label": "-7",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "New Orleans Saints",
-                "point": 7.0,
-                "point_label": "+7",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "e55c6fe19fce094ce214c8b0e5b504e9",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Jacksonville Jaguars",
-          "away_team": "Cleveland Browns",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Jacksonville Jaguars -8.5",
-            "outcomes": [
-              {
-                "name": "Cleveland Browns",
-                "point": 8.5,
-                "point_label": "+8.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Jacksonville Jaguars",
-                "point": -8.5,
-                "point_label": "-8.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "ed6d24ff979f9c71979fead577b0b3f7",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Cincinnati Bengals",
-          "away_team": "Tampa Bay Buccaneers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Cincinnati Bengals -3.5",
-            "outcomes": [
-              {
-                "name": "Cincinnati Bengals",
-                "point": -3.5,
-                "point_label": "-3.5",
-                "price": -118,
-                "price_label": "-118"
-              },
-              {
-                "name": "Tampa Bay Buccaneers",
-                "point": 3.5,
-                "point_label": "+3.5",
-                "price": -102,
-                "price_label": "-102"
-              }
-            ]
-          }
-        },
-        {
-          "id": "fc362aff0d889ec52d358307a70c32ed",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "12:00 PM CT",
-          "commence_time": "2026-09-13T17:00:00Z",
-          "commence_ct": "12:00 PM CT",
-          "sort_time": "2026-09-13T17:00:00+00:00",
-          "home_team": "Carolina Panthers",
-          "away_team": "Chicago Bears",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Chicago Bears -3",
-            "outcomes": [
-              {
-                "name": "Carolina Panthers",
-                "point": 3.0,
-                "point_label": "+3",
-                "price": 100,
-                "price_label": "+100"
-              },
-              {
-                "name": "Chicago Bears",
-                "point": -3.0,
-                "point_label": "-3",
-                "price": -120,
-                "price_label": "-120"
-              }
-            ]
-          }
-        },
-        {
-          "id": "17885cb8dcade8f6c3bce14b2de805e8",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "3:25 PM CT",
-          "commence_time": "2026-09-13T20:25:00Z",
-          "commence_ct": "3:25 PM CT",
-          "sort_time": "2026-09-13T20:25:00+00:00",
-          "home_team": "Philadelphia Eagles",
-          "away_team": "Washington Commanders",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Philadelphia Eagles -6",
-            "outcomes": [
-              {
-                "name": "Philadelphia Eagles",
-                "point": -6.0,
-                "point_label": "-6",
+                "name": "Denver Broncos",
+                "point": 2.5,
+                "point_label": "+2.5",
                 "price": -112,
                 "price_label": "-112"
               },
               {
-                "name": "Washington Commanders",
-                "point": 6.0,
-                "point_label": "+6",
+                "name": "Kansas City Chiefs",
+                "point": -2.5,
+                "point_label": "-2.5",
                 "price": -108,
                 "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "1edfa5ceaa1ad2cb57df1c1b908731f6",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "3:25 PM CT",
-          "commence_time": "2026-09-13T20:25:00Z",
-          "commence_ct": "3:25 PM CT",
-          "sort_time": "2026-09-13T20:25:00+00:00",
-          "home_team": "Los Angeles Chargers",
-          "away_team": "Arizona Cardinals",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Los Angeles Chargers -9.5",
-            "outcomes": [
-              {
-                "name": "Arizona Cardinals",
-                "point": 9.5,
-                "point_label": "+9.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Los Angeles Chargers",
-                "point": -9.5,
-                "point_label": "-9.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "c5d95f48a16849ab6bebc68fbbfcb74a",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "3:25 PM CT",
-          "commence_time": "2026-09-13T20:25:00Z",
-          "commence_ct": "3:25 PM CT",
-          "sort_time": "2026-09-13T20:25:00+00:00",
-          "home_team": "Las Vegas Raiders",
-          "away_team": "Miami Dolphins",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Las Vegas Raiders -3",
-            "outcomes": [
-              {
-                "name": "Las Vegas Raiders",
-                "point": -3.0,
-                "point_label": "-3",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Miami Dolphins",
-                "point": 3.0,
-                "point_label": "+3",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "cb77efed7e711d25a72c1a2a0a1af119",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "3:25 PM CT",
-          "commence_time": "2026-09-13T20:25:00Z",
-          "commence_ct": "3:25 PM CT",
-          "sort_time": "2026-09-13T20:25:00+00:00",
-          "home_team": "Minnesota Vikings",
-          "away_team": "Green Bay Packers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Minnesota Vikings -1.5",
-            "outcomes": [
-              {
-                "name": "Green Bay Packers",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Minnesota Vikings",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "3e646c7479c57f5d9752d8c7dfe7059b",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "7:20 PM CT",
-          "commence_time": "2026-09-14T00:20:00Z",
-          "commence_ct": "7:20 PM CT",
-          "sort_time": "2026-09-14T00:20:00+00:00",
-          "home_team": "New York Giants",
-          "away_team": "Dallas Cowboys",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "9:30 AM CT",
-            "summary": "Dallas Cowboys -3",
-            "outcomes": [
-              {
-                "name": "Dallas Cowboys",
-                "point": -3.0,
-                "point_label": "-3",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "New York Giants",
-                "point": 3.0,
-                "point_label": "+3",
-                "price": -110,
-                "price_label": "-110"
               }
             ]
           }
@@ -519,18 +87,18 @@
     }
   ],
   "summary": {
-    "games": 13,
+    "games": 1,
     "live": 0,
     "final": 0,
-    "upcoming": 13,
-    "spreads": 13
+    "upcoming": 1,
+    "spreads": 1
   },
   "quota": {
-    "remaining": "450",
-    "used": "50",
+    "remaining": "446",
+    "used": "54",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-09-13T14:30:53+00:00"
+  "generated_at": "2026-09-14T16:25:14+00:00"
 }

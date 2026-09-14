@@ -484,5 +484,11 @@
     "sport": "Sports",
     "question": "Which of these teams has Jaromir Jagr not played for?",
     "answer": "New York Islanders"
+  },
+  {
+    "date": "2026-09-14",
+    "sport": "Sports",
+    "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+    "answer": "US Open"
   }
 ]
