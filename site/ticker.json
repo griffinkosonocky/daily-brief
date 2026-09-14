@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-09-14T19:17:26+00:00",
+  "updated_at": "2026-09-14T23:05:41+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Bank of America CEO sees at least 10% drop in Q3 investment banking fees",
-      "published_at": "2026-09-14T18:58:11+00:00"
+      "source": "NPR",
+      "text": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+      "published_at": "2026-09-14T22:36:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+      "published_at": "2026-09-14T22:05:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Legendary costume designer Bob Mackie dies aged 87",
+      "published_at": "2026-09-14T21:29:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+      "published_at": "2026-09-14T20:34:20+00:00"
     },
     {
       "source": "NPR",
@@ -12,29 +27,9 @@
       "published_at": "2026-09-14T18:45:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Vista Equity exploring strategic options for financial software provider Finastra, sources say",
-      "published_at": "2026-09-14T18:26:11+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
       "published_at": "2026-09-14T18:25:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine wants specifics from partners on halting strikes, Zelenskiy says",
-      "published_at": "2026-09-14T17:50:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US senators weigh requiring AI giants to commit to preventing catastrophe",
-      "published_at": "2026-09-14T17:40:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Carney, locked in US trade war, pitches Canada to global investment titans",
-      "published_at": "2026-09-14T17:25:35+00:00"
     },
     {
       "source": "BBC",
@@ -42,29 +37,9 @@
       "published_at": "2026-09-14T16:48:10+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
-      "published_at": "2026-09-14T16:40:42+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Africa's richest man launches continent's biggest share sale",
       "published_at": "2026-09-14T16:23:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Kimberly-Clark prepares asset sales to win EU nod for Kenvue deal, sources say",
-      "published_at": "2026-09-14T15:47:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's mail-in voting restrictions blocked by a second judge",
-      "published_at": "2026-09-14T15:42:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media",
-      "published_at": "2026-09-14T15:10:56+00:00"
     },
     {
       "source": "BBC",
@@ -75,6 +50,31 @@
       "source": "BBC",
       "text": "Body of missing runner found in South Africa",
       "published_at": "2026-09-14T14:58:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "published_at": "2026-09-14T14:08:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+      "published_at": "2026-09-14T14:03:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "published_at": "2026-09-14T12:18:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+      "published_at": "2026-09-14T11:39:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "published_at": "2026-09-14T11:35:08+00:00"
     }
   ]
 }
