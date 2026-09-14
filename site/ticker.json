@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-09-13T22:22:07+00:00",
+  "updated_at": "2026-09-14T00:59:09+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon",
+      "published_at": "2026-09-14T00:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz",
+      "published_at": "2026-09-13T23:33:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Michael Dell's DFO Management nears take-private deal for Baldwin Insurance Group, FT reports",
+      "published_at": "2026-09-13T23:24:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
+      "published_at": "2026-09-13T23:23:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
+      "published_at": "2026-09-13T23:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+      "published_at": "2026-09-13T23:17:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump downplays calls for AI slowdown",
+      "published_at": "2026-09-13T22:32:39+00:00"
+    },
     {
       "source": "BBC",
       "text": "Swedish party blocs tied after Sunday vote, projections say",
-      "published_at": "2026-09-13T21:17:15+00:00"
+      "published_at": "2026-09-13T22:27:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Open men's singles champion Alexander Zverev",
+      "published_at": "2026-09-13T22:00:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+      "published_at": "2026-09-13T21:32:30+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+      "published_at": "2026-09-13T21:03:12+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Questions mount over what an AI 'slowdown' would look like",
       "published_at": "2026-09-13T18:20:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Wisconsin congressman survives emergency plane landing, swims to safety",
-      "published_at": "2026-09-13T17:45:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bolt unfazed by robot's record run, eyes Manchester derby instead",
-      "published_at": "2026-09-13T17:39:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Ukrainian attacks on Russian diesel 'hurting the world'",
-      "published_at": "2026-09-13T17:14:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-      "published_at": "2026-09-13T17:09:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia hits passenger train on Ukraine's border with Poland, just misses 'diplomatic train'",
-      "published_at": "2026-09-13T16:59:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says 'very negative forces' raising exaggerated concerns over AI",
-      "published_at": "2026-09-13T16:58:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports",
-      "published_at": "2026-09-13T16:22:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "S&P Dow Jones Indices loosens Canadian index inclusion criteria",
-      "published_at": "2026-09-13T15:58:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US congressman swims to safety after his plane is forced to land on a lake",
-      "published_at": "2026-09-13T15:30:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "published_at": "2026-09-13T14:25:56+00:00"
     }
   ]
 }
