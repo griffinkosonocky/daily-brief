@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-09-14T23:05:41+00:00",
+  "updated_at": "2026-09-15T01:25:00+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Accenture to pay $25 million to settle US government allegations over DEI",
+      "published_at": "2026-09-15T00:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
+      "published_at": "2026-09-15T00:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Bank's Banga eyes faster G20 debt restructuring for Senegal",
+      "published_at": "2026-09-15T00:28:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall",
+      "published_at": "2026-09-15T00:04:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "See who's won an Emmy Award so far",
+      "published_at": "2026-09-14T23:55:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+      "published_at": "2026-09-14T23:38:40+00:00"
+    },
     {
       "source": "NPR",
       "text": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
       "published_at": "2026-09-14T22:36:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's mail-in voting restrictions blocked by a second judge",
+      "published_at": "2026-09-14T22:21:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pro-Palestinian activist Khalil sues Columbia University",
+      "published_at": "2026-09-14T22:18:41+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +57,24 @@
       "published_at": "2026-09-14T21:29:12+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-      "published_at": "2026-09-14T20:34:20+00:00"
+      "source": "Reuters",
+      "text": "US judge blocks Trump limits on how long foreign students, journalists can stay",
+      "published_at": "2026-09-14T21:27:00+00:00"
     },
     {
-      "source": "NPR",
-      "text": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
-      "published_at": "2026-09-14T18:45:21+00:00"
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: AI-pocalypse now",
+      "published_at": "2026-09-14T21:23:16+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-      "published_at": "2026-09-14T18:25:04+00:00"
+      "source": "Reuters",
+      "text": "Carney, locked in US trade war, pitches Canada to global investment titans",
+      "published_at": "2026-09-14T21:22:45+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "published_at": "2026-09-14T16:48:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Africa's richest man launches continent's biggest share sale",
-      "published_at": "2026-09-14T16:23:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Flash flooding interrupts half-marathon, submerges cars",
-      "published_at": "2026-09-14T15:01:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Body of missing runner found in South Africa",
-      "published_at": "2026-09-14T14:58:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "published_at": "2026-09-14T14:08:12+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
-      "published_at": "2026-09-14T14:03:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "published_at": "2026-09-14T12:18:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "published_at": "2026-09-14T11:39:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "published_at": "2026-09-14T11:35:08+00:00"
+      "source": "Reuters",
+      "text": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
+      "published_at": "2026-09-14T21:11:09+00:00"
     }
   ]
 }
