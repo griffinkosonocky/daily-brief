@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-09-15T18:08:10+00:00",
+  "updated_at": "2026-09-15T22:09:06+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Canada is a 'safe harbour' for global finance, Carney says",
-      "published_at": "2026-09-15T17:54:46+00:00"
+      "text": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "published_at": "2026-09-15T21:54:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Messi called up by Argentina to make farewell appearance following international retirement",
+      "published_at": "2026-09-15T21:52:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "published_at": "2026-09-15T21:07:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "JPMorgan expects investment banking, trading to shine in third quarter",
+      "published_at": "2026-09-15T20:40:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "published_at": "2026-09-15T20:34:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump lashes out at Supreme Court justices after ballots ruling",
+      "published_at": "2026-09-15T19:54:34+00:00"
     },
     {
       "source": "NPR",
-      "text": "Judge blocks plan to return Trump's name to the Kennedy Center",
+      "text": "State of U.S. democracy reaches new low, report finds",
+      "published_at": "2026-09-15T18:57:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "published_at": "2026-09-15T18:49:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: China draws on crude inventories in August as refinery runs rise",
+      "published_at": "2026-09-15T18:41:21+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
+      "published_at": "2026-09-15T18:29:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South African president vows justice as more women's bodies found near Johannesburg",
+      "published_at": "2026-09-15T18:01:51+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
       "published_at": "2026-09-15T17:49:07+00:00"
     },
     {
@@ -17,64 +67,14 @@
       "published_at": "2026-09-15T17:44:45+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Russia says US acknowledgement of orbital arms ignores space conflict consequences",
+      "published_at": "2026-09-15T17:39:44+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Prosecutors won't seek the death penalty for Nick Reiner",
       "published_at": "2026-09-15T17:36:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-      "published_at": "2026-09-15T17:35:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "published_at": "2026-09-15T17:35:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Suspected sabotage causes major Netherlands rail disruption",
-      "published_at": "2026-09-15T16:55:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-      "published_at": "2026-09-15T16:53:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "published_at": "2026-09-15T16:13:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "published_at": "2026-09-15T16:01:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "published_at": "2026-09-15T15:31:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ash from Mount Etna grounds flights at Sicily airport",
-      "published_at": "2026-09-15T14:35:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What weapon could the US have put into space?",
-      "published_at": "2026-09-15T14:23:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "published_at": "2026-09-15T14:21:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 100,000 people in Japan are now aged 100 or older",
-      "published_at": "2026-09-15T13:43:15+00:00"
     }
   ]
 }
