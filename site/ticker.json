@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-09-15T13:28:11+00:00",
+  "updated_at": "2026-09-15T15:07:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Ash from Mount Etna grounds flights at Sicily airport",
+      "published_at": "2026-09-15T14:35:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What weapon could the US have put into space?",
+      "published_at": "2026-09-15T14:23:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Satellite image reveals major damage that shut crucial oil pipeline",
+      "published_at": "2026-09-15T14:21:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump lashes out at US Supreme Court justices after ballot ruling",
+      "published_at": "2026-09-15T14:13:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "More than 100,000 people in Japan are now aged 100 or older",
+      "published_at": "2026-09-15T13:43:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada is a 'safe harbour' for global finance, Carney says",
+      "published_at": "2026-09-15T13:43:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Suspected sabotage causes major Netherlands rail disruption",
+      "published_at": "2026-09-15T13:33:16+00:00"
+    },
     {
       "source": "BBC",
       "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "published_at": "2026-09-15T13:05:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy extends Schengen suspension with Spain for another 15 days",
-      "published_at": "2026-09-15T13:03:55+00:00"
     },
     {
       "source": "BBC",
@@ -27,11 +57,6 @@
       "published_at": "2026-09-15T12:33:19+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Suspected sabotage causes major Netherlands rail disruption",
-      "published_at": "2026-09-15T12:32:30+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Italian Senate clears Meloni's electoral reform amid opposition resistance",
       "published_at": "2026-09-15T11:55:43+00:00"
@@ -42,11 +67,6 @@
       "published_at": "2026-09-15T11:54:15+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "published_at": "2026-09-15T11:49:33+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Toyota revamp hints of wider industry shake-up in China",
       "published_at": "2026-09-15T11:40:01+00:00"
@@ -55,26 +75,6 @@
       "source": "BBC",
       "text": "Denmark says Russian warship fired flares at military helicopter",
       "published_at": "2026-09-15T11:40:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-      "published_at": "2026-09-15T11:35:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's jobless rate slips to six-month low of 5% in August",
-      "published_at": "2026-09-15T11:04:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Panic buttons at the ready as election officials brace for Trump’s midterm push",
-      "published_at": "2026-09-15T11:01:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends",
-      "published_at": "2026-09-15T10:57:50+00:00"
     }
   ]
 }
