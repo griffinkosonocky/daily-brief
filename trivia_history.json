@@ -496,5 +496,11 @@
     "sport": "Sports",
     "question": "Who did Steven Gerrard win the Champions League with?",
     "answer": "Liverpool"
+  },
+  {
+    "date": "2026-09-16",
+    "sport": "Sports",
+    "question": "Which NFL team plays for New England?",
+    "answer": "Patriots"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "edition": 98,
+  "edition": 99,
   "last_successful": {
     "article": {
       "title": "The Shang Dynasty and the Origins of Chinese Writing",
@@ -108,23 +108,23 @@
     "trivia": {
       "sport": "Sports",
       "difficulty": "easy",
-      "question": "Who did Steven Gerrard win the Champions League with?",
-      "answer": "Liverpool",
+      "question": "Which NFL team plays for New England?",
+      "answer": "Patriots",
       "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
       "options": [
-        "Chelsea",
-        "Liverpool",
-        "Man City",
-        "Real Madrid"
+        "Dolphins",
+        "49ers",
+        "Chiefs",
+        "Patriots"
       ],
       "badge": null,
       "source": "opentdb",
-      "generated_at": "2026-09-15T15:07:43+00:00"
+      "generated_at": "2026-09-16T15:05:52+00:00"
     },
     "sports": {
       "title": "Today's Sports Slate",
-      "date_key": "2026-09-15",
-      "generated_at_ct": "Sep 15, 2026 at 10:07 AM CT",
+      "date_key": "2026-09-16",
+      "generated_at_ct": "Sep 16, 2026 at 10:05 AM CT",
       "sports": [
         {
           "key": "soccer_fifa_world_cup",
@@ -180,14 +180,14 @@
         "spreads": 0
       },
       "quota": {
-        "remaining": "443",
-        "used": "57",
+        "remaining": "440",
+        "used": "60",
         "last_request": "0"
       },
       "badge": null,
       "source": "odds-api",
-      "generated_at": "2026-09-15T15:07:44+00:00"
+      "generated_at": "2026-09-16T15:05:53+00:00"
     }
   },
-  "updated_at": "2026-09-15T15:07:44+00:00"
+  "updated_at": "2026-09-16T15:05:54+00:00"
 }

@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-16T13:26:52+00:00",
+  "updated_at": "2026-09-16T15:05:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US Senate panel approves bill to bar government officials from pressuring networks on free speech",
+      "published_at": "2026-09-16T14:55:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight German state premiers back Merz amid speculation over future",
+      "published_at": "2026-09-16T14:50:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sweden's centre-left opposition maintains election lead as count nears end",
+      "published_at": "2026-09-16T14:41:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US limits visas for South African officials over alleged anti-white discrimination",
+      "published_at": "2026-09-16T13:57:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
+      "published_at": "2026-09-16T13:54:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+      "published_at": "2026-09-16T13:51:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How are rising prices affecting you? NPR wants to know",
+      "published_at": "2026-09-16T13:40:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
+      "published_at": "2026-09-16T13:33:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU's von der Leyen wants Canada to become bloc's first associate member",
+      "published_at": "2026-09-16T13:29:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "published_at": "2026-09-16T13:29:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "published_at": "2026-09-16T13:28:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Radiant World seeks $2 billion from Glencore in lawsuit",
+      "published_at": "2026-09-16T13:13:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Move over real estate, Wall St now drives US spending",
+      "published_at": "2026-09-16T13:10:58+00:00"
+    },
     {
       "source": "BBC",
       "text": "EU chief backs plan for Canada to become 'associate member'",
@@ -8,73 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "published_at": "2026-09-16T12:26:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
-      "published_at": "2026-09-16T12:13:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU's von der Leyen wants Canada to become bloc's first associate member",
-      "published_at": "2026-09-16T12:11:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
-      "published_at": "2026-09-16T11:59:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo says Middle East conflicts strain Jewish-Christian relations",
-      "published_at": "2026-09-16T11:55:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "published_at": "2026-09-16T11:50:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Bank names Nobel laureate Michael Kremer as next chief economist",
-      "published_at": "2026-09-16T11:39:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-      "published_at": "2026-09-16T11:19:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "published_at": "2026-09-16T11:09:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "published_at": "2026-09-16T11:02:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "published_at": "2026-09-16T10:48:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "TSX futures inch up ahead of US Fed decision",
-      "published_at": "2026-09-16T10:47:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Morning Bid: A time to hike?",
-      "published_at": "2026-09-16T10:44:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South African president vows justice as more women's bodies found near Johannesburg",
-      "published_at": "2026-09-16T10:44:02+00:00"
+      "text": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "published_at": "2026-09-16T12:26:00+00:00"
     }
   ]
 }
