@@ -502,5 +502,11 @@
     "sport": "Sports",
     "question": "Which NFL team plays for New England?",
     "answer": "Patriots"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "Sports",
+    "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+    "answer": "Putney"
   }
 ]
