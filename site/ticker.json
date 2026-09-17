@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-17T15:07:59+00:00",
+  "updated_at": "2026-09-17T16:53:20+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
+      "published_at": "2026-09-17T16:45:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
+      "published_at": "2026-09-17T16:14:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute",
+      "published_at": "2026-09-17T16:09:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump",
+      "published_at": "2026-09-17T16:09:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Silicon Valley, AI data center boom meets local resistance",
+      "published_at": "2026-09-17T15:46:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ireland will boycott Eurovision 2027, RTE says",
+      "published_at": "2026-09-17T15:35:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sweden's prime minister steps down after losing election",
+      "published_at": "2026-09-17T15:19:55+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Former doubles world number one Salisbury retires",
@@ -12,39 +47,14 @@
       "published_at": "2026-09-17T13:59:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Sweden's prime minister to resign after losing election",
-      "published_at": "2026-09-17T13:55:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Ninth woman's body found as South African police investigate string of deaths",
       "published_at": "2026-09-17T13:44:07+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India's Tata reappoints chairman, backs listing in rift with controlling charity",
-      "published_at": "2026-09-17T13:32:01+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
-      "published_at": "2026-09-17T13:24:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada will decide on its own partnerships, Carney says",
-      "published_at": "2026-09-17T13:15:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Silicon Valley, AI data center boom meets local resistance",
-      "published_at": "2026-09-17T13:09:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump",
-      "published_at": "2026-09-17T13:06:08+00:00"
+      "published_at": "2026-09-17T13:42:27+00:00"
     },
     {
       "source": "BBC",
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
       "published_at": "2026-09-17T12:33:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
-      "published_at": "2026-09-17T12:17:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: LNG spot price surge deters Asian buyers, but saves Europe",
-      "published_at": "2026-09-17T12:00:59+00:00"
     }
   ]
 }
