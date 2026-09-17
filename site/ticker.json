@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-09-16T22:05:10+00:00",
+  "updated_at": "2026-09-17T00:26:35+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "published_at": "2026-09-16T23:41:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Move over real estate, Wall St now drives US spending: McGeever",
+      "published_at": "2026-09-16T23:30:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+      "published_at": "2026-09-16T23:07:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump lashes out at Fed after Warsh backs rate hike",
+      "published_at": "2026-09-16T22:55:01+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+      "published_at": "2026-09-16T22:30:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "published_at": "2026-09-16T22:25:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US interest rates raised for first time in three years",
+      "published_at": "2026-09-16T22:16:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+      "published_at": "2026-09-16T22:13:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
+      "published_at": "2026-09-16T22:02:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada applies to join UK-led military coalition",
+      "published_at": "2026-09-16T21:47:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say",
+      "published_at": "2026-09-16T21:47:15+00:00"
+    },
     {
       "source": "Reuters",
       "text": "North Korea's Kim Yo Jong denounces IAEA's meeting on denuclearization",
-      "published_at": "2026-09-16T21:24:37+00:00"
+      "published_at": "2026-09-16T21:37:22+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "House holds billionaire Leon Black in contempt of Congress",
+      "text": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
       "published_at": "2026-09-16T21:12:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US interest rates raised for first time in three years",
-      "published_at": "2026-09-16T21:02:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU chief wants Canada to become an 'associate member'. What does that mean?",
-      "published_at": "2026-09-16T20:58:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration plans ideological warning signs for Smithsonian",
-      "published_at": "2026-09-16T20:55:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada applies to join UK-led military coalition",
-      "published_at": "2026-09-16T20:54:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The 'burnerverse' exploiting young women in college",
-      "published_at": "2026-09-16T20:50:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports",
-      "published_at": "2026-09-16T20:35:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Houthis release footage said to show wreckage of Saudi F-15 jet",
-      "published_at": "2026-09-16T20:12:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "EU rolls out red carpet to Canada to become its first 'associate member'",
-      "published_at": "2026-09-16T20:08:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "published_at": "2026-09-16T19:59:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026",
-      "published_at": "2026-09-16T19:41:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say",
-      "published_at": "2026-09-16T19:38:52+00:00"
     }
   ]
 }
