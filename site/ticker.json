@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-17T16:53:20+00:00",
+  "updated_at": "2026-09-17T20:14:59+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "published_at": "2026-09-17T19:35:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "published_at": "2026-09-17T19:33:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
+      "published_at": "2026-09-17T18:29:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump",
+      "published_at": "2026-09-17T18:04:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "published_at": "2026-09-17T17:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US securities regulator rolls out five-year exemption for tokenized stock trading",
+      "published_at": "2026-09-17T16:59:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "published_at": "2026-09-17T16:59:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
@@ -18,63 +53,28 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump",
-      "published_at": "2026-09-17T16:09:22+00:00"
+      "text": "South Africa's first offshore wind farm delayed as World Bank highlights potential",
+      "published_at": "2026-09-17T15:46:41+00:00"
     },
     {
       "source": "Reuters",
-      "text": "In Silicon Valley, AI data center boom meets local resistance",
-      "published_at": "2026-09-17T15:46:07+00:00"
+      "text": "Exxon raises 2050 global emissions forecast, sees slower coal decline",
+      "published_at": "2026-09-17T15:44:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
+      "published_at": "2026-09-17T15:41:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU Commission proposes under-13s social media ban",
+      "published_at": "2026-09-17T15:39:46+00:00"
     },
     {
       "source": "Reuters",
       "text": "Ireland will boycott Eurovision 2027, RTE says",
       "published_at": "2026-09-17T15:35:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sweden's prime minister steps down after losing election",
-      "published_at": "2026-09-17T15:19:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former doubles world number one Salisbury retires",
-      "published_at": "2026-09-17T14:35:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Greetings from Beijing, where baozi are worth the wait in line",
-      "published_at": "2026-09-17T13:59:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ninth woman's body found as South African police investigate string of deaths",
-      "published_at": "2026-09-17T13:44:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
-      "published_at": "2026-09-17T13:42:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Klopp wants to 'reclaim' flag amid German elections",
-      "published_at": "2026-09-17T13:02:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Greek parliament lifts immunity of ex-Commissioner amid 'Qatargate' probe",
-      "published_at": "2026-09-17T12:57:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Swedish PM Kristersson resigns after election loss",
-      "published_at": "2026-09-17T12:41:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "published_at": "2026-09-17T12:33:36+00:00"
     }
   ]
 }
