@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-09-18T18:21:55+00:00",
+  "updated_at": "2026-09-18T21:36:55+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump says he is banning CNN and Politico from White House",
+      "published_at": "2026-09-18T21:34:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US and Denmark close in on a Greenland deal, sources say",
+      "published_at": "2026-09-18T21:13:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "published_at": "2026-09-18T21:13:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
+      "published_at": "2026-09-18T20:47:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report",
+      "published_at": "2026-09-18T20:38:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "published_at": "2026-09-18T20:17:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show",
+      "published_at": "2026-09-18T19:35:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Republican China committee chair urges tough Trump line with Xi",
+      "published_at": "2026-09-18T19:34:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+      "published_at": "2026-09-18T19:14:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Syrian regime planned American journalist's kidnapping for weeks",
+      "published_at": "2026-09-18T19:13:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paris prosecutors probe use of smart glasses to harass and record",
+      "published_at": "2026-09-18T19:03:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "published_at": "2026-09-18T18:56:17+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Infantino invited to African summit as he faces challenge to FIFA leadership",
@@ -13,68 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "published_at": "2026-09-18T17:31:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Costa Rica's Grynspan narrowly leads informal UN chief poll, sources say",
-      "published_at": "2026-09-18T17:27:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "published_at": "2026-09-18T17:18:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "published_at": "2026-09-18T17:15:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mozambique says IMF mission may open way for new loan programme",
-      "published_at": "2026-09-18T17:02:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Who is Howard Buffett, Berkshire Hathaway's new chairman?",
-      "published_at": "2026-09-18T16:55:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe leaves Nike, signs with On as Swiss sportswear maker forays into soccer",
-      "published_at": "2026-09-18T16:48:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What expensive sulfur means for your dinner table",
-      "published_at": "2026-09-18T16:40:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UEFA and CONCACAF challenge FIFA on reserves after aborted stake sale plan",
-      "published_at": "2026-09-18T16:22:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "published_at": "2026-09-18T16:07:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens of suspected illegal miners die in Nigerian custody",
-      "published_at": "2026-09-18T15:47:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New US sanctions bill on Russia puts India's Modi in a bind",
-      "published_at": "2026-09-18T14:50:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US envoy raps Czech Republic for lagging on defence spending",
-      "published_at": "2026-09-18T13:33:42+00:00"
+      "text": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "published_at": "2026-09-18T17:57:30+00:00"
     }
   ]
 }
