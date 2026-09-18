@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-17T23:31:13+00:00",
+  "updated_at": "2026-09-18T04:34:57+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump signs orders expanding hunting and fishing, touts gun rights",
+      "published_at": "2026-09-18T03:59:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+      "published_at": "2026-09-18T02:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
+      "published_at": "2026-09-18T01:32:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "published_at": "2026-09-18T01:23:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Qantas ground workers to strike over pay and conditions next week",
+      "published_at": "2026-09-18T00:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Screwworm infests US horse before port reopens to Mexican livestock",
+      "published_at": "2026-09-17T23:58:13+00:00"
+    },
     {
       "source": "BBC",
       "text": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
@@ -8,7 +38,12 @@
     },
     {
       "source": "Reuters",
-      "text": "North Korea's Kim Yo Jong warns of stronger response to US-led drills - reuters.com",
+      "text": "UK female workers still get lower bonuses than males, data firm says",
+      "published_at": "2026-09-17T23:11:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korea's Kim Yo Jong warns of stronger response to US-led drills",
       "published_at": "2026-09-17T21:54:32+00:00"
     },
     {
@@ -23,17 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump - reuters.com",
-      "published_at": "2026-09-17T21:09:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Trading Day: Lower oil, yields boost stocks - reuters.com",
-      "published_at": "2026-09-17T21:08:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to allow Iranian leaders to attend UN General Assembly - reuters.com",
+      "text": "US to allow Iranian leaders to attend UN General Assembly",
       "published_at": "2026-09-17T21:08:12+00:00"
     },
     {
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - reuters.com",
-      "published_at": "2026-09-17T20:28:35+00:00"
+      "text": "Prince Harry makes first public appearances 'back on British soil'",
+      "published_at": "2026-09-17T20:32:07+00:00"
     },
     {
       "source": "NPR",
       "text": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
       "published_at": "2026-09-17T20:23:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - reuters.com",
-      "published_at": "2026-09-17T20:18:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Retired Olympic superstar Jessie Diggins wins her first-ever 100 mile trail race",
-      "published_at": "2026-09-17T20:00:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canadians welcome closer ties with Europe as tensions simmer with US",
-      "published_at": "2026-09-17T19:59:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can an AI chatbot save lives by answering texts about pregnancy?",
-      "published_at": "2026-09-17T19:33:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Credit Acceptance reaches $710 million predatory auto lending settlement with most US states - reuters.com",
-      "published_at": "2026-09-17T19:19:09+00:00"
     }
   ]
 }
