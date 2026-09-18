@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T14:25:48+00:00",
+  "updated_at": "2026-09-18T14:34:15+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -20,6 +20,11 @@
       "source": "Reuters",
       "text": "Hungarian gay couple hoping for adoption breakthrough under new PM Magyar",
       "published_at": "2026-09-18T12:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany, sources say",
+      "published_at": "2026-09-18T12:47:43+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "Zelenskiy launches 'Carpathian Eight' initiative on trade, security",
       "published_at": "2026-09-18T11:12:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-      "published_at": "2026-09-18T11:09:24+00:00"
     }
   ]
 }
