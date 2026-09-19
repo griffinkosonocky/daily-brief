@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-19T14:20:47+00:00",
+  "updated_at": "2026-09-19T17:57:36+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+      "published_at": "2026-09-19T17:24:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After deaths of nine women, South Africans gather to run, mourn and demand change",
+      "published_at": "2026-09-19T17:17:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "published_at": "2026-09-19T15:26:31+00:00"
+    },
     {
       "source": "BBC",
       "text": "Google's Gemini AI hacked three companies in security test",
@@ -8,8 +23,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Greenland, Denmark say US deal will not cede sovereignty",
-      "published_at": "2026-09-19T12:14:43+00:00"
+      "text": "'We have lost our friends': Gaza's children return to school",
+      "published_at": "2026-09-19T13:07:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia-backed South Ossetia elects leader close to Moscow",
+      "published_at": "2026-09-19T13:01:43+00:00"
     },
     {
       "source": "NPR",
@@ -32,8 +52,13 @@
       "published_at": "2026-09-19T11:46:24+00:00"
     },
     {
+      "source": "NPR",
+      "text": "Life in Kabul 5 years after the Taliban's return",
+      "published_at": "2026-09-19T11:40:40+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "published_at": "2026-09-19T11:36:55+00:00"
     },
     {
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "published_at": "2026-09-19T11:29:43+00:00"
+      "text": "Russia reports online attacks on electoral system on second day of parliamentary vote",
+      "published_at": "2026-09-19T11:30:28+00:00"
     },
     {
       "source": "NPR",
-      "text": "Ancient teeth pose a mystery: What made those strange grooves?",
+      "text": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
       "published_at": "2026-09-19T11:21:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Flames, black smoke seen near Riyadh airport, eyewitness says",
-      "published_at": "2026-09-19T11:21:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After deaths of nine women, South Africans gather to run, mourn and demand change",
-      "published_at": "2026-09-19T10:49:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Millions without power as Cuba hit by latest major blackout",
-      "published_at": "2026-09-19T10:27:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-      "published_at": "2026-09-19T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-      "published_at": "2026-09-19T09:00:00+00:00"
     }
   ]
 }
