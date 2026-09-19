@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-19T20:33:25+00:00",
+  "updated_at": "2026-09-19T22:56:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "published_at": "2026-09-19T21:01:56+00:00"
+    },
     {
       "source": "BBC",
       "text": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -15,21 +20,6 @@
       "source": "NPR",
       "text": "The new lines of southern Lebanon",
       "published_at": "2026-09-19T19:00:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
-      "published_at": "2026-09-19T18:47:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "published_at": "2026-09-19T17:24:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After deaths of nine women, South Africans gather to run, mourn and demand change",
-      "published_at": "2026-09-19T17:17:47+00:00"
     },
     {
       "source": "NPR",
@@ -47,11 +37,6 @@
       "published_at": "2026-09-19T13:39:32+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Russia-backed South Ossetia elects leader close to Moscow",
-      "published_at": "2026-09-19T13:01:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Opinion: Remembering Annie Dillard, nature writer",
       "published_at": "2026-09-19T12:00:00+00:00"
@@ -67,14 +52,29 @@
       "published_at": "2026-09-19T11:50:22+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Porsche could face another 4,000 job cuts, Handelsblatt reports",
-      "published_at": "2026-09-19T11:46:24+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Life in Kabul 5 years after the Taliban's return",
       "published_at": "2026-09-19T11:40:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "published_at": "2026-09-19T11:36:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+      "published_at": "2026-09-19T11:21:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Millions without power as Cuba hit by latest major blackout",
+      "published_at": "2026-09-19T10:27:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
+      "published_at": "2026-09-19T09:01:00+00:00"
     }
   ]
 }
