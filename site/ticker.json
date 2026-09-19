@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-19T17:57:36+00:00",
+  "updated_at": "2026-09-19T20:33:25+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "published_at": "2026-09-19T20:16:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Journalists denied White House access after Trump banned some media outlets",
+      "published_at": "2026-09-19T19:13:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The new lines of southern Lebanon",
+      "published_at": "2026-09-19T19:00:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
+      "published_at": "2026-09-19T18:47:26+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Canada optimistic about concluding trade talks with India by year-end, minister says",
@@ -18,13 +38,13 @@
     },
     {
       "source": "BBC",
-      "text": "Google's Gemini AI hacked three companies in security test",
-      "published_at": "2026-09-19T13:39:32+00:00"
+      "text": "Converse pulls 'deeply upsetting' advert after backlash",
+      "published_at": "2026-09-19T14:05:01+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "'We have lost our friends': Gaza's children return to school",
-      "published_at": "2026-09-19T13:07:55+00:00"
+      "source": "BBC",
+      "text": "Google's Gemini AI hacked three companies in security test",
+      "published_at": "2026-09-19T13:39:32+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "Life in Kabul 5 years after the Taliban's return",
       "published_at": "2026-09-19T11:40:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "published_at": "2026-09-19T11:36:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Asian Games open in Nagoya with glitzy ceremony after troubled buildup",
-      "published_at": "2026-09-19T11:32:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia reports online attacks on electoral system on second day of parliamentary vote",
-      "published_at": "2026-09-19T11:30:28+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-      "published_at": "2026-09-19T11:21:56+00:00"
     }
   ]
 }
