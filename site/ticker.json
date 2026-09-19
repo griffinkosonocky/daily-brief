@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-19T05:46:30+00:00",
+  "updated_at": "2026-09-19T10:51:09+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Millions without power as Cuba hit by latest major blackout",
+      "published_at": "2026-09-19T10:27:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Deadly shark attack prompts rare kill order in Western Australia",
+      "published_at": "2026-09-19T09:19:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+      "published_at": "2026-09-19T09:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+      "published_at": "2026-09-19T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "published_at": "2026-09-19T06:39:57+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump says he is banning CNN and Politico from White House",
@@ -12,8 +37,13 @@
       "published_at": "2026-09-19T05:13:18+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Asian Olympic boss says politicians need to stay out of sport at Nagoya Games",
+      "published_at": "2026-09-19T04:59:00+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "US and Denmark reach deal to build US military presence in Greenland",
+      "text": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
       "published_at": "2026-09-19T04:44:46+00:00"
     },
     {
@@ -25,11 +55,6 @@
       "source": "BBC",
       "text": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
       "published_at": "2026-09-19T04:20:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi civil defence sends all-clear after alerts issued for capital Riyadh",
-      "published_at": "2026-09-19T00:42:00+00:00"
     },
     {
       "source": "Reuters",
@@ -47,34 +72,9 @@
       "published_at": "2026-09-18T23:33:27+00:00"
     },
     {
-      "source": "BBC",
-      "text": "I found love at an Irish matchmaking festival - and I want others to do the same",
-      "published_at": "2026-09-18T23:18:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "published_at": "2026-09-18T23:07:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Grim discoveries of murdered women spark fear in South Africa",
-      "published_at": "2026-09-18T23:04:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "published_at": "2026-09-18T23:03:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "published_at": "2026-09-18T22:58:55+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
-      "published_at": "2026-09-18T22:40:06+00:00"
+      "text": "South Korea, US discuss Seoul's role in Middle East, investment pact",
+      "published_at": "2026-09-18T23:25:08+00:00"
     }
   ]
 }
