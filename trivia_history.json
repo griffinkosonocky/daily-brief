@@ -514,5 +514,11 @@
     "sport": "Sports",
     "question": "Which team was the 2015-2016 NBA Champions?",
     "answer": "Cleveland Cavaliers"
+  },
+  {
+    "date": "2026-09-19",
+    "sport": "Sports",
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "answer": "Russia"
   }
 ]
