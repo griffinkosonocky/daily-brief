@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-09-19T00:13:59+00:00",
+  "updated_at": "2026-09-19T05:46:30+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Trump says he is banning CNN and Politico from White House",
-      "published_at": "2026-09-18T23:26:48+00:00"
+      "published_at": "2026-09-19T05:36:36+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "As Europe warms, Italy sees West Nile virus spread",
+      "published_at": "2026-09-19T05:13:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "US and Denmark reach deal to build US military presence in Greenland",
+      "published_at": "2026-09-19T04:44:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Google's Gemini AI hacked three companies in security test",
+      "published_at": "2026-09-19T04:27:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "published_at": "2026-09-19T04:20:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi civil defence sends all-clear after alerts issued for capital Riyadh",
+      "published_at": "2026-09-19T00:42:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brooks takes three-peat at Trestles Pro; Pupo claims men's win for Brazil",
+      "published_at": "2026-09-19T00:27:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "published_at": "2026-09-19T00:03:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump plans to greet Xi at airport on arrival, officials say",
+      "published_at": "2026-09-18T23:33:27+00:00"
     },
     {
       "source": "BBC",
@@ -27,54 +67,14 @@
       "published_at": "2026-09-18T23:03:38+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke",
-      "published_at": "2026-09-18T23:01:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin says Ukraine interfering in Russian parliamentary election",
-      "published_at": "2026-09-18T22:59:53+00:00"
-    },
-    {
       "source": "BBC",
       "text": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "published_at": "2026-09-18T22:58:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump plans to greet Xi on arrival in Washington area, officials say",
-      "published_at": "2026-09-18T22:48:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US and Denmark reach deal on Greenland, Trump says",
-      "published_at": "2026-09-18T22:32:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
-      "published_at": "2026-09-18T22:17:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mbappe leaves Nike, signs with On as Swiss sportswear maker forays into soccer",
-      "published_at": "2026-09-18T21:57:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says his son told him he will repay Russian oligarch for wedding parties",
-      "published_at": "2026-09-18T21:57:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Vitol oil trader sentenced to four years in US prison over Ecuador and Mexico bribery",
-      "published_at": "2026-09-18T21:53:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-      "published_at": "2026-09-18T21:13:14+00:00"
+      "text": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
+      "published_at": "2026-09-18T22:40:06+00:00"
     }
   ]
 }
