@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-09-20T01:01:23+00:00",
+  "updated_at": "2026-09-20T06:07:51+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
-      "published_at": "2026-09-20T00:53:55+00:00"
+      "text": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "published_at": "2026-09-20T05:56:54+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Saudi drop Al Juwayr from Gulf Cup squad over 'disciplinary' issue - reuters.com",
-      "published_at": "2026-09-20T00:31:00+00:00"
+      "text": "World leaders return to UN amid wars in Middle East and Ukraine",
+      "published_at": "2026-09-20T05:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+      "published_at": "2026-09-20T05:01:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "published_at": "2026-09-20T04:49:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian election, cast as test of support for Ukraine war, enters final day",
+      "published_at": "2026-09-20T04:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Macron, Carney to meet in French Atlantic archipelago in signal to Trump",
+      "published_at": "2026-09-20T04:03:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Saudi Arabia says Houthis tried to attack its capital",
+      "published_at": "2026-09-20T03:57:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+      "published_at": "2026-09-20T03:34:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
+      "published_at": "2026-09-20T02:45:43+00:00"
     },
     {
       "source": "BBC",
@@ -40,41 +75,6 @@
       "source": "BBC",
       "text": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
       "published_at": "2026-09-19T23:01:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "published_at": "2026-09-19T23:00:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "published_at": "2026-09-19T21:01:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Journalists denied White House access after Trump banned some media outlets",
-      "published_at": "2026-09-19T19:13:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The new lines of southern Lebanon",
-      "published_at": "2026-09-19T19:00:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban - reuters.com",
-      "published_at": "2026-09-19T18:47:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Greenland, Denmark say Trump deal won't compromise sovereignty - reuters.com",
-      "published_at": "2026-09-19T18:33:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada optimistic about concluding trade talks with India by year-end, minister says - reuters.com",
-      "published_at": "2026-09-19T17:24:05+00:00"
     }
   ]
 }
