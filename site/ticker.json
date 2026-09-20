@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-09-19T22:56:43+00:00",
+  "updated_at": "2026-09-20T01:01:23+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "published_at": "2026-09-19T21:01:56+00:00"
+      "text": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+      "published_at": "2026-09-20T00:53:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi drop Al Juwayr from Gulf Cup squad over 'disciplinary' issue - reuters.com",
+      "published_at": "2026-09-20T00:31:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "published_at": "2026-09-19T20:16:07+00:00"
+      "published_at": "2026-09-19T23:49:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cultural treasures are being destroyed by war, and people want justice",
+      "published_at": "2026-09-19T23:18:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "published_at": "2026-09-19T23:18:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Not all AI workers think the tech could kill everyone",
+      "published_at": "2026-09-19T23:01:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "published_at": "2026-09-19T23:01:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "published_at": "2026-09-19T23:01:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "published_at": "2026-09-19T23:00:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "published_at": "2026-09-19T21:01:56+00:00"
     },
     {
       "source": "BBC",
@@ -22,59 +62,19 @@
       "published_at": "2026-09-19T19:00:24+00:00"
     },
     {
-      "source": "NPR",
-      "text": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-      "published_at": "2026-09-19T15:26:31+00:00"
+      "source": "Reuters",
+      "text": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban - reuters.com",
+      "published_at": "2026-09-19T18:47:26+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Converse pulls 'deeply upsetting' advert after backlash",
-      "published_at": "2026-09-19T14:05:01+00:00"
+      "source": "Reuters",
+      "text": "Greenland, Denmark say Trump deal won't compromise sovereignty - reuters.com",
+      "published_at": "2026-09-19T18:33:10+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Google's Gemini AI hacked three companies in security test",
-      "published_at": "2026-09-19T13:39:32+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Remembering Annie Dillard, nature writer",
-      "published_at": "2026-09-19T12:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "published_at": "2026-09-19T11:50:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Shark attack prompts rare kill order in Western Australia as victim named",
-      "published_at": "2026-09-19T11:50:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Life in Kabul 5 years after the Taliban's return",
-      "published_at": "2026-09-19T11:40:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "published_at": "2026-09-19T11:36:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-      "published_at": "2026-09-19T11:21:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Millions without power as Cuba hit by latest major blackout",
-      "published_at": "2026-09-19T10:27:37+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-      "published_at": "2026-09-19T09:01:00+00:00"
+      "source": "Reuters",
+      "text": "Canada optimistic about concluding trade talks with India by year-end, minister says - reuters.com",
+      "published_at": "2026-09-19T17:24:05+00:00"
     }
   ]
 }
