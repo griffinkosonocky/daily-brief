@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-20T16:45:53+00:00",
+  "updated_at": "2026-09-20T19:23:51+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "text": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "published_at": "2026-09-20T19:21:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "published_at": "2026-09-20T19:04:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Inter Miami's Nu Stadium to stage FIFA Women's Champions Cup 2027 final phase",
+      "published_at": "2026-09-20T18:41:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Harry and Meghan need protection to avoid Diana's ordeal, her brother Spencer says",
+      "published_at": "2026-09-20T18:20:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Birthday girl Reusser retains world time trial title in Montreal",
+      "published_at": "2026-09-20T17:52:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "published_at": "2026-09-20T17:29:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says triumphal arch will be military complex with drones and snipers",
       "published_at": "2026-09-20T16:36:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
+      "published_at": "2026-09-20T16:33:48+00:00"
     },
     {
       "source": "NPR",
@@ -13,13 +48,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist",
-      "published_at": "2026-09-20T14:20:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "North Korea fires two ballistic missiles off east coast in three hours",
-      "published_at": "2026-09-20T12:56:43+00:00"
+      "text": "Resurgent Acosta beats Martin for maiden MotoGP win in Austria",
+      "published_at": "2026-09-20T13:53:59+00:00"
     },
     {
       "source": "NPR",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "U.S. childcare costs are astronomical. More families are turning to grandparents",
       "published_at": "2026-09-20T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "published_at": "2026-09-20T09:16:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How the NPR College Podcast Challenge changed lives",
-      "published_at": "2026-09-20T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "NPR's College Podcast Challenge is back for 2026",
-      "published_at": "2026-09-20T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-      "published_at": "2026-09-20T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "MLB roundup: D-backs walk off Yankees on World Series anniversary night",
-      "published_at": "2026-09-20T08:15:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "German elections under way which could decide fate of Chancellor Merz",
-      "published_at": "2026-09-20T07:57:32+00:00"
     }
   ]
 }
