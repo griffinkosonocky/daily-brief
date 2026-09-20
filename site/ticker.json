@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-09-20T14:17:40+00:00",
+  "updated_at": "2026-09-20T16:45:53+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "published_at": "2026-09-20T16:36:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+      "published_at": "2026-09-20T15:05:47+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-      "published_at": "2026-09-20T12:59:36+00:00"
+      "text": "Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist",
+      "published_at": "2026-09-20T14:20:11+00:00"
     },
     {
       "source": "Reuters",
       "text": "North Korea fires two ballistic missiles off east coast in three hours",
       "published_at": "2026-09-20T12:56:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
-      "published_at": "2026-09-20T12:48:42+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "German elections under way which could decide fate of Chancellor Merz",
       "published_at": "2026-09-20T07:57:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WTA roundup: Iva Jovic repeats as Guadalajara Open champ",
-      "published_at": "2026-09-20T07:39:44+00:00"
     }
   ]
 }
