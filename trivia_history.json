@@ -520,5 +520,11 @@
     "sport": "Sports",
     "question": "Which country hosted the 2018 FIFA World Cup?",
     "answer": "Russia"
+  },
+  {
+    "date": "2026-09-20",
+    "sport": "Sports",
+    "question": "What is the full name of the footballer \"Cristiano Ronaldo\"?",
+    "answer": "Cristiano Ronaldo dos Santos Aveiro"
   }
 ]

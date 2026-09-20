@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-20T12:15:42+00:00",
+  "updated_at": "2026-09-20T14:17:40+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+      "published_at": "2026-09-20T12:59:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korea fires two ballistic missiles off east coast in three hours",
+      "published_at": "2026-09-20T12:56:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
+      "published_at": "2026-09-20T12:48:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "PHOTOS: The precarious life of fisherfolk",
+      "published_at": "2026-09-20T12:24:02+00:00"
+    },
     {
       "source": "NPR",
       "text": "In New Orleans, an empty building becomes a free store — and roller skating rink",
@@ -28,12 +48,12 @@
     },
     {
       "source": "NPR",
-      "text": "NPR's College Podcast Challenge is back for 2026",
+      "text": "How the NPR College Podcast Challenge changed lives",
       "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "How the NPR College Podcast Challenge changed lives",
+      "text": "NPR's College Podcast Challenge is back for 2026",
       "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
@@ -55,26 +75,6 @@
       "source": "Reuters",
       "text": "WTA roundup: Iva Jovic repeats as Guadalajara Open champ",
       "published_at": "2026-09-20T07:39:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
-      "published_at": "2026-09-20T05:01:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "published_at": "2026-09-20T04:49:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's CXMT says new memory-chip platform enters mass production",
-      "published_at": "2026-09-20T04:19:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Macron and Carney to meet in French Atlantic archipelago in signal to Trump",
-      "published_at": "2026-09-20T04:03:00+00:00"
     }
   ]
 }
