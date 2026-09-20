@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-20T06:07:51+00:00",
+  "updated_at": "2026-09-20T12:15:42+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "published_at": "2026-09-20T11:00:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "published_at": "2026-09-20T05:56:54+00:00"
+      "text": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "published_at": "2026-09-20T10:45:39+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "published_at": "2026-09-20T10:01:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+      "published_at": "2026-09-20T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "published_at": "2026-09-20T09:16:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "NPR's College Podcast Challenge is back for 2026",
+      "published_at": "2026-09-20T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How the NPR College Podcast Challenge changed lives",
+      "published_at": "2026-09-20T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+      "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "World leaders return to UN amid wars in Middle East and Ukraine",
-      "published_at": "2026-09-20T05:05:00+00:00"
+      "text": "MLB roundup: D-backs walk off Yankees on World Series anniversary night",
+      "published_at": "2026-09-20T08:15:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+      "text": "German elections under way which could decide fate of Chancellor Merz",
+      "published_at": "2026-09-20T07:57:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WTA roundup: Iva Jovic repeats as Guadalajara Open champ",
+      "published_at": "2026-09-20T07:39:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
       "published_at": "2026-09-20T05:01:47+00:00"
     },
     {
       "source": "BBC",
-      "text": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "text": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "published_at": "2026-09-20T04:49:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Russian election, cast as test of support for Ukraine war, enters final day",
-      "published_at": "2026-09-20T04:03:00+00:00"
+      "text": "China's CXMT says new memory-chip platform enters mass production",
+      "published_at": "2026-09-20T04:19:38+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Macron, Carney to meet in French Atlantic archipelago in signal to Trump",
+      "text": "Macron and Carney to meet in French Atlantic archipelago in signal to Trump",
       "published_at": "2026-09-20T04:03:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Saudi Arabia says Houthis tried to attack its capital",
-      "published_at": "2026-09-20T03:57:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
-      "published_at": "2026-09-20T03:34:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
-      "published_at": "2026-09-20T02:45:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "published_at": "2026-09-19T23:49:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Cultural treasures are being destroyed by war, and people want justice",
-      "published_at": "2026-09-19T23:18:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "published_at": "2026-09-19T23:18:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Not all AI workers think the tech could kill everyone",
-      "published_at": "2026-09-19T23:01:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "published_at": "2026-09-19T23:01:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "published_at": "2026-09-19T23:01:38+00:00"
     }
   ]
 }
