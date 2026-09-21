@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-20T22:23:14+00:00",
+  "updated_at": "2026-09-21T01:01:33+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Which ASEAN equity laggards could soon become leaders? - reuters.com",
+      "published_at": "2026-09-20T23:09:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil slips as investors assess Saudi export recovery - reuters.com",
+      "published_at": "2026-09-20T22:10:00+00:00"
+    },
     {
       "source": "NPR",
       "text": "Federal immigration agent shoots and injures man in Austin, Texas",
@@ -28,12 +38,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Birthday girl Reusser retains world time trial title in Montreal",
-      "published_at": "2026-09-20T17:52:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's Carney calls for stronger ties with France in face of new global threats",
+      "text": "Canada's Carney calls for stronger ties with France in face of new global threats - reuters.com",
       "published_at": "2026-09-20T17:48:09+00:00"
     },
     {
@@ -53,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Palestinian gunman shoots dead Israeli in the West Bank, soldiers kill motorist",
-      "published_at": "2026-09-20T14:20:11+00:00"
+      "text": "Qatar launches wealth fund division for domestic investments - reuters.com",
+      "published_at": "2026-09-20T14:55:43+00:00"
     },
     {
       "source": "NPR",
@@ -70,11 +75,6 @@
       "source": "BBC",
       "text": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "published_at": "2026-09-20T10:45:39+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
-      "published_at": "2026-09-20T10:01:00+00:00"
     }
   ]
 }
