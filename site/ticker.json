@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-21T23:13:23+00:00",
+  "updated_at": "2026-09-22T04:45:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "G7 foreign ministers call on Iran to stop arming Houthis",
+      "published_at": "2026-09-22T02:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tech rally boosts Asian stocks, dollar firms on rate-hike wagers",
+      "published_at": "2026-09-22T02:11:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Binance under US scrutiny over possible Iran sanctions violations, Bloomberg News reports",
+      "published_at": "2026-09-22T02:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vietnam leader To Lam says positive negotiations with US on trade deal",
+      "published_at": "2026-09-22T01:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yen squeezed as hawkish turn grips central banks",
+      "published_at": "2026-09-22T00:59:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "published_at": "2026-09-21T22:48:33+00:00"
+      "published_at": "2026-09-22T00:16:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two Republican Senate candidates call for swift end to Iran war, diverging from Trump",
+      "published_at": "2026-09-21T23:25:43+00:00"
     },
     {
       "source": "Reuters",
@@ -13,38 +43,23 @@
     },
     {
       "source": "Reuters",
-      "text": "EU's Kallas says Red Sea naval mission needs more than 10 ships",
-      "published_at": "2026-09-21T21:57:01+00:00"
+      "text": "EXCLUSIVE: US to open two new military bases in Greenland, sources say",
+      "published_at": "2026-09-21T22:34:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UK's Burnham to announce new AI defence partnership with US",
-      "published_at": "2026-09-21T21:36:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK's Burnham heads to US with pragmatism in mind for Trump meeting",
-      "published_at": "2026-09-21T21:31:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, China to meet again on AI safety in two months in Shenzhen, Bessent says",
-      "published_at": "2026-09-21T21:21:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuelan delegation led by Rodriguez in US discussing debt, energy",
-      "published_at": "2026-09-21T21:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CNN, MS NOW and Politico sue Trump, challenging White House ban",
-      "published_at": "2026-09-21T21:13:25+00:00"
+      "text": "EU's Kallas says Red Sea mission needs more than 10 warships",
+      "published_at": "2026-09-21T21:56:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "COMMENTARY: Trading Day: AI euphoria back with a bang",
       "published_at": "2026-09-21T21:12:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU continues talks on deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman, diplomats say",
+      "published_at": "2026-09-21T21:02:25+00:00"
     },
     {
       "source": "BBC",
@@ -58,23 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds",
-      "published_at": "2026-09-21T20:11:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Poland starts military aviation operations amid Russian strikes on Ukraine, army says",
-      "published_at": "2026-09-21T20:09:53+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "World Bank, IMF back changes to debt framework for poor countries",
       "published_at": "2026-09-21T20:08:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What the equinox 'henge' effect tells us about U.S. cities",
-      "published_at": "2026-09-21T19:50:13+00:00"
     }
   ]
 }
