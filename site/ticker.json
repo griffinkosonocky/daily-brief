@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-22T15:05:01+00:00",
+  "updated_at": "2026-09-22T18:48:37+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump at UN: Threats, diplomacy and 'super intelligence'",
+      "published_at": "2026-09-22T17:51:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "published_at": "2026-09-22T17:17:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
+      "published_at": "2026-09-22T17:09:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "published_at": "2026-09-22T16:57:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Top South African policeman charged with sexual offences",
+      "published_at": "2026-09-22T16:54:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Motivated De Bruyne wants to keep playing for Belgium",
+      "published_at": "2026-09-22T16:47:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "published_at": "2026-09-22T16:42:23+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
+      "published_at": "2026-09-22T16:29:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+      "published_at": "2026-09-22T16:17:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds",
+      "published_at": "2026-09-22T16:12:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump warns he could 'annihilate' Iran without a peace deal",
+      "published_at": "2026-09-22T16:11:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France agreed to open talks on Latvia joining nuclear deterrence initiative, Latvian leader says",
+      "published_at": "2026-09-22T15:43:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+      "published_at": "2026-09-22T15:21:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IELTS English-language exam co-owner IDP spurns Blackstone’s sweetened bid",
+      "published_at": "2026-09-22T15:19:19+00:00"
+    },
     {
       "source": "BBC",
       "text": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "published_at": "2026-09-22T14:57:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Father admits causing death of his son in Cyprus hotel fall",
-      "published_at": "2026-09-22T14:31:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "published_at": "2026-09-22T14:23:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say",
-      "published_at": "2026-09-22T14:19:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "published_at": "2026-09-22T14:16:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "published_at": "2026-09-22T14:03:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "published_at": "2026-09-22T13:58:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European drugmakers call for faster trials, more spending to compete with US, China",
-      "published_at": "2026-09-22T13:57:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "published_at": "2026-09-22T13:49:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN",
-      "published_at": "2026-09-22T13:46:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "published_at": "2026-09-22T13:39:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "One man’s decades-long quest to visit every Starbucks on the planet",
-      "published_at": "2026-09-22T13:32:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "DoorDash reaches $131.5 million settlement with NYC over delivery workers' pay",
-      "published_at": "2026-09-22T13:10:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mercedes says German production not competitive, two plants under threat",
-      "published_at": "2026-09-22T12:59:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu says he will 'tell the truth' on Israel's actions at United Nations",
-      "published_at": "2026-09-22T12:55:48+00:00"
+      "published_at": "2026-09-22T15:17:37+00:00"
     }
   ]
 }
