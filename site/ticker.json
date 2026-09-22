@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-22T14:45:24+00:00",
+  "updated_at": "2026-09-22T15:05:01+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "published_at": "2026-09-22T14:42:40+00:00"
+      "published_at": "2026-09-22T14:57:37+00:00"
     },
     {
       "source": "BBC",
@@ -23,13 +23,23 @@
     },
     {
       "source": "BBC",
-      "text": "Veteran BBC Africa correspondent Mark Doyle dies",
+      "text": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
       "published_at": "2026-09-22T14:16:42+00:00"
     },
     {
       "source": "BBC",
       "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "published_at": "2026-09-22T14:03:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "published_at": "2026-09-22T13:58:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "European drugmakers call for faster trials, more spending to compete with US, China",
+      "published_at": "2026-09-22T13:57:44+00:00"
     },
     {
       "source": "BBC",
@@ -48,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "One man’s decades-long quest to visit every Starbucks on the planet",
+      "published_at": "2026-09-22T13:32:26+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "DoorDash reaches $131.5 million settlement with NYC over delivery workers' pay",
       "published_at": "2026-09-22T13:10:31+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Netanyahu says he will 'tell the truth' on Israel's actions at United Nations",
       "published_at": "2026-09-22T12:55:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "published_at": "2026-09-22T12:54:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What is the White House pool and why is it in a row with Trump?",
-      "published_at": "2026-09-22T12:26:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China supports investment by its automakers in Europe, commerce minister says",
-      "published_at": "2026-09-22T11:48:20+00:00"
     }
   ]
 }
