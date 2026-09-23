@@ -1,5 +1,5 @@
 {
-  "edition": 105,
+  "edition": 106,
   "last_successful": {
     "article": {
       "title": "The Shang Dynasty and the Origins of Chinese Writing",
@@ -107,24 +107,24 @@
     },
     "trivia": {
       "sport": "Sports",
-      "difficulty": "medium",
-      "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
-      "answer": "Wayne Rooney",
+      "difficulty": "hard",
+      "question": "Which of these NHL players have never won a Hart Trophy for Regular Season MVP?",
+      "answer": "Steve Yzerman",
       "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
       "options": [
-        "Robin Van Persie",
-        "David Beckham",
-        "Wayne Rooney",
-        "Cristiano Ronaldo"
+        "Chris Pronger",
+        "Steve Yzerman",
+        "Jose Theodore",
+        "Henrik Sedin"
       ],
       "badge": null,
       "source": "opentdb",
-      "generated_at": "2026-09-22T15:04:59+00:00"
+      "generated_at": "2026-09-23T15:07:54+00:00"
     },
     "sports": {
       "title": "Today's Sports Slate",
-      "date_key": "2026-09-22",
-      "generated_at_ct": "Sep 22, 2026 at 10:04 AM CT",
+      "date_key": "2026-09-23",
+      "generated_at_ct": "Sep 23, 2026 at 10:07 AM CT",
       "sports": [
         {
           "key": "soccer_fifa_world_cup",
@@ -180,14 +180,14 @@
         "spreads": 0
       },
       "quota": {
-        "remaining": "416",
-        "used": "84",
+        "remaining": "413",
+        "used": "87",
         "last_request": "0"
       },
       "badge": null,
       "source": "odds-api",
-      "generated_at": "2026-09-22T15:05:00+00:00"
+      "generated_at": "2026-09-23T15:07:55+00:00"
     }
   },
-  "updated_at": "2026-09-22T15:05:01+00:00"
+  "updated_at": "2026-09-23T15:07:57+00:00"
 }
