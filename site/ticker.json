@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-23T16:49:57+00:00",
+  "updated_at": "2026-09-23T20:15:22+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US senators press for quick Chinese vehicle ban this week as Xi visits",
+      "published_at": "2026-09-23T20:01:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "William and Kate join Tom Cruise at 'Digger' world premiere",
+      "published_at": "2026-09-23T19:59:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "International Criminal Court convicts Central African militia leader",
+      "published_at": "2026-09-23T19:26:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US drafted memo condemning UK over West Bank sanctions. It was never released",
+      "published_at": "2026-09-23T19:06:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Hacked FBI data has sensitive information about employees’ intelligence roles",
+      "published_at": "2026-09-23T18:52:36+00:00"
+    },
     {
       "source": "BBC",
       "text": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "published_at": "2026-09-23T16:40:19+00:00"
+      "published_at": "2026-09-23T18:51:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump plans grand spectacle for potentially tense Xi talks",
-      "published_at": "2026-09-23T16:34:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio says Russia and Ukraine have both voiced interest in 'limited ceasefire'",
-      "published_at": "2026-09-23T16:16:50+00:00"
+      "text": "There's a reason Trump is the only one talking about 1% interest rates",
+      "published_at": "2026-09-23T18:29:04+00:00"
     },
     {
       "source": "NPR",
-      "text": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-      "published_at": "2026-09-23T16:13:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay calls for Venezuela's return to Mercosur trade bloc",
-      "published_at": "2026-09-23T16:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU faces backlash after lifting sanctions on Russian billionaires",
-      "published_at": "2026-09-23T16:04:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "published_at": "2026-09-23T15:59:00+00:00"
+      "text": "Trump set to greet Xi for high-stakes state visit",
+      "published_at": "2026-09-23T18:23:19+00:00"
     },
     {
       "source": "BBC",
       "text": "Iran's president tells Trump it will never 'bend the knee'",
-      "published_at": "2026-09-23T15:58:13+00:00"
+      "published_at": "2026-09-23T18:15:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Iran's president gives a rare wartime speech at the U.N.",
+      "published_at": "2026-09-23T18:14:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
+      "published_at": "2026-09-23T18:09:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "published_at": "2026-09-23T17:58:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "published_at": "2026-09-23T17:40:59+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender",
-      "published_at": "2026-09-23T15:52:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "published_at": "2026-09-23T15:46:28+00:00"
+      "published_at": "2026-09-23T17:37:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "GMF LENS Japan's steep yield curve opens 'reverse carry' trade opportunity, Eastspring says",
-      "published_at": "2026-09-23T15:39:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Poland accuses Russian military helicopter of violating its airspace",
-      "published_at": "2026-09-23T15:37:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Bitcoin miners reveal the real AI scarcity trade",
-      "published_at": "2026-09-23T15:29:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hundreds protest in India's capital after teenager reports gang-rape",
-      "published_at": "2026-09-23T14:38:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India tightens proposed food warning labels in setback to industry",
-      "published_at": "2026-09-23T14:37:40+00:00"
+      "text": "Trump administration prepares plan for 90-day diesel export ban, Politico reports",
+      "published_at": "2026-09-23T17:20:09+00:00"
     }
   ]
 }
