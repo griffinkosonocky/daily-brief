@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-09-23T00:23:44+00:00",
+  "updated_at": "2026-09-23T05:53:30+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "India business activity rebounds in September to 3-month high, PMI shows",
+      "published_at": "2026-09-23T05:39:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
+      "published_at": "2026-09-23T05:26:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EFG International resolves Kuwait legal case",
+      "published_at": "2026-09-23T05:26:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold lacklustre as higher-for-longer rate outlook weighs on sentiment",
+      "published_at": "2026-09-23T04:53:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Hero Motors debuts lower after $104 million IPO",
+      "published_at": "2026-09-23T04:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on",
+      "published_at": "2026-09-23T04:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Countries still way behind on UN biodiversity targets, research shows",
+      "published_at": "2026-09-23T04:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "published_at": "2026-09-23T02:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rupee hooked to oil prices as markets gauge Iran diplomacy hopes",
+      "published_at": "2026-09-23T02:46:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian shares inch up as falling oil aids sentiment",
+      "published_at": "2026-09-23T02:24:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea say Trump welcomes progress in US strategic investment projects",
+      "published_at": "2026-09-23T01:56:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say",
+      "published_at": "2026-09-22T23:46:32+00:00"
+    },
     {
       "source": "BBC",
       "text": "US judge blocks deportation of DoorDash driver shot by ICE",
@@ -8,73 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: AI 'Terminator’ fears may mask real Chinese threat: McGeever",
-      "published_at": "2026-09-22T23:31:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK employers' pay awards cool to 3%, Brightmine data shows",
-      "published_at": "2026-09-22T23:10:53+00:00"
+      "text": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture",
+      "published_at": "2026-09-22T23:18:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Watch: Threats, deals and passionate speeches at UNGA event",
       "published_at": "2026-09-22T22:33:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US, Iran held 'very good meeting' at UN",
-      "published_at": "2026-09-22T22:07:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump threatens to annihilate Iran as diplomats push for deal at UN",
-      "published_at": "2026-09-22T21:55:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "published_at": "2026-09-22T21:50:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Questions remain after grand jury declines indictment in Nolan Wells' death",
-      "published_at": "2026-09-22T21:47:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape",
-      "published_at": "2026-09-22T21:37:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US to build two military bases in Greenland under new deal with Denmark",
-      "published_at": "2026-09-22T21:36:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "White House launches 'Trump TV' after ban on major news outlets",
-      "published_at": "2026-09-22T21:31:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN chief calls for AI curbs and end to wars in his last assembly address",
-      "published_at": "2026-09-22T21:16:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
-      "published_at": "2026-09-22T21:07:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Ceuta, football and Israel are shaping Morocco's election",
-      "published_at": "2026-09-22T20:59:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "published_at": "2026-09-22T19:47:44+00:00"
     }
   ]
 }
