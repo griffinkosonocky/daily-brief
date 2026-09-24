@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-24T14:58:37+00:00",
+  "updated_at": "2026-09-24T15:19:58+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "The economic squeeze is pushing up poverty rates for older adults",
+      "published_at": "2026-09-24T15:00:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "White House 'repeatedly violated' court order to restore press access, say media outlets",
@@ -9,12 +14,22 @@
     {
       "source": "Reuters",
       "text": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
-      "published_at": "2026-09-24T14:39:35+00:00"
+      "published_at": "2026-09-24T14:48:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France says ICC warrant posed no obstacle to Netanyahu overflight",
+      "published_at": "2026-09-24T14:38:09+00:00"
     },
     {
       "source": "BBC",
       "text": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "published_at": "2026-09-24T14:37:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino looks set to stay, but FIFA faces a new war over power",
+      "published_at": "2026-09-24T14:27:39+00:00"
     },
     {
       "source": "Reuters",
@@ -33,6 +48,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Trump-Xi meeting outside UN spotlight tests world body's clout",
+      "published_at": "2026-09-24T14:03:53+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Saudi Arabia thwarts Houthi ballistic missiles, Yemen's Saudi-led coalition says",
       "published_at": "2026-09-24T13:58:01+00:00"
     },
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "published_at": "2026-09-24T13:27:38+00:00"
+      "text": "India to give foreign investors more access to commodity derivatives",
+      "published_at": "2026-09-24T13:11:43+00:00"
     },
     {
       "source": "BBC",
       "text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "published_at": "2026-09-24T12:49:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu's fleeting visit to New York mirrors strained US ties",
-      "published_at": "2026-09-24T12:46:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump rolls out the red carpet for Xi as high-stakes summit begins",
-      "published_at": "2026-09-24T12:43:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Japanese officials discussed China's yttrium curbs ahead of Trump-Xi meeting, document shows",
-      "published_at": "2026-09-24T12:30:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global bond rout rolls on, pushes 30-year US Treasury yields to highest since 2004",
-      "published_at": "2026-09-24T12:07:51+00:00"
     }
   ]
 }

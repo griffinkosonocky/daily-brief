@@ -1,5 +1,5 @@
 {
-  "edition": 106,
+  "edition": 107,
   "last_successful": {
     "article": {
       "title": "The Shang Dynasty and the Origins of Chinese Writing",
@@ -107,24 +107,24 @@
     },
     "trivia": {
       "sport": "Sports",
-      "difficulty": "hard",
-      "question": "Which of these NHL players have never won a Hart Trophy for Regular Season MVP?",
-      "answer": "Steve Yzerman",
+      "difficulty": "medium",
+      "question": "Edson Arantes do Nascimento is the full name of which legendary football player?",
+      "answer": "Pelé",
       "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
       "options": [
-        "Chris Pronger",
-        "Steve Yzerman",
-        "Jose Theodore",
-        "Henrik Sedin"
+        "Ronaldinho",
+        "Romário",
+        "Pelé",
+        "Zico"
       ],
       "badge": null,
       "source": "opentdb",
-      "generated_at": "2026-09-23T15:07:54+00:00"
+      "generated_at": "2026-09-24T15:19:56+00:00"
     },
     "sports": {
       "title": "Today's Sports Slate",
-      "date_key": "2026-09-23",
-      "generated_at_ct": "Sep 23, 2026 at 10:07 AM CT",
+      "date_key": "2026-09-24",
+      "generated_at_ct": "Sep 24, 2026 at 10:19 AM CT",
       "sports": [
         {
           "key": "soccer_fifa_world_cup",
@@ -139,8 +139,45 @@
           "key": "americanfootball_nfl",
           "label": "NFL",
           "full_name": "NFL",
-          "games": [],
-          "note": "No games today.",
+          "games": [
+            {
+              "id": "e5fbd3b3953b896b1bf897ddadb3cc4b",
+              "sport_key": "americanfootball_nfl",
+              "league": "NFL",
+              "league_name": "NFL",
+              "status_key": "upcoming",
+              "status_label": "7:15 PM CT",
+              "commence_time": "2026-09-25T00:15:00Z",
+              "commence_ct": "7:15 PM CT",
+              "sort_time": "2026-09-25T00:15:00+00:00",
+              "home_team": "Green Bay Packers",
+              "away_team": "Atlanta Falcons",
+              "home_score": "",
+              "away_score": "",
+              "spread": {
+                "book": "DraftKings",
+                "last_update_ct": "10:19 AM CT",
+                "summary": "Green Bay Packers -4.5",
+                "outcomes": [
+                  {
+                    "name": "Atlanta Falcons",
+                    "point": 4.5,
+                    "point_label": "+4.5",
+                    "price": -105,
+                    "price_label": "-105"
+                  },
+                  {
+                    "name": "Green Bay Packers",
+                    "point": -4.5,
+                    "point_label": "-4.5",
+                    "price": -115,
+                    "price_label": "-115"
+                  }
+                ]
+              }
+            }
+          ],
+          "note": "",
           "errors": [],
           "active": true
         },
@@ -148,8 +185,45 @@
           "key": "americanfootball_ncaaf",
           "label": "CFB",
           "full_name": "College Football",
-          "games": [],
-          "note": "No games today.",
+          "games": [
+            {
+              "id": "9e0eaa3fed3125ec9629a777bf077185",
+              "sport_key": "americanfootball_ncaaf",
+              "league": "CFB",
+              "league_name": "College Football",
+              "status_key": "upcoming",
+              "status_label": "6:30 PM CT",
+              "commence_time": "2026-09-24T23:30:00Z",
+              "commence_ct": "6:30 PM CT",
+              "sort_time": "2026-09-24T23:30:00+00:00",
+              "home_team": "Coastal Carolina Chanticleers",
+              "away_team": "Liberty Flames",
+              "home_score": "",
+              "away_score": "",
+              "spread": {
+                "book": "DraftKings",
+                "last_update_ct": "10:19 AM CT",
+                "summary": "Liberty Flames -2.5",
+                "outcomes": [
+                  {
+                    "name": "Coastal Carolina Chanticleers",
+                    "point": 2.5,
+                    "point_label": "+2.5",
+                    "price": -110,
+                    "price_label": "-110"
+                  },
+                  {
+                    "name": "Liberty Flames",
+                    "point": -2.5,
+                    "point_label": "-2.5",
+                    "price": -110,
+                    "price_label": "-110"
+                  }
+                ]
+              }
+            }
+          ],
+          "note": "",
           "errors": [],
           "active": true
         },
@@ -173,21 +247,21 @@
         }
       ],
       "summary": {
-        "games": 0,
+        "games": 2,
         "live": 0,
         "final": 0,
-        "upcoming": 0,
-        "spreads": 0
+        "upcoming": 2,
+        "spreads": 2
       },
       "quota": {
-        "remaining": "413",
-        "used": "87",
+        "remaining": "408",
+        "used": "92",
         "last_request": "0"
       },
       "badge": null,
       "source": "odds-api",
-      "generated_at": "2026-09-23T15:07:55+00:00"
+      "generated_at": "2026-09-24T15:19:57+00:00"
     }
   },
-  "updated_at": "2026-09-23T15:07:57+00:00"
+  "updated_at": "2026-09-24T15:19:58+00:00"
 }
