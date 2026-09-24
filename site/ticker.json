@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-09-23T23:37:32+00:00",
+  "updated_at": "2026-09-24T04:38:35+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "published_at": "2026-09-24T04:37:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Fears of return to war grow in Ethiopia's Tigray region",
+      "published_at": "2026-09-24T04:23:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "published_at": "2026-09-24T03:22:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+      "published_at": "2026-09-24T03:19:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "published_at": "2026-09-24T00:50:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "published_at": "2026-09-24T00:15:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top dairy exporter Fonterra flags El Niño risks to milk supply",
+      "published_at": "2026-09-24T00:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "published_at": "2026-09-23T23:58:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "published_at": "2026-09-23T23:42:38+00:00"
+    },
     {
       "source": "BBC",
       "text": "Indians are discovering the thrill of shopping without paying",
       "published_at": "2026-09-23T23:14:10+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Sudan rejects US remarks questioning government legitimacy",
-      "published_at": "2026-09-23T22:56:29+00:00"
+      "source": "BBC",
+      "text": "A red carpet and military flyover - How Trump welcomed Xi",
+      "published_at": "2026-09-23T23:03:56+00:00"
     },
     {
       "source": "NPR",
@@ -17,9 +62,9 @@
       "published_at": "2026-09-23T22:40:39+00:00"
     },
     {
-      "source": "BBC",
-      "text": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "published_at": "2026-09-23T22:23:28+00:00"
+      "source": "Reuters",
+      "text": "Russia pounds Kyiv with drone strikes as Zelenskiy addresses the UN",
+      "published_at": "2026-09-23T22:33:23+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "US invites Putin to December G20 meeting, possible Trump summit",
       "published_at": "2026-09-23T21:49:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dramatic eviction of 87-year-old Madrid tenant spotlights Spain's housing crisis",
-      "published_at": "2026-09-23T21:33:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: The arms race in space and how the UK is defending itself",
-      "published_at": "2026-09-23T21:29:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "published_at": "2026-09-23T21:26:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK survivor of Canadian poison seller says he exploited her despair",
-      "published_at": "2026-09-23T21:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US business activity at more than five-year high; inflation pressures building",
-      "published_at": "2026-09-23T20:57:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump to raise detainees with Xi, but other rights issues may not come up",
-      "published_at": "2026-09-23T20:50:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World's largest copper mine halts operations after worker death",
-      "published_at": "2026-09-23T19:55:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US drafted a memo condemning UK over West Bank sanctions. It was never released",
-      "published_at": "2026-09-23T19:52:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "International Criminal Court convicts Central African militia leader",
-      "published_at": "2026-09-23T19:26:16+00:00"
     }
   ]
 }
