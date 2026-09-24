@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-24T15:19:58+00:00",
+  "updated_at": "2026-09-24T19:04:16+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "published_at": "2026-09-24T18:06:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US energy secretary seeks refiners' help amid narrow options to curb diesel price",
+      "published_at": "2026-09-24T18:00:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "published_at": "2026-09-24T17:55:44+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "The economic squeeze is pushing up poverty rates for older adults",
-      "published_at": "2026-09-24T15:00:00+00:00"
+      "text": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
+      "published_at": "2026-09-24T17:51:40+00:00"
     },
     {
       "source": "BBC",
-      "text": "White House 'repeatedly violated' court order to restore press access, say media outlets",
-      "published_at": "2026-09-24T14:55:34+00:00"
+      "text": "White House restores access to media outlets banned by Trump after judge's order",
+      "published_at": "2026-09-24T17:49:20+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
-      "published_at": "2026-09-24T14:48:10+00:00"
+      "text": "Canada to develop carbon removal market framework under Paris agreement",
+      "published_at": "2026-09-24T17:35:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "France says ICC warrant posed no obstacle to Netanyahu overflight",
-      "published_at": "2026-09-24T14:38:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "published_at": "2026-09-24T14:37:34+00:00"
+      "text": "Flush with allies, Tigray's leaders face internal discord in new Ethiopia war",
+      "published_at": "2026-09-24T17:17:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "published_at": "2026-09-24T14:27:39+00:00"
+      "text": "Southern California Edison pushing for state wildfire liability deal before legislators depart",
+      "published_at": "2026-09-24T17:14:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "CNN, Politico, MS NOW seek court hearing after being barred from White House, court filing says",
-      "published_at": "2026-09-24T14:19:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "published_at": "2026-09-24T14:08:38+00:00"
+      "text": "Top Russian banker says state asset grabs are spooking big business",
+      "published_at": "2026-09-24T17:11:38+00:00"
     },
     {
       "source": "Reuters",
-      "text": "WRAPUP2 Global rate-hiking cycle reaches Scandinavia as war fuels inflation",
-      "published_at": "2026-09-24T14:07:30+00:00"
+      "text": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
+      "published_at": "2026-09-24T17:01:58+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump-Xi meeting outside UN spotlight tests world body's clout",
-      "published_at": "2026-09-24T14:03:53+00:00"
+      "text": "New York lawsuit says Polymarket's prediction markets are illegal gambling",
+      "published_at": "2026-09-24T16:58:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Saudi Arabia thwarts Houthi ballistic missiles, Yemen's Saudi-led coalition says",
-      "published_at": "2026-09-24T13:58:01+00:00"
+      "text": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran",
+      "published_at": "2026-09-24T16:53:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At UN, 80 countries demand reopening of Hormuz, condemn Iran, Houthi attacks",
+      "published_at": "2026-09-24T16:50:04+00:00"
     },
     {
       "source": "Reuters",
       "text": "Knifeman kills priest, injures four in attack at Polish abbey",
-      "published_at": "2026-09-24T13:55:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Tech and world leaders split over AI",
-      "published_at": "2026-09-24T13:32:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India to give foreign investors more access to commodity derivatives",
-      "published_at": "2026-09-24T13:11:43+00:00"
+      "published_at": "2026-09-24T16:48:39+00:00"
     },
     {
       "source": "BBC",
-      "text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "published_at": "2026-09-24T12:49:32+00:00"
+      "text": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "published_at": "2026-09-24T16:36:33+00:00"
     }
   ]
 }
