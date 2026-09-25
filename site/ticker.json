@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-25T18:31:00+00:00",
+  "updated_at": "2026-09-25T22:14:57+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Supreme Court blocks Trump-backed Missouri congressional map",
+      "published_at": "2026-09-25T22:06:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's Zee escalates copyright fight against Reliance-Disney's JioStar",
+      "published_at": "2026-09-25T20:51:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "published_at": "2026-09-25T20:47:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran will make no nuclear concessions, Iranian official says",
+      "published_at": "2026-09-25T20:39:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress",
+      "published_at": "2026-09-25T20:36:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
+      "published_at": "2026-09-25T20:15:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin says all Ukraine peace proposals on table, but Russia must weigh its interests",
+      "published_at": "2026-09-25T20:09:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Supreme Court restores Trump's mass voter verification system",
+      "published_at": "2026-09-25T19:46:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says Congo Ebola outbreak spreads to two new health zones",
+      "published_at": "2026-09-25T19:14:13+00:00"
+    },
     {
       "source": "BBC",
       "text": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "published_at": "2026-09-25T18:29:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction - reuters.com",
-      "published_at": "2026-09-25T17:45:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "published_at": "2026-09-25T17:13:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say - reuters.com",
-      "published_at": "2026-09-25T16:51:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he talked to Xi about the Iran war - reuters.com",
-      "published_at": "2026-09-25T16:43:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Zee escalates copyright fight against Reliance-Disney's JioStar - reuters.com",
-      "published_at": "2026-09-25T16:29:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU vote on Tesla's supervised self-driving system pushed back - reuters.com",
-      "published_at": "2026-09-25T16:24:40+00:00"
+      "published_at": "2026-09-25T19:13:35+00:00"
     },
     {
       "source": "NPR",
-      "text": "Woman who accused Jay-Z of sexual assault says her claims were false",
-      "published_at": "2026-09-25T16:14:24+00:00"
+      "text": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "published_at": "2026-09-25T19:11:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wall St edges up on AI enthusiasm, Mideast negotiation hopes - reuters.com",
-      "published_at": "2026-09-25T16:09:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Western miners can match China’s speed if African governments cut red tape, KoBold president says - reuters.com",
-      "published_at": "2026-09-25T16:07:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-      "published_at": "2026-09-25T15:57:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Supreme Court revives a controversial data system for citizenship checks",
-      "published_at": "2026-09-25T15:40:57+00:00"
+      "text": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says",
+      "published_at": "2026-09-25T18:59:13+00:00"
     },
     {
       "source": "BBC",
-      "text": "Students strike across Germany in protest against military service",
-      "published_at": "2026-09-25T15:36:22+00:00"
+      "text": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "published_at": "2026-09-25T18:36:30+00:00"
     },
     {
       "source": "BBC",
-      "text": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "published_at": "2026-09-25T15:29:48+00:00"
+      "text": "Trump's plans for massive arch move ahead",
+      "published_at": "2026-09-25T18:27:46+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UN expands list of companies linked to Israeli settlements - reuters.com",
-      "published_at": "2026-09-25T15:07:02+00:00"
+      "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction",
+      "published_at": "2026-09-25T18:23:40+00:00"
     }
   ]
 }
