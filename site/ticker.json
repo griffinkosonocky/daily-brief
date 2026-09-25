@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-09-24T22:19:51+00:00",
+  "updated_at": "2026-09-25T01:25:21+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Microsoft President Brad Smith to lead communications department",
-      "published_at": "2026-09-24T21:35:43+00:00"
+      "source": "BBC",
+      "text": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "published_at": "2026-09-25T01:10:35+00:00"
     },
     {
       "source": "BBC",
       "text": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "published_at": "2026-09-24T21:21:47+00:00"
+      "published_at": "2026-09-25T00:44:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US edge International team in tight Presidents Cup opener",
+      "published_at": "2026-09-24T23:58:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "published_at": "2026-09-24T23:41:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hundreds of thousands expected in Paris for Pope's visit",
+      "published_at": "2026-09-24T23:17:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Beyond high-profile wars, a worldwide battle for resources",
+      "published_at": "2026-09-24T23:07:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Five takeaways from Trump's summit with Xi in Washington",
+      "published_at": "2026-09-24T22:52:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Southern California Edison pushing for state wildfire liability deal before legislators depart",
+      "published_at": "2026-09-24T22:34:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
+      "published_at": "2026-09-24T22:28:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Long agenda, short meeting: Trump and Xi meet",
+      "published_at": "2026-09-24T22:10:00+00:00"
     },
     {
       "source": "Reuters",
@@ -18,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "India's Akasa in talks with Boeing to order 200 737 MAX aircraft, Bloomberg News reports",
-      "published_at": "2026-09-24T20:49:06+00:00"
+      "text": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers",
+      "published_at": "2026-09-24T20:34:36+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "New York lawsuit says Polymarket's prediction markets are illegal gambling",
-      "published_at": "2026-09-24T20:32:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy, Wall Street executives hold talks on Ukraine's reconstruction",
-      "published_at": "2026-09-24T19:53:20+00:00"
+      "text": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco",
+      "published_at": "2026-09-24T20:33:57+00:00"
     },
     {
       "source": "NPR",
       "text": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
       "published_at": "2026-09-24T19:46:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netanyahu's fleeting visit to New York mirrors strained US ties",
-      "published_at": "2026-09-24T19:43:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "published_at": "2026-09-24T19:32:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dozens of delegates walk out of UN hall at start of Netanyahu speech",
-      "published_at": "2026-09-24T19:23:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Priest killed and four injured in knife attack at Polish abbey",
-      "published_at": "2026-09-24T19:18:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "published_at": "2026-09-24T19:02:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "published_at": "2026-09-24T18:27:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury accepted $4.078 billion in buyback operation",
-      "published_at": "2026-09-24T18:19:43+00:00"
     }
   ]
 }
