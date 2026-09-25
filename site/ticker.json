@@ -1,25 +1,65 @@
 {
-  "updated_at": "2026-09-25T13:40:12+00:00",
+  "updated_at": "2026-09-25T15:22:38+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "published_at": "2026-09-25T13:28:35+00:00"
+      "text": "Pope warns against 'losing humanity' to AI machines",
+      "published_at": "2026-09-25T15:06:41+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Climate finance concerns raised at UN talks",
-      "published_at": "2026-09-25T13:00:00+00:00"
+      "source": "NPR",
+      "text": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "published_at": "2026-09-25T14:55:12+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "India seeks 2027 LPG imports from US via term tender, document shows",
-      "published_at": "2026-09-25T12:50:29+00:00"
+      "source": "NPR",
+      "text": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
+      "published_at": "2026-09-25T14:46:28+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pope warns against 'losing humanity' to AI machines",
-      "published_at": "2026-09-25T12:44:08+00:00"
+      "text": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "published_at": "2026-09-25T14:44:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "published_at": "2026-09-25T14:24:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lisa on life beyond Blackpink",
+      "published_at": "2026-09-25T14:24:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fifth candidate enters race to lead WHO as nominations close",
+      "published_at": "2026-09-25T14:15:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Special agents' blood and urine test results stolen in FBI hack",
+      "published_at": "2026-09-25T13:56:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Details on US, China trade talks to come on Monday, says Greer",
+      "published_at": "2026-09-25T13:46:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Qatar Airways retires idle A330s and sends pilots to RwandAir as Iran war drags",
+      "published_at": "2026-09-25T13:33:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "published_at": "2026-09-25T13:23:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Morning Bid: Bonds steal the show",
+      "published_at": "2026-09-25T13:01:19+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "published_at": "2026-09-25T11:44:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Bond storm, Trump's diesel gambit and the Muse effect: The financial week in five charts",
-      "published_at": "2026-09-25T11:33:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Residents panic buy in Ethiopia's Tigray over fears of a return to war",
-      "published_at": "2026-09-25T11:22:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-      "published_at": "2026-09-25T11:18:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Weekend Reads: AI reckoning, middle power play, China surprise",
-      "published_at": "2026-09-25T11:12:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Why this Pokémon set is dropping in value",
-      "published_at": "2026-09-25T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Jay-Z rape accuser says her allegation was false",
-      "published_at": "2026-09-25T10:51:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
-      "published_at": "2026-09-25T10:39:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "published_at": "2026-09-25T10:36:55+00:00"
     }
   ]
 }
