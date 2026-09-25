@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-25T01:25:21+00:00",
+  "updated_at": "2026-09-25T07:41:18+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "published_at": "2026-09-25T06:40:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "It's Q4 already?",
+      "published_at": "2026-09-25T06:29:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian drone hits central Kyiv killing a child, injuring at least seven people, Ukrainian officials say",
+      "published_at": "2026-09-25T06:26:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+      "published_at": "2026-09-25T06:18:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Man shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
+      "published_at": "2026-09-25T06:16:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Moving target: Congo’s North Kivu province becomes new Ebola hotspot",
+      "published_at": "2026-09-25T06:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: AI challenges fuel trading's old guard",
+      "published_at": "2026-09-25T05:06:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How Trump's diplomatic week exposed the limits of his power",
+      "published_at": "2026-09-25T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo heads to France with AI, apologies for clergy abuse on agenda",
+      "published_at": "2026-09-25T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: When Treasuries catch Korea's volatility bug, take cover",
+      "published_at": "2026-09-25T04:40:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "published_at": "2026-09-25T03:57:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What is 'Taiwan independence' and is Taiwan already independent?",
+      "published_at": "2026-09-25T02:56:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rupee to navigate US-Iran truce possibility, surging global bond yields",
+      "published_at": "2026-09-25T02:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
+      "published_at": "2026-09-25T02:23:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "published_at": "2026-09-25T01:10:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "published_at": "2026-09-25T00:44:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US edge International team in tight Presidents Cup opener",
-      "published_at": "2026-09-24T23:58:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "published_at": "2026-09-24T23:41:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds of thousands expected in Paris for Pope's visit",
-      "published_at": "2026-09-24T23:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Beyond high-profile wars, a worldwide battle for resources",
-      "published_at": "2026-09-24T23:07:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Five takeaways from Trump's summit with Xi in Washington",
-      "published_at": "2026-09-24T22:52:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Southern California Edison pushing for state wildfire liability deal before legislators depart",
-      "published_at": "2026-09-24T22:34:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
-      "published_at": "2026-09-24T22:28:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Long agenda, short meeting: Trump and Xi meet",
-      "published_at": "2026-09-24T22:10:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Trading Day: Rout of control",
-      "published_at": "2026-09-24T21:14:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers",
-      "published_at": "2026-09-24T20:34:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump and Xi agreed to support each other in hosting APEC, G20 summits, Xinhua reports",
-      "published_at": "2026-09-24T20:34:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco",
-      "published_at": "2026-09-24T20:33:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-      "published_at": "2026-09-24T19:46:53+00:00"
     }
   ]
 }
