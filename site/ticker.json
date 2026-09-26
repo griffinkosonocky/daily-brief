@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-09-26T17:06:10+00:00",
+  "updated_at": "2026-09-26T19:48:52+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "published_at": "2026-09-26T16:58:39+00:00"
+      "text": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "published_at": "2026-09-26T19:48:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Georgia replace manager Sagnol with Svanadze after Northern Ireland loss",
+      "published_at": "2026-09-26T19:27:44+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-      "published_at": "2026-09-26T16:53:32+00:00"
+      "text": "White House bars CNN from travelling with Trump on Air Force One",
+      "published_at": "2026-09-26T19:16:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+      "published_at": "2026-09-26T19:12:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "published_at": "2026-09-26T18:30:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nor'easter leaves over 100,000 customers without power in US Northeast, over 400 flights canceled",
+      "published_at": "2026-09-26T18:28:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "published_at": "2026-09-26T18:17:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China pushes back against US on Iran and Cuba in UN speech",
+      "published_at": "2026-09-26T17:49:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "published_at": "2026-09-26T17:47:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "De Minaur stuns Zverev, Tien beats Cobolli as Team World take 5-3 lead in Laver Cup",
+      "published_at": "2026-09-26T17:35:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "published_at": "2026-09-26T17:10:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour",
+      "published_at": "2026-09-26T16:48:39+00:00"
     },
     {
       "source": "Reuters",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Brazil's Lula bans online gambling ahead of presidential election",
       "published_at": "2026-09-26T15:46:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour",
-      "published_at": "2026-09-26T15:35:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Bangkok declared flood disaster zone",
-      "published_at": "2026-09-26T15:34:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-      "published_at": "2026-09-26T15:20:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China pushes back against US on Iran and Cuba in UN speech",
-      "published_at": "2026-09-26T15:19:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "published_at": "2026-09-26T15:12:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela president returns from US visit with no deals, no firm election date",
-      "published_at": "2026-09-26T14:16:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's election commission orders review of voter-roll changes",
-      "published_at": "2026-09-26T13:39:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-      "published_at": "2026-09-26T13:17:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Markram hopes Australia get a respectful reception in test series",
-      "published_at": "2026-09-26T12:50:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "British national among six dead in building explosion close to Acropolis in Athens",
-      "published_at": "2026-09-26T12:47:25+00:00"
     }
   ]
 }
