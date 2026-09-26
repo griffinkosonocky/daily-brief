@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-09-25T22:14:57+00:00",
+  "updated_at": "2026-09-26T01:28:52+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "published_at": "2026-09-26T01:25:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "published_at": "2026-09-26T01:24:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa open to more talks with US after visa dispute, minister says",
+      "published_at": "2026-09-26T00:31:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Are Ethiopians marching back to war in Tigray?",
+      "published_at": "2026-09-25T23:42:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "published_at": "2026-09-25T23:38:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "published_at": "2026-09-25T23:20:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction",
+      "published_at": "2026-09-25T23:13:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "published_at": "2026-09-25T23:08:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "published_at": "2026-09-25T23:05:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pochettino regrets limited role in Balogun appeal, says controversy changed US energy",
+      "published_at": "2026-09-25T22:51:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
+      "published_at": "2026-09-25T22:49:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "published_at": "2026-09-25T22:12:48+00:00"
+    },
     {
       "source": "NPR",
       "text": "Supreme Court blocks Trump-backed Missouri congressional map",
       "published_at": "2026-09-25T22:06:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Zee escalates copyright fight against Reliance-Disney's JioStar",
-      "published_at": "2026-09-25T20:51:41+00:00"
     },
     {
       "source": "BBC",
@@ -20,61 +75,6 @@
       "source": "Reuters",
       "text": "Iran will make no nuclear concessions, Iranian official says",
       "published_at": "2026-09-25T20:39:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress",
-      "published_at": "2026-09-25T20:36:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
-      "published_at": "2026-09-25T20:15:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin says all Ukraine peace proposals on table, but Russia must weigh its interests",
-      "published_at": "2026-09-25T20:09:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Supreme Court restores Trump's mass voter verification system",
-      "published_at": "2026-09-25T19:46:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says Congo Ebola outbreak spreads to two new health zones",
-      "published_at": "2026-09-25T19:14:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "published_at": "2026-09-25T19:13:35+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "published_at": "2026-09-25T19:11:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says",
-      "published_at": "2026-09-25T18:59:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "published_at": "2026-09-25T18:36:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump's plans for massive arch move ahead",
-      "published_at": "2026-09-25T18:27:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction",
-      "published_at": "2026-09-25T18:23:40+00:00"
     }
   ]
 }
