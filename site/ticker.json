@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-09-26T01:28:52+00:00",
+  "updated_at": "2026-09-26T07:34:52+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "published_at": "2026-09-26T01:25:30+00:00"
+      "text": "Bangkok roads submerged as flood disaster declared",
+      "published_at": "2026-09-26T07:21:30+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+      "published_at": "2026-09-26T06:59:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bangkok declares disaster as heavy rains spark flooding",
+      "published_at": "2026-09-26T06:28:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+      "published_at": "2026-09-26T05:43:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House bars CNN from travelling with Trump on Air Force One",
+      "published_at": "2026-09-26T05:09:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "published_at": "2026-09-26T05:03:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+      "published_at": "2026-09-26T04:42:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "OpenAI bots meddled with multiple US government agency sites",
+      "published_at": "2026-09-26T02:50:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+      "published_at": "2026-09-26T02:22:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi coalition says it intercepts Houthi missiles, drones",
+      "published_at": "2026-09-26T01:25:00+00:00"
     },
     {
       "source": "BBC",
@@ -12,19 +57,14 @@
       "published_at": "2026-09-26T01:24:31+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "South Africa open to more talks with US after visa dispute, minister says",
-      "published_at": "2026-09-26T00:31:00+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Are Ethiopians marching back to war in Tigray?",
       "published_at": "2026-09-25T23:42:39+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "published_at": "2026-09-25T23:38:48+00:00"
+      "source": "Reuters",
+      "text": "How drones and dollars are piling misery on Sudan's people",
+      "published_at": "2026-09-25T23:35:51+00:00"
     },
     {
       "source": "BBC",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction",
       "published_at": "2026-09-25T23:13:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "published_at": "2026-09-25T23:08:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "published_at": "2026-09-25T23:05:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pochettino regrets limited role in Balogun appeal, says controversy changed US energy",
-      "published_at": "2026-09-25T22:51:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark",
-      "published_at": "2026-09-25T22:49:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "published_at": "2026-09-25T22:12:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Supreme Court blocks Trump-backed Missouri congressional map",
-      "published_at": "2026-09-25T22:06:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "published_at": "2026-09-25T20:47:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran will make no nuclear concessions, Iranian official says",
-      "published_at": "2026-09-25T20:39:45+00:00"
     }
   ]
 }
