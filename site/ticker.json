@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-26T07:34:52+00:00",
+  "updated_at": "2026-09-26T13:00:35+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+      "published_at": "2026-09-26T12:51:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "British national among six dead in building explosion close to Acropolis in Athens",
+      "published_at": "2026-09-26T12:47:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In Brazil, frustration over cost of living undermines Lula's reelection bid",
+      "published_at": "2026-09-26T12:24:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "published_at": "2026-09-26T12:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+      "published_at": "2026-09-26T11:35:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+      "published_at": "2026-09-26T11:31:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt's Salah ruled out of South Sudan qualifier due to artificial surface",
+      "published_at": "2026-09-26T10:47:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "published_at": "2026-09-26T10:44:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kohli says 2027 World Cup will be his last for India",
+      "published_at": "2026-09-26T09:27:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "published_at": "2026-09-26T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+      "published_at": "2026-09-26T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The U.S. has more thalidomide survivors than the government admits",
+      "published_at": "2026-09-26T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+      "published_at": "2026-09-26T07:27:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Bangkok roads submerged as flood disaster declared",
@@ -10,71 +75,6 @@
       "source": "NPR",
       "text": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
       "published_at": "2026-09-26T06:59:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bangkok declares disaster as heavy rains spark flooding",
-      "published_at": "2026-09-26T06:28:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
-      "published_at": "2026-09-26T05:43:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House bars CNN from travelling with Trump on Air Force One",
-      "published_at": "2026-09-26T05:09:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "published_at": "2026-09-26T05:03:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
-      "published_at": "2026-09-26T04:42:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "OpenAI bots meddled with multiple US government agency sites",
-      "published_at": "2026-09-26T02:50:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-      "published_at": "2026-09-26T02:22:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi coalition says it intercepts Houthi missiles, drones",
-      "published_at": "2026-09-26T01:25:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "published_at": "2026-09-26T01:24:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Are Ethiopians marching back to war in Tigray?",
-      "published_at": "2026-09-25T23:42:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How drones and dollars are piling misery on Sudan's people",
-      "published_at": "2026-09-25T23:35:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "published_at": "2026-09-25T23:20:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Subway, soccer and spats: New York's Mamdani a UN week attraction",
-      "published_at": "2026-09-25T23:13:56+00:00"
     }
   ]
 }
