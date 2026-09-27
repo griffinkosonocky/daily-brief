@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-27T15:12:55+00:00",
+  "updated_at": "2026-09-27T18:18:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Two bodies found after avalanche hits Himalayan climbing group",
+      "published_at": "2026-09-27T17:05:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kohli passes 15,000 ODI runs as India beat West Indies",
+      "published_at": "2026-09-27T16:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British police arrest five near US air base on terrorism suspicion",
+      "published_at": "2026-09-27T16:51:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says men arrested at UK air base used by US were looking to do 'big damage'",
+      "published_at": "2026-09-27T16:44:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+      "published_at": "2026-09-27T16:35:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Switzerland rejects stricter interpretation of its neutrality",
+      "published_at": "2026-09-27T16:02:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuela releases dozens of political prisoners as election calls grow",
+      "published_at": "2026-09-27T15:56:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa reels from two shootings that kill 27 in one night",
+      "published_at": "2026-09-27T15:25:27+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Thai trailblazer claims Asian Games sprint double in rainy Nagoya",
@@ -10,16 +50,6 @@
       "source": "Reuters",
       "text": "Floods, landslides kill 56 in India and 14 in Nepal",
       "published_at": "2026-09-27T14:23:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Czechs down Ukraine to claim 12th Billie Jean King Cup crown",
-      "published_at": "2026-09-27T14:12:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "British police arrest five men at US air base in major incident",
-      "published_at": "2026-09-27T14:10:57+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "South Africa reels from spate of mass shootings that killed 38 people in a week",
       "published_at": "2026-09-27T13:01:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "published_at": "2026-09-27T12:36:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "One dead as nor'easter storm pummels New York and New Jersey",
-      "published_at": "2026-09-27T12:34:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-      "published_at": "2026-09-27T12:06:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "published_at": "2026-09-27T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Photos: These shepherds climb down a mountain to go to night school",
-      "published_at": "2026-09-27T11:53:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-      "published_at": "2026-09-27T11:38:03+00:00"
     }
   ]
 }
