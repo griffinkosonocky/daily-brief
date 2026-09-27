@@ -1,15 +1,40 @@
 {
-  "updated_at": "2026-09-27T13:53:00+00:00",
+  "updated_at": "2026-09-27T15:12:55+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Two mass shootings in South Africa leave 27 dead",
-      "published_at": "2026-09-27T13:50:14+00:00"
+      "source": "Reuters",
+      "text": "Thai trailblazer claims Asian Games sprint double in rainy Nagoya",
+      "published_at": "2026-09-27T14:52:58+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Men arrested in major incident at UK air base used by US",
-      "published_at": "2026-09-27T13:18:42+00:00"
+      "text": "Floods, landslides kill 56 in India and 14 in Nepal",
+      "published_at": "2026-09-27T14:23:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Czechs down Ukraine to claim 12th Billie Jean King Cup crown",
+      "published_at": "2026-09-27T14:12:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British police arrest five men at US air base in major incident",
+      "published_at": "2026-09-27T14:10:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two mass shootings in South Africa leave 27 dead",
+      "published_at": "2026-09-27T14:09:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo urges Church to face failings before meeting French abuse survivors",
+      "published_at": "2026-09-27T14:03:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK police arrest men on explosives act offenses after air base security stepped up-Sky",
+      "published_at": "2026-09-27T13:19:02+00:00"
     },
     {
       "source": "Reuters",
@@ -33,6 +58,11 @@
     },
     {
       "source": "NPR",
+      "text": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "published_at": "2026-09-27T12:06:23+00:00"
+    },
+    {
+      "source": "NPR",
       "text": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
       "published_at": "2026-09-27T12:00:00+00:00"
     },
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
       "published_at": "2026-09-27T11:38:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
-      "published_at": "2026-09-27T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
-      "published_at": "2026-09-27T10:49:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Floods, landslides kill 56 in India and 14 in Nepal",
-      "published_at": "2026-09-27T10:29:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These Democrats are running for Congress on Christian faith. Will it pay off?",
-      "published_at": "2026-09-27T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopia's Assefa suffers late cramps to miss out on world record in Berlin",
-      "published_at": "2026-09-27T09:31:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy's Catania airport keeps flights suspended until midnight due to Etna ash",
-      "published_at": "2026-09-27T08:55:42+00:00"
     }
   ]
 }
