@@ -1,20 +1,60 @@
 {
-  "updated_at": "2026-09-27T18:18:10+00:00",
+  "updated_at": "2026-09-27T22:02:55+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Two bodies found after avalanche hits Himalayan climbing group",
-      "published_at": "2026-09-27T17:05:26+00:00"
+      "text": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "published_at": "2026-09-27T21:00:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
+      "published_at": "2026-09-27T20:05:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Embattled Serbian president resigns, paving way for early elections",
+      "published_at": "2026-09-27T20:04:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo pledges action on clergy abuse after meeting French survivors",
+      "published_at": "2026-09-27T20:01:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "McNulty wins road world title to end US men's 33-year drought",
+      "published_at": "2026-09-27T19:49:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "published_at": "2026-09-27T19:47:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After turbulent summer, England's cricketers head into winter schedule",
+      "published_at": "2026-09-27T19:09:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Floods, landslides kill 56 in India and 14 in Nepal",
+      "published_at": "2026-09-27T18:43:58+00:00"
     },
     {
       "source": "Reuters",
       "text": "Kohli passes 15,000 ODI runs as India beat West Indies",
-      "published_at": "2026-09-27T16:57:43+00:00"
+      "published_at": "2026-09-27T17:21:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "British police arrest five near US air base on terrorism suspicion",
-      "published_at": "2026-09-27T16:51:49+00:00"
+      "text": "German foreign minister says Lavrov meeting driven by Russia security concerns",
+      "published_at": "2026-09-27T17:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Two bodies found after avalanche hits Himalayan climbing group",
+      "published_at": "2026-09-27T17:05:26+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "BBC",
       "text": "Venezuela releases dozens of political prisoners as election calls grow",
       "published_at": "2026-09-27T15:56:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa reels from two shootings that kill 27 in one night",
-      "published_at": "2026-09-27T15:25:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thai trailblazer claims Asian Games sprint double in rainy Nagoya",
-      "published_at": "2026-09-27T14:52:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Floods, landslides kill 56 in India and 14 in Nepal",
-      "published_at": "2026-09-27T14:23:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two mass shootings in South Africa leave 27 dead",
-      "published_at": "2026-09-27T14:09:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo urges Church to face failings before meeting French abuse survivors",
-      "published_at": "2026-09-27T14:03:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK police arrest men on explosives act offenses after air base security stepped up-Sky",
-      "published_at": "2026-09-27T13:19:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World T20 champions India on alert for Afghanistan after Japan scare",
-      "published_at": "2026-09-27T13:01:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "published_at": "2026-09-27T13:01:27+00:00"
     }
   ]
 }
