@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-26T22:42:50+00:00",
+  "updated_at": "2026-09-27T01:21:31+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled",
+      "published_at": "2026-09-26T23:25:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran insists on diplomatic solution after Trump rejects peace plan",
+      "published_at": "2026-09-26T22:42:34+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Gordon's goal continues debate over England's footballing identity",
@@ -18,6 +28,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Trump predicts Cuba and US will make a deal",
+      "published_at": "2026-09-26T22:04:16+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "US to finalize sharply lower vehicle fuel economy standards",
       "published_at": "2026-09-26T21:25:15+00:00"
     },
@@ -30,11 +45,6 @@
       "source": "BBC",
       "text": "Mother of woman found hanging in tree shocked as police say body was staged",
       "published_at": "2026-09-26T21:13:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World champions Spain punish England errors to win Nations League thriller at Wembley",
-      "published_at": "2026-09-26T21:03:57+00:00"
     },
     {
       "source": "NPR",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "White House bars CNN from travelling with Trump on Air Force One",
       "published_at": "2026-09-26T19:16:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China pushes back against US on Iran and Cuba in UN speech",
-      "published_at": "2026-09-26T19:14:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tenth woman's body found as South Africa police probe killings",
-      "published_at": "2026-09-26T18:30:04+00:00"
     }
   ]
 }
