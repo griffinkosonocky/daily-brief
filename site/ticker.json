@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-28T18:12:46+00:00",
+  "updated_at": "2026-09-28T21:53:14+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "French PM warns against escalation of school protests after 164 arrested",
+      "published_at": "2026-09-28T21:46:53+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show",
-      "published_at": "2026-09-28T17:56:29+00:00"
+      "text": "Miners bound to megadeal playbook in pursuit of global scale",
+      "published_at": "2026-09-28T21:12:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says",
+      "published_at": "2026-09-28T21:02:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo says concerns about AI doom scenarios are not 'fake news'",
+      "published_at": "2026-09-28T20:54:34+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: US to grant sanctions waiver for flights between Iran and Iraq's Najaf, source says",
-      "published_at": "2026-09-28T17:50:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "published_at": "2026-09-28T17:26:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "published_at": "2026-09-28T17:15:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
-      "published_at": "2026-09-28T17:14:25+00:00"
+      "published_at": "2026-09-28T20:31:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Focus: Miners bound to megadeal playbook in pursuit of global scale",
-      "published_at": "2026-09-28T17:12:19+00:00"
+      "text": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show",
+      "published_at": "2026-09-28T20:29:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US will win Iran war 'very soon'",
+      "published_at": "2026-09-28T20:26:33+00:00"
     },
     {
       "source": "BBC",
-      "text": "People escape historic Kyiv building hit by Russian drone",
-      "published_at": "2026-09-28T17:04:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
-      "published_at": "2026-09-28T16:27:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
-      "published_at": "2026-09-28T16:25:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Women protest in the streets of Delhi after string of sexual assaults",
-      "published_at": "2026-09-28T16:15:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Four bodies found after avalanche hits Himalayan climbing group",
-      "published_at": "2026-09-28T16:13:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Trump administration weakens fuel efficiency standards for new cars",
-      "published_at": "2026-09-28T16:07:15+00:00"
+      "text": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "published_at": "2026-09-28T20:23:12+00:00"
     },
     {
       "source": "Reuters",
       "text": "Ethiopian pro-government forces claim capture of strategic Tigray town",
-      "published_at": "2026-09-28T16:01:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump and Xi's 'stalemate' summit was a glitzy gift to China",
-      "published_at": "2026-09-28T15:48:44+00:00"
+      "published_at": "2026-09-28T20:17:17+00:00"
     },
     {
       "source": "Reuters",
       "text": "UK examines foreign state involvement in suspected airbase plot, releases suspects",
-      "published_at": "2026-09-28T15:47:42+00:00"
+      "published_at": "2026-09-28T19:11:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "published_at": "2026-09-28T18:37:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Man City CEO tells EFC board club will clear their name",
+      "published_at": "2026-09-28T18:34:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Top accreditor of gold refiners and families of artisanal miners in London court case",
+      "published_at": "2026-09-28T18:31:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "published_at": "2026-09-28T18:11:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo urges concessions for peace as Ukraine war drags on",
+      "published_at": "2026-09-28T18:03:52+00:00"
     }
   ]
 }
