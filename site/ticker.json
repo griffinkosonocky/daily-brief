@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-09-27T22:02:55+00:00",
+  "updated_at": "2026-09-28T00:37:41+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Japan's corporate services inflation hits 2-year high",
+      "published_at": "2026-09-28T00:29:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "One dead as nor'easter storm pummels New York and New Jersey",
+      "published_at": "2026-09-27T23:37:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US roar back to beat Internationals for 11th consecutive Presidents Cup",
+      "published_at": "2026-09-27T23:37:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "published_at": "2026-09-27T23:27:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why some Indian civil servants become heroes for doing their jobs",
+      "published_at": "2026-09-27T23:01:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German foreign minister says Lavrov meeting driven by Russia security concerns",
+      "published_at": "2026-09-27T22:31:38+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "published_at": "2026-09-27T22:31:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo pledges action on clergy abuse after meeting French survivors",
+      "published_at": "2026-09-27T21:52:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Greece stun Germany 1-0 in losing home debut for Klopp",
+      "published_at": "2026-09-27T21:48:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside Yemen's front-line city as Houthis battle for control",
+      "published_at": "2026-09-27T21:16:31+00:00"
+    },
     {
       "source": "BBC",
       "text": "Watch: BBC reports from the front-line of an escalating war in Yemen",
       "published_at": "2026-09-27T21:00:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "McNulty wins road world title to end US men's 33-year drought",
+      "published_at": "2026-09-27T20:22:34+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Pope Leo pledges action on clergy abuse after meeting French survivors",
-      "published_at": "2026-09-27T20:01:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "McNulty wins road world title to end US men's 33-year drought",
-      "published_at": "2026-09-27T19:49:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "published_at": "2026-09-27T19:47:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After turbulent summer, England's cricketers head into winter schedule",
-      "published_at": "2026-09-27T19:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Floods, landslides kill 56 in India and 14 in Nepal",
-      "published_at": "2026-09-27T18:43:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kohli passes 15,000 ODI runs as India beat West Indies",
-      "published_at": "2026-09-27T17:21:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German foreign minister says Lavrov meeting driven by Russia security concerns",
-      "published_at": "2026-09-27T17:21:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two bodies found after avalanche hits Himalayan climbing group",
-      "published_at": "2026-09-27T17:05:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says men arrested at UK air base used by US were looking to do 'big damage'",
-      "published_at": "2026-09-27T16:44:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "published_at": "2026-09-27T16:35:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Switzerland rejects stricter interpretation of its neutrality",
-      "published_at": "2026-09-27T16:02:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuela releases dozens of political prisoners as election calls grow",
-      "published_at": "2026-09-27T15:56:25+00:00"
+      "text": "Israel's Netanyahu visited Abu Dhabi on Sunday, Israeli official says",
+      "published_at": "2026-09-27T20:01:43+00:00"
     }
   ]
 }
