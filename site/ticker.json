@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-29T01:51:01+00:00",
+  "updated_at": "2026-09-29T08:22:06+00:00",
   "headlines": [
     {
       "source": "BBC",
       "text": "OpenAI scraps rollout of new model over safety concerns",
-      "published_at": "2026-09-29T01:18:24+00:00"
+      "published_at": "2026-09-29T08:13:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "News organizations ask court to bar White House enforcement of access ban",
+      "published_at": "2026-09-29T08:13:11+00:00"
     },
     {
       "source": "BBC",
-      "text": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-      "published_at": "2026-09-29T00:50:19+00:00"
+      "text": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "published_at": "2026-09-29T08:05:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's Golden Week travel surge masks cautious consumer spending - reuters.com",
+      "published_at": "2026-09-29T07:39:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tata leadership transition, IPO unlikely to impact ratings, S&P Global says - reuters.com",
+      "published_at": "2026-09-29T07:24:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FIFA accuses UEFA of 'misinformation campaign' in response to filing - reuters.com",
+      "published_at": "2026-09-29T06:41:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "OpenAI delays latest model over security concerns, as industry faces pressure",
+      "published_at": "2026-09-29T06:34:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "published_at": "2026-09-29T00:38:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "From SpaceX to Saudi Aramco: World's biggest IPOs as Anthropic's blockbuster listing looms",
-      "published_at": "2026-09-28T23:53:38+00:00"
+      "text": "Watch: Bangkok locals create floating market during floods",
+      "published_at": "2026-09-29T06:15:25+00:00"
     },
     {
       "source": "BBC",
-      "text": "Journalist to be crowned king in Uganda after bitter succession dispute",
-      "published_at": "2026-09-28T23:44:49+00:00"
+      "text": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+      "published_at": "2026-09-29T06:06:20+00:00"
     },
     {
       "source": "BBC",
-      "text": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "published_at": "2026-09-28T23:43:48+00:00"
+      "text": "Watch: Luxury units uncovered inside an Indonesian prison",
+      "published_at": "2026-09-29T06:04:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump and Xi's 'stalemate' summit was a glitzy gift to China",
-      "published_at": "2026-09-28T23:41:08+00:00"
+      "text": "'G force' driving world markets may need Fed and bond brake - reuters.com",
+      "published_at": "2026-09-29T06:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI'",
-      "published_at": "2026-09-28T23:18:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta taps Australia's Firmus for AI computing capacity in Southeast Asia",
-      "published_at": "2026-09-28T23:11:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Iran separately talk with mediators in latest bid to end war",
-      "published_at": "2026-09-28T22:42:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Miners bound to megadeal playbook in pursuit of global scale",
-      "published_at": "2026-09-28T22:32:43+00:00"
+      "source": "NPR",
+      "text": "Tennessee is set to execute a woman for the first time in 200 years",
+      "published_at": "2026-09-29T05:59:18+00:00"
     },
     {
       "source": "BBC",
-      "text": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
-      "published_at": "2026-09-28T22:27:33+00:00"
+      "text": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
+      "published_at": "2026-09-29T05:31:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: China risks swinging the tax pendulum too far",
-      "published_at": "2026-09-28T22:00:32+00:00"
+      "text": "Euro's dollar resilience faces energy price, political risk tests - reuters.com",
+      "published_at": "2026-09-29T05:02:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "ECB eyes new currency safety nets to boost euro's global role",
-      "published_at": "2026-09-28T21:50:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "French PM warns against escalation of school protests after 164 arrested",
-      "published_at": "2026-09-28T21:46:53+00:00"
+      "text": "Battered bond market braces for a new era of interest rates - reuters.com",
+      "published_at": "2026-09-29T04:47:00+00:00"
     }
   ]
 }
