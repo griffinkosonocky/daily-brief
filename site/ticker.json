@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-09-29T15:42:54+00:00",
+  "updated_at": "2026-09-29T16:34:15+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
-      "published_at": "2026-09-29T15:26:23+00:00"
+      "text": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "published_at": "2026-09-29T16:23:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Visa joins growing alarm over AI-powered risks",
+      "published_at": "2026-09-29T16:10:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump rules out joint US-China venture to develop AI",
+      "published_at": "2026-09-29T16:09:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "This year's MacArthur Fellows include researchers who fuse science and justice",
+      "published_at": "2026-09-29T16:03:34+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
+      "published_at": "2026-09-29T16:01:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "published_at": "2026-09-29T15:40:10+00:00"
     },
     {
       "source": "BBC",
       "text": "Nigerian dances non-stop for seven days in world record bid",
       "published_at": "2026-09-29T14:50:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Visa joins growing alarm over AI-powered risks",
-      "published_at": "2026-09-29T14:47:21+00:00"
     },
     {
       "source": "BBC",
@@ -28,8 +48,23 @@
     },
     {
       "source": "Reuters",
+      "text": "Anthropic's IPO prospectus sharpens focus on AI valuations",
+      "published_at": "2026-09-29T14:15:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Let them be scared': Moscow sends EU message with widening corporate crackdown",
+      "published_at": "2026-09-29T14:09:49+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "In final election fight, Brazil's Lula carries hopes of Latin America's receding left",
       "published_at": "2026-09-29T14:00:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraqi Airways to resume Iran flights in October after securing 'special exemption'",
+      "published_at": "2026-09-29T13:58:16+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Students protest and public sector workers strike ahead of French budget",
       "published_at": "2026-09-29T13:46:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-      "published_at": "2026-09-29T13:38:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "published_at": "2026-09-29T13:29:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Journalist crowned king in Uganda after bitter succession dispute",
-      "published_at": "2026-09-29T13:24:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "published_at": "2026-09-29T13:15:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraqi Airways to resume Iran flights in October after securing 'special exemption'",
-      "published_at": "2026-09-29T13:09:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man charged over AI image of crocodile in Singapore reservoir",
-      "published_at": "2026-09-29T13:08:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack",
-      "published_at": "2026-09-29T12:54:46+00:00"
     }
   ]
 }
