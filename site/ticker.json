@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-30T00:21:11+00:00",
+  "updated_at": "2026-09-30T06:38:01+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Hurricane Polo's remnants bringing more rain to flood-struck U.S. Southwest",
+      "published_at": "2026-09-30T06:16:44+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
-      "published_at": "2026-09-30T00:01:00+00:00"
+      "text": "Dollar set for big rise in September, mainly at euro's expense - reuters.com",
+      "published_at": "2026-09-30T06:06:01+00:00"
     },
     {
       "source": "BBC",
-      "text": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "published_at": "2026-09-29T23:33:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Trading Day: Stocks still in bonds' grip - reuters.com",
-      "published_at": "2026-09-29T23:23:28+00:00"
+      "text": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "published_at": "2026-09-30T05:24:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "Chinese AI tool told researchers how to make bioweapons",
-      "published_at": "2026-09-29T23:15:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump releases AI accord with tech executives - reuters.com",
-      "published_at": "2026-09-29T22:34:24+00:00"
+      "text": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "published_at": "2026-09-30T05:02:50+00:00"
     },
     {
       "source": "BBC",
-      "text": "South Africa to clean up high-risk areas after 12 women killed",
-      "published_at": "2026-09-29T22:33:39+00:00"
+      "text": "'Backpack' declared Alaska's Fat Bear Week winner",
+      "published_at": "2026-09-30T05:01:04+00:00"
     },
     {
       "source": "BBC",
-      "text": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-      "published_at": "2026-09-29T22:33:13+00:00"
+      "text": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "published_at": "2026-09-30T04:21:11+00:00"
     },
     {
       "source": "BBC",
-      "text": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "published_at": "2026-09-29T22:13:36+00:00"
+      "text": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "published_at": "2026-09-30T04:01:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Costa Rica's Grynspan narrowly ahead in race to be next UN chief, sources say - reuters.com",
-      "published_at": "2026-09-29T22:04:22+00:00"
+      "text": "China adds 55% tariff to Brazil beef as imports hit quota - reuters.com",
+      "published_at": "2026-09-30T04:01:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Unions at Antofagasta's Centinela copper mine ready for strike - reuters.com",
-      "published_at": "2026-09-29T21:56:07+00:00"
+      "text": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism - reuters.com",
+      "published_at": "2026-09-30T03:59:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance - reuters.com",
+      "published_at": "2026-09-30T03:42:28+00:00"
     },
     {
       "source": "BBC",
-      "text": "More than 400 detained as France student protests escalate",
-      "published_at": "2026-09-29T21:55:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fires and blockades as students stage school protests across France",
-      "published_at": "2026-09-29T21:53:36+00:00"
+      "text": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+      "published_at": "2026-09-30T03:21:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners - reuters.com",
-      "published_at": "2026-09-29T21:52:24+00:00"
+      "text": "Iran appeals to US voters as American troops leave Iraq - reuters.com",
+      "published_at": "2026-09-30T02:48:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say - reuters.com",
-      "published_at": "2026-09-29T21:47:54+00:00"
+      "text": "Indian shares inch higher after recent slide; IT stocks lead - reuters.com",
+      "published_at": "2026-09-30T02:24:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says he is embarking on 32 days of campaign travel before November elections - reuters.com",
-      "published_at": "2026-09-29T21:46:56+00:00"
+      "text": "Bonds set for bruising September but stocks little fazed - reuters.com",
+      "published_at": "2026-09-30T01:58:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Basel chief says risks becoming more interconnected as international cooperation wanes - reuters.com",
+      "published_at": "2026-09-30T01:27:00+00:00"
     }
   ]
 }
