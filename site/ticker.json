@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-29T20:41:58+00:00",
+  "updated_at": "2026-09-30T00:21:11+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
+      "published_at": "2026-09-30T00:01:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "published_at": "2026-09-29T23:33:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: Stocks still in bonds' grip - reuters.com",
+      "published_at": "2026-09-29T23:23:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Chinese AI tool told researchers how to make bioweapons",
+      "published_at": "2026-09-29T23:15:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump releases AI accord with tech executives - reuters.com",
+      "published_at": "2026-09-29T22:34:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa to clean up high-risk areas after 12 women killed",
+      "published_at": "2026-09-29T22:33:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "published_at": "2026-09-29T22:33:13+00:00"
+    },
     {
       "source": "BBC",
       "text": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "published_at": "2026-09-29T20:25:41+00:00"
+      "published_at": "2026-09-29T22:13:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Costa Rica's Grynspan narrowly ahead in race to be next UN chief, sources say - reuters.com",
+      "published_at": "2026-09-29T22:04:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Unions at Antofagasta's Centinela copper mine ready for strike - reuters.com",
+      "published_at": "2026-09-29T21:56:07+00:00"
     },
     {
       "source": "BBC",
-      "text": "Trump rules out joint US-China venture to develop AI",
-      "published_at": "2026-09-29T20:24:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump, tech executives sign 'morally binding' AI document",
-      "published_at": "2026-09-29T20:11:14+00:00"
+      "text": "More than 400 detained as France student protests escalate",
+      "published_at": "2026-09-29T21:55:13+00:00"
     },
     {
       "source": "BBC",
-      "text": "Journalist crowned king in Uganda after bitter succession dispute",
-      "published_at": "2026-09-29T20:09:27+00:00"
+      "text": "Fires and blockades as students stage school protests across France",
+      "published_at": "2026-09-29T21:53:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Slovak coalition frays with minister's removal, early election mooted",
-      "published_at": "2026-09-29T19:57:45+00:00"
+      "text": "EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners - reuters.com",
+      "published_at": "2026-09-29T21:52:24+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morocco's king appoints first woman prime minister following election",
-      "published_at": "2026-09-29T19:57:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "published_at": "2026-09-29T19:36:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The journalist who became king in Uganda",
-      "published_at": "2026-09-29T19:35:19+00:00"
+      "text": "EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say - reuters.com",
+      "published_at": "2026-09-29T21:47:54+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Supreme Court lets Trump resume deporting migrants to countries not their own",
-      "published_at": "2026-09-29T19:31:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US sanctions 10 over allegedly procuring weapons for Iran",
-      "published_at": "2026-09-29T19:21:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-      "published_at": "2026-09-29T19:19:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack",
-      "published_at": "2026-09-29T18:40:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At UN, developing nations call for bigger say in shaping AI future",
-      "published_at": "2026-09-29T18:40:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "White House urges EU to draw down diesel inventories, sources say",
-      "published_at": "2026-09-29T18:10:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-      "published_at": "2026-09-29T18:00:50+00:00"
+      "text": "Trump says he is embarking on 32 days of campaign travel before November elections - reuters.com",
+      "published_at": "2026-09-29T21:46:56+00:00"
     }
   ]
 }
