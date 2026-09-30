@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-30T06:38:01+00:00",
+  "updated_at": "2026-09-30T13:36:51+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Dozens hurt and hundreds arrested in wave of French school protests",
+      "published_at": "2026-09-30T13:18:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli officials say diverted flydubai incident may be attempted 'terror attack'",
+      "published_at": "2026-09-30T13:17:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global stocks weather third-quarter AI, bond and crude maelstrom",
+      "published_at": "2026-09-30T12:56:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "published_at": "2026-09-30T12:42:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know about the Dubai-Israel plane incident after reported stabbing",
+      "published_at": "2026-09-30T12:30:05+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Hurricane Polo's remnants bringing more rain to flood-struck U.S. Southwest",
-      "published_at": "2026-09-30T06:16:44+00:00"
+      "text": "FBI hunting the hackers who stole its employees' sensitive data",
+      "published_at": "2026-09-30T12:29:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dollar set for big rise in September, mainly at euro's expense - reuters.com",
-      "published_at": "2026-09-30T06:06:01+00:00"
+      "text": "Romanian PM-designate Muresan loses confidence vote",
+      "published_at": "2026-09-30T12:28:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German inflation accelerates slightly more than expected in September",
+      "published_at": "2026-09-30T12:13:34+00:00"
     },
     {
       "source": "BBC",
-      "text": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "published_at": "2026-09-30T05:24:52+00:00"
+      "text": "Botswana condemned for slaughtering elephants for independence celebrations",
+      "published_at": "2026-09-30T12:06:28+00:00"
     },
     {
       "source": "BBC",
-      "text": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "published_at": "2026-09-30T05:02:50+00:00"
+      "text": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "published_at": "2026-09-30T11:36:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Prince Harry's children targeted by 'European paparazzi' while at school in England",
+      "published_at": "2026-09-30T11:33:45+00:00"
     },
     {
       "source": "BBC",
-      "text": "'Backpack' declared Alaska's Fat Bear Week winner",
-      "published_at": "2026-09-30T05:01:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "published_at": "2026-09-30T04:21:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "published_at": "2026-09-30T04:01:52+00:00"
+      "text": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "published_at": "2026-09-30T11:25:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China adds 55% tariff to Brazil beef as imports hit quota - reuters.com",
-      "published_at": "2026-09-30T04:01:00+00:00"
+      "text": "China's Xi talks economy, Taiwan at reception marking National Day",
+      "published_at": "2026-09-30T11:23:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism - reuters.com",
-      "published_at": "2026-09-30T03:59:00+00:00"
+      "text": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq",
+      "published_at": "2026-09-30T11:19:28+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance - reuters.com",
-      "published_at": "2026-09-30T03:42:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "published_at": "2026-09-30T03:21:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran appeals to US voters as American troops leave Iraq - reuters.com",
-      "published_at": "2026-09-30T02:48:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian shares inch higher after recent slide; IT stocks lead - reuters.com",
-      "published_at": "2026-09-30T02:24:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bonds set for bruising September but stocks little fazed - reuters.com",
-      "published_at": "2026-09-30T01:58:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Basel chief says risks becoming more interconnected as international cooperation wanes - reuters.com",
-      "published_at": "2026-09-30T01:27:00+00:00"
+      "source": "NPR",
+      "text": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "published_at": "2026-09-30T11:13:17+00:00"
     }
   ]
 }
