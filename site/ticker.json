@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-10-01T17:04:41+00:00",
+  "updated_at": "2026-10-01T18:49:48+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "published_at": "2026-10-01T18:48:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "published_at": "2026-10-01T18:41:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+      "published_at": "2026-10-01T18:22:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fires break out at French schools as students protest nationwide",
+      "published_at": "2026-10-01T18:22:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin says the world is living through a dangerous moment, warns West not to escalate",
+      "published_at": "2026-10-01T18:15:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "published_at": "2026-10-01T18:09:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "published_at": "2026-10-01T17:32:50+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "What happened in the failed execution of Christa Pike - and what next?",
-      "published_at": "2026-10-01T16:52:33+00:00"
+      "published_at": "2026-10-01T17:31:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+      "published_at": "2026-10-01T17:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK police arrest dual UK-Iranian man in investigation into Fairford air base incident",
+      "published_at": "2026-10-01T17:05:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: One head is better than two at Paramount",
+      "published_at": "2026-10-01T16:49:43+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +67,14 @@
       "published_at": "2026-10-01T16:45:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Israeli flydubai passenger credits TV show with helping to prevent crash",
-      "published_at": "2026-10-01T16:44:39+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
       "published_at": "2026-10-01T16:43:26+00:00"
     },
     {
       "source": "BBC",
-      "text": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "published_at": "2026-10-01T16:40:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: One head is better than two at Paramount",
-      "published_at": "2026-10-01T16:38:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fires break out at French schools as students protest nationwide",
-      "published_at": "2026-10-01T16:34:22+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Algeria introduces death penalty for arsonists after deadly wildfires",
       "published_at": "2026-10-01T16:31:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Supreme Court to weigh Trump's mandatory immigration detention policy",
-      "published_at": "2026-10-01T16:29:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopia orders closure of embassy in Eritrea after blasts heard in Addis Ababa",
-      "published_at": "2026-10-01T16:23:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say",
-      "published_at": "2026-10-01T16:21:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination",
-      "published_at": "2026-10-01T15:52:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Australia’s home disadvantage",
-      "published_at": "2026-10-01T15:45:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia's Putin says continuation of international conflicts is highly likely as world changes",
-      "published_at": "2026-10-01T15:41:44+00:00"
     }
   ]
 }
