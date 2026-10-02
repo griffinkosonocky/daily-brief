@@ -1,5 +1,5 @@
 {
-  "edition": 114,
+  "edition": 115,
   "last_successful": {
     "article": {
       "title": "The Shang Dynasty and the Origins of Chinese Writing",
@@ -107,24 +107,24 @@
     },
     "trivia": {
       "sport": "Sports",
-      "difficulty": "hard",
-      "question": "Who won the 1998 Daytona 500?",
-      "answer": "Dale Earnhardt",
+      "difficulty": "easy",
+      "question": "What was the year of estabilishment of the Bari Italian Football Club?",
+      "answer": "1908",
       "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
       "options": [
-        "Michael Walltrip",
-        "Dale Earnhardt",
-        "John Anderson",
-        "Jeff Gordon"
+        "1908",
+        "2014",
+        "1895",
+        "1945"
       ],
       "badge": null,
       "source": "opentdb",
-      "generated_at": "2026-10-01T17:04:37+00:00"
+      "generated_at": "2026-10-02T16:18:52+00:00"
     },
     "sports": {
       "title": "Today's Sports Slate",
-      "date_key": "2026-10-01",
-      "generated_at_ct": "Oct 1, 2026 at 12:04 PM CT",
+      "date_key": "2026-10-02",
+      "generated_at_ct": "Oct 2, 2026 at 11:18 AM CT",
       "sports": [
         {
           "key": "soccer_fifa_world_cup",
@@ -139,45 +139,8 @@
           "key": "americanfootball_nfl",
           "label": "NFL",
           "full_name": "NFL",
-          "games": [
-            {
-              "id": "d55cb69fed50a09170560b5b75d8de86",
-              "sport_key": "americanfootball_nfl",
-              "league": "NFL",
-              "league_name": "NFL",
-              "status_key": "upcoming",
-              "status_label": "7:15 PM CT",
-              "commence_time": "2026-10-02T00:15:00Z",
-              "commence_ct": "7:15 PM CT",
-              "sort_time": "2026-10-02T00:15:00+00:00",
-              "home_team": "Cleveland Browns",
-              "away_team": "Pittsburgh Steelers",
-              "home_score": "",
-              "away_score": "",
-              "spread": {
-                "book": "DraftKings",
-                "last_update_ct": "12:03 PM CT",
-                "summary": "Pittsburgh Steelers -2.5",
-                "outcomes": [
-                  {
-                    "name": "Cleveland Browns",
-                    "point": 2.5,
-                    "point_label": "+2.5",
-                    "price": 100,
-                    "price_label": "+100"
-                  },
-                  {
-                    "name": "Pittsburgh Steelers",
-                    "point": -2.5,
-                    "point_label": "-2.5",
-                    "price": -120,
-                    "price_label": "-120"
-                  }
-                ]
-              }
-            }
-          ],
-          "note": "",
+          "games": [],
+          "note": "No games today.",
           "errors": [],
           "active": true
         },
@@ -187,73 +150,109 @@
           "full_name": "College Football",
           "games": [
             {
-              "id": "b0998b3474fea9dee080784b8da01048",
+              "id": "a39f3695781e9b2f76011e921d63b124",
               "sport_key": "americanfootball_ncaaf",
               "league": "CFB",
               "league_name": "College Football",
               "status_key": "upcoming",
-              "status_label": "7:00 PM CT",
-              "commence_time": "2026-10-02T00:00:00Z",
-              "commence_ct": "7:00 PM CT",
-              "sort_time": "2026-10-02T00:00:00+00:00",
-              "home_team": "New Mexico State Aggies",
-              "away_team": "Western Kentucky Hilltoppers",
+              "status_label": "6:00 PM CT",
+              "commence_time": "2026-10-02T23:00:00Z",
+              "commence_ct": "6:00 PM CT",
+              "sort_time": "2026-10-02T23:00:00+00:00",
+              "home_team": "Delaware Blue Hens",
+              "away_team": "Liberty Flames",
               "home_score": "",
               "away_score": "",
               "spread": {
                 "book": "DraftKings",
-                "last_update_ct": "12:04 PM CT",
-                "summary": "New Mexico State Aggies -2.5",
+                "last_update_ct": "11:18 AM CT",
+                "summary": "Liberty Flames -6.5",
                 "outcomes": [
                   {
-                    "name": "New Mexico State Aggies",
-                    "point": -2.5,
-                    "point_label": "-2.5",
-                    "price": -108,
-                    "price_label": "-108"
+                    "name": "Delaware Blue Hens",
+                    "point": 6.5,
+                    "point_label": "+6.5",
+                    "price": 100,
+                    "price_label": "+100"
                   },
                   {
-                    "name": "Western Kentucky Hilltoppers",
-                    "point": 2.5,
-                    "point_label": "+2.5",
-                    "price": -112,
-                    "price_label": "-112"
+                    "name": "Liberty Flames",
+                    "point": -6.5,
+                    "point_label": "-6.5",
+                    "price": -120,
+                    "price_label": "-120"
                   }
                 ]
               }
             },
             {
-              "id": "3c64f3dd8efd756a90f09303e5517006",
+              "id": "e61c74f0e28b46ad83270a6234b425f4",
               "sport_key": "americanfootball_ncaaf",
               "league": "CFB",
               "league_name": "College Football",
               "status_key": "upcoming",
-              "status_label": "8:00 PM CT",
-              "commence_time": "2026-10-02T01:00:00Z",
-              "commence_ct": "8:00 PM CT",
-              "sort_time": "2026-10-02T01:00:00+00:00",
-              "home_team": "Tulsa Golden Hurricane",
-              "away_team": "North Texas Mean Green",
+              "status_label": "6:00 PM CT",
+              "commence_time": "2026-10-02T23:00:00Z",
+              "commence_ct": "6:00 PM CT",
+              "sort_time": "2026-10-02T23:00:00+00:00",
+              "home_team": "Virginia Tech Hokies",
+              "away_team": "Pittsburgh Panthers",
               "home_score": "",
               "away_score": "",
               "spread": {
                 "book": "DraftKings",
-                "last_update_ct": "12:04 PM CT",
-                "summary": "North Texas Mean Green -1.5",
+                "last_update_ct": "11:18 AM CT",
+                "summary": "Virginia Tech Hokies -2.5",
                 "outcomes": [
                   {
-                    "name": "North Texas Mean Green",
-                    "point": -1.5,
-                    "point_label": "-1.5",
-                    "price": -110,
-                    "price_label": "-110"
+                    "name": "Pittsburgh Panthers",
+                    "point": 2.5,
+                    "point_label": "+2.5",
+                    "price": -115,
+                    "price_label": "-115"
                   },
                   {
-                    "name": "Tulsa Golden Hurricane",
-                    "point": 1.5,
-                    "point_label": "+1.5",
-                    "price": -110,
-                    "price_label": "-110"
+                    "name": "Virginia Tech Hokies",
+                    "point": -2.5,
+                    "point_label": "-2.5",
+                    "price": -105,
+                    "price_label": "-105"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "0469a451e58ca81723a7760d4bede173",
+              "sport_key": "americanfootball_ncaaf",
+              "league": "CFB",
+              "league_name": "College Football",
+              "status_key": "upcoming",
+              "status_label": "7:00 PM CT",
+              "commence_time": "2026-10-03T00:00:00Z",
+              "commence_ct": "7:00 PM CT",
+              "sort_time": "2026-10-03T00:00:00+00:00",
+              "home_team": "Northwestern Wildcats",
+              "away_team": "Penn State Nittany Lions",
+              "home_score": "",
+              "away_score": "",
+              "spread": {
+                "book": "DraftKings",
+                "last_update_ct": "11:18 AM CT",
+                "summary": "Penn State Nittany Lions -2.5",
+                "outcomes": [
+                  {
+                    "name": "Northwestern Wildcats",
+                    "point": 2.5,
+                    "point_label": "+2.5",
+                    "price": -102,
+                    "price_label": "-102"
+                  },
+                  {
+                    "name": "Penn State Nittany Lions",
+                    "point": -2.5,
+                    "point_label": "-2.5",
+                    "price": -118,
+                    "price_label": "-118"
                   }
                 ]
               }
@@ -290,14 +289,14 @@
         "spreads": 3
       },
       "quota": {
-        "remaining": "495",
-        "used": "5",
+        "remaining": "491",
+        "used": "9",
         "last_request": "0"
       },
       "badge": null,
       "source": "odds-api",
-      "generated_at": "2026-10-01T17:04:38+00:00"
+      "generated_at": "2026-10-02T16:18:53+00:00"
     }
   },
-  "updated_at": "2026-10-01T17:04:41+00:00"
+  "updated_at": "2026-10-02T16:18:54+00:00"
 }
