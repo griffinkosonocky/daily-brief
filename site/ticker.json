@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-02T16:18:54+00:00",
+  "updated_at": "2026-10-02T18:21:20+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+      "published_at": "2026-10-02T18:16:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Mexico to prohibit presidents from holding dual citizenship",
+      "published_at": "2026-10-02T17:57:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "published_at": "2026-10-02T17:44:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Riot police clash with students as education protests rage in France",
+      "published_at": "2026-10-02T17:43:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure",
+      "published_at": "2026-10-02T17:41:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IEA's Birol says oil prices starting to fall after reserve release decision",
+      "published_at": "2026-10-02T17:36:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What happened in the failed execution of Christa Pike - and what next?",
+      "published_at": "2026-10-02T17:35:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudis plan assault on Houthis to break Red Sea chokehold",
+      "published_at": "2026-10-02T17:20:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump push to end US clock switching hits dead end",
+      "published_at": "2026-10-02T16:50:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "G7 to release 100 million barrels of diesel and other reserves through IEA",
+      "published_at": "2026-10-02T16:49:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iraq says 40 daily Iranian flights cleared to fly to and from Najaf",
+      "published_at": "2026-10-02T16:37:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say",
+      "published_at": "2026-10-02T16:20:04+00:00"
+    },
     {
       "source": "BBC",
       "text": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
@@ -8,73 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Nepal plans to drain four glacial lakes after deadly floods - reuters.com",
+      "text": "Nepal plans to drain four glacial lakes after deadly floods",
       "published_at": "2026-10-02T15:59:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure - reuters.com",
-      "published_at": "2026-10-02T15:47:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "published_at": "2026-10-02T15:26:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mexico to prohibit presidents from holding dual citizenship - reuters.com",
-      "published_at": "2026-10-02T15:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Argentina announces citizenship-by-investment program - reuters.com",
-      "published_at": "2026-10-02T15:13:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What happened in the failed execution of Christa Pike - and what next?",
-      "published_at": "2026-10-02T15:01:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - reuters.com",
-      "published_at": "2026-10-02T14:58:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JD.com set to win EU approval for Ceconomy deal, source says - reuters.com",
-      "published_at": "2026-10-02T14:56:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Meta’s Muse is adorable agent of value destruction - reuters.com",
-      "published_at": "2026-10-02T14:55:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-      "published_at": "2026-10-02T14:37:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran readies harder retaliation if attacked as diplomacy faces long odds - reuters.com",
-      "published_at": "2026-10-02T14:32:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Three in four families go hungry in parts of Yemen from new fighting - reuters.com",
-      "published_at": "2026-10-02T14:22:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump push to end US clock switching hits dead end - reuters.com",
-      "published_at": "2026-10-02T14:17:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "published_at": "2026-10-02T14:01:09+00:00"
+      "text": "Spain faces more fury over housing after parliament rejects decree",
+      "published_at": "2026-10-02T15:53:34+00:00"
     }
   ]
 }
