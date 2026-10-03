@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-03T13:18:38+00:00",
+  "updated_at": "2026-10-03T14:46:37+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "published_at": "2026-10-03T14:27:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why has Brazil accused the US of election interference?",
+      "published_at": "2026-10-03T13:52:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Protesters across Spain demand action over housing crisis",
+      "published_at": "2026-10-03T13:34:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
@@ -8,13 +23,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Indian police detain several people in Gen Z-led protests against voter roll changes",
+      "text": "Indian police detain several people in Gen Z-led protests against voter roll changes - reuters.com",
       "published_at": "2026-10-03T12:19:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Protesters across Spain demand action over housing crisis",
-      "published_at": "2026-10-03T12:16:15+00:00"
     },
     {
       "source": "NPR",
@@ -22,9 +32,14 @@
       "published_at": "2026-10-03T12:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "published_at": "2026-10-03T11:20:21+00:00"
+      "source": "Reuters",
+      "text": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race - reuters.com",
+      "published_at": "2026-10-03T11:51:53+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+      "published_at": "2026-10-03T11:47:09+00:00"
     },
     {
       "source": "NPR",
@@ -43,38 +58,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Russia hits Liberian-flagged ship in Ukraine's Odesa port, kills one",
+      "text": "Russia hits Liberian-flagged ship in Ukraine's Odesa port, kills one - reuters.com",
       "published_at": "2026-10-03T10:48:50+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Britain’s soccer sham",
+      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Britain’s soccer sham - reuters.com",
       "published_at": "2026-10-03T10:36:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+      "text": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - reuters.com",
       "published_at": "2026-10-03T10:30:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race",
-      "published_at": "2026-10-03T10:15:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Supreme Court faces another term jam-packed with controversy",
-      "published_at": "2026-10-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
-      "published_at": "2026-10-03T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "No one expected an American pope. Here's the inside story of how 'Bob' became Pope Leo",
-      "published_at": "2026-10-03T09:00:00+00:00"
+      "text": "Ethiopia government forces retake airport in Tigray's capital, sources say - reuters.com",
+      "published_at": "2026-10-03T09:20:25+00:00"
     }
   ]
 }

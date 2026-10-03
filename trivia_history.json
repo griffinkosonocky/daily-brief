@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "sport": "NBA",
-    "question": "Only two players have won the NBA MVP award while playing for the same franchise in back-to-back seasons since 2000. Name either one of them.",
-    "answer": "Stephen Curry (2015, 2016 with Golden State Warriors) or Karl-Anthony Towns (2024, 2025 with Minnesota Timberwolves)"
-  },
-  {
     "date": "2026-06-14",
     "sport": "Sports",
     "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who won the 1998 Daytona 500?",
     "answer": "Dale Earnhardt"
+  },
+  {
+    "date": "2026-10-03",
+    "sport": "Sports",
+    "question": "Which of these NHL teams have never moved since their inception?",
+    "answer": "St. Louis Blues"
   }
 ]

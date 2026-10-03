@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-10-02",
-  "generated_at_ct": "Oct 2, 2026 at 11:18 AM CT",
+  "date_key": "2026-10-03",
+  "generated_at_ct": "Oct 3, 2026 at 9:46 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -27,71 +27,143 @@
       "full_name": "College Football",
       "games": [
         {
-          "id": "a39f3695781e9b2f76011e921d63b124",
+          "id": "9b2bcb758c7d7f4cb25d5102e4e9068e",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-10-02T23:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-10-02T23:00:00+00:00",
-          "home_team": "Delaware Blue Hens",
-          "away_team": "Liberty Flames",
+          "status_label": "10:00 AM CT",
+          "commence_time": "2026-10-03T15:00:00Z",
+          "commence_ct": "10:00 AM CT",
+          "sort_time": "2026-10-03T15:00:00+00:00",
+          "home_team": "Charlotte 49ers",
+          "away_team": "Memphis Tigers",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "11:18 AM CT",
-            "summary": "Liberty Flames -6.5",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Memphis Tigers -18.5",
             "outcomes": [
               {
-                "name": "Delaware Blue Hens",
-                "point": 6.5,
-                "point_label": "+6.5",
-                "price": 100,
-                "price_label": "+100"
+                "name": "Charlotte 49ers",
+                "point": 18.5,
+                "point_label": "+18.5",
+                "price": -105,
+                "price_label": "-105"
               },
               {
-                "name": "Liberty Flames",
-                "point": -6.5,
-                "point_label": "-6.5",
-                "price": -120,
-                "price_label": "-120"
+                "name": "Memphis Tigers",
+                "point": -18.5,
+                "point_label": "-18.5",
+                "price": -115,
+                "price_label": "-115"
               }
             ]
           }
         },
         {
-          "id": "e61c74f0e28b46ad83270a6234b425f4",
+          "id": "11c2108f1d7c8fb56c8a6c7fcd9b62bf",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-10-02T23:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-10-02T23:00:00+00:00",
-          "home_team": "Virginia Tech Hokies",
-          "away_team": "Pittsburgh Panthers",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Houston Cougars",
+          "away_team": "UCF Knights",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "11:18 AM CT",
-            "summary": "Virginia Tech Hokies -2.5",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Houston Cougars -10.5",
             "outcomes": [
               {
-                "name": "Pittsburgh Panthers",
-                "point": 2.5,
-                "point_label": "+2.5",
+                "name": "Houston Cougars",
+                "point": -10.5,
+                "point_label": "-10.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "UCF Knights",
+                "point": 10.5,
+                "point_label": "+10.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2b8db5053d533b488c0d76f49382d219",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "North Carolina Tar Heels",
+          "away_team": "Notre Dame Fighting Irish",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Notre Dame Fighting Irish -21",
+            "outcomes": [
+              {
+                "name": "North Carolina Tar Heels",
+                "point": 21.0,
+                "point_label": "+21",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Notre Dame Fighting Irish",
+                "point": -21.0,
+                "point_label": "-21",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "36357c80707ce0c3a645afe495b28bbd",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "SMU Mustangs",
+          "away_team": "Boston College Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "SMU Mustangs -21.5",
+            "outcomes": [
+              {
+                "name": "Boston College Eagles",
+                "point": 21.5,
+                "point_label": "+21.5",
                 "price": -115,
                 "price_label": "-115"
               },
               {
-                "name": "Virginia Tech Hokies",
-                "point": -2.5,
-                "point_label": "-2.5",
+                "name": "SMU Mustangs",
+                "point": -21.5,
+                "point_label": "-21.5",
                 "price": -105,
                 "price_label": "-105"
               }
@@ -99,37 +171,1801 @@
           }
         },
         {
-          "id": "0469a451e58ca81723a7760d4bede173",
+          "id": "38e6b42c07f8da2e57e0b4dd09d6174c",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Kansas Jayhawks",
+          "away_team": "Middle Tennessee Blue Raiders",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Kansas Jayhawks -20.5",
+            "outcomes": [
+              {
+                "name": "Kansas Jayhawks",
+                "point": -20.5,
+                "point_label": "-20.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Middle Tennessee Blue Raiders",
+                "point": 20.5,
+                "point_label": "+20.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4fcb5b7ec04cad7acc5d048bdd24be4c",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Air Force Falcons",
+          "away_team": "Navy Midshipmen",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Air Force Falcons -3",
+            "outcomes": [
+              {
+                "name": "Air Force Falcons",
+                "point": -3.0,
+                "point_label": "-3",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Navy Midshipmen",
+                "point": 3.0,
+                "point_label": "+3",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6b22daf46195be6b3748584efe89dac1",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Mississippi State Bulldogs",
+          "away_team": "Alabama Crimson Tide",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Alabama Crimson Tide -5.5",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "point": -5.5,
+                "point_label": "-5.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Mississippi State Bulldogs",
+                "point": 5.5,
+                "point_label": "+5.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7bdd5ae18979fa3af61625a21d757987",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Iowa State Cyclones",
+          "away_team": "West Virginia Mountaineers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Iowa State Cyclones -3",
+            "outcomes": [
+              {
+                "name": "Iowa State Cyclones",
+                "point": -3.0,
+                "point_label": "-3",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "West Virginia Mountaineers",
+                "point": 3.0,
+                "point_label": "+3",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8ef32c906348e926ca0fabcc25635c11",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Wake Forest Demon Deacons",
+          "away_team": "Stanford Cardinal",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Wake Forest Demon Deacons -14.5",
+            "outcomes": [
+              {
+                "name": "Stanford Cardinal",
+                "point": 14.5,
+                "point_label": "+14.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "point": -14.5,
+                "point_label": "-14.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "94769faaa7a5aba0474291fc9c2d3d6d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "UConn Huskies",
+          "away_team": "Syracuse Orange",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Syracuse Orange -6.5",
+            "outcomes": [
+              {
+                "name": "Syracuse Orange",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "UConn Huskies",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a2f01448219e39fd44e3d98ea5c7f482",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:00 AM CT",
+          "commence_time": "2026-10-03T16:00:00Z",
+          "commence_ct": "11:00 AM CT",
+          "sort_time": "2026-10-03T16:00:00+00:00",
+          "home_team": "Minnesota Golden Gophers",
+          "away_team": "Michigan Wolverines",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Michigan Wolverines -6",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "point": -6.0,
+                "point_label": "-6",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Minnesota Golden Gophers",
+                "point": 6.0,
+                "point_label": "+6",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "575f5abb1af3a81091ac5a1cf1f5f927",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:30 AM CT",
+          "commence_time": "2026-10-03T16:30:00Z",
+          "commence_ct": "11:30 AM CT",
+          "sort_time": "2026-10-03T16:30:00+00:00",
+          "home_team": "Wisconsin Badgers",
+          "away_team": "Michigan State Spartans",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Wisconsin Badgers -8.5",
+            "outcomes": [
+              {
+                "name": "Michigan State Spartans",
+                "point": 8.5,
+                "point_label": "+8.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Wisconsin Badgers",
+                "point": -8.5,
+                "point_label": "-8.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "46e1be6476ed577d1b5194b46b27c643",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "11:45 AM CT",
+          "commence_time": "2026-10-03T16:45:00Z",
+          "commence_ct": "11:45 AM CT",
+          "sort_time": "2026-10-03T16:45:00+00:00",
+          "home_team": "Georgia Bulldogs",
+          "away_team": "Vanderbilt Commodores",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Georgia Bulldogs -25.5",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "point": -25.5,
+                "point_label": "-25.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "point": 25.5,
+                "point_label": "+25.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "031ad65ec032d459cda2cee30378e4a4",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "12:00 PM CT",
+          "commence_time": "2026-10-03T17:00:00Z",
+          "commence_ct": "12:00 PM CT",
+          "sort_time": "2026-10-03T17:00:00+00:00",
+          "home_team": "Buffalo Bulls",
+          "away_team": "Western Michigan Broncos",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Western Michigan Broncos -12.5",
+            "outcomes": [
+              {
+                "name": "Buffalo Bulls",
+                "point": 12.5,
+                "point_label": "+12.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "point": -12.5,
+                "point_label": "-12.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c3437a49d4efdbca5669e7edfb5af569",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "1:00 PM CT",
+          "commence_time": "2026-10-03T18:00:00Z",
+          "commence_ct": "1:00 PM CT",
+          "sort_time": "2026-10-03T18:00:00+00:00",
+          "home_team": "Ball State Cardinals",
+          "away_team": "Toledo Rockets",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Toledo Rockets -21",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "point": 21.0,
+                "point_label": "+21",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Toledo Rockets",
+                "point": -21.0,
+                "point_label": "-21",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "296c3e1c69d11f640690b6f9bd37d424",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Florida State Seminoles",
+          "away_team": "Virginia Cavaliers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Virginia Cavaliers -1.5",
+            "outcomes": [
+              {
+                "name": "Florida State Seminoles",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Virginia Cavaliers",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3086203ed472e204ff7f3ba6241bb43c",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "UAB Blazers",
+          "away_team": "Samford Bulldogs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "UAB Blazers -30.5",
+            "outcomes": [
+              {
+                "name": "Samford Bulldogs",
+                "point": 30.5,
+                "point_label": "+30.5",
+                "price": 100,
+                "price_label": "+100"
+              },
+              {
+                "name": "UAB Blazers",
+                "point": -30.5,
+                "point_label": "-30.5",
+                "price": -120,
+                "price_label": "-120"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6d39ea01c532535edf756b8086656518",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Missouri Tigers",
+          "away_team": "Florida Gators",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Florida Gators -5.5",
+            "outcomes": [
+              {
+                "name": "Florida Gators",
+                "point": -5.5,
+                "point_label": "-5.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Missouri Tigers",
+                "point": 5.5,
+                "point_label": "+5.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "766a0470521ac4a0fad476df45c1438b",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Miami (OH) RedHawks",
+          "away_team": "Bowling Green Falcons",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Miami (OH) RedHawks -10.5",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "point": 10.5,
+                "point_label": "+10.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Miami (OH) RedHawks",
+                "point": -10.5,
+                "point_label": "-10.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7e0abfe1077b7d41d61b918ef53d247b",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "UMass Minutemen",
+          "away_team": "Eastern Michigan Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "UMass Minutemen -6",
+            "outcomes": [
+              {
+                "name": "Eastern Michigan Eagles",
+                "point": 6.0,
+                "point_label": "+6",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "UMass Minutemen",
+                "point": -6.0,
+                "point_label": "-6",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a77fd3143159a9d16a75685528d9960b",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "NC State Wolfpack",
+          "away_team": "Louisville Cardinals",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Louisville Cardinals -3",
+            "outcomes": [
+              {
+                "name": "Louisville Cardinals",
+                "point": -3.0,
+                "point_label": "-3",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "NC State Wolfpack",
+                "point": 3.0,
+                "point_label": "+3",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "afbc95d529430ef9797b428b2a9db1ab",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Central Michigan Chippewas",
+          "away_team": "Akron Zips",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Central Michigan Chippewas -6.5",
+            "outcomes": [
+              {
+                "name": "Akron Zips",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -102,
+                "price_label": "-102"
+              },
+              {
+                "name": "Central Michigan Chippewas",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -118,
+                "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b163da8a283ade5bd6428a3ca01da8b8",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Iowa Hawkeyes",
+          "away_team": "Ohio State Buckeyes",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Ohio State Buckeyes -14.5",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "point": 14.5,
+                "point_label": "+14.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "point": -14.5,
+                "point_label": "-14.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b36c1d83299d019b7833660a29e9da9c",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "North Dakota State Bison",
+          "away_team": "Wyoming Cowboys",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "North Dakota State Bison -16.5",
+            "outcomes": [
+              {
+                "name": "North Dakota State Bison",
+                "point": -16.5,
+                "point_label": "-16.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Wyoming Cowboys",
+                "point": 16.5,
+                "point_label": "+16.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c1c548c80e674e3a37dcc2551beba599",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Kent State Golden Flashes",
+          "away_team": "Ohio Bobcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Ohio Bobcats -3.5",
+            "outcomes": [
+              {
+                "name": "Kent State Golden Flashes",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Ohio Bobcats",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e4f058459f5ee64f3cff3ac1aed79e64",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Georgia State Panthers",
+          "away_team": "Old Dominion Monarchs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Georgia State Panthers -2.5",
+            "outcomes": [
+              {
+                "name": "Georgia State Panthers",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Old Dominion Monarchs",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f28938b05f7d4b4187e879917f6e583a",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "UNLV Rebels",
+          "away_team": "California Golden Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "UNLV Rebels -1.5",
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "UNLV Rebels",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f2defdeeb6cb3aa4a86b01a7a5b1ece4",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:30 PM CT",
+          "commence_time": "2026-10-03T19:30:00Z",
+          "commence_ct": "2:30 PM CT",
+          "sort_time": "2026-10-03T19:30:00+00:00",
+          "home_team": "Tennessee Volunteers",
+          "away_team": "Auburn Tigers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Tennessee Volunteers -6.5",
+            "outcomes": [
+              {
+                "name": "Auburn Tigers",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Tennessee Volunteers",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7e365956ef23823565a044a5af18736a",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "2:45 PM CT",
+          "commence_time": "2026-10-03T19:45:00Z",
+          "commence_ct": "2:45 PM CT",
+          "sort_time": "2026-10-03T19:45:00+00:00",
+          "home_team": "James Madison Dukes",
+          "away_team": "Marshall Thundering Herd",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "James Madison Dukes -16.5",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "point": -16.5,
+                "point_label": "-16.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Marshall Thundering Herd",
+                "point": 16.5,
+                "point_label": "+16.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "0e62429ed73f84f87f603d376477749c",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "3:00 PM CT",
+          "commence_time": "2026-10-03T20:00:00Z",
+          "commence_ct": "3:00 PM CT",
+          "sort_time": "2026-10-03T20:00:00+00:00",
+          "home_team": "Nebraska Cornhuskers",
+          "away_team": "Maryland Terrapins",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Nebraska Cornhuskers -14.5",
+            "outcomes": [
+              {
+                "name": "Maryland Terrapins",
+                "point": 14.5,
+                "point_label": "+14.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Nebraska Cornhuskers",
+                "point": -14.5,
+                "point_label": "-14.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e7e3e3bfc3fd7fca7550ecf48cb78666",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "3:00 PM CT",
+          "commence_time": "2026-10-03T20:00:00Z",
+          "commence_ct": "3:00 PM CT",
+          "sort_time": "2026-10-03T20:00:00+00:00",
+          "home_team": "New Mexico Lobos",
+          "away_team": "UTEP Miners",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "New Mexico Lobos -23.5",
+            "outcomes": [
+              {
+                "name": "New Mexico Lobos",
+                "point": -23.5,
+                "point_label": "-23.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "UTEP Miners",
+                "point": 23.5,
+                "point_label": "+23.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "0cdf52fe0d6bfe0664b76a2102f8b605",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "3:15 PM CT",
+          "commence_time": "2026-10-03T20:15:00Z",
+          "commence_ct": "3:15 PM CT",
+          "sort_time": "2026-10-03T20:15:00+00:00",
+          "home_team": "Illinois Fighting Illini",
+          "away_team": "Purdue Boilermakers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Illinois Fighting Illini -10",
+            "outcomes": [
+              {
+                "name": "Illinois Fighting Illini",
+                "point": -10.0,
+                "point_label": "-10",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Purdue Boilermakers",
+                "point": 10.0,
+                "point_label": "+10",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "59abc1d6262d2ea6a72c4daad4c83af2",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "3:15 PM CT",
+          "commence_time": "2026-10-03T20:15:00Z",
+          "commence_ct": "3:15 PM CT",
+          "sort_time": "2026-10-03T20:15:00+00:00",
+          "home_team": "South Carolina Gamecocks",
+          "away_team": "Kentucky Wildcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "South Carolina Gamecocks -2.5",
+            "outcomes": [
+              {
+                "name": "Kentucky Wildcats",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "South Carolina Gamecocks",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b30387175520051e2889230030365494",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "5:00 PM CT",
+          "commence_time": "2026-10-03T22:00:00Z",
+          "commence_ct": "5:00 PM CT",
+          "sort_time": "2026-10-03T22:00:00+00:00",
+          "home_team": "Colorado State Rams",
+          "away_team": "Oregon State Beavers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Oregon State Beavers -6.5",
+            "outcomes": [
+              {
+                "name": "Colorado State Rams",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -102,
+                "price_label": "-102"
+              },
+              {
+                "name": "Oregon State Beavers",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -118,
+                "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b3c132063b4d14cf750801c633237b9e",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "5:00 PM CT",
+          "commence_time": "2026-10-03T22:00:00Z",
+          "commence_ct": "5:00 PM CT",
+          "sort_time": "2026-10-03T22:00:00+00:00",
+          "home_team": "Florida Atlantic Owls",
+          "away_team": "Texas Southern Tigers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Florida Atlantic Owls -45.5",
+            "outcomes": [
+              {
+                "name": "Florida Atlantic Owls",
+                "point": -45.5,
+                "point_label": "-45.5",
+                "price": -102,
+                "price_label": "-102"
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "point": 45.5,
+                "point_label": "+45.5",
+                "price": -118,
+                "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "279230b2d38c4e97187c3f065501a4cf",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-03T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-03T23:00:00+00:00",
+          "home_team": "Rice Owls",
+          "away_team": "UTSA Roadrunners",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "UTSA Roadrunners -12.5",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "point": 12.5,
+                "point_label": "+12.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "UTSA Roadrunners",
+                "point": -12.5,
+                "point_label": "-12.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4c84a699496b71ee1e626e3c7f5689c9",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-03T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-03T23:00:00+00:00",
+          "home_team": "South Alabama Jaguars",
+          "away_team": "UL Monroe Warhawks",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "South Alabama Jaguars -14",
+            "outcomes": [
+              {
+                "name": "South Alabama Jaguars",
+                "point": -14.0,
+                "point_label": "-14",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "UL Monroe Warhawks",
+                "point": 14.0,
+                "point_label": "+14",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "5efdb3515c882453d9abcd27db28f78b",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-03T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-03T23:00:00+00:00",
+          "home_team": "Coastal Carolina Chanticleers",
+          "away_team": "Georgia Southern Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Georgia Southern Eagles -2.5",
+            "outcomes": [
+              {
+                "name": "Coastal Carolina Chanticleers",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -118,
+                "price_label": "-118"
+              },
+              {
+                "name": "Georgia Southern Eagles",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -102,
+                "price_label": "-102"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b58c0d24e66471e6095c0a5f9afb7ce3",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-03T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-03T23:00:00+00:00",
+          "home_team": "TCU Horned Frogs",
+          "away_team": "BYU Cougars",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "BYU Cougars -6",
+            "outcomes": [
+              {
+                "name": "BYU Cougars",
+                "point": -6.0,
+                "point_label": "-6",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "TCU Horned Frogs",
+                "point": 6.0,
+                "point_label": "+6",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ff98b80b07e2f42c76c2c255e6611247",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-03T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-03T23:00:00+00:00",
+          "home_team": "Texas A&M Aggies",
+          "away_team": "Arkansas Razorbacks",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Texas A&M Aggies -14",
+            "outcomes": [
+              {
+                "name": "Arkansas Razorbacks",
+                "point": 14.0,
+                "point_label": "+14",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Texas A&M Aggies",
+                "point": -14.0,
+                "point_label": "-14",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6246661a676eeaa850a3e36e311fce63",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-03T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-03T23:30:00+00:00",
+          "home_team": "Louisiana Tech Bulldogs",
+          "away_team": "Army Black Knights",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Army Black Knights -1.5",
+            "outcomes": [
+              {
+                "name": "Army Black Knights",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Louisiana Tech Bulldogs",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6338f8a71aba32414791add2d358472d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-03T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-03T23:30:00+00:00",
+          "home_team": "South Florida Bulls",
+          "away_team": "Temple Owls",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "South Florida Bulls -5.5",
+            "outcomes": [
+              {
+                "name": "South Florida Bulls",
+                "point": -5.5,
+                "point_label": "-5.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Temple Owls",
+                "point": 5.5,
+                "point_label": "+5.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "932c7f6dfe06be77192fe000e9f3ac9d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-03T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-03T23:30:00+00:00",
+          "home_team": "Clemson Tigers",
+          "away_team": "Miami Hurricanes",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Miami Hurricanes -15.5",
+            "outcomes": [
+              {
+                "name": "Clemson Tigers",
+                "point": 15.5,
+                "point_label": "+15.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Miami Hurricanes",
+                "point": -15.5,
+                "point_label": "-15.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a2f7df0b000c054abd3cbc6f4a4b2432",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-03T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-03T23:30:00+00:00",
+          "home_team": "Boise State Broncos",
+          "away_team": "Utah State Aggies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Boise State Broncos -19.5",
+            "outcomes": [
+              {
+                "name": "Boise State Broncos",
+                "point": -19.5,
+                "point_label": "-19.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Utah State Aggies",
+                "point": 19.5,
+                "point_label": "+19.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f981648dba0e71d8517d47d31aa2633d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-03T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-03T23:30:00+00:00",
+          "home_team": "USC Trojans",
+          "away_team": "Washington Huskies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "USC Trojans -8.5",
+            "outcomes": [
+              {
+                "name": "USC Trojans",
+                "point": -8.5,
+                "point_label": "-8.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Washington Huskies",
+                "point": 8.5,
+                "point_label": "+8.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "253e389201e449a2984a194e3eebf7f8",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:31 PM CT",
+          "commence_time": "2026-10-03T23:31:00Z",
+          "commence_ct": "6:31 PM CT",
+          "sort_time": "2026-10-03T23:31:00+00:00",
+          "home_team": "Colorado Buffaloes",
+          "away_team": "Texas Tech Red Raiders",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Texas Tech Red Raiders -13.5",
+            "outcomes": [
+              {
+                "name": "Colorado Buffaloes",
+                "point": 13.5,
+                "point_label": "+13.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "point": -13.5,
+                "point_label": "-13.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "833bd3a9f5a0da5b303a6a4304e2c6a3",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:45 PM CT",
+          "commence_time": "2026-10-03T23:45:00Z",
+          "commence_ct": "6:45 PM CT",
+          "sort_time": "2026-10-03T23:45:00+00:00",
+          "home_team": "LSU Tigers",
+          "away_team": "McNeese State Cowboys",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "LSU Tigers -54.5",
+            "outcomes": [
+              {
+                "name": "LSU Tigers",
+                "point": -54.5,
+                "point_label": "-54.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "McNeese State Cowboys",
+                "point": 54.5,
+                "point_label": "+54.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1d3756ab74c013c39510958b5a632b74",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
           "status_label": "7:00 PM CT",
-          "commence_time": "2026-10-03T00:00:00Z",
+          "commence_time": "2026-10-04T00:00:00Z",
           "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-10-03T00:00:00+00:00",
-          "home_team": "Northwestern Wildcats",
-          "away_team": "Penn State Nittany Lions",
+          "sort_time": "2026-10-04T00:00:00+00:00",
+          "home_team": "Louisiana Ragin Cajuns",
+          "away_team": "Arkansas State Red Wolves",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "11:18 AM CT",
-            "summary": "Penn State Nittany Lions -2.5",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Louisiana Ragin Cajuns -6.5",
             "outcomes": [
               {
-                "name": "Northwestern Wildcats",
-                "point": 2.5,
-                "point_label": "+2.5",
+                "name": "Arkansas State Red Wolves",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Louisiana Ragin Cajuns",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9dcccf34095cde7b0fe36250bb5be6f6",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-10-04T00:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-10-04T00:00:00+00:00",
+          "home_team": "Rutgers Scarlet Knights",
+          "away_team": "Indiana Hoosiers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Indiana Hoosiers -24.5",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "point": -24.5,
+                "point_label": "-24.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "point": 24.5,
+                "point_label": "+24.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "23025b717a93bdd8f30424e90a97d68f",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "8:30 PM CT",
+          "commence_time": "2026-10-04T01:30:00Z",
+          "commence_ct": "8:30 PM CT",
+          "sort_time": "2026-10-04T01:30:00+00:00",
+          "home_team": "Washington State Cougars",
+          "away_team": "Fresno State Bulldogs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Washington State Cougars -1.5",
+            "outcomes": [
+              {
+                "name": "Fresno State Bulldogs",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Washington State Cougars",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4ec93b02d04c2a019ebd6f4ccd9f7af5",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "9:30 PM CT",
+          "commence_time": "2026-10-04T02:30:00Z",
+          "commence_ct": "9:30 PM CT",
+          "sort_time": "2026-10-04T02:30:00+00:00",
+          "home_team": "Arizona State Sun Devils",
+          "away_team": "Baylor Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Arizona State Sun Devils -4",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "point": -4.0,
+                "point_label": "-4",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Baylor Bears",
+                "point": 4.0,
+                "point_label": "+4",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f73081099f845f23ea7f41ef09128cdd",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "9:30 PM CT",
+          "commence_time": "2026-10-04T02:30:00Z",
+          "commence_ct": "9:30 PM CT",
+          "sort_time": "2026-10-04T02:30:00+00:00",
+          "home_team": "San Diego State Aztecs",
+          "away_team": "Texas State Bobcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Texas State Bobcats -9.5",
+            "outcomes": [
+              {
+                "name": "San Diego State Aztecs",
+                "point": 9.5,
+                "point_label": "+9.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Texas State Bobcats",
+                "point": -9.5,
+                "point_label": "-9.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "63dded0ee467d6f6d03c41673569238d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "10:00 PM CT",
+          "commence_time": "2026-10-04T03:00:00Z",
+          "commence_ct": "10:00 PM CT",
+          "sort_time": "2026-10-04T03:00:00+00:00",
+          "home_team": "Arizona Wildcats",
+          "away_team": "Cincinnati Bearcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Arizona Wildcats -7",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "point": -7.0,
+                "point_label": "-7",
                 "price": -102,
                 "price_label": "-102"
               },
               {
-                "name": "Penn State Nittany Lions",
-                "point": -2.5,
-                "point_label": "-2.5",
+                "name": "Cincinnati Bearcats",
+                "point": 7.0,
+                "point_label": "+7",
                 "price": -118,
                 "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4d9e59b57798afb31927c84e1f6dc25e",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "10:59 PM CT",
+          "commence_time": "2026-10-04T03:59:00Z",
+          "commence_ct": "10:59 PM CT",
+          "sort_time": "2026-10-04T03:59:00+00:00",
+          "home_team": "Hawaii Rainbow Warriors",
+          "away_team": "San Jose State Spartans",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:46 AM CT",
+            "summary": "Hawaii Rainbow Warriors -2.5",
+            "outcomes": [
+              {
+                "name": "Hawaii Rainbow Warriors",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -120,
+                "price_label": "-120"
+              },
+              {
+                "name": "San Jose State Spartans",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": 100,
+                "price_label": "+100"
               }
             ]
           }
@@ -159,18 +1995,18 @@
     }
   ],
   "summary": {
-    "games": 3,
+    "games": 54,
     "live": 0,
     "final": 0,
-    "upcoming": 3,
-    "spreads": 3
+    "upcoming": 54,
+    "spreads": 54
   },
   "quota": {
-    "remaining": "491",
-    "used": "9",
+    "remaining": "487",
+    "used": "13",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-10-02T16:18:53+00:00"
+  "generated_at": "2026-10-03T14:46:36+00:00"
 }
