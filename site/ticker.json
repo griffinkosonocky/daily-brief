@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-03T14:46:37+00:00",
+  "updated_at": "2026-10-03T17:53:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "published_at": "2026-10-03T17:48:42+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump shares Republican senator's phone number in feud over time switch",
+      "published_at": "2026-10-03T17:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: ShinyHunters hacker in FBI data theft detained in Jordan, cooperating with bureau, sources say",
+      "published_at": "2026-10-03T16:48:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "published_at": "2026-10-03T16:16:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rybakina's first match as world number one ends in China Open defeat by Charaeva",
+      "published_at": "2026-10-03T16:14:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city",
+      "published_at": "2026-10-03T16:13:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Medical plane with 6 on board missing off Massachusetts coast",
+      "published_at": "2026-10-03T15:56:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netherlands coach Xavi joins critics of new-look international window",
+      "published_at": "2026-10-03T15:43:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian police detain several people in Gen Z-led protests against voter roll changes",
+      "published_at": "2026-10-03T14:58:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -13,18 +58,13 @@
     },
     {
       "source": "BBC",
-      "text": "Protesters across Spain demand action over housing crisis",
+      "text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "published_at": "2026-10-03T13:34:11+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "published_at": "2026-10-03T12:59:10+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Indian police detain several people in Gen Z-led protests against voter roll changes - reuters.com",
-      "published_at": "2026-10-03T12:19:44+00:00"
+      "text": "US Coast Guard searching for missing jet carrying 6 people bound for Boston",
+      "published_at": "2026-10-03T13:23:13+00:00"
     },
     {
       "source": "NPR",
@@ -33,48 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race - reuters.com",
+      "text": "Trump to speak at Ohio rally as Republicans defend Senate seat in close race",
       "published_at": "2026-10-03T11:51:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-      "published_at": "2026-10-03T11:47:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-      "published_at": "2026-10-03T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "published_at": "2026-10-03T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "published_at": "2026-10-03T10:58:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia hits Liberian-flagged ship in Ukraine's Odesa port, kills one - reuters.com",
-      "published_at": "2026-10-03T10:48:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Britain’s soccer sham - reuters.com",
-      "published_at": "2026-10-03T10:36:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports - reuters.com",
-      "published_at": "2026-10-03T10:30:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopia government forces retake airport in Tigray's capital, sources say - reuters.com",
-      "published_at": "2026-10-03T09:20:25+00:00"
     }
   ]
 }
