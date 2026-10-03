@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-10-03T01:52:47+00:00",
+  "updated_at": "2026-10-03T08:00:04+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "published_at": "2026-10-02T23:56:21+00:00"
+      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "published_at": "2026-10-03T07:49:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russia strikes second major bridge in Kyiv, mayor says",
+      "published_at": "2026-10-03T07:25:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI's race to transform the world before the money runs out - reuters.com",
+      "published_at": "2026-10-03T05:06:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare - reuters.com",
+      "published_at": "2026-10-03T04:51:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "published_at": "2026-10-03T04:38:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Tyler Adams selected captain of USMNT for new World Cup cycle - reuters.com",
+      "published_at": "2026-10-03T02:59:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Brazil's big political rematch: What to know",
+      "published_at": "2026-10-03T02:57:07+00:00"
     },
     {
       "source": "BBC",
       "text": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "published_at": "2026-10-02T23:53:35+00:00"
+      "published_at": "2026-10-03T02:23:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "published_at": "2026-10-02T23:56:21+00:00"
     },
     {
       "source": "BBC",
@@ -33,48 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
+      "text": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - reuters.com",
       "published_at": "2026-10-02T22:30:57+00:00"
     },
     {
       "source": "Reuters",
-      "text": "G7 countries agree on release of diesel and oil stocks after US pressure",
+      "text": "G7 countries agree on release of diesel and oil stocks after US pressure - reuters.com",
       "published_at": "2026-10-02T22:20:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
-      "published_at": "2026-10-02T21:44:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US FAA says Boeing 737 MAX software glitch poses no safety issue",
-      "published_at": "2026-10-02T21:42:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Riot police clash with students as education protests rage in France",
-      "published_at": "2026-10-02T21:13:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "published_at": "2026-10-02T21:00:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "published_at": "2026-10-02T20:32:07+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "published_at": "2026-10-02T20:25:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack",
-      "published_at": "2026-10-02T20:22:53+00:00"
     }
   ]
 }
