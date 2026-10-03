@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-02T22:56:09+00:00",
+  "updated_at": "2026-10-03T01:52:47+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "published_at": "2026-10-02T23:56:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "published_at": "2026-10-02T23:53:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "published_at": "2026-10-02T23:37:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Women given shorts at Oktoberfest to prevent upskirting",
+      "published_at": "2026-10-02T23:16:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "published_at": "2026-10-02T23:06:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The vanishing world of India's street magicians",
+      "published_at": "2026-10-02T22:59:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
+      "published_at": "2026-10-02T22:30:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "G7 countries agree on release of diesel and oil stocks after US pressure",
+      "published_at": "2026-10-02T22:20:30+00:00"
+    },
     {
       "source": "NPR",
       "text": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
@@ -22,11 +62,6 @@
       "published_at": "2026-10-02T21:00:41+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure",
-      "published_at": "2026-10-02T20:42:24+00:00"
-    },
-    {
       "source": "BBC",
       "text": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
       "published_at": "2026-10-02T20:32:07+00:00"
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack",
       "published_at": "2026-10-02T20:22:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy hikes growth outlook but budget deficit to rise from next year",
-      "published_at": "2026-10-02T20:13:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil police serve warrants over alleged threat to US diplomatic sites",
-      "published_at": "2026-10-02T20:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia",
-      "published_at": "2026-10-02T20:11:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump expected to name Jay Clayton as AI czar",
-      "published_at": "2026-10-02T20:10:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cameroon authorises $391 million World Bank loan",
-      "published_at": "2026-10-02T19:59:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Could the UK reverse Brexit?",
-      "published_at": "2026-10-02T19:51:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany may grow twice as fast this year as earlier thought, Bundesbank says",
-      "published_at": "2026-10-02T19:45:44+00:00"
     }
   ]
 }
