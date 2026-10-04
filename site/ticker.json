@@ -1,15 +1,50 @@
 {
-  "updated_at": "2026-10-03T21:09:00+00:00",
+  "updated_at": "2026-10-04T00:32:19+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says",
-      "published_at": "2026-10-03T20:25:53+00:00"
+      "source": "BBC",
+      "text": "Cornell president says university 'must do better' after frat house rape allegations",
+      "published_at": "2026-10-04T00:11:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "published_at": "2026-10-03T23:37:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Canada is preparing for a (long shot) US invasion",
+      "published_at": "2026-10-03T23:30:06+00:00"
     },
     {
       "source": "Reuters",
       "text": "Trump shares Republican senator's phone number in feud over time switch",
-      "published_at": "2026-10-03T18:46:04+00:00"
+      "published_at": "2026-10-03T23:05:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Coast Guard searching for missing medical plane carrying 6 people",
+      "published_at": "2026-10-03T22:31:04+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Can the Cornell lawsuit force changes that make students safer?",
+      "published_at": "2026-10-03T21:57:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ethiopia government forces retake airport in Tigray's capital, sources say",
+      "published_at": "2026-10-03T21:55:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Medical plane with 6 on board missing off Massachusetts coast",
+      "published_at": "2026-10-03T21:16:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says",
+      "published_at": "2026-10-03T20:25:53+00:00"
     },
     {
       "source": "Reuters",
@@ -20,11 +55,6 @@
       "source": "Reuters",
       "text": "Ancelotti happy as friendly tour provides first building blocks of a new Brazil",
       "published_at": "2026-10-03T18:30:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Medical plane with 6 on board missing off Massachusetts coast",
-      "published_at": "2026-10-03T18:06:47+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "published_at": "2026-10-03T16:16:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rybakina's first match as world number one ends in China Open defeat by Charaeva",
-      "published_at": "2026-10-03T16:14:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city",
-      "published_at": "2026-10-03T16:13:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Netherlands coach Xavi joins critics of new-look international window",
-      "published_at": "2026-10-03T15:43:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian police detain several people in Gen Z-led protests against voter roll changes",
-      "published_at": "2026-10-03T14:58:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "published_at": "2026-10-03T14:27:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why has Brazil accused the US of election interference?",
-      "published_at": "2026-10-03T13:52:13+00:00"
     }
   ]
 }
