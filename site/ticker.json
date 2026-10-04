@@ -1,24 +1,54 @@
 {
-  "updated_at": "2026-10-04T18:06:18+00:00",
+  "updated_at": "2026-10-04T21:19:58+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Yemen leader announces new military operations against Iran-backed Houthis - reuters.com",
-      "published_at": "2026-10-04T18:05:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazilians head to polls in high-stakes, polarized election - reuters.com",
-      "published_at": "2026-10-04T17:11:02+00:00"
+      "text": "Polls close in Brazil as country awaits results of high-stakes election",
+      "published_at": "2026-10-04T20:23:05+00:00"
     },
     {
       "source": "BBC",
-      "text": "Indian police accused of sexual harassment against journalists at protest",
+      "text": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "published_at": "2026-10-04T20:14:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
+      "published_at": "2026-10-04T19:55:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+      "published_at": "2026-10-04T19:46:37+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "published_at": "2026-10-04T18:36:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says",
+      "published_at": "2026-10-04T18:33:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen leader announces new military operations against Iran-backed Houthis",
+      "published_at": "2026-10-04T18:05:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian police accused of sexually harassing journalists at protest",
       "published_at": "2026-10-04T17:01:19+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Australia probes flydubai co-pilot's links to the country, police say - reuters.com",
+      "text": "Musk says he will rename SpaceXAI to SpaceXSI",
+      "published_at": "2026-10-04T16:56:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia probes flydubai co-pilot's links to the country, police say",
       "published_at": "2026-10-04T16:54:13+00:00"
     },
     {
@@ -28,17 +58,7 @@
     },
     {
       "source": "Reuters",
-      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - reuters.com",
-      "published_at": "2026-10-04T16:36:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - reuters.com",
-      "published_at": "2026-10-04T16:32:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Government forces seize capital of Ethiopia's Tigray region from rebels - reuters.com",
+      "text": "Government forces seize capital of Ethiopia's Tigray region from rebels",
       "published_at": "2026-10-04T16:30:34+00:00"
     },
     {
@@ -48,33 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues - reuters.com",
+      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
       "published_at": "2026-10-04T16:21:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - reuters.com",
-      "published_at": "2026-10-04T16:07:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cornell president calls gang rape allegations 'deeply disturbing'",
-      "published_at": "2026-10-04T15:41:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rybakina withdraws from Wuhan with injury after China Open exit - reuters.com",
-      "published_at": "2026-10-04T15:39:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-      "published_at": "2026-10-04T15:15:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two dead in flooding in Spain's Catalonia region - reuters.com",
-      "published_at": "2026-10-04T14:59:25+00:00"
+      "text": "Messi farewell closes a long, hard-won love story with Argentina",
+      "published_at": "2026-10-04T16:18:29+00:00"
     }
   ]
 }
