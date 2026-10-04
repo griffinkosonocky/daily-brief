@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-04T06:47:13+00:00",
+  "updated_at": "2026-10-04T13:09:05+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "published_at": "2026-10-04T12:09:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Strait of Hormuz will not reopen until conditions are met",
+      "published_at": "2026-10-04T11:55:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "published_at": "2026-10-04T11:03:20+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "published_at": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "published_at": "2026-10-04T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
+      "published_at": "2026-10-04T08:03:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sabalenka bundled out of China Open by Czech Bartunkova",
+      "published_at": "2026-10-04T07:49:43+00:00"
+    },
     {
       "source": "BBC",
       "text": "Australia investigating Flydubai co-pilot's links to country",
@@ -12,9 +47,24 @@
       "published_at": "2026-10-04T06:00:00+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Germany's Merz arrives in Kyiv to the sound of sirens and explosions",
+      "published_at": "2026-10-04T04:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rare tornado whips through small Australian town",
+      "published_at": "2026-10-04T04:15:36+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Debris found from plane that went missing off US coast",
       "published_at": "2026-10-04T03:49:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa",
+      "published_at": "2026-10-04T03:43:00+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "Cornell president says university 'must do better' after frat house rape allegations",
       "published_at": "2026-10-04T00:11:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "published_at": "2026-10-03T23:37:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why Canada is preparing for a (long shot) US invasion",
-      "published_at": "2026-10-03T23:30:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump shares Republican senator's phone number in feud over time switch",
-      "published_at": "2026-10-03T23:05:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Coast Guard finds debris from medical plane carrying 6 people",
-      "published_at": "2026-10-03T22:31:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can the Cornell lawsuit force changes that make students safer?",
-      "published_at": "2026-10-03T21:57:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopia government forces retake airport in Tigray's capital, sources say",
-      "published_at": "2026-10-03T21:55:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says",
-      "published_at": "2026-10-03T20:25:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil tame India in 4-0 friendly win",
-      "published_at": "2026-10-03T18:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ancelotti happy as friendly tour provides first building blocks of a new Brazil",
-      "published_at": "2026-10-03T18:30:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "published_at": "2026-10-03T17:48:42+00:00"
     }
   ]
 }
