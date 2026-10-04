@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-04T15:26:49+00:00",
+  "updated_at": "2026-10-04T18:06:18+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Yemen leader announces new military operations against Iran-backed Houthis - reuters.com",
+      "published_at": "2026-10-04T18:05:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazilians head to polls in high-stakes, polarized election - reuters.com",
+      "published_at": "2026-10-04T17:11:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Indian police accused of sexual harassment against journalists at protest",
+      "published_at": "2026-10-04T17:01:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia probes flydubai co-pilot's links to the country, police say - reuters.com",
+      "published_at": "2026-10-04T16:54:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "published_at": "2026-10-04T16:51:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - reuters.com",
+      "published_at": "2026-10-04T16:36:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - reuters.com",
+      "published_at": "2026-10-04T16:32:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Government forces seize capital of Ethiopia's Tigray region from rebels - reuters.com",
+      "published_at": "2026-10-04T16:30:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "published_at": "2026-10-04T16:24:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues - reuters.com",
+      "published_at": "2026-10-04T16:21:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - reuters.com",
+      "published_at": "2026-10-04T16:07:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Cornell president calls gang rape allegations 'deeply disturbing'",
+      "published_at": "2026-10-04T15:41:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rybakina withdraws from Wuhan with injury after China Open exit - reuters.com",
+      "published_at": "2026-10-04T15:39:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
@@ -8,73 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - reuters.com",
-      "published_at": "2026-10-04T15:00:57+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Two dead in flooding in Spain's Catalonia region - reuters.com",
       "published_at": "2026-10-04T14:59:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia probes flydubai co-pilot's links to the country, police say - reuters.com",
-      "published_at": "2026-10-04T14:51:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How the Cornell case is affecting women who have experienced sexual assault",
-      "published_at": "2026-10-04T14:51:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Horse racing-Dazling Daryz thrills to win back to back Arc de Triomphes - reuters.com",
-      "published_at": "2026-10-04T14:26:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen leader announces major military operations against Iran-backed Houthis - reuters.com",
-      "published_at": "2026-10-04T14:25:59+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "published_at": "2026-10-04T14:25:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-      "published_at": "2026-10-04T14:24:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Revolut's rise to become Europe's $115 billion big bank rival - reuters.com",
-      "published_at": "2026-10-04T13:56:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "published_at": "2026-10-04T13:33:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - reuters.com",
-      "published_at": "2026-10-04T13:12:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran says Strait of Hormuz will not reopen until conditions are met - reuters.com",
-      "published_at": "2026-10-04T12:59:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "published_at": "2026-10-04T12:09:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazilians head to polls in high-stakes, polarized election - reuters.com",
-      "published_at": "2026-10-04T11:37:54+00:00"
     }
   ]
 }
