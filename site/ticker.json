@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-04T00:32:19+00:00",
+  "updated_at": "2026-10-04T06:47:13+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Australia investigating Flydubai co-pilot's links to country",
+      "published_at": "2026-10-04T06:19:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Despite logistical problems, OCA says Aichi-Nagoya Asian Games are a success",
+      "published_at": "2026-10-04T06:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Debris found from plane that went missing off US coast",
+      "published_at": "2026-10-04T03:49:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "published_at": "2026-10-04T03:42:15+00:00"
+    },
     {
       "source": "BBC",
       "text": "Cornell president says university 'must do better' after frat house rape allegations",
@@ -23,7 +43,7 @@
     },
     {
       "source": "NPR",
-      "text": "Coast Guard searching for missing medical plane carrying 6 people",
+      "text": "Coast Guard finds debris from medical plane carrying 6 people",
       "published_at": "2026-10-03T22:31:04+00:00"
     },
     {
@@ -35,11 +55,6 @@
       "source": "Reuters",
       "text": "Ethiopia government forces retake airport in Tigray's capital, sources say",
       "published_at": "2026-10-03T21:55:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Medical plane with 6 on board missing off Massachusetts coast",
-      "published_at": "2026-10-03T21:16:21+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "BBC",
       "text": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "published_at": "2026-10-03T17:48:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Latvia PM's United List ahead in election, exit poll shows",
-      "published_at": "2026-10-03T17:05:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: ShinyHunters hacker in FBI data theft detained in Jordan, cooperating with bureau, sources say",
-      "published_at": "2026-10-03T16:48:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "published_at": "2026-10-03T16:16:49+00:00"
     }
   ]
 }
