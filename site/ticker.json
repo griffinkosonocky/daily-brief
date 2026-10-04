@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-04T13:09:05+00:00",
+  "updated_at": "2026-10-04T15:26:49+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+      "published_at": "2026-10-04T15:15:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - reuters.com",
+      "published_at": "2026-10-04T15:00:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two dead in flooding in Spain's Catalonia region - reuters.com",
+      "published_at": "2026-10-04T14:59:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia probes flydubai co-pilot's links to the country, police say - reuters.com",
+      "published_at": "2026-10-04T14:51:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How the Cornell case is affecting women who have experienced sexual assault",
+      "published_at": "2026-10-04T14:51:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Horse racing-Dazling Daryz thrills to win back to back Arc de Triomphes - reuters.com",
+      "published_at": "2026-10-04T14:26:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen leader announces major military operations against Iran-backed Houthis - reuters.com",
+      "published_at": "2026-10-04T14:25:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "published_at": "2026-10-04T14:25:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "published_at": "2026-10-04T14:24:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Revolut's rise to become Europe's $115 billion big bank rival - reuters.com",
+      "published_at": "2026-10-04T13:56:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "published_at": "2026-10-04T13:33:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - reuters.com",
+      "published_at": "2026-10-04T13:12:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says Strait of Hormuz will not reopen until conditions are met - reuters.com",
+      "published_at": "2026-10-04T12:59:41+00:00"
+    },
     {
       "source": "BBC",
       "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -8,73 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran says Strait of Hormuz will not reopen until conditions are met",
-      "published_at": "2026-10-04T11:55:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "published_at": "2026-10-04T11:03:20+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "published_at": "2026-10-04T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-      "published_at": "2026-10-04T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
-      "published_at": "2026-10-04T08:03:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sabalenka bundled out of China Open by Czech Bartunkova",
-      "published_at": "2026-10-04T07:49:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australia investigating Flydubai co-pilot's links to country",
-      "published_at": "2026-10-04T06:19:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Despite logistical problems, OCA says Aichi-Nagoya Asian Games are a success",
-      "published_at": "2026-10-04T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's Merz arrives in Kyiv to the sound of sirens and explosions",
-      "published_at": "2026-10-04T04:53:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rare tornado whips through small Australian town",
-      "published_at": "2026-10-04T04:15:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Debris found from plane that went missing off US coast",
-      "published_at": "2026-10-04T03:49:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa",
-      "published_at": "2026-10-04T03:43:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "published_at": "2026-10-04T03:42:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Cornell president says university 'must do better' after frat house rape allegations",
-      "published_at": "2026-10-04T00:11:25+00:00"
+      "text": "Brazilians head to polls in high-stakes, polarized election - reuters.com",
+      "published_at": "2026-10-04T11:37:54+00:00"
     }
   ]
 }
