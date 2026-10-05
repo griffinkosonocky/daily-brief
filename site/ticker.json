@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-10-04T21:19:58+00:00",
+  "updated_at": "2026-10-05T00:49:48+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Polls close in Brazil as country awaits results of high-stakes election",
-      "published_at": "2026-10-04T20:23:05+00:00"
+      "text": "Markets bet on RBI rate hike as inflation pressure builds",
+      "published_at": "2026-10-05T00:35:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "published_at": "2026-10-05T00:27:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "published_at": "2026-10-05T00:17:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rescuers suspend search for survivors after plane went missing off US coast",
+      "published_at": "2026-10-04T23:29:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
+      "published_at": "2026-10-04T23:07:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: India-China thaw faces major economic tests",
+      "published_at": "2026-10-04T23:04:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "published_at": "2026-10-04T22:42:48+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Brazil votes, with Lula facing Bolsonaro's son",
+      "published_at": "2026-10-04T21:52:09+00:00"
     },
     {
       "source": "BBC",
@@ -13,23 +48,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
-      "published_at": "2026-10-04T19:55:29+00:00"
+      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+      "published_at": "2026-10-04T19:46:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-      "published_at": "2026-10-04T19:46:37+00:00"
+      "text": "Iran's oil minister resigns for personal reasons, state media reports",
+      "published_at": "2026-10-04T18:53:27+00:00"
     },
     {
       "source": "NPR",
       "text": "Trump names national intelligence chief Jay Clayton as new AI czar",
       "published_at": "2026-10-04T18:36:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Woman at center of Cornell rape allegations targeted with threats, lawyer says",
-      "published_at": "2026-10-04T18:33:06+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "Reuters",
       "text": "Musk says he will rename SpaceXAI to SpaceXSI",
       "published_at": "2026-10-04T16:56:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Australia probes flydubai co-pilot's links to the country, police say",
-      "published_at": "2026-10-04T16:54:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "published_at": "2026-10-04T16:51:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Government forces seize capital of Ethiopia's Tigray region from rebels",
-      "published_at": "2026-10-04T16:30:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "published_at": "2026-10-04T16:24:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues",
-      "published_at": "2026-10-04T16:21:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Messi farewell closes a long, hard-won love story with Argentina",
-      "published_at": "2026-10-04T16:18:29+00:00"
     }
   ]
 }
