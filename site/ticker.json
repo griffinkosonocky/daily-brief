@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-10-05T00:49:48+00:00",
+  "updated_at": "2026-10-05T06:56:02+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Markets bet on RBI rate hike as inflation pressure builds",
-      "published_at": "2026-10-05T00:35:00+00:00"
+      "source": "BBC",
+      "text": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "published_at": "2026-10-05T06:17:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "published_at": "2026-10-05T06:15:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "published_at": "2026-10-05T05:28:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US air force removes all bombers from British military base RAF Fairford",
+      "published_at": "2026-10-05T04:58:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: How Brazil's dramatic election unfolded",
+      "published_at": "2026-10-05T04:51:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France closes up to 500 schools Monday over student protests",
+      "published_at": "2026-10-05T04:49:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "All six passengers presumed dead after plane went missing off US coast",
+      "published_at": "2026-10-05T04:00:35+00:00"
     },
     {
       "source": "BBC",
       "text": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "published_at": "2026-10-05T00:27:06+00:00"
+      "published_at": "2026-10-05T03:16:16+00:00"
     },
     {
       "source": "NPR",
@@ -18,23 +48,8 @@
     },
     {
       "source": "BBC",
-      "text": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "published_at": "2026-10-04T23:29:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
-      "published_at": "2026-10-04T23:07:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: India-China thaw faces major economic tests",
-      "published_at": "2026-10-04T23:04:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
-      "published_at": "2026-10-04T22:42:48+00:00"
+      "text": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+      "published_at": "2026-10-04T22:11:33+00:00"
     },
     {
       "source": "NPR",
@@ -42,29 +57,9 @@
       "published_at": "2026-10-04T21:52:09+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "published_at": "2026-10-04T20:14:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-      "published_at": "2026-10-04T19:46:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran's oil minister resigns for personal reasons, state media reports",
-      "published_at": "2026-10-04T18:53:27+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Trump names national intelligence chief Jay Clayton as new AI czar",
       "published_at": "2026-10-04T18:36:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen leader announces new military operations against Iran-backed Houthis",
-      "published_at": "2026-10-04T18:05:33+00:00"
     },
     {
       "source": "BBC",
@@ -72,9 +67,14 @@
       "published_at": "2026-10-04T17:01:19+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Musk says he will rename SpaceXAI to SpaceXSI",
-      "published_at": "2026-10-04T16:56:09+00:00"
+      "source": "BBC",
+      "text": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "published_at": "2026-10-04T16:51:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "published_at": "2026-10-04T16:24:48+00:00"
     }
   ]
 }
