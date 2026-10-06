@@ -1,5 +1,5 @@
 {
-  "edition": 118,
+  "edition": 119,
   "last_successful": {
     "article": {
       "title": "The Shang Dynasty and the Origins of Chinese Writing",
@@ -107,24 +107,24 @@
     },
     "trivia": {
       "sport": "Sports",
-      "difficulty": "easy",
-      "question": "Which team won 2014 FIFA World Cup in Brazil?",
-      "answer": "Germany",
+      "difficulty": "medium",
+      "question": "Who was the topscorer for England national football team?",
+      "answer": "Wayne Rooney",
       "story": "Pulled from Open Trivia DB's Sports category, with no model-written facts.",
       "options": [
-        "Argentina",
-        "Germany",
-        "Netherlands",
-        "Brazil"
+        "David Beckham",
+        "Steven Gerrard",
+        "Wayne Rooney",
+        "Michael Owen"
       ],
       "badge": null,
       "source": "opentdb",
-      "generated_at": "2026-10-05T19:20:36+00:00"
+      "generated_at": "2026-10-06T16:52:36+00:00"
     },
     "sports": {
       "title": "Today's Sports Slate",
-      "date_key": "2026-10-05",
-      "generated_at_ct": "Oct 5, 2026 at 2:20 PM CT",
+      "date_key": "2026-10-06",
+      "generated_at_ct": "Oct 6, 2026 at 11:52 AM CT",
       "sports": [
         {
           "key": "soccer_fifa_world_cup",
@@ -139,37 +139,46 @@
           "key": "americanfootball_nfl",
           "label": "NFL",
           "full_name": "NFL",
+          "games": [],
+          "note": "No games today.",
+          "errors": [],
+          "active": true
+        },
+        {
+          "key": "americanfootball_ncaaf",
+          "label": "CFB",
+          "full_name": "College Football",
           "games": [
             {
-              "id": "8bd90781e17e6d97df3941063cedae1e",
-              "sport_key": "americanfootball_nfl",
-              "league": "NFL",
-              "league_name": "NFL",
+              "id": "57ad14afc7db1843fd56f5971dadb058",
+              "sport_key": "americanfootball_ncaaf",
+              "league": "CFB",
+              "league_name": "College Football",
               "status_key": "upcoming",
-              "status_label": "7:15 PM CT",
-              "commence_time": "2026-10-06T00:15:00Z",
-              "commence_ct": "7:15 PM CT",
-              "sort_time": "2026-10-06T00:15:00+00:00",
-              "home_team": "New Orleans Saints",
-              "away_team": "Atlanta Falcons",
+              "status_label": "7:00 PM CT",
+              "commence_time": "2026-10-07T00:00:00Z",
+              "commence_ct": "7:00 PM CT",
+              "sort_time": "2026-10-07T00:00:00+00:00",
+              "home_team": "Troy Trojans",
+              "away_team": "Southern Mississippi Golden Eagles",
               "home_score": "",
               "away_score": "",
               "spread": {
                 "book": "DraftKings",
-                "last_update_ct": "2:18 PM CT",
-                "summary": "New Orleans Saints -1.5",
+                "last_update_ct": "11:52 AM CT",
+                "summary": "Troy Trojans -10.5",
                 "outcomes": [
                   {
-                    "name": "Atlanta Falcons",
-                    "point": 1.5,
-                    "point_label": "+1.5",
+                    "name": "Southern Mississippi Golden Eagles",
+                    "point": 10.5,
+                    "point_label": "+10.5",
                     "price": -112,
                     "price_label": "-112"
                   },
                   {
-                    "name": "New Orleans Saints",
-                    "point": -1.5,
-                    "point_label": "-1.5",
+                    "name": "Troy Trojans",
+                    "point": -10.5,
+                    "point_label": "-10.5",
                     "price": -108,
                     "price_label": "-108"
                   }
@@ -178,15 +187,6 @@
             }
           ],
           "note": "",
-          "errors": [],
-          "active": true
-        },
-        {
-          "key": "americanfootball_ncaaf",
-          "label": "CFB",
-          "full_name": "College Football",
-          "games": [],
-          "note": "No games today.",
           "errors": [],
           "active": true
         },
@@ -217,14 +217,14 @@
         "spreads": 1
       },
       "quota": {
-        "remaining": "479",
-        "used": "21",
+        "remaining": "475",
+        "used": "25",
         "last_request": "0"
       },
       "badge": null,
       "source": "odds-api",
-      "generated_at": "2026-10-05T19:20:37+00:00"
+      "generated_at": "2026-10-06T16:52:37+00:00"
     }
   },
-  "updated_at": "2026-10-05T19:20:39+00:00"
+  "updated_at": "2026-10-06T16:52:38+00:00"
 }
