@@ -1,15 +1,60 @@
 {
-  "updated_at": "2026-10-05T22:34:13+00:00",
+  "updated_at": "2026-10-06T02:54:45+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Yemeni military says it has 'secured' Red Sea waterway",
+      "published_at": "2026-10-06T01:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "published_at": "2026-10-05T23:19:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dozens quarantined in Siberia after plague institute lab worker dies",
+      "published_at": "2026-10-05T23:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US will help Russia after Siberia plague institute death",
+      "published_at": "2026-10-05T23:17:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says taxpayers will no longer pay for TV ads that praised him",
+      "published_at": "2026-10-05T22:47:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nasdaq notches record high close as investors focus on earnings",
+      "published_at": "2026-10-05T22:38:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
+      "published_at": "2026-10-05T22:23:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump says threat prompted US to pull bombers from UK base",
       "published_at": "2026-10-05T22:10:19+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Trading Day: Nasdaq highs, Brazil surprise",
+      "published_at": "2026-10-05T22:05:18+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "published_at": "2026-10-05T21:46:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Brazil markets' Bolsonaro rally sends stock exchange to record high",
+      "published_at": "2026-10-05T21:34:19+00:00"
     },
     {
       "source": "BBC",
@@ -18,8 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Dozens quarantined in Siberia after plague institute lab worker dies",
-      "published_at": "2026-10-05T21:23:45+00:00"
+      "text": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says",
+      "published_at": "2026-10-05T21:33:49+00:00"
     },
     {
       "source": "BBC",
@@ -28,53 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: TRADING DAY Nasdaq highs, Brazil surprise",
-      "published_at": "2026-10-05T21:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US commodities regulator proposes new federal crypto oversight rules",
       "published_at": "2026-10-05T20:30:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds",
-      "published_at": "2026-10-05T20:14:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's deportation push forces LGBT migrants onto hostile terrain",
-      "published_at": "2026-10-05T20:12:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US will help Russia after Siberia plague institute death",
-      "published_at": "2026-10-05T20:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
-      "published_at": "2026-10-05T19:48:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain PM pins hopes on housing crisis to help win snap election",
-      "published_at": "2026-10-05T19:30:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF research shows better tax system design can raise revenue, growth without higher rates",
-      "published_at": "2026-10-05T19:12:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's currency, stocks soar after Bolsonaro scores first-round election upset",
-      "published_at": "2026-10-05T19:02:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The iconic Arthur Read made his TV debut 30 years ago",
-      "published_at": "2026-10-05T18:26:01+00:00"
     }
   ]
 }
