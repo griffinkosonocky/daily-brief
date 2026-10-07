@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-07T17:29:05+00:00",
+  "updated_at": "2026-10-07T17:46:26+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Eritrean troops drive through northern Ethiopian town, witnesses say",
-      "published_at": "2026-10-07T17:21:58+00:00"
+      "text": "Taiwan's US envoy says ties robust after Trump-Xi summit",
+      "published_at": "2026-10-07T17:36:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "published_at": "2026-10-07T17:29:46+00:00"
     },
     {
       "source": "NPR",
       "text": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
       "published_at": "2026-10-07T16:55:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "published_at": "2026-10-07T16:54:17+00:00"
     },
     {
       "source": "BBC",
@@ -40,6 +40,11 @@
       "source": "NPR",
       "text": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
       "published_at": "2026-10-07T16:15:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany's AfD calls for end to support for Ukraine",
+      "published_at": "2026-10-07T16:08:32+00:00"
     },
     {
       "source": "BBC",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "EXCLUSIVE: Saudi Arabia launches air safety probe into flydubai incident, sources say",
       "published_at": "2026-10-07T15:42:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Costa Rica's Grynspan ahead in race to be next UN chief, sources say",
-      "published_at": "2026-10-07T15:39:56+00:00"
     }
   ]
 }
