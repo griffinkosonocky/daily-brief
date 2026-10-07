@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-10-06",
-  "generated_at_ct": "Oct 6, 2026 at 11:52 AM CT",
+  "date_key": "2026-10-07",
+  "generated_at_ct": "Oct 7, 2026 at 12:29 PM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -27,37 +27,73 @@
       "full_name": "College Football",
       "games": [
         {
-          "id": "57ad14afc7db1843fd56f5971dadb058",
+          "id": "c89488b9c83038e85e02e92481d093fe",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-10-07T00:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-10-07T00:00:00+00:00",
-          "home_team": "Troy Trojans",
-          "away_team": "Southern Mississippi Golden Eagles",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-07T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-07T23:00:00+00:00",
+          "home_team": "Kennesaw State Owls",
+          "away_team": "Jacksonville State Gamecocks",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "11:52 AM CT",
-            "summary": "Troy Trojans -10.5",
+            "last_update_ct": "12:27 PM CT",
+            "summary": "Jacksonville State Gamecocks -3",
             "outcomes": [
               {
-                "name": "Southern Mississippi Golden Eagles",
-                "point": 10.5,
-                "point_label": "+10.5",
-                "price": -112,
-                "price_label": "-112"
+                "name": "Jacksonville State Gamecocks",
+                "point": -3.0,
+                "point_label": "-3",
+                "price": -110,
+                "price_label": "-110"
               },
               {
-                "name": "Troy Trojans",
-                "point": -10.5,
-                "point_label": "-10.5",
-                "price": -108,
-                "price_label": "-108"
+                "name": "Kennesaw State Owls",
+                "point": 3.0,
+                "point_label": "+3",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9aa0a267b153a6cc0d6c3e5746e78213",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-07T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-07T23:30:00+00:00",
+          "home_team": "Florida International Panthers",
+          "away_team": "New Mexico State Aggies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:27 PM CT",
+            "summary": "Florida International Panthers -6.5",
+            "outcomes": [
+              {
+                "name": "Florida International Panthers",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "New Mexico State Aggies",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -105,
+                "price_label": "-105"
               }
             ]
           }
@@ -87,18 +123,18 @@
     }
   ],
   "summary": {
-    "games": 1,
+    "games": 2,
     "live": 0,
     "final": 0,
-    "upcoming": 1,
-    "spreads": 1
+    "upcoming": 2,
+    "spreads": 2
   },
   "quota": {
-    "remaining": "475",
-    "used": "25",
+    "remaining": "471",
+    "used": "29",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-10-06T16:52:37+00:00"
+  "generated_at": "2026-10-07T17:29:03+00:00"
 }

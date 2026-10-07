@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "sport": "Sports",
-    "question": "Who is Manchester United's top premier league goal scorer?",
-    "answer": "Wayne Rooney"
-  },
-  {
     "date": "2026-08-02",
     "sport": "Sports",
     "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Which NBA player has the most games played over the course of their career?",
     "answer": "Robert Parish"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "Sports",
+    "question": "Hockey player Wayne Gretzky was born in what Canadian province?",
+    "answer": "Ontario"
   }
 ]
