@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-06T22:36:37+00:00",
+  "updated_at": "2026-10-07T02:17:31+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "published_at": "2026-10-07T02:06:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar holds losses as markets await Fed minutes, speakers",
+      "published_at": "2026-10-07T01:14:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "published_at": "2026-10-07T00:56:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Climate summit warns stronger action needed to curb global warming",
+      "published_at": "2026-10-07T00:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Judge lets US fund seek New York Fed documents tied to Radiant World",
+      "published_at": "2026-10-06T23:27:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FICO cuts workforce by 15% as part of AI-driven restructuring",
+      "published_at": "2026-10-06T23:22:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'I'm getting fed up': early US midterm voters line up before dawn in Ohio",
+      "published_at": "2026-10-06T23:13:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "published_at": "2026-10-06T23:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Transcript of US Vice President Vance interview in Alaska",
+      "published_at": "2026-10-06T22:59:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego",
+      "published_at": "2026-10-06T22:48:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
+      "published_at": "2026-10-06T22:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
+      "published_at": "2026-10-06T22:40:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "School protests sweeping France cause 'heaviest toll in decades'",
+      "published_at": "2026-10-06T22:18:03+00:00"
+    },
     {
       "source": "BBC",
       "text": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
       "published_at": "2026-10-06T22:17:56+00:00"
     },
     {
-      "source": "BBC",
-      "text": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "published_at": "2026-10-06T22:00:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-      "published_at": "2026-10-06T21:42:37+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Spain rally to beat Croatia, Kane shines for England in Nations League",
-      "published_at": "2026-10-06T21:28:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "published_at": "2026-10-06T21:22:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemeni government fighters shown driving vehicles over Houthi opponents",
-      "published_at": "2026-10-06T20:43:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street shares notch records as oil prices stabilize, bond yields retreat",
-      "published_at": "2026-10-06T20:42:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF says hedge funds' market footprint growing, merits closer scrutiny",
-      "published_at": "2026-10-06T20:40:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "published_at": "2026-10-06T20:15:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "School protests sweeping France cause 'heaviest toll in decades'",
-      "published_at": "2026-10-06T18:51:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cornell names former acting U.S. attorney general to review rape case",
-      "published_at": "2026-10-06T18:31:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "published_at": "2026-10-06T18:05:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "France's police fire tear gas and water cannons as school protests sweep the country",
-      "published_at": "2026-10-06T18:05:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tear gas in Paris and Marseille as school protests grow across France",
-      "published_at": "2026-10-06T18:03:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
-      "published_at": "2026-10-06T17:39:05+00:00"
+      "published_at": "2026-10-06T21:37:46+00:00"
     }
   ]
 }
