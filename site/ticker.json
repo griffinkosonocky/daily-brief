@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-07T23:01:12+00:00",
+  "updated_at": "2026-10-08T02:39:47+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Oil rises as Middle East supply concerns persist amid shipping attacks",
+      "published_at": "2026-10-08T01:25:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold edges higher after hitting a two-month low",
+      "published_at": "2026-10-08T01:21:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Japan beer giants raided over alleged price-fixing cartel",
+      "published_at": "2026-10-08T00:53:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "published_at": "2026-10-08T00:09:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wall Street ends lower, off record highs, as Treasury yields climb",
+      "published_at": "2026-10-07T23:14:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Barn owls, bees, puffins and hedgehogs to feature on UK banknotes",
+      "published_at": "2026-10-07T23:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
+      "published_at": "2026-10-07T22:48:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
@@ -8,8 +43,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Hegseth praises sailors' resilience after record-breaking carrier deployment",
+      "published_at": "2026-10-07T22:30:45+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trump floats turning his Florida golf course into presidential retreat",
-      "published_at": "2026-10-07T22:02:09+00:00"
+      "published_at": "2026-10-07T22:16:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia says plague institute worker's death does not risk an epidemic",
+      "published_at": "2026-10-07T21:59:08+00:00"
     },
     {
       "source": "NPR",
@@ -18,23 +63,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Venezuela's Maduro to face new US charges over alleged torture of Americans, official says",
-      "published_at": "2026-10-07T21:52:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spanish woman whose eviction ignited housing protests dies at 87",
-      "published_at": "2026-10-07T21:43:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "published_at": "2026-10-07T21:40:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street ends lower, off record highs, as Treasury yields climb",
-      "published_at": "2026-10-07T21:38:52+00:00"
+      "text": "Fed policymakers divided over rate-hike logic in September, minutes show",
+      "published_at": "2026-10-07T21:33:30+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "NPR",
       "text": "What is the pneumonic plague?",
       "published_at": "2026-10-07T21:06:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spanish unions call general strike for November 11, weeks before snap election",
-      "published_at": "2026-10-07T20:46:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "published_at": "2026-10-07T20:29:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "published_at": "2026-10-07T20:27:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UPS to hire 100,000 temporary workers for holiday season",
-      "published_at": "2026-10-07T20:17:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pfizer to cut around 330 jobs in Italy",
-      "published_at": "2026-10-07T20:16:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This surprising mammal fossil is giving scientists something to chew on",
-      "published_at": "2026-10-07T19:59:16+00:00"
     }
   ]
 }
