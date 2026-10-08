@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "sport": "Sports",
-    "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
-    "answer": "Tunisia"
-  },
-  {
     "date": "2026-07-31",
     "sport": "Sports",
     "question": "At which race was the 2018 F1 Drivers Championship won?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Hockey player Wayne Gretzky was born in what Canadian province?",
     "answer": "Ontario"
+  },
+  {
+    "date": "2026-10-08",
+    "sport": "Sports",
+    "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "answer": "Pelle"
   }
 ]
