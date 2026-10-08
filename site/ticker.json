@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-10-08T17:28:03+00:00",
+  "updated_at": "2026-10-08T17:50:30+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "published_at": "2026-10-08T17:38:59+00:00"
+    },
     {
       "source": "BBC",
       "text": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "published_at": "2026-10-08T17:16:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "published_at": "2026-10-08T17:07:43+00:00"
     },
     {
       "source": "BBC",
@@ -20,6 +20,16 @@
       "source": "Reuters",
       "text": "Trump says US will not attack Iran before midterm elections in November",
       "published_at": "2026-10-08T16:41:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Turkey's foreign minister says Ankara weighing Saudi defence support, rules out offensive role",
+      "published_at": "2026-10-08T16:35:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US back on world championship calendar for first time since 1988",
+      "published_at": "2026-10-08T16:31:45+00:00"
     },
     {
       "source": "BBC",
@@ -48,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "Venture Global breached LNG supply deal with Galp, tribunal rules",
+      "published_at": "2026-10-08T15:59:24+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Plane billows smoke at Riyadh airport as Houthis escalate attacks",
       "published_at": "2026-10-08T15:55:20+00:00"
     },
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
       "published_at": "2026-10-08T15:34:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US back on world championship calendar for first time since 1988",
-      "published_at": "2026-10-08T15:34:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fed's Waller: More hikes needed, but there is 'flexibility' about the pace",
-      "published_at": "2026-10-08T15:33:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: US farmers are past the point of political return",
-      "published_at": "2026-10-08T15:28:42+00:00"
     }
   ]
 }
