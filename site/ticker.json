@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-09T17:06:12+00:00",
+  "updated_at": "2026-10-09T19:29:17+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump announces deal with Putin to release Russian diesel",
+      "published_at": "2026-10-09T19:24:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Commentator Katie Zacharia picked as new White House press secretary",
+      "published_at": "2026-10-09T19:22:33+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "UN human rights office welcomes Nobel Prize winner Pillay as staunch defender of human rights",
-      "published_at": "2026-10-09T16:51:51+00:00"
+      "text": "Trump says Russia to immediately supply 300,000 tons of diesel fuel",
+      "published_at": "2026-10-09T19:17:48+00:00"
     },
     {
       "source": "NPR",
-      "text": "Did Russia play by the rules in reporting lab worker's death?",
-      "published_at": "2026-10-09T16:43:45+00:00"
+      "text": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+      "published_at": "2026-10-09T18:55:38+00:00"
     },
     {
       "source": "BBC",
-      "text": "Man named Hitler Mussolini elected mayor in Peru",
-      "published_at": "2026-10-09T16:32:22+00:00"
+      "text": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "published_at": "2026-10-09T18:40:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "published_at": "2026-10-09T18:40:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump silent on Pentagon plan to livestream execution",
-      "published_at": "2026-10-09T16:30:49+00:00"
+      "text": "US judge rules Justice Department use of voter rolls unlawful",
+      "published_at": "2026-10-09T18:33:53+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Firing squad execution to be livestreamed, Pentagon says",
-      "published_at": "2026-10-09T16:29:47+00:00"
+      "source": "Reuters",
+      "text": "Explainer: How the US plan to livestream an execution compares with global practice",
+      "published_at": "2026-10-09T18:16:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN calls US plans to livestream execution 'abhorrent'",
+      "published_at": "2026-10-09T18:15:00+00:00"
     },
     {
       "source": "Reuters",
       "text": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-      "published_at": "2026-10-09T16:22:54+00:00"
+      "published_at": "2026-10-09T18:03:47+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "published_at": "2026-10-09T16:19:36+00:00"
+      "source": "Reuters",
+      "text": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight",
+      "published_at": "2026-10-09T17:59:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vance says he won't watch livestream of execution; Trump remains silent",
+      "published_at": "2026-10-09T17:58:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+      "published_at": "2026-10-09T17:49:28+00:00"
     },
     {
       "source": "BBC",
       "text": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "published_at": "2026-10-09T16:15:09+00:00"
+      "published_at": "2026-10-09T17:37:10+00:00"
     },
     {
       "source": "BBC",
-      "text": "US imposes sanctions on International Criminal Court",
-      "published_at": "2026-10-09T16:06:59+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How the oil industry is preparing for Hurricane Isaias",
-      "published_at": "2026-10-09T16:03:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US pledges tens of millions to UN bodies in Geneva, sources say",
-      "published_at": "2026-10-09T15:27:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "published_at": "2026-10-09T15:24:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize",
-      "published_at": "2026-10-09T15:04:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ICC urges members to make sure it can continue despite US sanctions",
-      "published_at": "2026-10-09T15:04:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two Renoir paintings stolen from French museum are recovered",
-      "published_at": "2026-10-09T14:25:18+00:00"
+      "text": "US immigration officials defend ICE agents who shot man in same car as child",
+      "published_at": "2026-10-09T17:36:09+00:00"
     }
   ]
 }
