@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-09T05:59:51+00:00",
+  "updated_at": "2026-10-09T13:07:40+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Christa Pike is walking with help and eating after failed execution attempt",
-      "published_at": "2026-10-09T05:52:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
-      "published_at": "2026-10-09T05:35:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Tata Consultancy's AI strategy has key-man risk",
-      "published_at": "2026-10-09T05:23:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-      "published_at": "2026-10-09T05:20:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India withdraws bank tax benefit on gold, silver, platinum imports",
-      "published_at": "2026-10-09T05:10:00+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-      "published_at": "2026-10-09T04:53:50+00:00"
+      "text": "Firing squad execution to be livestreamed, Pentagon says",
+      "published_at": "2026-10-09T12:24:58+00:00"
     },
     {
       "source": "BBC",
       "text": "ICE agent shoots man in New York City",
-      "published_at": "2026-10-09T04:26:19+00:00"
+      "published_at": "2026-10-09T12:18:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "Adidas sues Australian label White Fox over four stripes design",
-      "published_at": "2026-10-09T03:36:41+00:00"
+      "text": "Two Renoir paintings stolen from French museum are recovered",
+      "published_at": "2026-10-09T12:05:12+00:00"
     },
     {
       "source": "BBC",
-      "text": "Firing squad execution to be livestreamed, Pentagon says",
-      "published_at": "2026-10-09T03:36:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil falls as Trump comments on Iran talks ease supply concerns",
-      "published_at": "2026-10-09T02:28:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IT leads rebound in Indian shares; TCS jumps on quarterly results",
-      "published_at": "2026-10-09T02:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold rises more than 1%, Fed outlook in focus",
-      "published_at": "2026-10-09T01:58:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Tech stocks struggle on AI spending worries, elevated yields",
-      "published_at": "2026-10-09T01:56:00+00:00"
+      "text": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "published_at": "2026-10-09T11:44:49+00:00"
     },
     {
       "source": "NPR",
-      "text": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-      "published_at": "2026-10-09T00:25:15+00:00"
+      "text": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "published_at": "2026-10-09T11:37:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France promises 3,000 extra teachers in first step to calm student protests",
+      "published_at": "2026-10-09T11:35:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "published_at": "2026-10-09T00:05:48+00:00"
+      "text": "Why American investors love European defense startups",
+      "published_at": "2026-10-09T11:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Crazy Rich Asians to return as TV show with original film's stars",
+      "published_at": "2026-10-09T10:54:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "published_at": "2026-10-09T10:07:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "published_at": "2026-10-09T09:43:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "published_at": "2026-10-09T09:30:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "published_at": "2026-10-09T09:09:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Central African Republic, deported immigrants find themselves in limbo",
+      "published_at": "2026-10-09T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+      "published_at": "2026-10-09T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Why we remember: One student's journey into memory",
+      "published_at": "2026-10-09T09:00:00+00:00"
     }
   ]
 }
