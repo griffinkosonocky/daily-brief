@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-10-10T17:47:56+00:00",
+  "updated_at": "2026-10-10T21:34:45+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Several injured in attack on airport in Saudi capital Riyadh",
+      "published_at": "2026-10-10T21:27:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "published_at": "2026-10-10T20:51:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "published_at": "2026-10-10T19:28:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "published_at": "2026-10-10T19:25:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "published_at": "2026-10-10T19:08:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
+      "published_at": "2026-10-10T18:53:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "published_at": "2026-10-10T18:22:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Kennedy Center names new artistic director, amid concerns",
+      "published_at": "2026-10-10T18:17:12+00:00"
+    },
     {
       "source": "BBC",
       "text": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "published_at": "2026-10-10T17:44:26+00:00"
     },
     {
-      "source": "BBC",
-      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "published_at": "2026-10-10T17:31:24+00:00"
+      "source": "Reuters",
+      "text": "India's Infosys does not expect material impact from US PERM suspension",
+      "published_at": "2026-10-10T17:43:47+00:00"
     },
     {
       "source": "Reuters",
@@ -22,16 +62,6 @@
       "published_at": "2026-10-10T17:14:03+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Several injured in attack on airport in Saudi capital Riyadh",
-      "published_at": "2026-10-10T16:56:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "WHO says Russia confirms death at research lab, no plague case registered",
-      "published_at": "2026-10-10T16:23:43+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Pope Leo condemns death penalty as Trump mulls livestreamed execution",
       "published_at": "2026-10-10T16:17:38+00:00"
@@ -42,39 +72,9 @@
       "published_at": "2026-10-10T15:23:47+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Woman injures three people in third Poland school knife attack in a week",
-      "published_at": "2026-10-10T14:58:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "published_at": "2026-10-10T14:49:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "published_at": "2026-10-10T14:16:50+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call",
-      "published_at": "2026-10-10T13:15:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "published_at": "2026-10-10T12:29:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "published_at": "2026-10-10T12:28:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Opinion: Can I keep the baseball I caught?",
-      "published_at": "2026-10-10T12:00:00+00:00"
+      "text": "Eritrea asks UN to intervene in standoff with Ethiopia",
+      "published_at": "2026-10-10T15:05:05+00:00"
     }
   ]
 }
