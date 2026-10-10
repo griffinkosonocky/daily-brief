@@ -1,25 +1,70 @@
 {
-  "updated_at": "2026-10-10T12:23:15+00:00",
+  "updated_at": "2026-10-10T15:54:55+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "published_at": "2026-10-10T15:53:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses",
+      "published_at": "2026-10-10T15:30:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "published_at": "2026-10-10T15:23:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "published_at": "2026-10-10T15:05:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman injures three people in third Poland school knife attack in a week",
+      "published_at": "2026-10-10T14:58:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "published_at": "2026-10-10T14:49:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "published_at": "2026-10-10T14:24:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "published_at": "2026-10-10T14:16:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call",
+      "published_at": "2026-10-10T13:15:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "published_at": "2026-10-10T12:29:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "published_at": "2026-10-10T12:28:51+00:00"
+    },
     {
       "source": "NPR",
       "text": "Opinion: Can I keep the baseball I caught?",
       "published_at": "2026-10-10T12:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Hurricane Isaias downgraded after making landfall in Florida",
-      "published_at": "2026-10-10T11:55:12+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
       "published_at": "2026-10-10T11:33:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "published_at": "2026-10-10T11:17:15+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "Germany sticks to Russia sanctions after Trump announcement on diesel",
       "published_at": "2026-10-10T10:59:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "published_at": "2026-10-10T10:06:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "published_at": "2026-10-10T09:17:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-      "published_at": "2026-10-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-      "published_at": "2026-10-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "16 cozy activities to add to your fall bucket list",
-      "published_at": "2026-10-10T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too)",
-      "published_at": "2026-10-10T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thailand prepares to host IMF-World Bank meetings",
-      "published_at": "2026-10-10T08:44:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "India cracks down on youth protests as anger grows against Modi and election chief",
-      "published_at": "2026-10-10T08:31:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French policing under scrutiny as student protest injuries mount",
-      "published_at": "2026-10-10T06:05:00+00:00"
     }
   ]
 }
