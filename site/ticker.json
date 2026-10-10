@@ -1,25 +1,45 @@
 {
-  "updated_at": "2026-10-10T15:54:55+00:00",
+  "updated_at": "2026-10-10T17:47:56+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "published_at": "2026-10-10T15:53:04+00:00"
+      "text": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "published_at": "2026-10-10T17:44:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "published_at": "2026-10-10T17:31:24+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses",
-      "published_at": "2026-10-10T15:30:21+00:00"
+      "text": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says",
+      "published_at": "2026-10-10T17:22:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "published_at": "2026-10-10T17:14:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Several injured in attack on airport in Saudi capital Riyadh",
+      "published_at": "2026-10-10T16:56:32+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "WHO says Russia confirms death at research lab, no plague case registered",
+      "published_at": "2026-10-10T16:23:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo condemns death penalty as Trump mulls livestreamed execution",
+      "published_at": "2026-10-10T16:17:38+00:00"
     },
     {
       "source": "BBC",
       "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "published_at": "2026-10-10T15:23:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudi capital airport hit again, sparking evacuations, reports say",
-      "published_at": "2026-10-10T15:05:55+00:00"
     },
     {
       "source": "BBC",
@@ -30,11 +50,6 @@
       "source": "BBC",
       "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "published_at": "2026-10-10T14:49:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "published_at": "2026-10-10T14:24:14+00:00"
     },
     {
       "source": "BBC",
@@ -60,21 +75,6 @@
       "source": "NPR",
       "text": "Opinion: Can I keep the baseball I caught?",
       "published_at": "2026-10-10T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
-      "published_at": "2026-10-10T11:33:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
-      "published_at": "2026-10-10T11:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany sticks to Russia sanctions after Trump announcement on diesel",
-      "published_at": "2026-10-10T10:59:43+00:00"
     }
   ]
 }
