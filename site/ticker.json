@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-10-11T13:58:45+00:00",
+  "updated_at": "2026-10-11T16:22:42+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump says Russia and Ukraine reach energy ceasefire 'effective immediately'",
+      "published_at": "2026-10-11T15:37:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "published_at": "2026-10-11T15:32:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "published_at": "2026-10-11T15:32:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire",
+      "published_at": "2026-10-11T15:27:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "published_at": "2026-10-11T15:18:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Polish police detain man after threat to PM",
+      "published_at": "2026-10-11T15:14:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "published_at": "2026-10-11T14:38:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+      "published_at": "2026-10-11T14:31:48+00:00"
+    },
     {
       "source": "BBC",
       "text": "Pope Leo to have surgery after lump found on lung",
       "published_at": "2026-10-11T13:38:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pakistan imposes emergency rule over Imran Khan's provincial government",
+      "published_at": "2026-10-11T13:26:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Most Gulf stocks in red after attack on Riyadh airport",
+      "published_at": "2026-10-11T13:19:13+00:00"
     },
     {
       "source": "NPR",
@@ -12,24 +62,9 @@
       "published_at": "2026-10-11T12:54:25+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "published_at": "2026-10-11T12:50:46+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
       "published_at": "2026-10-11T12:10:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "published_at": "2026-10-11T12:08:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish security services meet after 'serious' threat to PM and defence minister",
-      "published_at": "2026-10-11T12:05:11+00:00"
     },
     {
       "source": "BBC",
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "Don't be scared: Being afraid is outright fun, and maybe useful",
       "published_at": "2026-10-11T12:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Imran Khan's provincial government suspended by Pakistan president over militancy fight",
-      "published_at": "2026-10-11T11:55:24+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "published_at": "2026-10-11T11:32:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
-      "published_at": "2026-10-11T11:28:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says",
-      "published_at": "2026-10-11T11:23:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "published_at": "2026-10-11T11:11:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says",
-      "published_at": "2026-10-11T10:58:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis renew warning over Saudi airports after deadly Riyadh attack",
-      "published_at": "2026-10-11T10:48:38+00:00"
     }
   ]
 }

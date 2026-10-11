@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-31",
-    "sport": "Sports",
-    "question": "At which race was the 2018 F1 Drivers Championship won?",
-    "answer": "Mexico"
-  },
-  {
     "date": "2026-09-26",
     "sport": "Sports",
     "question": "How many soccer players should be on the field at the same time?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
     "answer": "Pelle"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "Sports",
+    "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+    "answer": "13"
   }
 ]
