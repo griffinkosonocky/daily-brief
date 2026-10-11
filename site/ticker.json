@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-10-11T16:22:42+00:00",
+  "updated_at": "2026-10-11T18:48:24+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Trump says Russia and Ukraine reach energy ceasefire 'effective immediately'",
-      "published_at": "2026-10-11T15:37:41+00:00"
+      "text": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+      "published_at": "2026-10-11T18:18:11+00:00"
     },
     {
       "source": "BBC",
-      "text": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "text": "Poland detains man suspected of planning assassination of PM Tusk",
+      "published_at": "2026-10-11T17:27:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
+      "published_at": "2026-10-11T17:21:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Indian national injured in Riyadh airport attack dies, embassy says",
+      "published_at": "2026-10-11T17:12:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'",
+      "published_at": "2026-10-11T17:11:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
+      "published_at": "2026-10-11T16:57:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi capital airport hit by second Houthi strike in two days",
+      "published_at": "2026-10-11T16:41:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says",
+      "published_at": "2026-10-11T15:47:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "published_at": "2026-10-11T15:32:32+00:00"
     },
     {
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Trump says Russia and Ukraine reached 'energy ceasefire'",
       "published_at": "2026-10-11T14:31:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope Leo to have surgery after lump found on lung",
-      "published_at": "2026-10-11T13:38:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan imposes emergency rule over Imran Khan's provincial government",
-      "published_at": "2026-10-11T13:26:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Most Gulf stocks in red after attack on Riyadh airport",
-      "published_at": "2026-10-11T13:19:13+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pope Leo XIV to undergo lung surgery this week",
-      "published_at": "2026-10-11T12:54:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
-      "published_at": "2026-10-11T12:10:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Homes and bridges swept away as fresh floods hit Nepal",
-      "published_at": "2026-10-11T12:03:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Don't be scared: Being afraid is outright fun, and maybe useful",
-      "published_at": "2026-10-11T12:00:00+00:00"
     }
   ]
 }
