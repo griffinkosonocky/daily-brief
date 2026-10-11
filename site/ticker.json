@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-10-10T21:34:45+00:00",
+  "updated_at": "2026-10-11T00:55:03+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Several injured in attack on airport in Saudi capital Riyadh",
-      "published_at": "2026-10-10T21:27:10+00:00"
+      "text": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "published_at": "2026-10-11T00:21:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "published_at": "2026-10-10T23:44:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "published_at": "2026-10-10T23:31:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "published_at": "2026-10-10T23:19:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US will learn from bruising friendly defeat by Spain, says Hayes",
+      "published_at": "2026-10-10T22:59:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Christa Pike discharged from the hospital and back in prison",
+      "published_at": "2026-10-10T22:15:04+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "published_at": "2026-10-10T22:13:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "published_at": "2026-10-10T21:40:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "published_at": "2026-10-10T21:32:53+00:00"
     },
     {
       "source": "BBC",
@@ -22,11 +62,6 @@
       "published_at": "2026-10-10T19:25:03+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "published_at": "2026-10-10T19:08:17+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
       "published_at": "2026-10-10T18:53:43+00:00"
@@ -40,41 +75,6 @@
       "source": "NPR",
       "text": "The Kennedy Center names new artistic director, amid concerns",
       "published_at": "2026-10-10T18:17:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "published_at": "2026-10-10T17:44:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India's Infosys does not expect material impact from US PERM suspension",
-      "published_at": "2026-10-10T17:43:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says",
-      "published_at": "2026-10-10T17:22:56+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-      "published_at": "2026-10-10T17:14:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo condemns death penalty as Trump mulls livestreamed execution",
-      "published_at": "2026-10-10T16:17:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "published_at": "2026-10-10T15:23:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eritrea asks UN to intervene in standoff with Ethiopia",
-      "published_at": "2026-10-10T15:05:05+00:00"
     }
   ]
 }
