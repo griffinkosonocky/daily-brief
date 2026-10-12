@@ -1,25 +1,40 @@
 {
-  "updated_at": "2026-10-12T02:17:58+00:00",
+  "updated_at": "2026-10-12T10:38:44+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-      "published_at": "2026-10-12T02:12:00+00:00"
+      "source": "NPR",
+      "text": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+      "published_at": "2026-10-12T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
-      "published_at": "2026-10-12T01:51:00+00:00"
+      "source": "NPR",
+      "text": "Here's what to know if you're unsure about your measles immunity status",
+      "published_at": "2026-10-12T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Andrew Garfield says OpenAI film 'Artificial' turns lens on creators of 'new world'",
-      "published_at": "2026-10-12T01:43:00+00:00"
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-10-12T08:38:03+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Shares cautious in Asia as earnings loom, oil slips",
-      "published_at": "2026-10-12T00:42:00+00:00"
+      "source": "NPR",
+      "text": "Two Americans win Nobel Prize in Economics for work on boom-bust cycles",
+      "published_at": "2026-10-12T08:35:16+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "published_at": "2026-10-12T06:41:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
+      "published_at": "2026-10-12T06:35:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "published_at": "2026-10-12T05:00:52+00:00"
     },
     {
       "source": "NPR",
@@ -27,19 +42,29 @@
       "published_at": "2026-10-11T23:54:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US judge orders halt to taxpayer-funded ads featuring Trump",
-      "published_at": "2026-10-11T23:51:00+00:00"
+      "source": "BBC",
+      "text": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "published_at": "2026-10-11T23:48:25+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US reverses course on Britain's testing of AI models, Telegraph says",
-      "published_at": "2026-10-11T23:48:00+00:00"
+      "source": "BBC",
+      "text": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "published_at": "2026-10-11T23:33:24+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say",
-      "published_at": "2026-10-11T23:38:02+00:00"
+      "source": "BBC",
+      "text": "Trump faces growing backlash over plans to import diesel from Russia",
+      "published_at": "2026-10-11T23:18:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "published_at": "2026-10-11T23:13:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "published_at": "2026-10-11T23:13:20+00:00"
     },
     {
       "source": "BBC",
@@ -47,34 +72,9 @@
       "published_at": "2026-10-11T22:45:58+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks",
-      "published_at": "2026-10-11T22:12:34+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "text": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "published_at": "2026-10-11T21:36:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says",
-      "published_at": "2026-10-11T21:15:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "published_at": "2026-10-11T21:12:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "BP withdraws from Riyadh energy conference after airport attack",
-      "published_at": "2026-10-11T21:01:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What's behind Trump's energy ceasefire claim?",
-      "published_at": "2026-10-11T20:55:02+00:00"
     }
   ]
 }
