@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-10-11T22:49:07+00:00",
+  "updated_at": "2026-10-12T02:17:58+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+      "published_at": "2026-10-12T02:12:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
+      "published_at": "2026-10-12T01:51:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Andrew Garfield says OpenAI film 'Artificial' turns lens on creators of 'new world'",
+      "published_at": "2026-10-12T01:43:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Shares cautious in Asia as earnings loom, oil slips",
+      "published_at": "2026-10-12T00:42:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "published_at": "2026-10-11T23:54:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US judge orders halt to taxpayer-funded ads featuring Trump",
+      "published_at": "2026-10-11T23:51:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US reverses course on Britain's testing of AI models, Telegraph says",
+      "published_at": "2026-10-11T23:48:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say",
+      "published_at": "2026-10-11T23:38:02+00:00"
+    },
     {
       "source": "BBC",
       "text": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "published_at": "2026-10-11T22:45:58+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks",
+      "published_at": "2026-10-11T22:12:34+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "published_at": "2026-10-11T21:36:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says",
+      "published_at": "2026-10-11T21:15:57+00:00"
     },
     {
       "source": "BBC",
@@ -18,63 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
-      "published_at": "2026-10-11T21:10:20+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "BP withdraws from Riyadh energy conference after airport attack",
-      "published_at": "2026-10-11T21:01:43+00:00"
+      "published_at": "2026-10-11T21:01:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Watch: What's behind Trump's energy ceasefire claim?",
       "published_at": "2026-10-11T20:55:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
-      "published_at": "2026-10-11T20:06:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-      "published_at": "2026-10-11T19:40:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Orangutans released back into Borneo forest after devastating fires",
-      "published_at": "2026-10-11T19:08:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rallying in Sao Paulo, presidential candidates seek votes and political support",
-      "published_at": "2026-10-11T19:01:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish police detain man over threat to PM and defence minister",
-      "published_at": "2026-10-11T18:43:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pakistan imposes emergency rule over Imran Khan's provincial government",
-      "published_at": "2026-10-11T18:29:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US threatens to block arms for Ukraine over refinery attacks, FT reports",
-      "published_at": "2026-10-11T18:23:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says",
-      "published_at": "2026-10-11T18:22:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says",
-      "published_at": "2026-10-11T18:19:10+00:00"
     }
   ]
 }
