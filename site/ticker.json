@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-13T17:41:29+00:00",
+  "updated_at": "2026-10-13T18:10:49+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "J&J posts weak medical device sales, shares fall",
+      "published_at": "2026-10-13T17:56:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+      "published_at": "2026-10-13T17:41:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "published_at": "2026-10-13T17:36:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct",
@@ -27,14 +42,14 @@
       "published_at": "2026-10-13T16:35:09+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
+      "published_at": "2026-10-13T16:33:26+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Pope admitted to hospital for surgery to remove lump on his lung",
       "published_at": "2026-10-13T16:21:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "J&J posts weak medical device sales, shares fall",
-      "published_at": "2026-10-13T16:18:36+00:00"
     },
     {
       "source": "Reuters",
@@ -60,21 +75,6 @@
       "source": "Reuters",
       "text": "Scientists call for international body to oversee advanced AI",
       "published_at": "2026-10-13T15:14:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Supreme Court to hear Trump's fight to shield DOGE records from disclosure",
-      "published_at": "2026-10-13T15:07:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public",
-      "published_at": "2026-10-13T15:03:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "published_at": "2026-10-13T14:51:59+00:00"
     }
   ]
 }
