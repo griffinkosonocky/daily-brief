@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "sport": "Sports",
-    "question": "What was the year of estabilishment of the Bari Italian Football Club?",
-    "answer": "1908"
-  },
-  {
     "date": "2026-08-14",
     "sport": "Sports",
     "question": "Which football manager won more trophies than any other during his tenure at English football club Manchester United?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
     "answer": "Leicester City"
+  },
+  {
+    "date": "2026-10-13",
+    "sport": "Sports",
+    "question": "Which darts player has won the most World Championship titles?",
+    "answer": "Phil Taylor"
   }
 ]
