@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-13T18:10:49+00:00",
+  "updated_at": "2026-10-13T23:15:15+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "J&J posts weak medical device sales, shares fall",
-      "published_at": "2026-10-13T17:56:42+00:00"
+      "text": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
+      "published_at": "2026-10-13T23:07:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "published_at": "2026-10-13T22:29:55+00:00"
     },
     {
       "source": "NPR",
-      "text": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-      "published_at": "2026-10-13T17:41:07+00:00"
+      "text": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "published_at": "2026-10-13T22:29:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says",
+      "published_at": "2026-10-13T22:27:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Argentina lodges legal claim against UK's Falklands oil exploration",
-      "published_at": "2026-10-13T17:36:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct",
-      "published_at": "2026-10-13T17:13:07+00:00"
+      "text": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "published_at": "2026-10-13T22:14:33+00:00"
     },
     {
       "source": "BBC",
-      "text": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "published_at": "2026-10-13T17:10:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rwanda to bring F1 back to Africa for first time since 1993",
-      "published_at": "2026-10-13T16:52:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections",
-      "published_at": "2026-10-13T16:38:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Greta Thunberg joins French teens on new day of school protests",
-      "published_at": "2026-10-13T16:35:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hyundai Motor Group bets $15.5 billion on India as global auto hub",
-      "published_at": "2026-10-13T16:33:26+00:00"
+      "text": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "published_at": "2026-10-13T22:07:40+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pope admitted to hospital for surgery to remove lump on his lung",
-      "published_at": "2026-10-13T16:21:15+00:00"
+      "text": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "published_at": "2026-10-13T22:02:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Who's to blame for the toxic smog choking South East Asia?",
+      "published_at": "2026-10-13T22:01:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why the lonely in China are hiring 'temporary children'",
+      "published_at": "2026-10-13T22:00:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "published_at": "2026-10-13T21:42:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "'Brutal session' for chip stocks shows AI trade is turning",
-      "published_at": "2026-10-13T16:15:43+00:00"
+      "text": "EXCLUSIVE: Bank of America loses bankers, tells staff of big ambition, continued hiring",
+      "published_at": "2026-10-13T20:46:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "published_at": "2026-10-13T20:46:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "IMF flags risks to global economy from AI market correction, war and debt",
-      "published_at": "2026-10-13T16:15:03+00:00"
+      "text": "EXCLUSIVE: Saudi Arabia plans hybrid format for marquee FII conference after attacks, sources say",
+      "published_at": "2026-10-13T20:38:09+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What an economics Nobel Prize winner knows about pricing",
+      "published_at": "2026-10-13T20:03:35+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal",
-      "published_at": "2026-10-13T15:59:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says",
-      "published_at": "2026-10-13T15:26:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Scientists call for international body to oversee advanced AI",
-      "published_at": "2026-10-13T15:14:54+00:00"
+      "text": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal",
+      "published_at": "2026-10-13T20:02:36+00:00"
     }
   ]
 }
