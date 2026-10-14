@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-14T15:04:56+00:00",
+  "updated_at": "2026-10-14T15:17:58+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "published_at": "2026-10-14T15:16:21+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Pope Leo back on his feet after shock cancer diagnosis",
@@ -15,11 +20,6 @@
       "source": "Reuters",
       "text": "US inflation heats up in September; Fed rate hike this month back on table",
       "published_at": "2026-10-14T14:04:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
-      "published_at": "2026-10-14T13:58:53+00:00"
     },
     {
       "source": "Reuters",
@@ -52,11 +52,6 @@
       "published_at": "2026-10-14T13:11:17+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "published_at": "2026-10-14T13:09:51+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Top economic adviser says Venezuela aims to publish debt sustainability analysis 'very soon'",
       "published_at": "2026-10-14T13:06:11+00:00"
@@ -75,6 +70,11 @@
       "source": "Reuters",
       "text": "Container ship sinks near Hormuz after being hit by projectile, sources say",
       "published_at": "2026-10-14T12:51:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canada's Fairfax buys majority stake in IDBI Bank for $5.56 billion",
+      "published_at": "2026-10-14T12:48:15+00:00"
     }
   ]
 }
