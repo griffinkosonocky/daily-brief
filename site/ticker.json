@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-14T15:17:58+00:00",
+  "updated_at": "2026-10-14T19:19:12+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Red hot CPI report fuels AI rout",
+      "published_at": "2026-10-14T18:40:09+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "published_at": "2026-10-14T15:16:21+00:00"
+      "text": "What if you could turn off your algorithm? Australia is about to try",
+      "published_at": "2026-10-14T18:00:54+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pope Leo back on his feet after shock cancer diagnosis",
-      "published_at": "2026-10-14T14:31:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Hundreds of thousands of workers on strike across Republic of Ireland",
-      "published_at": "2026-10-14T14:18:18+00:00"
+      "text": "Trump tariff threat built a US copper mountain, but the effects are fading",
+      "published_at": "2026-10-14T17:32:45+00:00"
     },
     {
       "source": "Reuters",
       "text": "US inflation heats up in September; Fed rate hike this month back on table",
-      "published_at": "2026-10-14T14:04:27+00:00"
+      "published_at": "2026-10-14T17:25:53+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Yemen fighting overwhelms hospitals, cuts aid to 800,000 people, relief agencies say",
-      "published_at": "2026-10-14T13:45:43+00:00"
+      "text": "FBI says director Patel in Virginia, not Russia",
+      "published_at": "2026-10-14T17:25:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "published_at": "2026-10-14T13:41:51+00:00"
+      "text": "Kenya confirms second Ebola case - a relative of the first victim",
+      "published_at": "2026-10-14T17:23:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
+      "published_at": "2026-10-14T17:22:06+00:00"
     },
     {
       "source": "BBC",
-      "text": "US inflation rises more than expected - here's what is happening with prices",
-      "published_at": "2026-10-14T13:40:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inflation sizzled in September — and Social Security benefits will get a boost",
-      "published_at": "2026-10-14T13:33:44+00:00"
+      "text": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "published_at": "2026-10-14T16:47:32+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morgan Stanley beats quarterly profit estimates on equity trading strength",
-      "published_at": "2026-10-14T13:28:08+00:00"
+      "text": "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
+      "published_at": "2026-10-14T16:36:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "GSK plans to cut up to 1,217 jobs in Belgium as it begins three-year restructuring plan",
+      "published_at": "2026-10-14T16:29:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Banks, buildings burn as Albania's capital Tirana erupts into student violence",
+      "published_at": "2026-10-14T16:17:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "published_at": "2026-10-14T13:11:17+00:00"
+      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "published_at": "2026-10-14T15:56:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "published_at": "2026-10-14T15:54:04+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Top economic adviser says Venezuela aims to publish debt sustainability analysis 'very soon'",
-      "published_at": "2026-10-14T13:06:11+00:00"
+      "text": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
+      "published_at": "2026-10-14T15:48:25+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "published_at": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Failure to activate Hormuz fertilizer plan could trigger food crisis, UN official says",
-      "published_at": "2026-10-14T12:55:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Container ship sinks near Hormuz after being hit by projectile, sources say",
-      "published_at": "2026-10-14T12:51:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's Fairfax buys majority stake in IDBI Bank for $5.56 billion",
-      "published_at": "2026-10-14T12:48:15+00:00"
+      "source": "BBC",
+      "text": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
+      "published_at": "2026-10-14T15:46:46+00:00"
     }
   ]
 }
