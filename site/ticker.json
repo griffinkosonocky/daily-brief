@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-13T23:15:15+00:00",
+  "updated_at": "2026-10-14T04:45:04+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "published_at": "2026-10-14T04:36:06+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
-      "published_at": "2026-10-13T23:07:11+00:00"
+      "text": "Let the doves sing",
+      "published_at": "2026-10-14T04:31:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "published_at": "2026-10-13T22:29:55+00:00"
+      "published_at": "2026-10-14T04:20:17+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Pope Leo has lung cancer, the Vatican announces after surgery",
-      "published_at": "2026-10-13T22:29:26+00:00"
+      "source": "BBC",
+      "text": "Russia arrests Japanese journalist on alleged espionage",
+      "published_at": "2026-10-14T04:10:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says",
-      "published_at": "2026-10-13T22:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "published_at": "2026-10-13T22:14:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "published_at": "2026-10-13T22:07:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "published_at": "2026-10-13T22:02:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Who's to blame for the toxic smog choking South East Asia?",
-      "published_at": "2026-10-13T22:01:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why the lonely in China are hiring 'temporary children'",
-      "published_at": "2026-10-13T22:00:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "published_at": "2026-10-13T21:42:49+00:00"
+      "text": "Asia must guard against another financial crisis, Philippines central bank chief says",
+      "published_at": "2026-10-14T04:06:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Bank of America loses bankers, tells staff of big ambition, continued hiring",
-      "published_at": "2026-10-13T20:46:15+00:00"
+      "text": "IMF's Georgieva optimistic on Senegal debt treatment under improved G20 framework",
+      "published_at": "2026-10-14T03:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold prices hold firm ahead of US inflation data",
+      "published_at": "2026-10-14T03:12:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Soccer viewership in US surging since World Cup",
+      "published_at": "2026-10-14T02:46:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's September exports blow past forecasts, imports accelerate",
+      "published_at": "2026-10-14T02:41:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF says it is not recommending faster UK fiscal consolidation",
+      "published_at": "2026-10-14T02:39:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "published_at": "2026-10-13T20:46:06+00:00"
+      "text": "Lena Dunham's Girls to return for limited HBO run",
+      "published_at": "2026-10-14T02:09:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "published_at": "2026-10-14T02:05:32+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Saudi Arabia plans hybrid format for marquee FII conference after attacks, sources say",
-      "published_at": "2026-10-13T20:38:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What an economics Nobel Prize winner knows about pricing",
-      "published_at": "2026-10-13T20:03:35+00:00"
+      "text": "IMF says higher bond yields underscore urgency of fiscal consolidation",
+      "published_at": "2026-10-14T02:02:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal",
-      "published_at": "2026-10-13T20:02:36+00:00"
+      "text": "Asia shares edge up as chip selloff eases; US CPI awaited",
+      "published_at": "2026-10-14T01:53:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar languishes as focus turns to CPI, Fed speakers",
+      "published_at": "2026-10-14T01:18:00+00:00"
     }
   ]
 }
