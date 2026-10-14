@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-14T10:05:28+00:00",
+  "updated_at": "2026-10-14T15:04:56+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Pope Leo back on his feet after shock cancer diagnosis",
+      "published_at": "2026-10-14T14:31:21+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "published_at": "2026-10-14T10:04:28+00:00"
+      "text": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "published_at": "2026-10-14T14:18:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US inflation heats up in September; Fed rate hike this month back on table",
+      "published_at": "2026-10-14T14:04:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+      "published_at": "2026-10-14T13:58:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen fighting overwhelms hospitals, cuts aid to 800,000 people, relief agencies say",
+      "published_at": "2026-10-14T13:45:43+00:00"
     },
     {
       "source": "BBC",
       "text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "published_at": "2026-10-14T09:32:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "These workers help train robots who could one day steal their jobs",
-      "published_at": "2026-10-14T09:28:47+00:00"
+      "published_at": "2026-10-14T13:41:51+00:00"
     },
     {
       "source": "BBC",
-      "text": "What we know about Russia's overnight strikes on Ukraine",
-      "published_at": "2026-10-14T09:25:03+00:00"
+      "text": "US inflation rises more than expected - here's what is happening with prices",
+      "published_at": "2026-10-14T13:40:36+00:00"
     },
     {
       "source": "NPR",
-      "text": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "published_at": "2026-10-14T09:09:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Turkish police raid opposition TV station, halting live broadcasts",
-      "published_at": "2026-10-14T09:08:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
-      "published_at": "2026-10-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The skincare sample is free. What happens next can cost thousands",
-      "published_at": "2026-10-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-      "published_at": "2026-10-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-      "published_at": "2026-10-14T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Kansas, a newly-competitive Senate race tests limit of Trump's unpopular policies",
-      "published_at": "2026-10-14T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "published_at": "2026-10-14T08:53:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Morning news brief",
-      "published_at": "2026-10-14T08:49:42+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pope Leo has lung cancer, the Vatican says",
-      "published_at": "2026-10-14T08:43:10+00:00"
+      "text": "Inflation sizzled in September — and Social Security benefits will get a boost",
+      "published_at": "2026-10-14T13:33:44+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pope Leo had peaceful night in hospital after lung cancer surgery",
-      "published_at": "2026-10-14T08:29:22+00:00"
+      "text": "Morgan Stanley beats quarterly profit estimates on equity trading strength",
+      "published_at": "2026-10-14T13:28:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "published_at": "2026-10-14T13:11:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "published_at": "2026-10-14T13:09:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top economic adviser says Venezuela aims to publish debt sustainability analysis 'very soon'",
+      "published_at": "2026-10-14T13:06:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+      "published_at": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Failure to activate Hormuz fertilizer plan could trigger food crisis, UN official says",
+      "published_at": "2026-10-14T12:55:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Container ship sinks near Hormuz after being hit by projectile, sources say",
+      "published_at": "2026-10-14T12:51:54+00:00"
     }
   ]
 }
