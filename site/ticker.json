@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-14T19:19:12+00:00",
+  "updated_at": "2026-10-15T04:27:43+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "published_at": "2026-10-15T04:19:17+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Red hot CPI report fuels AI rout",
-      "published_at": "2026-10-14T18:40:09+00:00"
+      "text": "Global financial watchdog calls for more human oversight of agentic AI",
+      "published_at": "2026-10-15T04:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF urges China to deploy bigger fiscal stimulus",
+      "published_at": "2026-10-15T03:49:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sports-FIFA postpones FIFAe Finals in Saudi Arabia following attacks",
+      "published_at": "2026-10-15T03:30:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "What if you could turn off your algorithm? Australia is about to try",
-      "published_at": "2026-10-14T18:00:54+00:00"
+      "text": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "published_at": "2026-10-15T03:26:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump tariff threat built a US copper mountain, but the effects are fading",
-      "published_at": "2026-10-14T17:32:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US inflation heats up in September; Fed rate hike this month back on table",
-      "published_at": "2026-10-14T17:25:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "FBI says director Patel in Virginia, not Russia",
-      "published_at": "2026-10-14T17:25:43+00:00"
+      "text": "Gold rebounds from one-week low as dollar slips",
+      "published_at": "2026-10-15T03:18:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Kenya confirms second Ebola case - a relative of the first victim",
-      "published_at": "2026-10-14T17:23:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
-      "published_at": "2026-10-14T17:22:06+00:00"
+      "text": "White House defends new press secretary amid questions about her legal credentials",
+      "published_at": "2026-10-15T03:03:16+00:00"
     },
     {
       "source": "BBC",
-      "text": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "published_at": "2026-10-14T16:47:32+00:00"
+      "text": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "published_at": "2026-10-15T02:26:07+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says it is 'painful' when Trump chooses a different side",
-      "published_at": "2026-10-14T16:36:55+00:00"
+      "text": "IT leads Indian shares higher; hot US inflation caps gains",
+      "published_at": "2026-10-15T02:26:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "GSK plans to cut up to 1,217 jobs in Belgium as it begins three-year restructuring plan",
-      "published_at": "2026-10-14T16:29:03+00:00"
+      "text": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say",
+      "published_at": "2026-10-15T02:02:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Banks, buildings burn as Albania's capital Tirana erupts into student violence",
-      "published_at": "2026-10-14T16:17:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "published_at": "2026-10-14T15:56:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "published_at": "2026-10-14T15:54:04+00:00"
+      "text": "Oil prices fall as investors weigh supply outlook, Middle East tensions",
+      "published_at": "2026-10-15T01:30:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
-      "published_at": "2026-10-14T15:48:25+00:00"
+      "text": "Norway's wealth fund set to overhaul ethical rules after US scrutiny",
+      "published_at": "2026-10-15T01:03:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-      "published_at": "2026-10-14T15:46:46+00:00"
+      "source": "Reuters",
+      "text": "Asian markets sell off as AI trades crumble after hot US CPI data",
+      "published_at": "2026-10-15T00:51:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he hopes Pope Leo will 'get better fast'",
+      "published_at": "2026-10-14T23:53:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK government to provide £17 million for Chornobyl plant repairs",
+      "published_at": "2026-10-14T23:25:43+00:00"
     }
   ]
 }
