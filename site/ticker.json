@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-10-15T19:04:18+00:00",
+  "updated_at": "2026-10-15T22:12:00+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "published_at": "2026-10-15T21:42:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Volvo Cars expands automated driving partnership with Nvidia",
+      "published_at": "2026-10-15T21:27:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "published_at": "2026-10-15T21:12:14+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "America's historic preservation law is in peril, advocates say. Here's what's at stake",
+      "text": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+      "published_at": "2026-10-15T20:50:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
+      "published_at": "2026-10-15T20:43:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
+      "published_at": "2026-10-15T20:27:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Suspicious mailings to election officials, congressional offices under investigation",
+      "published_at": "2026-10-15T19:54:15+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "U.S. historic preservation law faces the most serious threat in its 60-year history",
       "published_at": "2026-10-15T18:38:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Ukraine oil strike, Fort Hood execution, AI stock slide (Updated)",
+      "published_at": "2026-10-15T18:30:38+00:00"
     },
     {
       "source": "BBC",
@@ -13,8 +53,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
-      "published_at": "2026-10-15T17:50:27+00:00"
+      "text": "India's top court voids Yes Bank's $880 million AT-1 bond write-off",
+      "published_at": "2026-10-15T18:09:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Inside Albania's protest movement: what's fanning the flames?",
+      "published_at": "2026-10-15T17:58:44+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "International Paper in talks with bidders for EMEA packaging business",
       "published_at": "2026-10-15T17:42:03+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "published_at": "2026-10-15T17:31:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "published_at": "2026-10-15T17:18:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli firm used online ads to run vast spy operation, researchers say",
-      "published_at": "2026-10-15T17:02:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "published_at": "2026-10-15T16:50:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
-      "published_at": "2026-10-15T16:45:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "published_at": "2026-10-15T16:15:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "How are Yemen’s Houthis attacking Saudi Arabia so effectively?",
-      "published_at": "2026-10-15T16:13:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
-      "published_at": "2026-10-15T16:09:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events",
-      "published_at": "2026-10-15T15:57:21+00:00"
     }
   ]
 }
