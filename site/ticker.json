@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-15T14:55:24+00:00",
+  "updated_at": "2026-10-15T15:10:01+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "published_at": "2026-10-15T15:09:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: 'Cracking' sound heard moments before Pakistan school roof collapse",
+      "published_at": "2026-10-15T15:05:29+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
@@ -10,6 +20,11 @@
       "source": "BBC",
       "text": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "published_at": "2026-10-15T14:51:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point",
+      "published_at": "2026-10-15T14:41:31+00:00"
     },
     {
       "source": "Reuters",
@@ -33,11 +48,6 @@
     },
     {
       "source": "Reuters",
-      "text": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point",
-      "published_at": "2026-10-15T13:28:19+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "US Treasury pushes global partners to rename AI as 'super intelligence'",
       "published_at": "2026-10-15T12:35:43+00:00"
     },
@@ -47,9 +57,9 @@
       "published_at": "2026-10-15T12:28:26+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "published_at": "2026-10-15T12:03:51+00:00"
+      "source": "Reuters",
+      "text": "UK's Healey says banks are key to economy but keeps tax options open",
+      "published_at": "2026-10-15T12:19:09+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "US wants Senegal debt restructuring wrapped up in less than a year",
       "published_at": "2026-10-15T11:43:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
-      "published_at": "2026-10-15T11:31:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "published_at": "2026-10-15T11:25:19+00:00"
     }
   ]
 }
