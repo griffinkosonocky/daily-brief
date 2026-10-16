@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-10-16T14:56:53+00:00",
+  "updated_at": "2026-10-16T17:21:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Central bankers eye higher rates as AI boom fuels scramble for cash",
+      "published_at": "2026-10-16T16:38:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Amid talk of public execution, public opinion on death penalty is split",
+      "published_at": "2026-10-16T16:28:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands march in Albanian capital as anti-government protests spread",
+      "published_at": "2026-10-16T16:07:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
+      "published_at": "2026-10-16T16:02:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "published_at": "2026-10-16T16:00:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "published_at": "2026-10-16T14:44:11+00:00"
+      "published_at": "2026-10-16T15:59:30+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "published_at": "2026-10-16T15:57:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin envoy says Russia and US are discussing joint deals including on data centres",
+      "published_at": "2026-10-16T15:50:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dodge the cops, reach the protest: India's latest online political game goes viral",
+      "published_at": "2026-10-16T15:35:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'",
+      "published_at": "2026-10-16T15:17:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain to file CAS appeal over FIFA penalty for Islamophobic chants",
+      "published_at": "2026-10-16T15:16:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "published_at": "2026-10-16T14:57:51+00:00"
     },
     {
       "source": "Reuters",
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "Albanian protests turn violent: What we know",
       "published_at": "2026-10-16T14:33:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "published_at": "2026-10-16T14:31:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "published_at": "2026-10-16T14:21:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "published_at": "2026-10-16T14:19:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "published_at": "2026-10-16T14:02:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'",
-      "published_at": "2026-10-16T14:01:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Energy prices loom over EU summit",
-      "published_at": "2026-10-16T13:31:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain punished by FIFA for Islamophobic chants in Egypt friendly",
-      "published_at": "2026-10-16T13:29:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-      "published_at": "2026-10-16T13:26:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Morning Bid: Tipping Point",
-      "published_at": "2026-10-16T13:20:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
-      "published_at": "2026-10-16T13:08:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hegseth's TV instincts backfire as Trump rejects execution livestream",
-      "published_at": "2026-10-16T12:58:31+00:00"
     }
   ]
 }
