@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-10-15",
-  "generated_at_ct": "Oct 15, 2026 at 10:09 AM CT",
+  "date_key": "2026-10-16",
+  "generated_at_ct": "Oct 16, 2026 at 9:56 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -16,45 +16,8 @@
       "key": "americanfootball_nfl",
       "label": "NFL",
       "full_name": "NFL",
-      "games": [
-        {
-          "id": "855f58fad5f0f14b239f4f63df27998b",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "7:15 PM CT",
-          "commence_time": "2026-10-16T00:15:00Z",
-          "commence_ct": "7:15 PM CT",
-          "sort_time": "2026-10-16T00:15:00+00:00",
-          "home_team": "Denver Broncos",
-          "away_team": "Seattle Seahawks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "10:09 AM CT",
-            "summary": "Seattle Seahawks -2.5",
-            "outcomes": [
-              {
-                "name": "Denver Broncos",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Seattle Seahawks",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        }
-      ],
-      "note": "",
+      "games": [],
+      "note": "No games today.",
       "errors": [],
       "active": true
     },
@@ -64,35 +27,71 @@
       "full_name": "College Football",
       "games": [
         {
-          "id": "4bf071db691beaf54158c801a6cf093b",
+          "id": "55f376873e3cd0c2bb7cc9aa26e47235",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
           "status_label": "6:30 PM CT",
-          "commence_time": "2026-10-15T23:30:00Z",
+          "commence_time": "2026-10-16T23:30:00Z",
           "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-10-15T23:30:00+00:00",
-          "home_team": "UAB Blazers",
-          "away_team": "East Carolina Pirates",
+          "sort_time": "2026-10-16T23:30:00+00:00",
+          "home_team": "Tulane Green Wave",
+          "away_team": "Memphis Tigers",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "10:09 AM CT",
-            "summary": "East Carolina Pirates -5.5",
+            "last_update_ct": "9:56 AM CT",
+            "summary": "Memphis Tigers -7",
             "outcomes": [
               {
-                "name": "East Carolina Pirates",
-                "point": -5.5,
-                "point_label": "-5.5",
+                "name": "Memphis Tigers",
+                "point": -7.0,
+                "point_label": "-7",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Tulane Green Wave",
+                "point": 7.0,
+                "point_label": "+7",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "755ef069f0fe7ee21fbda33f7c93247e",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-10-17T00:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-10-17T00:00:00+00:00",
+          "home_team": "Coastal Carolina Chanticleers",
+          "away_team": "Appalachian State Mountaineers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "9:56 AM CT",
+            "summary": "Appalachian State Mountaineers -1.5",
+            "outcomes": [
+              {
+                "name": "Appalachian State Mountaineers",
+                "point": -1.5,
+                "point_label": "-1.5",
                 "price": -108,
                 "price_label": "-108"
               },
               {
-                "name": "UAB Blazers",
-                "point": 5.5,
-                "point_label": "+5.5",
+                "name": "Coastal Carolina Chanticleers",
+                "point": 1.5,
+                "point_label": "+1.5",
                 "price": -112,
                 "price_label": "-112"
               }
@@ -100,71 +99,35 @@
           }
         },
         {
-          "id": "84fb3ff9d04d9f8c6aeb5c8cadf6fbb5",
-          "sport_key": "americanfootball_ncaaf",
-          "league": "CFB",
-          "league_name": "College Football",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-10-15T23:30:00Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-10-15T23:30:00+00:00",
-          "home_team": "Old Dominion Monarchs",
-          "away_team": "Georgia Southern Eagles",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "10:09 AM CT",
-            "summary": "Georgia Southern Eagles -3.5",
-            "outcomes": [
-              {
-                "name": "Georgia Southern Eagles",
-                "point": -3.5,
-                "point_label": "-3.5",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Old Dominion Monarchs",
-                "point": 3.5,
-                "point_label": "+3.5",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f00195614a0c305207222ba2044a9c24",
+          "id": "fd8eda4d35be24559269f63ca7bbb06b",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
           "status_label": "7:00 PM CT",
-          "commence_time": "2026-10-16T00:00:00Z",
+          "commence_time": "2026-10-17T00:00:00Z",
           "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-10-16T00:00:00+00:00",
-          "home_team": "Texas State Bobcats",
-          "away_team": "Colorado State Rams",
+          "sort_time": "2026-10-17T00:00:00+00:00",
+          "home_team": "Purdue Boilermakers",
+          "away_team": "Washington Huskies",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "10:09 AM CT",
-            "summary": "Texas State Bobcats -14",
+            "last_update_ct": "9:56 AM CT",
+            "summary": "Purdue Boilermakers -3.5",
             "outcomes": [
               {
-                "name": "Colorado State Rams",
-                "point": 14.0,
-                "point_label": "+14",
+                "name": "Purdue Boilermakers",
+                "point": -3.5,
+                "point_label": "-3.5",
                 "price": -105,
                 "price_label": "-105"
               },
               {
-                "name": "Texas State Bobcats",
-                "point": -14.0,
-                "point_label": "-14",
+                "name": "Washington Huskies",
+                "point": 3.5,
+                "point_label": "+3.5",
                 "price": -115,
                 "price_label": "-115"
               }
@@ -196,18 +159,18 @@
     }
   ],
   "summary": {
-    "games": 4,
+    "games": 3,
     "live": 0,
     "final": 0,
-    "upcoming": 4,
-    "spreads": 4
+    "upcoming": 3,
+    "spreads": 3
   },
   "quota": {
-    "remaining": "437",
-    "used": "63",
+    "remaining": "433",
+    "used": "67",
     "last_request": "0"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-10-15T15:10:00+00:00"
+  "generated_at": "2026-10-16T14:56:52+00:00"
 }
