@@ -1,20 +1,60 @@
 {
-  "updated_at": "2026-10-16T20:59:35+00:00",
+  "updated_at": "2026-10-16T23:30:44+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Pope pictured for first time since surgery and cancer diagnosis",
+      "published_at": "2026-10-16T23:20:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "published_at": "2026-10-16T23:07:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "published_at": "2026-10-16T23:07:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
+      "published_at": "2026-10-16T21:36:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House press secretary Zacharia fired in less than a week after facing criticism",
+      "published_at": "2026-10-16T21:29:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top global climate science body suspends meeting without deal on major review timeline",
+      "published_at": "2026-10-16T21:25:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US strikes one-year deal to fund maternal and newborn health donations in poorest countries",
+      "published_at": "2026-10-16T21:00:29+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Strategy faces MSCI ouster under new rules, billions in passive holdings at risk",
       "published_at": "2026-10-16T20:40:58+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
-      "published_at": "2026-10-16T20:25:25+00:00"
+      "source": "NPR",
+      "text": "Katie Zacharia is out as press secretary, White House says",
+      "published_at": "2026-10-16T20:29:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "White House press secretary Zacharia fired in less than a week after facing criticism",
-      "published_at": "2026-10-16T20:10:55+00:00"
+      "text": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports",
+      "published_at": "2026-10-16T20:28:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Why is the battle for Yemen's Taiz so important?",
+      "published_at": "2026-10-16T20:09:52+00:00"
     },
     {
       "source": "Reuters",
@@ -35,46 +75,6 @@
       "source": "Reuters",
       "text": "Beijing seeks tighter grip on AI exports amid US rivalry",
       "published_at": "2026-10-16T18:59:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold set for a weekly drop as traders assess Fed signals",
-      "published_at": "2026-10-16T18:20:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "published_at": "2026-10-16T18:11:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-      "published_at": "2026-10-16T18:08:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
-      "published_at": "2026-10-16T17:45:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin says Russia is building non-negotiable 'security zone' in Ukraine along border",
-      "published_at": "2026-10-16T17:29:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Central bankers eye higher rates as AI boom fuels scramble for cash",
-      "published_at": "2026-10-16T16:38:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin envoy says Russia and US are discussing joint deals including on data centres",
-      "published_at": "2026-10-16T16:34:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Amid talk of public execution, public opinion on death penalty is split",
-      "published_at": "2026-10-16T16:28:00+00:00"
     }
   ]
 }
