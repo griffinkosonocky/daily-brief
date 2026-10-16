@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-16T07:04:18+00:00",
+  "updated_at": "2026-10-16T12:20:29+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "published_at": "2026-10-16T12:14:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: Bonds once again have a license to hedge",
+      "published_at": "2026-10-16T11:42:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "published_at": "2026-10-16T11:41:58+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
-      "published_at": "2026-10-16T06:27:30+00:00"
+      "text": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
+      "published_at": "2026-10-16T11:30:31+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dolce & Gabbana Beauty unit sees double-digit growth in 2026",
-      "published_at": "2026-10-16T06:13:00+00:00"
+      "text": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts",
+      "published_at": "2026-10-16T11:26:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Tipping Point",
+      "published_at": "2026-10-16T11:20:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU leaders rally around Zelenskiy as Trump calls Ukrainian strikes on Russia a 'disgrace'",
+      "published_at": "2026-10-16T11:16:22+00:00"
     },
     {
       "source": "NPR",
-      "text": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
-      "published_at": "2026-10-16T06:12:04+00:00"
+      "text": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "published_at": "2026-10-16T11:03:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What this bankruptcy says about AI startups",
+      "published_at": "2026-10-16T11:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "India widens rupee defence to rates, but cautiously",
-      "published_at": "2026-10-16T05:15:00+00:00"
+      "text": "Romania resumes search for seven missing sailors from drone-hit ship",
+      "published_at": "2026-10-16T10:55:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Catholics in Africa outnumber those in Europe, Vatican says",
+      "published_at": "2026-10-16T10:46:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Beijing seeks tighter grip on AI exports amid US rivalry",
+      "published_at": "2026-10-16T10:39:31+00:00"
     },
     {
       "source": "BBC",
-      "text": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "published_at": "2026-10-16T05:00:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "They fled Russia, but the West sent them back",
-      "published_at": "2026-10-16T04:57:28+00:00"
+      "text": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "published_at": "2026-10-16T10:37:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Morning Bid: Calm after CoreWeave shock, but for how long?",
-      "published_at": "2026-10-16T04:31:00+00:00"
+      "text": "Earnings, an election and an MSCI headache",
+      "published_at": "2026-10-16T10:30:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Gold Fields' $27 bln play may stay in M&A pit",
-      "published_at": "2026-10-16T04:17:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury says Japan no longer faces deflationary environment, yen level must change",
-      "published_at": "2026-10-16T04:11:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Fed's Warsh sees US economic tailwinds, mum on rate-path view",
-      "published_at": "2026-10-16T03:57:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says",
-      "published_at": "2026-10-16T03:50:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Three children and teacher killed in US primary school shooting",
-      "published_at": "2026-10-16T03:45:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oregon police say teen forced way into school before deadly shooting",
-      "published_at": "2026-10-16T03:41:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Modi's predicament: Gen Z pours out on India's streets as dissent surges",
-      "published_at": "2026-10-16T03:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Mideast war alters global bunker buying patterns, industry execs say",
-      "published_at": "2026-10-16T03:19:00+00:00"
+      "text": "Austrian investor rushes to boost copper production at old Chile mine",
+      "published_at": "2026-10-16T10:20:15+00:00"
     }
   ]
 }
