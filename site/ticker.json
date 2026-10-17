@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-17T19:19:26+00:00",
+  "updated_at": "2026-10-17T22:13:25+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Albanian police fire rubber bullets as student protests rage",
+      "published_at": "2026-10-17T21:04:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anti-government protesters battle with police in Albania",
+      "published_at": "2026-10-17T20:53:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "published_at": "2026-10-17T20:52:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump-Zelenskiy rift threatens vital support for Kyiv",
+      "published_at": "2026-10-17T19:58:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
+      "published_at": "2026-10-17T19:30:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "published_at": "2026-10-17T19:19:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "At least 17 dead in crush at Hindu festival event in India",
+      "published_at": "2026-10-17T19:19:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "European diplomats attacked by Israeli settlers in West Bank",
+      "published_at": "2026-10-17T18:38:57+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Pope Leo returns to Vatican four days after cancer surgery",
@@ -8,18 +48,23 @@
     },
     {
       "source": "Reuters",
-      "text": "Albanian police fire rubber bullets as student protests rage",
-      "published_at": "2026-10-17T16:48:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Czech PM Babis suffers setback in Senate elections",
-      "published_at": "2026-10-17T16:27:43+00:00"
+      "text": "Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says",
+      "published_at": "2026-10-17T17:08:04+00:00"
     },
     {
       "source": "NPR",
       "text": "Scuffles and fires break out as protesters rally across France, joining students",
       "published_at": "2026-10-17T15:57:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's hard left fails to unite before election, hurting chances of staying in power",
+      "published_at": "2026-10-17T15:51:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yes Bank Q2 profit rises but AT1 ruling not booked as further appeal weighed",
+      "published_at": "2026-10-17T15:19:10+00:00"
     },
     {
       "source": "NPR",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "High debt, growing strains put focus on need for new development approaches",
       "published_at": "2026-10-17T15:04:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Our land, our Albania': young lawmaker demands new future as protests rage",
-      "published_at": "2026-10-17T14:48:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "published_at": "2026-10-17T14:25:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
-      "published_at": "2026-10-17T14:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump faults aides as Republican midterm prospects dim",
-      "published_at": "2026-10-17T13:58:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope discharged from hospital days after lung cancer surgery",
-      "published_at": "2026-10-17T13:51:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
-      "published_at": "2026-10-17T13:38:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says",
-      "published_at": "2026-10-17T13:21:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt's Sisi says his presidency will end in 2030, outlines plan to prepare future leaders",
-      "published_at": "2026-10-17T13:13:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa still mulling over permutations for second test against Australia",
-      "published_at": "2026-10-17T12:40:32+00:00"
     }
   ]
 }
