@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-17T13:40:10+00:00",
+  "updated_at": "2026-10-17T13:49:26+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
+      "published_at": "2026-10-17T13:38:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran's Guards say two tankers hit mines in Strait of Hormuz",
+      "published_at": "2026-10-17T13:36:11+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says",
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "published_at": "2026-10-17T09:58:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Katie Zacharia leaving White House role less than five days into job",
-      "published_at": "2026-10-17T09:14:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "No Kings turns its focus to voting this weekend. Here's what we know",
-      "published_at": "2026-10-17T09:00:00+00:00"
     }
   ]
 }
