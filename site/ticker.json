@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-17T13:49:26+00:00",
+  "updated_at": "2026-10-17T17:04:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Czech PM Babis suffers setback in Senate elections",
+      "published_at": "2026-10-17T16:27:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo returns to Vatican four days after cancer surgery",
+      "published_at": "2026-10-17T16:14:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Scuffles and fires break out as protesters rally across France, joining students",
+      "published_at": "2026-10-17T15:57:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Albanian police fire rubber bullets as student protests rage",
+      "published_at": "2026-10-17T15:42:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "published_at": "2026-10-17T15:10:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Our land, our Albania': young lawmaker demands new future as protests rage",
+      "published_at": "2026-10-17T14:48:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australia still undecided on starting XI for second test v S Africa",
+      "published_at": "2026-10-17T14:34:12+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "published_at": "2026-10-17T14:25:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+      "published_at": "2026-10-17T14:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump faults aides as Republican midterm prospects dim",
+      "published_at": "2026-10-17T13:58:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope discharged from hospital days after lung cancer surgery",
+      "published_at": "2026-10-17T13:51:36+00:00"
+    },
     {
       "source": "Reuters",
       "text": "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
@@ -8,73 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Iran's Guards say two tankers hit mines in Strait of Hormuz",
-      "published_at": "2026-10-17T13:36:11+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says",
       "published_at": "2026-10-17T13:21:35+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Pope to be discharged days after lung cancer surgery",
-      "published_at": "2026-10-17T12:37:26+00:00"
+      "source": "Reuters",
+      "text": "Ukraine says Russia's claimed territorial advances are 'an illusion'",
+      "published_at": "2026-10-17T12:59:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "South Africa still mulling over permutations for second test against Australia",
-      "published_at": "2026-10-17T12:19:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "published_at": "2026-10-17T12:11:58+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Perspective: Midterm money madness",
-      "published_at": "2026-10-17T12:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "published_at": "2026-10-17T11:56:06+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-      "published_at": "2026-10-17T11:43:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-      "published_at": "2026-10-17T11:39:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Decades after apartheid, South Africans seek justice for crimes of the past",
-      "published_at": "2026-10-17T11:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rare pink diamond goes on display in France 100 years after amateur heist",
-      "published_at": "2026-10-17T10:46:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-      "published_at": "2026-10-17T10:10:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Appetite for disruption",
-      "published_at": "2026-10-17T10:00:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "published_at": "2026-10-17T09:58:17+00:00"
+      "published_at": "2026-10-17T12:40:32+00:00"
     }
   ]
 }
