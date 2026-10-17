@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-17T09:14:33+00:00",
+  "updated_at": "2026-10-17T13:40:10+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says",
+      "published_at": "2026-10-17T13:21:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope to be discharged days after lung cancer surgery",
+      "published_at": "2026-10-17T12:37:26+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Africa still mulling over permutations for second test against Australia",
+      "published_at": "2026-10-17T12:19:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "published_at": "2026-10-17T12:11:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Perspective: Midterm money madness",
+      "published_at": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "published_at": "2026-10-17T11:56:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+      "published_at": "2026-10-17T11:43:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "published_at": "2026-10-17T11:39:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "published_at": "2026-10-17T11:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "published_at": "2026-10-17T10:46:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "published_at": "2026-10-17T10:10:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Appetite for disruption",
+      "published_at": "2026-10-17T10:00:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "published_at": "2026-10-17T09:58:17+00:00"
+    },
     {
       "source": "BBC",
       "text": "Katie Zacharia leaving White House role less than five days into job",
@@ -8,73 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "Trump promised a swing district blitz. He's going to a lot of very red states",
-      "published_at": "2026-10-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-      "published_at": "2026-10-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Weddings are expensive. How about a grocery store cake?",
-      "published_at": "2026-10-17T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "No Kings turns its focus to voting this weekend. Here's what we know",
       "published_at": "2026-10-17T09:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rennie promises All Blacks will stick to their guns at World Cup",
-      "published_at": "2026-10-17T08:39:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Coastal homes burn as hot winds fuel California fires",
-      "published_at": "2026-10-17T08:20:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "published_at": "2026-10-17T07:41:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "published_at": "2026-10-17T06:49:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
-      "published_at": "2026-10-17T06:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
-      "published_at": "2026-10-17T06:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
-      "published_at": "2026-10-17T05:19:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "German minister seeks debt-brake exemption to sustain Ukraine aid",
-      "published_at": "2026-10-17T05:10:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "published_at": "2026-10-17T05:01:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Major development banks step up support for critical minerals value chains",
-      "published_at": "2026-10-17T04:14:00+00:00"
     }
   ]
 }
