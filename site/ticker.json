@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-18T05:47:55+00:00",
+  "updated_at": "2026-10-18T10:56:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "published_at": "2026-10-18T10:53:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF/World Bank meetings leave developing countries with more questions than answers",
+      "published_at": "2026-10-18T10:45:47+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+      "published_at": "2026-10-18T09:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Several dead or injured in major fire at Canada military base",
+      "published_at": "2026-10-18T08:52:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Major fire breaks out in Alberta after deadly incident at military base",
+      "published_at": "2026-10-18T07:56:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "German police investigate fence breach at Leipzig airport",
+      "published_at": "2026-10-18T06:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Lithuania told residents to go to shelters after detecting a flying object",
+      "published_at": "2026-10-18T05:42:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -15,16 +50,6 @@
       "source": "Reuters",
       "text": "Antofagasta's Centinela strike ends after deal with unions",
       "published_at": "2026-10-18T04:37:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Deaths confirmed in major fire at Canada military base",
-      "published_at": "2026-10-18T04:00:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid",
-      "published_at": "2026-10-18T03:58:00+00:00"
     },
     {
       "source": "Reuters",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
       "published_at": "2026-10-17T22:45:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump-Zelenskiy rift threatens vital support for Kyiv",
-      "published_at": "2026-10-17T22:27:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "published_at": "2026-10-17T22:09:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How day of protests unfolded as disorder breaks out across France",
-      "published_at": "2026-10-17T21:33:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Albanian police fire rubber bullets as student protests rage",
-      "published_at": "2026-10-17T21:04:25+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anti-government protesters battle with police in Albania",
-      "published_at": "2026-10-17T20:53:00+00:00"
     }
   ]
 }
