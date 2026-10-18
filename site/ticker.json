@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-10-18T14:31:31+00:00",
+  "updated_at": "2026-10-18T18:02:05+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Fire at Canadian military base kills seven, CBC reports",
+      "published_at": "2026-10-18T17:23:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
+      "published_at": "2026-10-18T16:42:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+      "published_at": "2026-10-18T16:30:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "published_at": "2026-10-18T15:46:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "published_at": "2026-10-18T14:31:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
+      "published_at": "2026-10-18T14:09:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
+      "published_at": "2026-10-18T13:59:44+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
       "published_at": "2026-10-18T13:51:43+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "published_at": "2026-10-18T13:47:07+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Albanian PM says protests pose threat to EU membership, not government",
-      "published_at": "2026-10-18T13:47:43+00:00"
+      "text": "IMF/World Bank meetings leave developing countries with more questions than answers",
+      "published_at": "2026-10-18T13:12:16+00:00"
     },
     {
       "source": "NPR",
@@ -22,59 +62,19 @@
       "published_at": "2026-10-18T12:45:09+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
-      "published_at": "2026-10-18T12:32:35+00:00"
-    },
-    {
       "source": "BBC",
       "text": "European diplomats attacked by Israeli settlers in West Bank",
       "published_at": "2026-10-18T12:16:14+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "published_at": "2026-10-18T12:09:43+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "published_at": "2026-10-18T12:07:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "If you have the scratch, they have the scares",
-      "published_at": "2026-10-18T12:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "published_at": "2026-10-18T11:57:49+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "published_at": "2026-10-18T11:09:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Parisians wake up to protest damage and looted shops",
-      "published_at": "2026-10-18T10:58:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
-      "published_at": "2026-10-18T10:54:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF/World Bank meetings leave developing countries with more questions than answers",
-      "published_at": "2026-10-18T10:45:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran urges US to accept proposal to reopen Strait of Hormuz",
-      "published_at": "2026-10-18T10:29:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-      "published_at": "2026-10-18T09:00:00+00:00"
     }
   ]
 }
