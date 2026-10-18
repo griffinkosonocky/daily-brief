@@ -1,10 +1,35 @@
 {
-  "updated_at": "2026-10-18T18:02:05+00:00",
+  "updated_at": "2026-10-18T20:34:01+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Macron calls for calm in France and warns rioting must not escalate",
+      "published_at": "2026-10-18T20:33:21+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Fire at Canadian military base kills seven, CBC reports",
-      "published_at": "2026-10-18T17:23:31+00:00"
+      "text": "Macron urges calm as France counts cost of worst unrest in years",
+      "published_at": "2026-10-18T20:08:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far about deadly fire at Canadian military base",
+      "published_at": "2026-10-18T19:42:37+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 4 killed in major fire at Canadian military base",
+      "published_at": "2026-10-18T19:17:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "published_at": "2026-10-18T18:38:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Wake Forest baseball coach Tom Walter placed on leave",
+      "published_at": "2026-10-18T18:09:51+00:00"
     },
     {
       "source": "Reuters",
@@ -33,11 +58,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
-      "published_at": "2026-10-18T13:59:44+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
       "published_at": "2026-10-18T13:51:43+00:00"
     },
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "Pope Leo says he will gradually resume duties after cancer surgery",
       "published_at": "2026-10-18T12:55:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
-      "published_at": "2026-10-18T12:45:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "European diplomats attacked by Israeli settlers in West Bank",
-      "published_at": "2026-10-18T12:16:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "published_at": "2026-10-18T12:09:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "published_at": "2026-10-18T12:07:31+00:00"
     }
   ]
 }
