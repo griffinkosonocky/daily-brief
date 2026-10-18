@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-18T00:56:10+00:00",
+  "updated_at": "2026-10-18T05:47:55+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "published_at": "2026-10-18T05:04:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
+      "published_at": "2026-10-18T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Antofagasta's Centinela strike ends after deal with unions",
+      "published_at": "2026-10-18T04:37:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Deaths confirmed in major fire at Canada military base",
+      "published_at": "2026-10-18T04:00:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid",
+      "published_at": "2026-10-18T03:58:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+      "published_at": "2026-10-18T03:38:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "published_at": "2026-10-18T01:10:25+00:00"
+    },
     {
       "source": "BBC",
       "text": "European diplomats attacked by Israeli settlers in West Bank",
@@ -33,11 +68,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
-      "published_at": "2026-10-17T21:31:57+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Albanian police fire rubber bullets as student protests rage",
       "published_at": "2026-10-17T21:04:25+00:00"
     },
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Anti-government protesters battle with police in Albania",
       "published_at": "2026-10-17T20:53:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "published_at": "2026-10-17T20:52:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "published_at": "2026-10-17T19:19:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "At least 17 dead in crush at Hindu festival event in India",
-      "published_at": "2026-10-17T19:19:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo returns to Vatican four days after cancer surgery",
-      "published_at": "2026-10-17T18:25:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says",
-      "published_at": "2026-10-17T17:08:04+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Scuffles and fires break out as protesters rally across France, joining students",
-      "published_at": "2026-10-17T15:57:40+00:00"
     }
   ]
 }
