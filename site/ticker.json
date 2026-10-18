@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-17T22:13:25+00:00",
+  "updated_at": "2026-10-18T00:56:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "European diplomats attacked by Israeli settlers in West Bank",
+      "published_at": "2026-10-17T23:52:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
+      "published_at": "2026-10-17T22:53:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+      "published_at": "2026-10-17T22:45:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump-Zelenskiy rift threatens vital support for Kyiv",
+      "published_at": "2026-10-17T22:27:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "published_at": "2026-10-17T22:09:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How day of protests unfolded as disorder breaks out across France",
+      "published_at": "2026-10-17T21:33:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
+      "published_at": "2026-10-17T21:31:57+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Albanian police fire rubber bullets as student protests rage",
@@ -17,16 +52,6 @@
       "published_at": "2026-10-17T20:52:17+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump-Zelenskiy rift threatens vital support for Kyiv",
-      "published_at": "2026-10-17T19:58:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents",
-      "published_at": "2026-10-17T19:30:10+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "published_at": "2026-10-17T19:19:19+00:00"
@@ -35,11 +60,6 @@
       "source": "BBC",
       "text": "At least 17 dead in crush at Hindu festival event in India",
       "published_at": "2026-10-17T19:19:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "European diplomats attacked by Israeli settlers in West Bank",
-      "published_at": "2026-10-17T18:38:57+00:00"
     },
     {
       "source": "Reuters",
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "Scuffles and fires break out as protesters rally across France, joining students",
       "published_at": "2026-10-17T15:57:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's hard left fails to unite before election, hurting chances of staying in power",
-      "published_at": "2026-10-17T15:51:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yes Bank Q2 profit rises but AT1 ruling not booked as further appeal weighed",
-      "published_at": "2026-10-17T15:19:10+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-      "published_at": "2026-10-17T15:10:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "High debt, growing strains put focus on need for new development approaches",
-      "published_at": "2026-10-17T15:04:35+00:00"
     }
   ]
 }
