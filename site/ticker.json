@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-10-18T20:34:01+00:00",
+  "updated_at": "2026-10-18T23:03:30+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Macron calls for calm in France and warns rioting must not escalate",
+      "text": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "published_at": "2026-10-18T22:10:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IMF/World Bank meetings leave developing countries with more questions than answers",
+      "published_at": "2026-10-18T22:00:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far about deadly fire at Canadian military base",
+      "published_at": "2026-10-18T21:37:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
+      "published_at": "2026-10-18T21:04:38+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four killed after high winds turn grass fire deadly at Canadian military base, report says",
+      "published_at": "2026-10-18T21:02:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "published_at": "2026-10-18T21:00:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
+      "published_at": "2026-10-18T20:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump endorses Netanyahu in close Israeli election",
+      "published_at": "2026-10-18T20:55:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Macron calls for 'calm and order' after riots across France",
       "published_at": "2026-10-18T20:33:21+00:00"
     },
     {
@@ -13,13 +53,8 @@
     },
     {
       "source": "BBC",
-      "text": "What we know so far about deadly fire at Canadian military base",
-      "published_at": "2026-10-18T19:42:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "At least 4 killed in major fire at Canadian military base",
-      "published_at": "2026-10-18T19:17:43+00:00"
+      "text": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "published_at": "2026-10-18T19:53:27+00:00"
     },
     {
       "source": "NPR",
@@ -32,11 +67,6 @@
       "published_at": "2026-10-18T18:09:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
-      "published_at": "2026-10-18T16:42:18+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Noah Adams, longtime host of NPR's All Things Considered, has died",
       "published_at": "2026-10-18T16:30:00+00:00"
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "published_at": "2026-10-18T15:46:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-      "published_at": "2026-10-18T14:31:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
-      "published_at": "2026-10-18T14:09:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
-      "published_at": "2026-10-18T13:51:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "published_at": "2026-10-18T13:47:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "IMF/World Bank meetings leave developing countries with more questions than answers",
-      "published_at": "2026-10-18T13:12:16+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "published_at": "2026-10-18T12:55:01+00:00"
     }
   ]
 }
