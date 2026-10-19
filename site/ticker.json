@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-10-18T23:03:30+00:00",
+  "updated_at": "2026-10-19T01:08:45+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Jesse Eisenberg, Julianne Moore bring curtain down on London Film Festival with 'The Debut'",
+      "published_at": "2026-10-19T00:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Frail Indonesian markets reel after MSCI shock warning",
+      "published_at": "2026-10-19T00:36:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "published_at": "2026-10-19T00:06:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "published_at": "2026-10-18T23:28:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "published_at": "2026-10-18T22:10:45+00:00"
+      "published_at": "2026-10-18T23:20:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Major fire at Canada military base leaves four dead, dozens injured",
+      "published_at": "2026-10-18T23:06:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: AI isn’t Asia’s only game in town: Manishi Raychaudhuri",
+      "published_at": "2026-10-18T23:05:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Four dead, 39 injured at Canadian military base in grass fire fanned by high winds, officials say",
+      "published_at": "2026-10-18T22:36:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "published_at": "2026-10-18T22:22:51+00:00"
     },
     {
       "source": "Reuters",
@@ -12,19 +52,9 @@
       "published_at": "2026-10-18T22:00:51+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What we know so far about deadly fire at Canadian military base",
-      "published_at": "2026-10-18T21:37:56+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
       "published_at": "2026-10-18T21:04:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Four killed after high winds turn grass fire deadly at Canadian military base, report says",
-      "published_at": "2026-10-18T21:02:45+00:00"
     },
     {
       "source": "BBC",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "Macron calls for 'calm and order' after riots across France",
       "published_at": "2026-10-18T20:33:21+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Macron urges calm as France counts cost of worst unrest in years",
-      "published_at": "2026-10-18T20:08:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "published_at": "2026-10-18T19:53:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-      "published_at": "2026-10-18T18:38:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wake Forest baseball coach Tom Walter placed on leave",
-      "published_at": "2026-10-18T18:09:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Noah Adams, longtime host of NPR's All Things Considered, has died",
-      "published_at": "2026-10-18T16:30:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "published_at": "2026-10-18T15:46:10+00:00"
     }
   ]
 }
