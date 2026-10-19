@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-10-19T15:46:46+00:00",
+  "updated_at": "2026-10-19T17:03:33+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "published_at": "2026-10-19T16:32:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Governments warn citizens over security in France after riots",
+      "published_at": "2026-10-19T16:32:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "published_at": "2026-10-19T16:22:12+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "published_at": "2026-10-19T16:20:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Myanmar authorities release rare images of Aung San Suu Kyi",
+      "published_at": "2026-10-19T16:20:49+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "published_at": "2026-10-19T15:40:28+00:00"
+      "published_at": "2026-10-19T16:16:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "published_at": "2026-10-19T16:16:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's unrest lays bare 'slow agony' of Macron's twilight months",
+      "published_at": "2026-10-19T16:05:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict?",
+      "published_at": "2026-10-19T15:53:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France in turmoil after riots and looting: What we know",
+      "published_at": "2026-10-19T15:42:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paul Mackenzie, the Kenyan preacher who led hundreds to starve to death",
+      "published_at": "2026-10-19T15:33:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "published_at": "2026-10-19T15:21:03+00:00"
     },
     {
       "source": "Reuters",
@@ -20,61 +75,6 @@
       "source": "BBC",
       "text": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "published_at": "2026-10-19T14:13:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian MP critically injured after being hit by car in apparent attack",
-      "published_at": "2026-10-19T14:09:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Catalonia's former rebel president can return to Spain, court rules",
-      "published_at": "2026-10-19T14:06:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "published_at": "2026-10-19T13:44:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Exiled critic of Rwandan president found beheaded",
-      "published_at": "2026-10-19T13:42:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK risks becoming 'AI customer' rather than creator, advisers warn",
-      "published_at": "2026-10-19T13:28:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
-      "published_at": "2026-10-19T13:24:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway targets 'harmful' social media, games with under-16 ban",
-      "published_at": "2026-10-19T13:01:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
-      "published_at": "2026-10-19T12:35:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Ukraine intelligence sharing, France reels and Alberta’s vote on secession",
-      "published_at": "2026-10-19T12:18:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "European governments warn citizens over security in France after riots",
-      "published_at": "2026-10-19T12:08:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rubio denies US paused intelligence sharing with Ukraine",
-      "published_at": "2026-10-19T11:46:02+00:00"
     }
   ]
 }
