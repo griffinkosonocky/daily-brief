@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-20T20:31:00+00:00",
+  "updated_at": "2026-10-20T23:48:44+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
+      "published_at": "2026-10-20T23:30:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast",
+      "published_at": "2026-10-20T22:58:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "United Airlines profit outlook well below estimates, hit by fuel costs",
+      "published_at": "2026-10-20T22:15:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Portugal housing protesters return to squares, vow to press on",
+      "published_at": "2026-10-20T21:28:19+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "published_at": "2026-10-20T21:27:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
+      "published_at": "2026-10-20T21:14:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Suspect arrested after historic town hall set alight - French media",
+      "published_at": "2026-10-20T21:05:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: Oil reversal lifts spirits",
+      "published_at": "2026-10-20T21:04:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny",
+      "published_at": "2026-10-20T21:02:08+00:00"
+    },
     {
       "source": "NPR",
       "text": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
@@ -13,68 +58,23 @@
     },
     {
       "source": "BBC",
-      "text": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "published_at": "2026-10-20T20:01:04+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
       "published_at": "2026-10-20T20:00:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Food importer files new lawsuit to block Trump's Canada tariffs",
+      "published_at": "2026-10-20T19:53:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he asked Putin to release American Stephen Hubbard",
+      "published_at": "2026-10-20T19:31:27+00:00"
     },
     {
       "source": "BBC",
       "text": "Trump sued over Canadian tariffs in latest legal challenge",
       "published_at": "2026-10-20T19:30:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall Street rises with investors rotating into healthcare and value stocks",
-      "published_at": "2026-10-20T18:53:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of England's Greene says inflation risks are bigger than thought",
-      "published_at": "2026-10-20T18:27:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Eastern Libya parliament approves maritime deal with Turkey, drawing Greek rejection",
-      "published_at": "2026-10-20T17:45:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta's global affairs officer Joel Kaplan to leave company after 15 years",
-      "published_at": "2026-10-20T17:44:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "published_at": "2026-10-20T17:30:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident",
-      "published_at": "2026-10-20T17:10:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel's Ben-Gvir poised for election gains as young voters turn to far right",
-      "published_at": "2026-10-20T17:01:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "published_at": "2026-10-20T16:59:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs",
-      "published_at": "2026-10-20T16:40:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU unveils new Arctic strategy with focus on security",
-      "published_at": "2026-10-20T16:29:56+00:00"
     }
   ]
 }
