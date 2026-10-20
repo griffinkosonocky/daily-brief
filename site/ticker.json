@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-20T15:14:26+00:00",
+  "updated_at": "2026-10-20T16:53:22+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Wall Street gains ground on healthcare stocks rally, oil retreat",
+      "published_at": "2026-10-20T16:39:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EU unveils new Arctic strategy with focus on security",
+      "published_at": "2026-10-20T16:29:56+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+      "published_at": "2026-10-20T16:27:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italy's Meloni to boost police arrest powers in response to weekend riots",
+      "published_at": "2026-10-20T16:26:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "published_at": "2026-10-20T16:11:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "published_at": "2026-10-20T16:09:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Suspect arrested after historic town hall set alight - French media",
+      "published_at": "2026-10-20T16:06:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "published_at": "2026-10-20T15:58:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+      "published_at": "2026-10-20T15:51:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Alberta votes overwhelmingly to remain part of Canada",
+      "published_at": "2026-10-20T15:45:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Global warming is accelerating, leading climate scientist Rockström says",
+      "published_at": "2026-10-20T15:30:03+00:00"
+    },
     {
       "source": "Reuters",
       "text": "GM shares sink as automaker signals rising cost pressures",
@@ -8,73 +63,18 @@
     },
     {
       "source": "Reuters",
-      "text": "Russian diesel returns to Turkey, Brazil after export ban lifted, shipping data shows",
-      "published_at": "2026-10-20T14:36:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-      "published_at": "2026-10-20T14:24:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "published_at": "2026-10-20T14:09:42+00:00"
+      "text": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+      "published_at": "2026-10-20T14:52:39+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Google Cloud outage in UK eases after impacting digital banks, public sector websites",
-      "published_at": "2026-10-20T13:59:50+00:00"
+      "text": "Britain seeks to break Apple's grip on contactless payments",
+      "published_at": "2026-10-20T14:52:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bessent says a Democrat-led Congress could do little to stop Trump agenda",
-      "published_at": "2026-10-20T13:53:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "published_at": "2026-10-20T13:51:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Google Cloud services largely back up in UK",
-      "published_at": "2026-10-20T13:37:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "published_at": "2026-10-20T13:23:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global warming is accelerating, leading climate scientist Rockström says",
-      "published_at": "2026-10-20T13:15:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet",
-      "published_at": "2026-10-20T13:05:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Special report: Heat storms",
-      "published_at": "2026-10-20T13:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Death toll from Houthi attack on Yemen training camp rises to 73",
-      "published_at": "2026-10-20T12:53:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Suspect arrested after historic town hall set alight - French media",
-      "published_at": "2026-10-20T12:45:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran prolongs talks in stalemate to influence US midterms, officials say",
-      "published_at": "2026-10-20T12:11:22+00:00"
+      "text": "Romanian parliament confirms new prime minister after months of deadlock",
+      "published_at": "2026-10-20T14:42:33+00:00"
     }
   ]
 }
