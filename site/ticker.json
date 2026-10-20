@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-20T05:56:50+00:00",
+  "updated_at": "2026-10-20T11:26:07+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "How is the US economy really doing under President Trump?",
-      "published_at": "2026-10-20T05:00:45+00:00"
+      "source": "NPR",
+      "text": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "published_at": "2026-10-20T11:04:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Israel’s key election has high economic stakes",
-      "published_at": "2026-10-20T05:00:00+00:00"
+      "text": "Google Cloud services face outage in London, Revolut services down too",
+      "published_at": "2026-10-20T10:32:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "published_at": "2026-10-20T10:30:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Two-run homers send Rays past Guardians in Game 6, into World Series",
-      "published_at": "2026-10-20T04:48:00+00:00"
+      "text": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+      "published_at": "2026-10-20T09:19:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Rubio kicks off India visit with trade deal, Russian oil on agenda",
-      "published_at": "2026-10-20T04:09:00+00:00"
+      "source": "NPR",
+      "text": "Why are some food prices up and others down? Here are the stories of 5 items",
+      "published_at": "2026-10-20T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "How safe havens stack up as tech, energy and France fears grip markets",
-      "published_at": "2026-10-20T04:06:00+00:00"
+      "source": "NPR",
+      "text": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "published_at": "2026-10-20T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "published_at": "2026-10-20T03:10:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "published_at": "2026-10-20T02:54:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seventh day of violent clashes between Albanian protesters and police",
-      "published_at": "2026-10-20T02:45:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says",
-      "published_at": "2026-10-20T02:13:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Micron union in Taiwan to launch strike as bonus dispute escalates",
-      "published_at": "2026-10-20T02:06:00+00:00"
+      "source": "NPR",
+      "text": "Can the new federal voucher program help public schools? Democrats are torn",
+      "published_at": "2026-10-20T09:00:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "published_at": "2026-10-20T01:52:43+00:00"
+      "text": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "published_at": "2026-10-20T08:58:26+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Israeli Gen Z voters are drawn to the far right",
+      "published_at": "2026-10-20T08:53:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Morning news brief",
+      "published_at": "2026-10-20T08:50:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Rays will face Brewers in World Series to produce a first-time champion",
+      "published_at": "2026-10-20T06:28:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump warns Kansans that US will 'burn' like France if Democrats win",
-      "published_at": "2026-10-20T01:50:00+00:00"
+      "text": "UEFA demands answers from FIFA over Infantino presidency - reports",
+      "published_at": "2026-10-20T06:08:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gold inches up on softer dollar as investors assess Fed rate outlook",
-      "published_at": "2026-10-20T01:33:00+00:00"
+      "text": "The fake commute: How China's unemployed save face",
+      "published_at": "2026-10-20T06:05:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "published_at": "2026-10-20T06:02:40+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dollar and euro drift, yen slips as markets seek direction",
-      "published_at": "2026-10-20T01:14:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says Mexico and US are close to trade deal",
-      "published_at": "2026-10-20T01:00:00+00:00"
+      "text": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
+      "published_at": "2026-10-20T06:02:00+00:00"
     }
   ]
 }
