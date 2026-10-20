@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-10-19",
-  "generated_at_ct": "Oct 19, 2026 at 12:03 PM CT",
+  "date_key": "2026-10-20",
+  "generated_at_ct": "Oct 20, 2026 at 10:14 AM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -16,45 +16,8 @@
       "key": "americanfootball_nfl",
       "label": "NFL",
       "full_name": "NFL",
-      "games": [
-        {
-          "id": "f122527f003276d3bca19efa48c902c1",
-          "sport_key": "americanfootball_nfl",
-          "league": "NFL",
-          "league_name": "NFL",
-          "status_key": "upcoming",
-          "status_label": "7:15 PM CT",
-          "commence_time": "2026-10-20T00:15:00Z",
-          "commence_ct": "7:15 PM CT",
-          "sort_time": "2026-10-20T00:15:00+00:00",
-          "home_team": "San Francisco 49ers",
-          "away_team": "Washington Commanders",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "12:03 PM CT",
-            "summary": "San Francisco 49ers -7.5",
-            "outcomes": [
-              {
-                "name": "San Francisco 49ers",
-                "point": -7.5,
-                "point_label": "-7.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Washington Commanders",
-                "point": 7.5,
-                "point_label": "+7.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        }
-      ],
-      "note": "",
+      "games": [],
+      "note": "No games today.",
       "errors": [],
       "active": true
     },
@@ -62,8 +25,117 @@
       "key": "americanfootball_ncaaf",
       "label": "CFB",
       "full_name": "College Football",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "c85512046e05e5ed845e60dd5d6d5e1e",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-20T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-20T23:00:00+00:00",
+          "home_team": "Florida International Panthers",
+          "away_team": "Middle Tennessee Blue Raiders",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:13 AM CT",
+            "summary": "Florida International Panthers -10",
+            "outcomes": [
+              {
+                "name": "Florida International Panthers",
+                "point": -10.0,
+                "point_label": "-10",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Middle Tennessee Blue Raiders",
+                "point": 10.0,
+                "point_label": "+10",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dc65142bf9a0e7652a252b2074037efa",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-20T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-20T23:00:00+00:00",
+          "home_team": "Delaware Blue Hens",
+          "away_team": "Missouri State Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:13 AM CT",
+            "summary": "Delaware Blue Hens -2.5",
+            "outcomes": [
+              {
+                "name": "Delaware Blue Hens",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -118,
+                "price_label": "-118"
+              },
+              {
+                "name": "Missouri State Bears",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -102,
+                "price_label": "-102"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a3ed14cd9d938b3c5bea48fb0c78805d",
+          "sport_key": "americanfootball_ncaaf",
+          "league": "CFB",
+          "league_name": "College Football",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-10-20T23:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-10-20T23:30:00+00:00",
+          "home_team": "Marshall Thundering Herd",
+          "away_team": "South Alabama Jaguars",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:13 AM CT",
+            "summary": "South Alabama Jaguars -2.5",
+            "outcomes": [
+              {
+                "name": "Marshall Thundering Herd",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "South Alabama Jaguars",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     },
@@ -80,25 +152,134 @@
       "key": "basketball_nba",
       "label": "NBA",
       "full_name": "NBA",
-      "games": [],
-      "note": "No games today.",
+      "games": [
+        {
+          "id": "26b036ff107f3c658258eaf4a6f26228",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "2:00 PM CT",
+          "commence_time": "2026-10-20T19:00:00Z",
+          "commence_ct": "2:00 PM CT",
+          "sort_time": "2026-10-20T19:00:00+00:00",
+          "home_team": "Detroit Pistons",
+          "away_team": "Boston Celtics",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:14 AM CT",
+            "summary": "Boston Celtics -1.5",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2b042ddad3d3c6c6fe5b7005dc26c775",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-10-20T23:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-10-20T23:00:00+00:00",
+          "home_team": "New York Knicks",
+          "away_team": "Philadelphia 76ers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:14 AM CT",
+            "summary": "New York Knicks -4.5",
+            "outcomes": [
+              {
+                "name": "New York Knicks",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "bccd283de56915e29af1788beb0abfc9",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "8:30 PM CT",
+          "commence_time": "2026-10-21T01:30:00Z",
+          "commence_ct": "8:30 PM CT",
+          "sort_time": "2026-10-21T01:30:00+00:00",
+          "home_team": "San Antonio Spurs",
+          "away_team": "Oklahoma City Thunder",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "10:14 AM CT",
+            "summary": "San Antonio Spurs -1.5",
+            "outcomes": [
+              {
+                "name": "Oklahoma City Thunder",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -118,
+                "price_label": "-118"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -102,
+                "price_label": "-102"
+              }
+            ]
+          }
+        }
+      ],
+      "note": "",
       "errors": [],
       "active": true
     }
   ],
   "summary": {
-    "games": 1,
+    "games": 6,
     "live": 0,
     "final": 0,
-    "upcoming": 1,
-    "spreads": 1
+    "upcoming": 6,
+    "spreads": 6
   },
   "quota": {
-    "remaining": "421",
-    "used": "79",
-    "last_request": "0"
+    "remaining": "416",
+    "used": "84",
+    "last_request": "1"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-10-19T17:03:31+00:00"
+  "generated_at": "2026-10-20T15:14:25+00:00"
 }
