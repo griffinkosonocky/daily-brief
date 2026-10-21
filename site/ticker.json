@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-21T15:10:04+00:00",
+  "updated_at": "2026-10-21T15:26:59+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+      "published_at": "2026-10-21T15:21:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows",
+      "published_at": "2026-10-21T15:07:15+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Government websites go dark as software flaw sparks security scramble",
@@ -13,13 +23,13 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows",
-      "published_at": "2026-10-21T14:35:55+00:00"
+      "text": "Louis Oosthuizen departs LIV Golf, eyes return to DP World Tour",
+      "published_at": "2026-10-21T14:13:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Louis Oosthuizen departs LIV Golf, eyes return to DP World Tour",
-      "published_at": "2026-10-21T14:13:43+00:00"
+      "text": "EXCLUSIVE: Hungary considers replacing Russia's Rosatom in nuclear project",
+      "published_at": "2026-10-21T14:13:40+00:00"
     },
     {
       "source": "BBC",
@@ -30,11 +40,6 @@
       "source": "Reuters",
       "text": "Nigeria says private capital to drive next growth phase, petrol subsidy gone",
       "published_at": "2026-10-21T14:00:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
-      "published_at": "2026-10-21T13:56:21+00:00"
     },
     {
       "source": "BBC",
@@ -53,7 +58,7 @@
     },
     {
       "source": "NPR",
-      "text": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+      "text": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
       "published_at": "2026-10-21T13:28:04+00:00"
     },
     {
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "El Nino 'wrecking ball' could cause record Pacific temperature rise, UN says",
       "published_at": "2026-10-21T13:18:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands of Greek students, teachers protest over education, pay",
-      "published_at": "2026-10-21T12:49:43+00:00"
     }
   ]
 }
