@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-20T23:48:44+00:00",
+  "updated_at": "2026-10-21T04:34:45+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "published_at": "2026-10-21T03:59:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "published_at": "2026-10-21T02:37:13+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+      "published_at": "2026-10-21T02:15:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asian stocks climb as strong earnings buoy Wall Street",
+      "published_at": "2026-10-21T02:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
+      "published_at": "2026-10-21T01:25:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France is divided over who to blame for weekend riots and what to learn from them",
+      "published_at": "2026-10-21T01:22:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA",
+      "published_at": "2026-10-21T01:20:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain increases lead over US atop FIFA World Rankings",
+      "published_at": "2026-10-21T00:57:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "published_at": "2026-10-20T23:51:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
+      "published_at": "2026-10-20T23:44:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast",
+      "published_at": "2026-10-20T23:41:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "published_at": "2026-10-20T23:41:30+00:00"
+    },
     {
       "source": "Reuters",
       "text": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
       "published_at": "2026-10-20T23:30:21+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast",
-      "published_at": "2026-10-20T22:58:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "United Airlines profit outlook well below estimates, hit by fuel costs",
-      "published_at": "2026-10-20T22:15:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Portugal housing protesters return to squares, vow to press on",
-      "published_at": "2026-10-20T21:28:19+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "published_at": "2026-10-20T21:27:39+00:00"
+      "text": "Elon Musk says Tesla-SpaceX merger being considered",
+      "published_at": "2026-10-20T23:24:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
-      "published_at": "2026-10-20T21:14:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Suspect arrested after historic town hall set alight - French media",
-      "published_at": "2026-10-20T21:05:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COMMENTARY: Trading Day: Oil reversal lifts spirits",
-      "published_at": "2026-10-20T21:04:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny",
-      "published_at": "2026-10-20T21:02:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-      "published_at": "2026-10-20T20:19:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China says US' DeepSeek ban disregards Xi-Trump consensus",
-      "published_at": "2026-10-20T20:02:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-      "published_at": "2026-10-20T20:00:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Food importer files new lawsuit to block Trump's Canada tariffs",
-      "published_at": "2026-10-20T19:53:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he asked Putin to release American Stephen Hubbard",
-      "published_at": "2026-10-20T19:31:27+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump sued over Canadian tariffs in latest legal challenge",
-      "published_at": "2026-10-20T19:30:05+00:00"
+      "text": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says",
+      "published_at": "2026-10-20T23:24:39+00:00"
     }
   ]
 }
