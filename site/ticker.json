@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-21T20:04:54+00:00",
+  "updated_at": "2026-10-21T23:14:40+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Meet the people moving north to escape increasingly hot summers",
-      "published_at": "2026-10-21T20:00:00+00:00"
+      "source": "BBC",
+      "text": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "published_at": "2026-10-21T23:04:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Agriculture Dept confirms first detection of New World screwworm in US wildlife",
+      "published_at": "2026-10-21T22:22:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "published_at": "2026-10-21T22:00:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "STRICTLY EMBARGOED UNTIL WEDS 11PM - U.S. climate champion Gina McCarthy honoured in Reuters Global Sustainability awards",
+      "published_at": "2026-10-21T22:00:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Meta fined $25bn for 'lies' over user data privacy",
-      "published_at": "2026-10-21T19:54:16+00:00"
+      "published_at": "2026-10-21T21:49:07+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "published_at": "2026-10-21T19:47:18+00:00"
+      "source": "Reuters",
+      "text": "Trump says fraud investigations make 'very big dent' in overseas scams",
+      "published_at": "2026-10-21T21:45:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Tech it away",
+      "published_at": "2026-10-21T21:34:53+00:00"
     },
     {
       "source": "BBC",
-      "text": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "published_at": "2026-10-21T19:29:40+00:00"
+      "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "published_at": "2026-10-21T21:27:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Who is Stephen Hubbard, the US citizen released by Russia?",
+      "published_at": "2026-10-21T21:08:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Putin agrees to resume 3-way peace talks with Ukraine and US",
+      "published_at": "2026-10-21T21:06:57+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+      "published_at": "2026-10-21T20:56:07+00:00"
     },
     {
       "source": "Reuters",
       "text": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "published_at": "2026-10-21T19:06:57+00:00"
+      "published_at": "2026-10-21T20:46:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Websites taken offline over PHP risks",
-      "published_at": "2026-10-21T19:05:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "published_at": "2026-10-21T18:22:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-      "published_at": "2026-10-21T18:10:42+00:00"
+      "text": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+      "published_at": "2026-10-21T20:42:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Sisi says Egypt would defend Saudi territory but rules out attack on Yemen",
-      "published_at": "2026-10-21T17:54:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "published_at": "2026-10-21T17:42:34+00:00"
+      "text": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
+      "published_at": "2026-10-21T20:34:18+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Supreme Court won't allow Trump administration restrictions on transgender inmates",
-      "published_at": "2026-10-21T17:25:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Family of prison officer killed by IRA receives state apology",
-      "published_at": "2026-10-21T16:58:16+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former Hungarian central bank chief Matolcsy detained in probe into loss of bank funds",
-      "published_at": "2026-10-21T16:43:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "El Nino 'wrecking ball' could cause record Pacific temperature rise, UN says",
-      "published_at": "2026-10-21T16:24:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yankees GM Brian Cashman agrees to contract, to return for 30th season",
-      "published_at": "2026-10-21T16:23:43+00:00"
+      "text": "Venezuela to attract investors after elections, Branson says",
+      "published_at": "2026-10-21T20:34:09+00:00"
     }
   ]
 }
