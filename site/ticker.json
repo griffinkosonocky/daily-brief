@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-22T20:00:24+00:00",
+  "updated_at": "2026-10-22T23:16:52+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Trump says wind turbine imports threaten national security",
+      "published_at": "2026-10-22T22:03:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: PHP hacks, Russia-Ukraine strikes and Brazil's phone problem (Updated)",
+      "published_at": "2026-10-22T21:55:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "published_at": "2026-10-22T21:42:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trading Day: Maximum pAIn",
+      "published_at": "2026-10-22T21:19:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
+      "published_at": "2026-10-22T21:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pinheiro Braathen embraces freedom after taking unconventional path to Olympic gold",
+      "published_at": "2026-10-22T20:59:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+      "published_at": "2026-10-22T20:12:52+00:00"
+    },
     {
       "source": "BBC",
       "text": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
@@ -17,9 +52,19 @@
       "published_at": "2026-10-22T19:25:26+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "France's Macron tightens curbs on protests, blaming hard left for unrest",
+      "published_at": "2026-10-22T19:19:54+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Federal judge restricts DHS field operations looking for noncitizen voters",
       "published_at": "2026-10-22T19:16:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US to host inaugural Women's Club World Cup in 2028",
+      "published_at": "2026-10-22T19:15:29+00:00"
     },
     {
       "source": "Reuters",
@@ -30,51 +75,6 @@
       "source": "Reuters",
       "text": "France reports first human case of livestock virus Shamonda after patient dies",
       "published_at": "2026-10-22T18:58:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40%",
-      "published_at": "2026-10-22T18:34:26+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "published_at": "2026-10-22T18:26:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay's central bank under pressure over politically connected lender",
-      "published_at": "2026-10-22T17:56:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa level series with win over Australia in second test",
-      "published_at": "2026-10-22T17:51:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "published_at": "2026-10-22T17:49:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "published_at": "2026-10-22T17:21:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "NEWSLETTER: Kalshi’s odds at the Supreme Court",
-      "published_at": "2026-10-22T17:21:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-      "published_at": "2026-10-22T17:18:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "published_at": "2026-10-22T17:14:04+00:00"
     }
   ]
 }
