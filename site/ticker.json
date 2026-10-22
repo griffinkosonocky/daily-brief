@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-22T04:33:06+00:00",
+  "updated_at": "2026-10-22T10:04:04+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "China bets on manufactured water, and wants to sell it to the world",
-      "published_at": "2026-10-22T04:03:00+00:00"
+      "source": "BBC",
+      "text": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "published_at": "2026-10-22T09:56:36+00:00"
     },
     {
       "source": "BBC",
-      "text": "No purchase, no seats: Starbucks China rolls out new policy",
-      "published_at": "2026-10-22T04:02:29+00:00"
+      "text": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "published_at": "2026-10-22T09:47:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SAP clients increasingly worry about AI models' origin, CFO says",
+      "published_at": "2026-10-22T09:40:09+00:00"
     },
     {
       "source": "BBC",
-      "text": "What is PHP and why did it spark a global cyber-security scramble?",
-      "published_at": "2026-10-22T03:48:50+00:00"
+      "text": "How do Israel's elections work and who are the main contenders?",
+      "published_at": "2026-10-22T09:27:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "The Azores are showing the world what ocean leadership looks like",
+      "published_at": "2026-10-22T09:16:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "US embassy accuses Canada of election meddling ahead of midterms",
-      "published_at": "2026-10-22T03:05:28+00:00"
+      "text": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "published_at": "2026-10-22T09:14:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dip in the dollar takes a breather with Fed in focus",
-      "published_at": "2026-10-22T02:10:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's Carney visits Turkey in push to ease US trade dependence",
-      "published_at": "2026-10-22T02:01:00+00:00"
+      "text": "Greece says it is implementing sanctions linked to Iran",
+      "published_at": "2026-10-22T09:14:18+00:00"
     },
     {
       "source": "BBC",
-      "text": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "published_at": "2026-10-22T01:07:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of Korea holds rates, upbeat outlook points to future hikes",
-      "published_at": "2026-10-22T01:07:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Meta sued in Australia class action over alleged social media harm to children",
-      "published_at": "2026-10-22T00:34:00+00:00"
+      "text": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "published_at": "2026-10-22T09:06:48+00:00"
     },
     {
       "source": "NPR",
-      "text": "AIPAC halts endorsements and direct contributions to candidates",
-      "published_at": "2026-10-22T00:22:48+00:00"
+      "text": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+      "published_at": "2026-10-22T09:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN expert urges Indonesia to reconsider involvement in Trump's Gaza board",
+      "published_at": "2026-10-22T09:00:23+00:00"
     },
     {
       "source": "NPR",
-      "text": "The Justice Department begins notifying counties where it wants to monitor elections",
-      "published_at": "2026-10-22T00:18:47+00:00"
+      "text": "Farm country has beef with Trump as midterms approach",
+      "published_at": "2026-10-22T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea",
-      "published_at": "2026-10-21T23:58:50+00:00"
+      "source": "NPR",
+      "text": "Trump merchandise stores are closing: 'He has peaked'",
+      "published_at": "2026-10-22T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Comcast plans significant job cuts, Bloomberg News reports",
-      "published_at": "2026-10-21T23:56:52+00:00"
+      "source": "NPR",
+      "text": "Can a dream help you solve a problem? Here's how to try tonight",
+      "published_at": "2026-10-22T09:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "The real reasons US politicians are getting older",
-      "published_at": "2026-10-21T23:52:12+00:00"
+      "source": "NPR",
+      "text": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+      "published_at": "2026-10-22T09:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Africa CDC chief urges Ebola preparedness after Nigeria case",
-      "published_at": "2026-10-21T23:25:43+00:00"
+      "source": "NPR",
+      "text": "High health costs squeeze workers, even if you have good insurance through a job",
+      "published_at": "2026-10-22T09:00:00+00:00"
     }
   ]
 }
