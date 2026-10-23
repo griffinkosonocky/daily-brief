@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-10-23T19:06:58+00:00",
+  "updated_at": "2026-10-23T22:06:58+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "US Justice Dept sues to block possible Alaska election of Democrat to Senate",
+      "published_at": "2026-10-23T21:01:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Argentina drops investigation into President Milei over crypto fraud",
+      "published_at": "2026-10-23T20:59:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Melania ceasefire, banks block AI agents, Trump's evangelicals (Updated)",
+      "published_at": "2026-10-23T20:48:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US will 'take care of Cuba' on its way back from Iran",
+      "published_at": "2026-10-23T20:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "published_at": "2026-10-23T20:18:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US may do another military operation against Iran",
+      "published_at": "2026-10-23T20:05:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+      "published_at": "2026-10-23T20:04:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales",
+      "published_at": "2026-10-23T19:49:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "published_at": "2026-10-23T19:46:30+00:00"
+    },
     {
       "source": "BBC",
       "text": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "published_at": "2026-10-23T18:56:06+00:00"
+      "published_at": "2026-10-23T19:42:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+      "published_at": "2026-10-23T19:31:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "published_at": "2026-10-23T19:30:19+00:00"
     },
     {
       "source": "BBC",
@@ -17,64 +72,9 @@
       "published_at": "2026-10-23T18:30:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "published_at": "2026-10-23T18:10:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says he told DOJ to sue to block possible Alaska election of Democrat to Senate",
-      "published_at": "2026-10-23T18:06:06+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-      "published_at": "2026-10-23T17:35:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "published_at": "2026-10-23T17:27:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says",
-      "published_at": "2026-10-23T17:08:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "published_at": "2026-10-23T16:59:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU vows to fix 'China Shock 2.0' via talks with Beijing",
-      "published_at": "2026-10-23T16:39:28+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-      "published_at": "2026-10-23T16:21:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: CCTV footage appears to show gunmen near church in Jordan",
-      "published_at": "2026-10-23T15:59:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Volkswagen's workers threaten strikes unless it reinstates wage deals",
-      "published_at": "2026-10-23T15:57:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump weighs quick end to Iran war against letting conflict ‘wither’",
-      "published_at": "2026-10-23T15:53:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-      "published_at": "2026-10-23T15:51:04+00:00"
+      "published_at": "2026-10-23T18:26:54+00:00"
     }
   ]
 }
