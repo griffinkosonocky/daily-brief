@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-23",
-    "sport": "Sports",
-    "question": "In what year did Steaua București win the European Cup, actual UEFA Champions League, against FC Barcelona?",
-    "answer": "1986"
-  },
-  {
     "date": "2026-06-24",
     "sport": "Sports",
     "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
     "answer": "Porsche"
+  },
+  {
+    "date": "2026-10-23",
+    "sport": "Sports",
+    "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+    "answer": "Jules Bianchi"
   }
 ]

@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-10-23T14:58:18+00:00",
+  "updated_at": "2026-10-23T15:17:47+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-      "published_at": "2026-10-23T14:48:10+00:00"
+      "text": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "published_at": "2026-10-23T15:15:18+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "published_at": "2026-10-23T15:06:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Justice Department investigating Corey Lewandowski over DHS role",
+      "published_at": "2026-10-23T14:58:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Citi wins licence to set up fully-owned China securities unit",
+      "published_at": "2026-10-23T14:57:52+00:00"
     },
     {
       "source": "BBC",
@@ -23,11 +38,6 @@
     },
     {
       "source": "BBC",
-      "text": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "published_at": "2026-10-23T14:31:51+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "PSG v Lyon moved as Paris prepares for more protests",
       "published_at": "2026-10-23T14:18:41+00:00"
     },
@@ -40,11 +50,6 @@
       "source": "BBC",
       "text": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
       "published_at": "2026-10-23T14:15:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year",
-      "published_at": "2026-10-23T14:10:51+00:00"
     },
     {
       "source": "Reuters",
@@ -63,18 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "AI trade meets the Fed",
-      "published_at": "2026-10-23T12:11:56+00:00"
+      "text": "PODCAST: Starlink, Trump's base, Ben-Gvir and New York’s horse-drawn carriages",
+      "published_at": "2026-10-23T11:40:12+00:00"
     },
     {
       "source": "Reuters",
       "text": "UK tells public to keep three days' emergency supplies at home",
       "published_at": "2026-10-23T11:39:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India plans jobs survey changes to add unpaid work, improve gig worker data",
-      "published_at": "2026-10-23T11:37:47+00:00"
     }
   ]
 }
