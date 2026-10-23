@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-10-22T23:16:52+00:00",
+  "updated_at": "2026-10-23T04:38:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "published_at": "2026-10-23T01:38:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US bans BYD from air base in Japan over security concern, news report says",
+      "published_at": "2026-10-23T01:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+      "published_at": "2026-10-23T01:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever",
+      "published_at": "2026-10-22T23:30:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "published_at": "2026-10-22T23:16:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
+      "published_at": "2026-10-22T23:14:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "published_at": "2026-10-22T22:27:53+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Trump says wind turbine imports threaten national security",
       "published_at": "2026-10-22T22:03:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+      "published_at": "2026-10-22T21:57:00+00:00"
     },
     {
       "source": "Reuters",
@@ -18,6 +58,11 @@
     },
     {
       "source": "Reuters",
+      "text": "FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico",
+      "published_at": "2026-10-22T21:33:48+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Trading Day: Maximum pAIn",
       "published_at": "2026-10-22T21:19:56+00:00"
     },
@@ -27,54 +72,9 @@
       "published_at": "2026-10-22T21:05:43+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Pinheiro Braathen embraces freedom after taking unconventional path to Olympic gold",
-      "published_at": "2026-10-22T20:59:44+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
       "published_at": "2026-10-22T20:12:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "published_at": "2026-10-22T19:27:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty",
-      "published_at": "2026-10-22T19:27:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "published_at": "2026-10-22T19:25:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's Macron tightens curbs on protests, blaming hard left for unrest",
-      "published_at": "2026-10-22T19:19:54+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal judge restricts DHS field operations looking for noncitizen voters",
-      "published_at": "2026-10-22T19:16:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to host inaugural Women's Club World Cup in 2028",
-      "published_at": "2026-10-22T19:15:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
-      "published_at": "2026-10-22T19:04:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France reports first human case of livestock virus Shamonda after patient dies",
-      "published_at": "2026-10-22T18:58:52+00:00"
     }
   ]
 }
