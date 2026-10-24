@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-24T14:03:28+00:00",
+  "updated_at": "2026-10-24T14:27:20+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "published_at": "2026-10-24T14:16:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US veteran Moltzan opens World Cup season with first career win",
+      "published_at": "2026-10-24T13:54:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Starlink in Ukraine back to normal after week of throttling",
       "published_at": "2026-10-24T13:27:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France protests begin under heavy security as police seek to prevent fresh unrest",
+      "published_at": "2026-10-24T13:08:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: US Starlink requests, Alaska's Senate race and Serbia's elections",
+      "published_at": "2026-10-24T13:02:08+00:00"
     },
     {
       "source": "Reuters",
@@ -22,11 +42,6 @@
       "published_at": "2026-10-24T12:12:40+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "France mounts huge security operation as protesters prepare to march",
-      "published_at": "2026-10-24T12:08:08+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Perspective: The next James Bond",
       "published_at": "2026-10-24T12:00:00+00:00"
@@ -42,24 +57,9 @@
       "published_at": "2026-10-24T11:47:01+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "published_at": "2026-10-24T11:23:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Five takeaways from Trump's midterm campaign rallies",
-      "published_at": "2026-10-24T10:07:44+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Data dreams delayed",
       "published_at": "2026-10-24T10:00:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is your Medicare Advantage plan ending next year? Here's what to know",
-      "published_at": "2026-10-24T10:00:00+00:00"
     },
     {
       "source": "NPR",
@@ -67,14 +67,14 @@
       "published_at": "2026-10-24T10:00:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "published_at": "2026-10-24T09:46:53+00:00"
+      "source": "NPR",
+      "text": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "published_at": "2026-10-24T10:00:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "published_at": "2026-10-24T09:45:47+00:00"
+      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "published_at": "2026-10-24T09:46:53+00:00"
     }
   ]
 }
