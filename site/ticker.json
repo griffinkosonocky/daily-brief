@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-24T18:04:11+00:00",
+  "updated_at": "2026-10-24T20:42:16+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
+      "published_at": "2026-10-24T19:45:21+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "published_at": "2026-10-24T19:37:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine says Starlink back to normal, Musk accuses Kyiv of violations",
+      "published_at": "2026-10-24T19:24:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "published_at": "2026-10-24T19:12:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Violence flares in Paris after largely peaceful protests across France",
+      "published_at": "2026-10-24T18:34:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
+      "published_at": "2026-10-24T18:06:33+00:00"
+    },
     {
       "source": "NPR",
       "text": "Ukraine says Starlink is back to normal after disruptions",
@@ -8,8 +38,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Protesters march against France's far-right RN congress in Orleans",
-      "published_at": "2026-10-24T17:43:03+00:00"
+      "text": "Five takeaways from Trump's midterm campaign rallies",
+      "published_at": "2026-10-24T17:41:12+00:00"
     },
     {
       "source": "Reuters",
@@ -23,13 +53,18 @@
     },
     {
       "source": "BBC",
+      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "published_at": "2026-10-24T17:21:42+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "published_at": "2026-10-24T17:11:56+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Sporadic violence flares as hundreds of thousands protest in France",
-      "published_at": "2026-10-24T16:54:09+00:00"
+      "text": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels",
+      "published_at": "2026-10-24T16:06:20+00:00"
     },
     {
       "source": "Reuters",
@@ -40,41 +75,6 @@
       "source": "Reuters",
       "text": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
       "published_at": "2026-10-24T16:02:08+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "published_at": "2026-10-24T15:56:48+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "published_at": "2026-10-24T15:21:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starlink in Ukraine back to normal after week of throttling",
-      "published_at": "2026-10-24T15:13:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "published_at": "2026-10-24T14:45:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
-      "published_at": "2026-10-24T14:18:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
-      "published_at": "2026-10-24T14:06:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US veteran Moltzan opens World Cup season with first career win",
-      "published_at": "2026-10-24T13:54:08+00:00"
     }
   ]
 }
