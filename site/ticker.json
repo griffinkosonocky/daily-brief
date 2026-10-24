@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-23T22:06:58+00:00",
+  "updated_at": "2026-10-24T00:39:06+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "UK government sets out $800 million of AI security funding",
+      "published_at": "2026-10-23T23:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+      "published_at": "2026-10-23T22:21:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pentagon designates Confucius Institutes in US a national security threat",
+      "published_at": "2026-10-23T22:20:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+      "published_at": "2026-10-23T21:16:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US Justice Dept sues to block possible Alaska election of Democrat to Senate",
@@ -55,26 +75,6 @@
       "source": "NPR",
       "text": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
       "published_at": "2026-10-23T19:31:15+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "published_at": "2026-10-23T19:30:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "published_at": "2026-10-23T18:52:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-      "published_at": "2026-10-23T18:30:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
-      "published_at": "2026-10-23T18:26:54+00:00"
     }
   ]
 }
