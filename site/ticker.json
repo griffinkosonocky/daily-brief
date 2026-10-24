@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-24T00:39:06+00:00",
+  "updated_at": "2026-10-24T05:43:36+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "How Brazil's changing working class is reshaping the presidential race",
+      "published_at": "2026-10-24T05:05:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms",
+      "published_at": "2026-10-24T05:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The rise of AI election ads in US midterms campaign",
+      "published_at": "2026-10-24T05:03:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "France prepares for day of protest a week after nationwide riots",
+      "published_at": "2026-10-24T04:03:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "published_at": "2026-10-24T03:51:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Australian MP's condition improves after alleged car attack",
+      "published_at": "2026-10-24T01:55:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+      "published_at": "2026-10-24T00:43:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "published_at": "2026-10-24T00:40:42+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "published_at": "2026-10-24T00:05:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "published_at": "2026-10-23T23:11:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "published_at": "2026-10-23T23:09:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "published_at": "2026-10-23T23:08:23+00:00"
+    },
     {
       "source": "Reuters",
       "text": "UK government sets out $800 million of AI security funding",
@@ -8,73 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
-      "published_at": "2026-10-23T22:21:31+00:00"
+      "text": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future",
+      "published_at": "2026-10-23T22:57:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pentagon designates Confucius Institutes in US a national security threat",
-      "published_at": "2026-10-23T22:20:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
-      "published_at": "2026-10-23T21:16:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Justice Dept sues to block possible Alaska election of Democrat to Senate",
-      "published_at": "2026-10-23T21:01:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Argentina drops investigation into President Milei over crypto fraud",
-      "published_at": "2026-10-23T20:59:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Melania ceasefire, banks block AI agents, Trump's evangelicals (Updated)",
-      "published_at": "2026-10-23T20:48:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US will 'take care of Cuba' on its way back from Iran",
-      "published_at": "2026-10-23T20:21:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "published_at": "2026-10-23T20:18:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US may do another military operation against Iran",
-      "published_at": "2026-10-23T20:05:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "published_at": "2026-10-23T20:04:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales",
-      "published_at": "2026-10-23T19:49:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "published_at": "2026-10-23T19:46:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "published_at": "2026-10-23T19:42:08+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-      "published_at": "2026-10-23T19:31:15+00:00"
+      "text": "Carney dismisses US accusations of Canadian election interference",
+      "published_at": "2026-10-23T22:44:02+00:00"
     }
   ]
 }
