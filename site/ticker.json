@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-24T20:42:16+00:00",
+  "updated_at": "2026-10-24T23:07:26+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "published_at": "2026-10-24T23:02:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+      "published_at": "2026-10-24T22:47:58+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Who are the candidates in Brazil's presidential election?",
+      "published_at": "2026-10-24T22:08:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+      "published_at": "2026-10-24T22:07:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+      "published_at": "2026-10-24T22:06:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Violence flares in Paris after largely peaceful protests across France",
+      "published_at": "2026-10-24T21:27:22+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trade tariffs cause whiplash at Port Milwaukee",
+      "published_at": "2026-10-24T21:20:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How data centers became a bipartisan political issue in Wisconsin",
+      "published_at": "2026-10-24T21:20:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "published_at": "2026-10-24T21:09:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+      "published_at": "2026-10-24T20:57:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+      "published_at": "2026-10-24T20:22:10+00:00"
+    },
     {
       "source": "Reuters",
       "text": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
@@ -12,69 +67,14 @@
       "published_at": "2026-10-24T19:37:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Ukraine says Starlink back to normal, Musk accuses Kyiv of violations",
-      "published_at": "2026-10-24T19:24:30+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "published_at": "2026-10-24T19:12:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Violence flares in Paris after largely peaceful protests across France",
-      "published_at": "2026-10-24T18:34:05+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
       "published_at": "2026-10-24T18:06:33+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ukraine says Starlink is back to normal after disruptions",
-      "published_at": "2026-10-24T17:54:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Five takeaways from Trump's midterm campaign rallies",
-      "published_at": "2026-10-24T17:41:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
-      "published_at": "2026-10-24T17:30:16+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Two rescued after Nairobi building collapse with five still missing",
-      "published_at": "2026-10-24T17:25:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "published_at": "2026-10-24T17:21:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "published_at": "2026-10-24T17:11:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels",
-      "published_at": "2026-10-24T16:06:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-      "published_at": "2026-10-24T16:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-      "published_at": "2026-10-24T16:02:08+00:00"
     }
   ]
 }
