@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-24T14:27:20+00:00",
+  "updated_at": "2026-10-24T18:04:11+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Ukraine says Starlink is back to normal after disruptions",
+      "published_at": "2026-10-24T17:54:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Protesters march against France's far-right RN congress in Orleans",
+      "published_at": "2026-10-24T17:43:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
+      "published_at": "2026-10-24T17:30:16+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "published_at": "2026-10-24T14:16:05+00:00"
+      "text": "Two rescued after Nairobi building collapse with five still missing",
+      "published_at": "2026-10-24T17:25:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "published_at": "2026-10-24T17:11:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sporadic violence flares as hundreds of thousands protest in France",
+      "published_at": "2026-10-24T16:54:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+      "published_at": "2026-10-24T16:03:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+      "published_at": "2026-10-24T16:02:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "published_at": "2026-10-24T15:56:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "published_at": "2026-10-24T15:21:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Starlink in Ukraine back to normal after week of throttling",
+      "published_at": "2026-10-24T15:13:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "published_at": "2026-10-24T14:45:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
+      "published_at": "2026-10-24T14:18:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
+      "published_at": "2026-10-24T14:06:35+00:00"
     },
     {
       "source": "Reuters",
       "text": "US veteran Moltzan opens World Cup season with first career win",
       "published_at": "2026-10-24T13:54:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starlink in Ukraine back to normal after week of throttling",
-      "published_at": "2026-10-24T13:27:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France protests begin under heavy security as police seek to prevent fresh unrest",
-      "published_at": "2026-10-24T13:08:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: US Starlink requests, Alaska's Senate race and Serbia's elections",
-      "published_at": "2026-10-24T13:02:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anonymous artist projects protest images in Brazil ahead runoff",
-      "published_at": "2026-10-24T12:35:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Holder Rybakina sets up Fernandez clash in Ningbo final",
-      "published_at": "2026-10-24T12:29:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine says Starlink connection 'now stable' after network limits",
-      "published_at": "2026-10-24T12:12:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Perspective: The next James Bond",
-      "published_at": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-      "published_at": "2026-10-24T11:59:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
-      "published_at": "2026-10-24T11:47:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Data dreams delayed",
-      "published_at": "2026-10-24T10:00:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "U.S. birth rate drops to record low, but older women are having more babies",
-      "published_at": "2026-10-24T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is your Medicare Advantage plan ending next year? Here's what to know",
-      "published_at": "2026-10-24T10:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "published_at": "2026-10-24T09:46:53+00:00"
     }
   ]
 }
