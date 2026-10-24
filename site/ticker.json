@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-10-24T10:50:15+00:00",
+  "updated_at": "2026-10-24T14:03:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Starlink in Ukraine back to normal after week of throttling",
+      "published_at": "2026-10-24T13:27:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anonymous artist projects protest images in Brazil ahead runoff",
+      "published_at": "2026-10-24T12:35:39+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Holder Rybakina sets up Fernandez clash in Ningbo final",
+      "published_at": "2026-10-24T12:29:52+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine says Starlink connection 'now stable' after network limits",
+      "published_at": "2026-10-24T12:12:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France mounts huge security operation as protesters prepare to march",
+      "published_at": "2026-10-24T12:08:08+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Perspective: The next James Bond",
+      "published_at": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "published_at": "2026-10-24T11:59:08+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
+      "published_at": "2026-10-24T11:47:01+00:00"
+    },
     {
       "source": "BBC",
       "text": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "published_at": "2026-10-24T10:22:34+00:00"
+      "published_at": "2026-10-24T11:23:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Five takeaways from Trump's midterm campaign rallies",
+      "published_at": "2026-10-24T10:07:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Data dreams delayed",
+      "published_at": "2026-10-24T10:00:48+00:00"
     },
     {
       "source": "NPR",
@@ -23,58 +73,8 @@
     },
     {
       "source": "BBC",
-      "text": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "published_at": "2026-10-24T09:44:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "This decade has been missing its big-impact midterm",
-      "published_at": "2026-10-24T09:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "published_at": "2026-10-24T07:17:44+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "published_at": "2026-10-24T07:04:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-      "published_at": "2026-10-24T05:31:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How Brazil's changing working class is reshaping the presidential race",
-      "published_at": "2026-10-24T05:05:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "The rise of AI election ads in US midterms campaign",
-      "published_at": "2026-10-24T05:03:44+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Australian MP's condition improves after alleged car attack",
-      "published_at": "2026-10-24T01:55:15+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Severe flooding hits Four Corners region, more expected through the weekend",
-      "published_at": "2026-10-24T00:40:42+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "published_at": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "published_at": "2026-10-23T23:11:31+00:00"
+      "text": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "published_at": "2026-10-24T09:45:47+00:00"
     }
   ]
 }

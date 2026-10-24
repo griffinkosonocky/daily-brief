@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "sport": "Sports",
-    "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
-    "answer": "Portugal"
-  },
-  {
     "date": "2026-06-25",
     "sport": "Sports",
     "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
     "answer": "Jules Bianchi"
+  },
+  {
+    "date": "2026-10-24",
+    "sport": "Sports",
+    "question": "How many points did LeBron James score in his first NBA game?",
+    "answer": "25"
   }
 ]
