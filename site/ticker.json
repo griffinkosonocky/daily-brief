@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-10-25T04:31:21+00:00",
+  "updated_at": "2026-10-25T09:44:59+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "published_at": "2026-10-25T09:32:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Employees group warns of major Swiss job losses if UBS relocates, newspaper says",
+      "published_at": "2026-10-25T09:30:11+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "published_at": "2026-10-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+      "published_at": "2026-10-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+      "published_at": "2026-10-25T09:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "published_at": "2026-10-25T09:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Drone attack injures five people, damages industrial facility in Russia’s Perm region, governor says",
+      "published_at": "2026-10-25T08:01:54+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "published_at": "2026-10-25T07:15:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Series rematch, Indian edition: Yankees beat Dodgers in Mumbai event",
+      "published_at": "2026-10-25T06:38:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "published_at": "2026-10-25T05:15:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Australian Grand Prix called off as rain spoils Phillip Island send-off",
+      "published_at": "2026-10-25T05:14:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Brewers erase four-run deficit, take 2-0 World Series lead vs. Rays",
       "published_at": "2026-10-25T04:18:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "published_at": "2026-10-25T04:16:52+00:00"
     },
     {
       "source": "NPR",
@@ -17,64 +67,14 @@
       "published_at": "2026-10-25T04:01:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Serbia votes as students seek to unseat Vucic in snap election",
-      "published_at": "2026-10-25T01:03:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sydney's new international airport opens to passengers",
-      "published_at": "2026-10-25T00:29:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis renew warning against using Riyadh airport",
-      "published_at": "2026-10-24T23:57:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
-      "published_at": "2026-10-24T23:23:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bolsonaro, Lula about even in polls for Brazil runoff vote",
-      "published_at": "2026-10-24T23:02:10+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "published_at": "2026-10-24T23:02:06+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-      "published_at": "2026-10-24T22:47:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Who are the candidates in Brazil's presidential election?",
-      "published_at": "2026-10-24T22:08:47+00:00"
+      "text": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "published_at": "2026-10-25T03:20:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-      "published_at": "2026-10-24T22:07:30+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-      "published_at": "2026-10-24T22:06:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-      "published_at": "2026-10-24T21:39:57+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trade tariffs cause whiplash at Port Milwaukee",
-      "published_at": "2026-10-24T21:20:55+00:00"
+      "text": "British PM Burnham open to adopting EU free movement, Sunday Times reports",
+      "published_at": "2026-10-25T03:13:00+00:00"
     }
   ]
 }
