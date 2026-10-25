@@ -1,20 +1,60 @@
 {
-  "updated_at": "2026-10-25T18:21:46+00:00",
+  "updated_at": "2026-10-25T21:41:36+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Serbia's Vucic concedes election defeat in historic win for student protest movement",
+      "published_at": "2026-10-25T21:30:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Serbia's Vucic concedes defeat to student led movement in parliamentary election",
+      "published_at": "2026-10-25T20:52:12+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-      "published_at": "2026-10-25T17:50:35+00:00"
+      "text": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "published_at": "2026-10-25T20:35:35+00:00"
     },
     {
       "source": "Reuters",
       "text": "France's Le Pen launches presidential bid as protests rattle the nation",
-      "published_at": "2026-10-25T17:45:44+00:00"
+      "published_at": "2026-10-25T19:31:11+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
-      "published_at": "2026-10-25T17:12:55+00:00"
+      "text": "Joe Marchant recalled to England squad for training camp",
+      "published_at": "2026-10-25T19:30:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+      "published_at": "2026-10-25T19:24:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Britain will not join Canada's defence bank, source says",
+      "published_at": "2026-10-25T19:21:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "published_at": "2026-10-25T19:14:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "What are Brazilian voters' main concerns?",
+      "published_at": "2026-10-25T18:57:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuelan opposition leader María Machado returns after months in exile",
+      "published_at": "2026-10-25T18:29:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+      "published_at": "2026-10-25T17:50:35+00:00"
     },
     {
       "source": "Reuters",
@@ -27,54 +67,14 @@
       "published_at": "2026-10-25T16:26:32+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Venezuelan opposition leader María Machado returns after months in exile",
-      "published_at": "2026-10-25T16:21:40+00:00"
-    },
-    {
       "source": "Reuters",
       "text": "French protest groups demand more rallies as Macron faces tough choices",
       "published_at": "2026-10-25T16:11:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Early reports suggest record high turnout in Serbia elections",
-      "published_at": "2026-10-25T16:05:15+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Israelis have changed. Will they change their leadership?",
       "published_at": "2026-10-25T16:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "published_at": "2026-10-25T15:32:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-      "published_at": "2026-10-25T15:19:47+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-      "published_at": "2026-10-25T15:03:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Gabon says access to social media restored after eight-month ban",
-      "published_at": "2026-10-25T14:39:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: France protests, Texas Senate race and West Bank olives",
-      "published_at": "2026-10-25T14:10:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil's Pinheiro Braathen wins season-opening men's giant slalom",
-      "published_at": "2026-10-25T13:39:43+00:00"
     }
   ]
 }
