@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-25",
-    "sport": "Sports",
-    "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
-    "answer": "Big Daddy"
-  },
-  {
     "date": "2026-08-31",
     "sport": "Sports",
     "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "How many points did LeBron James score in his first NBA game?",
     "answer": "25"
+  },
+  {
+    "date": "2026-10-25",
+    "sport": "Sports",
+    "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+    "answer": "1-7"
   }
 ]
