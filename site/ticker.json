@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-24T23:07:26+00:00",
+  "updated_at": "2026-10-25T04:31:21+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Brewers erase four-run deficit, take 2-0 World Series lead vs. Rays",
+      "published_at": "2026-10-25T04:18:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "published_at": "2026-10-25T04:16:52+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+      "published_at": "2026-10-25T04:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Serbia votes as students seek to unseat Vucic in snap election",
+      "published_at": "2026-10-25T01:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Sydney's new international airport opens to passengers",
+      "published_at": "2026-10-25T00:29:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis renew warning against using Riyadh airport",
+      "published_at": "2026-10-24T23:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
+      "published_at": "2026-10-24T23:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bolsonaro, Lula about even in polls for Brazil runoff vote",
+      "published_at": "2026-10-24T23:02:10+00:00"
+    },
     {
       "source": "BBC",
       "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
@@ -28,53 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Violence flares in Paris after largely peaceful protests across France",
-      "published_at": "2026-10-24T21:27:22+00:00"
+      "text": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+      "published_at": "2026-10-24T21:39:57+00:00"
     },
     {
       "source": "NPR",
       "text": "Trade tariffs cause whiplash at Port Milwaukee",
       "published_at": "2026-10-24T21:20:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How data centers became a bipartisan political issue in Wisconsin",
-      "published_at": "2026-10-24T21:20:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "published_at": "2026-10-24T21:09:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-      "published_at": "2026-10-24T20:57:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
-      "published_at": "2026-10-24T20:22:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
-      "published_at": "2026-10-24T19:45:21+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "published_at": "2026-10-24T19:37:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "published_at": "2026-10-24T19:12:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
-      "published_at": "2026-10-24T18:06:33+00:00"
     }
   ]
 }
