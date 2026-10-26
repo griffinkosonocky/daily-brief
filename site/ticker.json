@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-10-25T21:41:36+00:00",
+  "updated_at": "2026-10-26T00:13:23+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "Serbia's Vucic concedes election defeat in historic win for student protest movement",
-      "published_at": "2026-10-25T21:30:23+00:00"
+      "text": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+      "published_at": "2026-10-25T23:46:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Venezuelan opposition leader María Machado returns after months in exile",
+      "published_at": "2026-10-25T23:33:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Reactions to election victory of Serbia's Student List",
+      "published_at": "2026-10-25T23:13:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+      "published_at": "2026-10-25T23:01:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "published_at": "2026-10-25T22:54:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+      "published_at": "2026-10-25T22:35:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Uganda imposes 21-day quarantine on citizens returning from Congo",
+      "published_at": "2026-10-25T22:19:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Deeply divided Israel braces for pivotal election",
+      "published_at": "2026-10-25T22:11:13+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why Israel's election is one of the most important in its history",
+      "published_at": "2026-10-25T22:05:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "French protest groups demand more rallies as Macron faces tough choices",
+      "published_at": "2026-10-25T21:27:09+00:00"
     },
     {
       "source": "Reuters",
@@ -18,63 +63,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "published_at": "2026-10-25T20:08:19+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "France's Le Pen launches presidential bid as protests rattle the nation",
       "published_at": "2026-10-25T19:31:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Joe Marchant recalled to England squad for training camp",
-      "published_at": "2026-10-25T19:30:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump campaigns in Michigan a day after Obama rallies Democrats",
-      "published_at": "2026-10-25T19:24:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Britain will not join Canada's defence bank, source says",
-      "published_at": "2026-10-25T19:21:43+00:00"
     },
     {
       "source": "BBC",
       "text": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
       "published_at": "2026-10-25T19:14:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "What are Brazilian voters' main concerns?",
-      "published_at": "2026-10-25T18:57:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Venezuelan opposition leader María Machado returns after months in exile",
-      "published_at": "2026-10-25T18:29:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-      "published_at": "2026-10-25T17:50:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government",
-      "published_at": "2026-10-25T16:37:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dakar Rally 2027 will not be held in Saudi Arabia, organisers say",
-      "published_at": "2026-10-25T16:26:32+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "French protest groups demand more rallies as Macron faces tough choices",
-      "published_at": "2026-10-25T16:11:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Israelis have changed. Will they change their leadership?",
-      "published_at": "2026-10-25T16:00:00+00:00"
     }
   ]
 }
