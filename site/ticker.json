@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-26T16:50:40+00:00",
+  "updated_at": "2026-10-26T19:12:26+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "published_at": "2026-10-26T18:41:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Libya says international aviation restrictions lifted after 11 years",
+      "published_at": "2026-10-26T18:40:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "published_at": "2026-10-26T18:38:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Equities climb as Anthropic's IPO filing buoys AI stocks",
+      "published_at": "2026-10-26T18:37:31+00:00"
+    },
     {
       "source": "BBC",
       "text": "Lula wins fourth term in dramatic Brazil election comeback",
-      "published_at": "2026-10-26T16:49:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "published_at": "2026-10-26T16:31:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "published_at": "2026-10-26T16:27:17+00:00"
+      "published_at": "2026-10-26T18:26:19+00:00"
     },
     {
       "source": "Reuters",
-      "text": "In China, the AI bubble has already burst",
-      "published_at": "2026-10-26T16:19:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-      "published_at": "2026-10-26T16:17:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-      "published_at": "2026-10-26T15:52:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Galp, Moeve scrap downstream merger as Iran war boosts refinery valuations",
-      "published_at": "2026-10-26T15:51:19+00:00"
+      "text": "After return of opposition leader, Venezuela's acting president says hopes dialogue will offer space for all voices",
+      "published_at": "2026-10-26T18:21:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "published_at": "2026-10-26T15:46:31+00:00"
+      "text": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "published_at": "2026-10-26T18:00:10+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-      "published_at": "2026-10-26T15:45:30+00:00"
+      "source": "Reuters",
+      "text": "French student protesters say government offered them deal, but they want more",
+      "published_at": "2026-10-26T17:54:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Algeria to deploy army units to Niger to protect energy and economic interests",
+      "published_at": "2026-10-26T17:46:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK's FTSE 100 climbs in broad rally",
+      "published_at": "2026-10-26T17:25:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Swiss foreign minister to hold talks in North Korea this week",
+      "published_at": "2026-10-26T17:22:09+00:00"
     },
     {
       "source": "Reuters",
       "text": "Gloom in Moscow as Vucic's defeat in Serbia deprives Russia of an ally",
-      "published_at": "2026-10-26T15:38:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-      "published_at": "2026-10-26T15:37:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Serbia's new leaders face host of tough challenges",
-      "published_at": "2026-10-26T15:37:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI stocks rise as Anthropic nears Wall Street debut amid investor caution",
-      "published_at": "2026-10-26T15:35:43+00:00"
+      "published_at": "2026-10-26T17:13:14+00:00"
     },
     {
       "source": "Reuters",
       "text": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
-      "published_at": "2026-10-26T15:20:40+00:00"
+      "published_at": "2026-10-26T17:07:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "published_at": "2026-10-26T17:00:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Meta eyes record $95 billion equity raise to fund AI expansion",
-      "published_at": "2026-10-26T15:17:40+00:00"
+      "text": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+      "published_at": "2026-10-26T16:53:53+00:00"
     }
   ]
 }
