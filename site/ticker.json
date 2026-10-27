@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-10-27T15:56:06+00:00",
+  "updated_at": "2026-10-27T16:29:32+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "published_at": "2026-10-27T16:20:22+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+      "published_at": "2026-10-27T16:18:02+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "published_at": "2026-10-27T16:11:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+      "published_at": "2026-10-27T16:11:27+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "West warns of famine risk in Sudan as civil war grinds on",
+      "published_at": "2026-10-27T15:41:46+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran",
       "published_at": "2026-10-27T15:35:01+00:00"
     },
     {
-      "source": "BBC",
-      "text": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "published_at": "2026-10-27T15:31:07+00:00"
+      "source": "Reuters",
+      "text": "World to add less clean energy capacity this year, renewables agency chief says",
+      "published_at": "2026-10-27T15:26:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Boeing share price plummets with slower 737 production and free cash flow growth outlook",
+      "published_at": "2026-10-27T15:15:55+00:00"
     },
     {
       "source": "BBC",
@@ -20,11 +50,6 @@
       "source": "Reuters",
       "text": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart",
       "published_at": "2026-10-27T14:45:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Boeing will not reach 737 production target until early 2027",
-      "published_at": "2026-10-27T14:44:40+00:00"
     },
     {
       "source": "NPR",
@@ -50,31 +75,6 @@
       "source": "NPR",
       "text": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
       "published_at": "2026-10-27T14:15:21+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A 'Green Army' is out to thwart El Niño flooding",
-      "published_at": "2026-10-27T14:12:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Greenhouse gases hit record highs, further rise expected with El Niño, UN weather agency says",
-      "published_at": "2026-10-27T13:49:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "High inflation to persist globally into next year, Reuters poll shows",
-      "published_at": "2026-10-27T13:41:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Alleged Israeli spy company heavily targeted Starlink users, sources say",
-      "published_at": "2026-10-27T13:36:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "published_at": "2026-10-27T13:25:54+00:00"
     }
   ]
 }
