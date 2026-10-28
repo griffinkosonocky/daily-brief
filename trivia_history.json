@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "sport": "Sports",
-    "question": "Who won the 2015 College Football Playoff (CFP) National Championship?",
-    "answer": "Ohio State Buckeyes"
-  },
-  {
     "date": "2026-09-07",
     "sport": "Sports",
     "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "In baseball, how many fouls are an out?",
     "answer": "0"
+  },
+  {
+    "date": "2026-10-28",
+    "sport": "Sports",
+    "question": "When was the FC Schalke 04 founded?",
+    "answer": "1904"
   }
 ]
