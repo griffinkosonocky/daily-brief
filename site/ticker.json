@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-28T16:44:34+00:00",
+  "updated_at": "2026-10-28T20:59:03+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Flavio Bolsonaro lands in Miami with his family after Trump offers Brazil exit",
-      "published_at": "2026-10-28T16:25:10+00:00"
+      "source": "BBC",
+      "text": "Israel's election deadlock is a sign of the country's deep divisions",
+      "published_at": "2026-10-28T20:53:02+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-      "published_at": "2026-10-28T16:10:43+00:00"
+      "source": "BBC",
+      "text": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "published_at": "2026-10-28T20:24:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "published_at": "2026-10-28T20:22:49+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
-      "published_at": "2026-10-28T16:02:29+00:00"
+      "text": "Putin woos African leaders, says Russia a better partner than 'colonial' West",
+      "published_at": "2026-10-28T20:16:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+      "published_at": "2026-10-28T19:57:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "At least 68 people dead in Spain's second major train crash this year",
+      "published_at": "2026-10-28T19:35:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Airbus holds annual targets, bets on year-end delivery surge",
+      "published_at": "2026-10-28T19:15:18+00:00"
     },
     {
       "source": "Reuters",
       "text": "How teachers are remaking classrooms for the AI age",
-      "published_at": "2026-10-28T15:50:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: UK neoliberalism survives until the next election",
-      "published_at": "2026-10-28T15:47:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ethiopia says it received Russian Su-35 jets, S-400 air defence systems to follow",
-      "published_at": "2026-10-28T15:39:10+00:00"
+      "published_at": "2026-10-28T19:00:04+00:00"
     },
     {
       "source": "BBC",
-      "text": "What we know so far about deadly Spain train crash",
-      "published_at": "2026-10-28T15:36:11+00:00"
+      "text": "How did Flávio Bolsonaro end up in Miami?",
+      "published_at": "2026-10-28T18:51:05+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US sanctions North Korean network accused of defrauding businesses",
-      "published_at": "2026-10-28T15:24:43+00:00"
+      "text": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders",
+      "published_at": "2026-10-28T18:29:38+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dutch pledge €500 million in military support to Ukraine",
-      "published_at": "2026-10-28T15:15:44+00:00"
+      "text": "Cruise ship residents left stranded in Cambodia after fuel prices soar",
+      "published_at": "2026-10-28T18:28:26+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "published_at": "2026-10-28T18:07:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Fed holds interest rates steady even as inflation remains stubborn",
+      "published_at": "2026-10-28T18:04:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "At least 68 dead in Spain's second major train crash this year",
-      "published_at": "2026-10-28T15:11:26+00:00"
+      "text": "SAP swaps costly AI models for cheaper alternatives, targets over €2 bln in gains",
+      "published_at": "2026-10-28T17:48:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Stellantis shares leap on bullish cost cuts, cash flow comments",
-      "published_at": "2026-10-28T14:49:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of Canada raises key interest rate, says another hike possible",
-      "published_at": "2026-10-28T14:38:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Putin woos African leaders at showcase summit, says Russia is better partner than 'colonial' West",
-      "published_at": "2026-10-28T14:35:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How could Israel break election deadlock? Here are four scenarios",
-      "published_at": "2026-10-28T14:30:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israel's election result is messy - here's why",
-      "published_at": "2026-10-28T14:26:24+00:00"
+      "text": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
+      "published_at": "2026-10-28T17:42:40+00:00"
     }
   ]
 }
