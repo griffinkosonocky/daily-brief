@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "sport": "Sports",
-    "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
-    "answer": "Hammer"
-  },
-  {
     "date": "2026-06-29",
     "sport": "Sports",
     "question": "Who won the UEFA Champions League in 2016?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "When was the FC Schalke 04 founded?",
     "answer": "1904"
+  },
+  {
+    "date": "2026-10-29",
+    "sport": "Sports",
+    "question": "What sport features the terms love, deuce, match and volley?",
+    "answer": "Tennis"
   }
 ]
