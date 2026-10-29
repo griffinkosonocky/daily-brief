@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-29T00:49:32+00:00",
+  "updated_at": "2026-10-29T06:58:54+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Cuauhtemoc Cardenas, elder statesman of Mexican left, dies at 92",
+      "published_at": "2026-10-29T06:23:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+      "published_at": "2026-10-29T06:10:11+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Brewers beat the Rays to win the first World Series title in franchise history",
+      "published_at": "2026-10-29T04:49:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Bank of Korea board member says won moves faster than expected",
+      "published_at": "2026-10-29T04:33:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say",
+      "published_at": "2026-10-29T04:20:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far about deadly Spain train crash",
+      "published_at": "2026-10-29T04:08:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Takaichi’s success may backfire on Japan",
+      "published_at": "2026-10-29T03:34:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Hackers expose the identities of more than 40,000 DHS employees",
+      "published_at": "2026-10-29T03:28:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Milwaukee brews its first World Series title with triumph over Rays",
+      "published_at": "2026-10-29T03:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: Samsung's returns conservatism is self-defeating",
+      "published_at": "2026-10-29T03:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cash is king as investors draw new battle lines in AI spending boom",
+      "published_at": "2026-10-29T02:31:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
+      "published_at": "2026-10-29T02:28:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region",
+      "published_at": "2026-10-29T02:20:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "published_at": "2026-10-28T23:21:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say",
-      "published_at": "2026-10-28T23:01:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader",
-      "published_at": "2026-10-28T22:32:47+00:00"
+      "published_at": "2026-10-29T01:14:01+00:00"
     },
     {
       "source": "NPR",
-      "text": "Trump administration will allow pharmacies to make popular peptides",
-      "published_at": "2026-10-28T22:26:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airbus holds annual targets, bets on year-end delivery surge",
-      "published_at": "2026-10-28T22:09:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Girl seriously injured in wolf attack at German wildlife park",
-      "published_at": "2026-10-28T22:08:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Screwworm infests dog in Arizona, widening US cases",
-      "published_at": "2026-10-28T21:58:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-      "published_at": "2026-10-28T21:46:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
-      "published_at": "2026-10-28T21:41:54+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "High-speed train crash kills at least 68 people in Spain",
-      "published_at": "2026-10-28T21:38:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Bolsonaro claims victory, Israel's election uncertainty, Spain train crash (Updated)",
-      "published_at": "2026-10-28T21:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "published_at": "2026-10-28T21:24:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "published_at": "2026-10-28T21:16:30+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump administration wants to remove regulations on a super planet-heating gas",
-      "published_at": "2026-10-28T21:15:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US sways more countries to oppose UN resolution condemning its Cuba embargo",
-      "published_at": "2026-10-28T21:12:42+00:00"
+      "text": "Judge denies the Justice Department's bid to stop processing California ballots",
+      "published_at": "2026-10-29T00:52:50+00:00"
     }
   ]
 }
