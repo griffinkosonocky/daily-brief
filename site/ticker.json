@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-30T14:02:01+00:00",
+  "updated_at": "2026-10-30T16:45:25+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "published_at": "2026-10-30T13:46:16+00:00"
+      "text": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "published_at": "2026-10-30T16:26:11+00:00"
     },
     {
       "source": "BBC",
       "text": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "published_at": "2026-10-30T13:41:57+00:00"
+      "published_at": "2026-10-30T15:59:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US tech stocks see sharp falls over AI cost fears",
+      "published_at": "2026-10-30T15:46:28+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Intel plunges 25%, triggers global chip rout on bleak outlook",
-      "published_at": "2026-10-30T13:25:47+00:00"
+      "text": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky",
+      "published_at": "2026-10-30T15:42:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "CAS rules that Russia can compete in world championships",
-      "published_at": "2026-10-30T13:24:52+00:00"
+      "source": "BBC",
+      "text": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "published_at": "2026-10-30T15:17:11+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Zverev finally takes his place at the summit",
-      "published_at": "2026-10-30T13:19:43+00:00"
+      "source": "BBC",
+      "text": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "published_at": "2026-10-30T15:09:29+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
-      "published_at": "2026-10-30T13:08:52+00:00"
+      "source": "BBC",
+      "text": "Six dead after helicopter crashes in northern Indian state",
+      "published_at": "2026-10-30T15:06:05+00:00"
     },
     {
       "source": "BBC",
       "text": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "published_at": "2026-10-30T13:03:34+00:00"
+      "published_at": "2026-10-30T15:03:39+00:00"
     },
     {
       "source": "NPR",
-      "text": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "published_at": "2026-10-30T13:01:22+00:00"
+      "text": "NPR special: 5 takeaways from a year of listening to swing voters",
+      "published_at": "2026-10-30T15:00:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: Big Oil's spending caution speaks louder than its profits",
-      "published_at": "2026-10-30T12:52:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-      "published_at": "2026-10-30T12:36:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What we know about Binance's $6.3bn hack",
-      "published_at": "2026-10-30T12:27:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "published_at": "2026-10-30T12:25:53+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "China denies allegations of spy operation targeting Nvidia CEO",
-      "published_at": "2026-10-30T12:20:04+00:00"
+      "text": "Pope Leo becomes first pontiff to cast ballot in US election",
+      "published_at": "2026-10-30T14:57:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump on Iran war: It's going to get wrapped up soon",
-      "published_at": "2026-10-30T12:10:11+00:00"
+      "text": "CAS rules that Russia can compete in world championships",
+      "published_at": "2026-10-30T14:52:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "published_at": "2026-10-30T14:48:22+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
-      "published_at": "2026-10-30T12:04:36+00:00"
+      "text": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
+      "published_at": "2026-10-30T14:23:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
+      "published_at": "2026-10-30T14:18:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Intel on course for worst day ever, triggers global chip rout",
+      "published_at": "2026-10-30T14:03:20+00:00"
     }
   ]
 }

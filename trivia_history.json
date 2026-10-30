@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-06-29",
-    "sport": "Sports",
-    "question": "Who won the UEFA Champions League in 2016?",
-    "answer": "Real Madrid C.F."
-  },
-  {
     "date": "2026-06-30",
     "sport": "Sports",
     "question": "Who won the \"Champions League\" in 1999?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "What sport features the terms love, deuce, match and volley?",
     "answer": "Tennis"
+  },
+  {
+    "date": "2026-10-30",
+    "sport": "Sports",
+    "question": "Who won the 1994 San Marino Grand Prix, the race in which Ayrton Senna was killed?",
+    "answer": "Michael Schumacher"
   }
 ]
