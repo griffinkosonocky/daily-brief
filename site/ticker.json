@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-10-30T23:40:00+00:00",
+  "updated_at": "2026-10-31T05:27:20+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "published_at": "2026-10-31T02:39:25+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Russia, US veto rival UN Western Sahara resolutions, leaving peacekeeping mission in limbo",
-      "published_at": "2026-10-30T23:21:13+00:00"
+      "text": "China willing to import more German goods, Premier Li says",
+      "published_at": "2026-10-31T02:21:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "published_at": "2026-10-31T02:12:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japanese bodybuilder, 90, flexes ageless ambition on Spanish stage",
+      "published_at": "2026-10-31T02:09:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The Indian chef who brought curry to America - then vanished",
+      "published_at": "2026-10-31T02:02:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China's factory activity marks third contraction in four months",
+      "published_at": "2026-10-31T01:48:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "published_at": "2026-10-31T01:32:33+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Global nature talks reach deal but money remains an issue",
+      "published_at": "2026-10-31T01:27:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Police deployed during stand-off over control of top Poland court",
+      "published_at": "2026-10-31T01:11:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US approves sale of 500 Patriot missiles to Ukraine",
+      "published_at": "2026-10-31T00:40:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "published_at": "2026-10-31T00:29:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments",
+      "published_at": "2026-10-31T00:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
+      "published_at": "2026-10-31T00:03:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "published_at": "2026-10-30T23:26:16+00:00"
     },
     {
       "source": "Reuters",
       "text": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged",
       "published_at": "2026-10-30T23:19:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "published_at": "2026-10-30T23:19:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "CAS rules that Russia can compete in world championships",
-      "published_at": "2026-10-30T23:00:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan demands release of national in meeting with Russia's Lavrov",
-      "published_at": "2026-10-30T22:26:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US approves sale of 500 Patriot missiles to Ukraine",
-      "published_at": "2026-10-30T22:20:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "published_at": "2026-10-30T22:11:52+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
-      "published_at": "2026-10-30T22:06:18+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
-      "published_at": "2026-10-30T21:56:52+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "published_at": "2026-10-30T21:13:14+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "published_at": "2026-10-30T20:55:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian broadcaster Zee’s profit falls as FIFA-related costs weigh",
-      "published_at": "2026-10-30T20:54:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Police deployed during stand-off over control of top Poland court",
-      "published_at": "2026-10-30T20:52:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Intel on course for worst day ever, triggers global chip rout",
-      "published_at": "2026-10-30T20:50:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish president turns back from Senegal trip as top court chief suspended",
-      "published_at": "2026-10-30T20:44:16+00:00"
     }
   ]
 }
