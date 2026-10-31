@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-10-31T12:14:25+00:00",
+  "updated_at": "2026-10-31T15:48:08+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "published_at": "2026-10-31T12:05:04+00:00"
+      "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "published_at": "2026-10-31T15:16:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+      "published_at": "2026-10-31T14:53:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "published_at": "2026-10-31T14:53:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ethiopian PM puts ministers through military training",
+      "published_at": "2026-10-31T14:28:15+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Taipei mayor gets angry reception at Pride after gay bar raid",
+      "published_at": "2026-10-31T14:20:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Abuse survivors to press Church on accountability during pope's trip to South America",
+      "published_at": "2026-10-31T14:00:31+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+      "published_at": "2026-10-31T13:50:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Judge blocks DOJ threats, Italy strike, Burnham 'open to slave trade apology'",
+      "published_at": "2026-10-31T13:22:08+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Blood donors get a Halloween fright in Thailand",
+      "published_at": "2026-10-31T12:50:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US approves sale of 500 Patriot missiles to Ukraine",
+      "published_at": "2026-10-31T12:21:25+00:00"
     },
     {
       "source": "NPR",
@@ -28,53 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "Abuse survivors to press Church on accountability during pope's trip to South America",
-      "published_at": "2026-10-31T10:54:21+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Breakingviews - COMMENTARY: The Week in Breakingviews: Myopia in Anthropia",
       "published_at": "2026-10-31T10:00:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
-      "published_at": "2026-10-31T09:47:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
-      "published_at": "2026-10-31T09:16:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-      "published_at": "2026-10-31T09:01:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "After last year's storm, this remote Alaska town is still picking up the pieces",
-      "published_at": "2026-10-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-      "published_at": "2026-10-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-      "published_at": "2026-10-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Your writing was flagged as AI. What does that actually mean?",
-      "published_at": "2026-10-31T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-      "published_at": "2026-10-31T09:00:00+00:00"
     }
   ]
 }

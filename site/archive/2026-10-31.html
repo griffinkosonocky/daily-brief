@@ -1,0 +1,1066 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Daily Brief - 2026-10-31</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://s3.tradingview.com">
+  <link rel="preconnect" href="https://www.tradingview.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0c0f0e;
+      --panel: #15191a;
+      --panel-2: #1c2224;
+      --panel-3: #111516;
+      --text: #f4f1ea;
+      --muted: #98a39f;
+      --line: #2b3433;
+      --line-strong: #3d4946;
+      --gold: #e7b95f;
+      --green: #62d293;
+      --teal: #66d9d0;
+      --blue: #87a9ff;
+      --red: #f07f7f;
+      --shadow: 0 16px 42px rgba(0, 0, 0, 0.32);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      padding: 0 0 5rem;
+      background: var(--bg);
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+      background-size: 32px 32px;
+      mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 72%);
+    }
+    a { color: var(--blue); }
+    .page {
+      width: min(100% - 32px, 1180px);
+      margin: 0 auto;
+      padding: 1rem 0 3.5rem;
+    }
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 1rem;
+      align-items: end;
+      padding: 1.25rem 0 1rem;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 1rem;
+    }
+    .kicker {
+      color: var(--muted);
+      font-size: 0.82rem;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+    h1, h2, h3 { line-height: 1.16; letter-spacing: 0; }
+    h1 {
+      margin: 0.15rem 0 0;
+      font-size: clamp(2.1rem, 7vw, 4.8rem);
+      font-weight: 850;
+      letter-spacing: 0;
+    }
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.5rem;
+    }
+    .status-pill {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.55rem 0.7rem;
+      min-height: 4rem;
+    }
+    .status-label {
+      color: var(--muted);
+      display: block;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+    }
+    .status-value {
+      display: block;
+      margin-top: 0.2rem;
+      font-size: 0.96rem;
+      font-weight: 750;
+    }
+    .view-tabs {
+      display: inline-flex;
+      gap: 0.25rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.25rem;
+      margin: 0 0 1rem;
+    }
+    .tab-button {
+      min-height: 38px;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--muted);
+      padding: 0.45rem 0.8rem;
+      font-size: 0.9rem;
+    }
+    .tab-button[aria-selected="true"] {
+      background: var(--teal);
+      color: #061514;
+    }
+    .tab-panel[hidden] { display: none; }
+    .dashboard-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      padding: 1rem;
+      min-width: 0;
+    }
+    .panel-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .panel-head h2 {
+      margin: 0;
+      font-size: 1.05rem;
+      font-weight: 800;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.55rem;
+      border-radius: 8px;
+      border: 1px solid rgba(231, 185, 95, 0.45);
+      color: var(--gold);
+      padding: 0.1rem 0.55rem;
+      font-size: 0.76rem;
+      white-space: nowrap;
+    }
+    .markets-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 0.7rem;
+    }
+    .markets-list li {
+      border-left: 2px solid rgba(102, 217, 208, 0.45);
+      padding-left: 0.7rem;
+      color: #e7ece8;
+      font-size: 0.95rem;
+    }
+    .stamp, .sources {
+      margin: 0.75rem 0 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    .sources a { color: var(--muted); }
+    .amd-panel {
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+    .chart-frame {
+      height: 360px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      background: #101313;
+    }
+    .tradingview-widget-container,
+    .tradingview-widget-container__widget {
+      width: 100%;
+      height: 100%;
+    }
+    .trivia-meta {
+      color: var(--green);
+      font-size: 0.86rem;
+      margin-bottom: 0.35rem;
+    }
+    .question {
+      margin: 0.35rem 0 0.9rem;
+      font-size: 1.06rem;
+      font-weight: 650;
+    }
+    button {
+      appearance: none;
+      border: 0;
+      border-radius: 8px;
+      background: var(--teal);
+      color: #061514;
+      font: inherit;
+      font-weight: 750;
+      min-height: 44px;
+      padding: 0.62rem 0.9rem;
+      cursor: pointer;
+    }
+    button:focus-visible {
+      outline: 3px solid var(--blue);
+      outline-offset: 3px;
+    }
+    .answer {
+      display: none;
+      margin-top: 0.9rem;
+      padding-top: 0.9rem;
+      border-top: 1px solid var(--line);
+    }
+    .answer.is-visible { display: block; }
+    .answer strong { color: var(--gold); }
+    .trivia-options {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.45rem;
+      margin: 0 0 0.9rem;
+      padding: 0;
+      list-style: none;
+    }
+    .trivia-options li {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      color: #dfe6e1;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.92rem;
+    }
+    .sports-preview {
+      display: grid;
+      gap: 0.55rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .sports-preview li {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      gap: 0.6rem;
+      align-items: center;
+      border-bottom: 1px solid var(--line);
+      padding: 0.4rem 0;
+      min-width: 0;
+    }
+    .sports-preview span {
+      color: var(--green);
+      font-size: 0.78rem;
+      font-weight: 800;
+    }
+    .sports-preview strong {
+      overflow-wrap: anywhere;
+      font-size: 0.92rem;
+    }
+    .sports-preview em {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-style: normal;
+      white-space: nowrap;
+    }
+    .sports-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .sports-dashboard {
+      display: grid;
+      gap: 1rem;
+    }
+    .sports-stats {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.55rem;
+    }
+    .sports-stat {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.65rem;
+    }
+    .sports-stat span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }
+    .sports-stat strong {
+      display: block;
+      margin-top: 0.15rem;
+      font-size: 1.4rem;
+      line-height: 1.1;
+    }
+    .league-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+    .league-filter {
+      min-height: 34px;
+      border: 1px solid var(--line);
+      background: var(--panel-3);
+      color: var(--muted);
+      padding: 0.35rem 0.65rem;
+      font-size: 0.84rem;
+    }
+    .league-filter.is-active {
+      background: var(--green);
+      border-color: var(--green);
+      color: #07150e;
+    }
+    .league-section {
+      display: grid;
+      gap: 0.7rem;
+      border-top: 1px solid var(--line);
+      padding-top: 0.9rem;
+    }
+    .league-section.is-hidden { display: none; }
+    .league-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      align-items: end;
+    }
+    .league-head h3 {
+      margin: 0.1rem 0 0;
+      font-size: 1.3rem;
+    }
+    .league-head > span {
+      color: var(--muted);
+      font-size: 0.84rem;
+      white-space: nowrap;
+    }
+    .games-list {
+      display: grid;
+      gap: 0.75rem;
+    }
+    .game-card {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-3);
+      padding: 0.75rem;
+      box-shadow: none;
+    }
+    .game-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .league-tag,
+    .game-status {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.45rem;
+      border-radius: 8px;
+      padding: 0.08rem 0.5rem;
+      font-size: 0.72rem;
+      font-weight: 850;
+    }
+    .league-tag {
+      background: rgba(135, 169, 255, 0.15);
+      color: var(--blue);
+    }
+    .game-status {
+      border: 1px solid var(--line-strong);
+      color: var(--muted);
+    }
+    .status-live {
+      border-color: rgba(98, 210, 147, 0.45);
+      color: var(--green);
+    }
+    .status-final {
+      border-color: rgba(231, 185, 95, 0.45);
+      color: var(--gold);
+    }
+    .teams {
+      display: grid;
+      gap: 0.3rem;
+      min-width: 0;
+    }
+    .team-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.75rem;
+      align-items: baseline;
+      min-height: 1.55rem;
+    }
+    .team-row span {
+      min-width: 0;
+      overflow-wrap: anywhere;
+      font-weight: 750;
+    }
+    .team-row strong {
+      min-width: 2ch;
+      text-align: right;
+      color: var(--gold);
+      font-size: 1.08rem;
+    }
+    .game-card.is-scoreless .team-row strong { display: none; }
+    .home-team span::before {
+      content: "@ ";
+      color: var(--muted);
+      font-weight: 700;
+    }
+    .spread-box {
+      display: grid;
+      gap: 0.35rem;
+      border-left: 2px solid rgba(231, 185, 95, 0.55);
+      padding-left: 0.65rem;
+      color: #e7ece8;
+    }
+    .spread-box > span {
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+    }
+    .spread-box > strong {
+      color: var(--text);
+      font-size: 0.94rem;
+    }
+    .spread-line {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.65rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+    .spread-line span:first-child {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .spread-price {
+      color: var(--muted);
+      font-weight: 650;
+    }
+    .spread-box small {
+      color: var(--muted);
+      font-size: 0.75rem;
+    }
+    .spread-empty {
+      border-left-color: var(--line-strong);
+    }
+    .league-empty {
+      border: 1px dashed var(--line-strong);
+      border-radius: 8px;
+      color: var(--muted);
+      padding: 0.85rem;
+    }
+    .sports-footnote {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    .deep-link-card {
+      display: grid;
+      gap: 0.75rem;
+      align-content: start;
+    }
+    .feature-title {
+      margin: 0.2rem 0 0.75rem;
+      font-size: clamp(1.55rem, 5vw, 2.45rem);
+      font-weight: 850;
+    }
+    .feature-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .text-button {
+      justify-self: start;
+      display: inline-flex;
+      align-items: center;
+      min-height: 42px;
+      border-radius: 8px;
+      background: var(--teal);
+      color: #061514;
+      padding: 0.55rem 0.8rem;
+      text-decoration: none;
+      font-weight: 800;
+    }
+    .map-wrap {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-2);
+    }
+    #history-map {
+      display: none;
+      width: 100%;
+      height: min(55vh, 410px);
+      min-height: 280px;
+    }
+    .map-wrap.is-ready #history-map { display: block; }
+    .map-wrap.is-ready .map-fallback { display: none; }
+    .map-fallback {
+      padding: 0.95rem;
+    }
+    .map-fallback-title {
+      margin-bottom: 0.65rem;
+      color: var(--muted);
+      font-size: 0.82rem;
+      text-transform: uppercase;
+    }
+    .map-fallback ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.7rem;
+    }
+    .map-fallback li {
+      display: grid;
+      grid-template-columns: 0.8rem 1fr;
+      gap: 0.55rem;
+      align-items: start;
+    }
+    .map-dot {
+      width: 0.72rem;
+      height: 0.72rem;
+      margin-top: 0.47rem;
+      border-radius: 999px;
+      background: var(--green);
+    }
+    .map-dot-capital { background: var(--gold); }
+    .map-dot-battle { background: var(--red); }
+    .map-dot-city { background: var(--blue); }
+    .map-caption {
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+      margin-top: 0.08rem;
+    }
+    .deep-read-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .read-header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-bottom: 1rem;
+    }
+    .read-title {
+      margin: 0.2rem 0 0;
+      font-size: clamp(1.75rem, 5vw, 3.4rem);
+      font-weight: 850;
+    }
+    .read-map-panel {
+      display: grid;
+      gap: 1rem;
+      align-content: start;
+    }
+    article {
+      width: min(100%, 820px);
+      color: #e8e4dc;
+      font-size: 1.05rem;
+      line-height: 1.72;
+    }
+    article h2 {
+      font-size: 1.25rem;
+      margin: 1.7rem 0 0.45rem;
+    }
+    article h3 {
+      font-size: 1.08rem;
+      color: var(--teal);
+      margin: 1.3rem 0 0.4rem;
+    }
+    article p { margin: 0 0 1rem; }
+    .further-reading {
+      border-left: 3px solid var(--gold);
+      padding-left: 0.8rem;
+      color: #e8dfcc;
+    }
+    footer {
+      border-top: 1px solid var(--line);
+      margin-top: 2rem;
+      padding-top: 1rem;
+      color: var(--muted);
+    }
+    .ticker {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1000;
+      background: #070908;
+      border-top: 1px solid var(--line);
+      min-height: 3.5rem;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      touch-action: pan-y;
+    }
+    .ticker-label {
+      flex: 0 0 auto;
+      align-self: stretch;
+      display: flex;
+      align-items: center;
+      padding: 0 0.75rem;
+      background: var(--teal);
+      color: #061514;
+      font-weight: 850;
+      font-size: 0.78rem;
+    }
+    .ticker-window { overflow: hidden; flex: 1; }
+    .ticker-track {
+      display: inline-flex;
+      gap: 2rem;
+      white-space: nowrap;
+      animation: marquee 120s linear infinite;
+      will-change: transform;
+      padding-left: 100%;
+    }
+    .ticker.paused .ticker-track,
+    .ticker:hover .ticker-track { animation-play-state: paused; }
+    .ticker-item {
+      display: inline-flex;
+      align-items: center;
+      min-height: 3.5rem;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    @keyframes marquee {
+      from { transform: translateX(0); }
+      to { transform: translateX(-100%); }
+    }
+    @media (max-width: 430px) {
+      .page { width: min(100% - 22px, 700px); }
+      .panel { padding: 0.9rem; }
+      .panel-head { align-items: flex-start; }
+      .sports-preview li {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+      }
+      .sports-preview em { white-space: normal; }
+      article { font-size: 1.06rem; }
+      .ticker-label { padding: 0 0.55rem; }
+      .ticker-track { gap: 1.4rem; animation-duration: 115s; }
+    }
+    @media (min-width: 780px) {
+      .topbar {
+        grid-template-columns: minmax(0, 1fr) minmax(320px, 430px);
+      }
+      .status-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+      .dashboard-grid {
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+        align-items: stretch;
+      }
+      .markets-panel { grid-column: span 7; }
+      .amd-panel { grid-column: span 5; }
+      .sports-peek-panel { grid-column: span 4; }
+      .deep-link-card { grid-column: span 8; }
+      .chart-frame { height: 430px; }
+      .sports-layout {
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+        align-items: start;
+      }
+      .sports-main-panel { grid-column: span 8; }
+      .trivia-panel { grid-column: span 4; }
+      .sports-stats { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+      .game-card {
+        grid-template-columns: minmax(0, 1fr) minmax(220px, 0.55fr);
+        align-items: start;
+      }
+      .game-meta {
+        grid-column: 1 / -1;
+      }
+      .deep-read-layout {
+        grid-template-columns: minmax(280px, 420px) minmax(0, 1fr);
+        align-items: start;
+      }
+      .read-map-panel {
+        position: sticky;
+        top: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="topbar">
+      <div>
+        <div class="kicker">Personal command center</div>
+        <h1>Daily Brief</h1>
+      </div>
+      <div class="status-grid" aria-label="Edition status">
+        <div class="status-pill">
+          <span class="status-label">Today</span>
+          <span class="status-value">Saturday, October 31, 2026</span>
+        </div>
+        <div class="status-pill">
+          <span class="status-label">Edition</span>
+          <span class="status-value">#144</span>
+        </div>
+        <div class="status-pill">
+          <span class="status-label">Market Card</span>
+          <span class="status-value">Sep 10, 2026 at 9:32 AM CT</span>
+        </div>
+      </div>
+    </header>
+
+    <nav class="view-tabs" aria-label="Daily views">
+      <button class="tab-button" type="button" id="overview-tab" aria-selected="true" aria-controls="overview-panel" data-tab-target="overview-panel">Overview</button>
+      <button class="tab-button" type="button" id="sports-tab" aria-selected="false" aria-controls="sports-panel" data-tab-target="sports-panel">Sports</button>
+      <button class="tab-button" type="button" id="deep-read-tab" aria-selected="false" aria-controls="deep-read-panel" data-tab-target="deep-read-panel">Deep Read</button>
+    </nav>
+
+    <section class="tab-panel" id="overview-panel" role="tabpanel" aria-labelledby="overview-tab">
+      <section class="dashboard-grid" aria-label="Daily dashboard">
+        <section class="panel markets-panel" aria-labelledby="markets-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Markets</div>
+              <h2 id="markets-heading">US Market Signals</h2>
+            </div>
+            <span class="badge">Friday&#x27;s card</span>
+          </div>
+          <ul class="markets-list">
+            <li>Futures are mixed pre-open: Dow +0.24% and S&amp;P 500 +0.09% attempt a modest bounce, while Nasdaq futures slip ~0.21% — markets are hesitant ahead of today&#x27;s PPI and tomorrow&#x27;s CPI, with thin pre-market liquidity as traders wait for data.</li>
+<li>Yesterday&#x27;s close: S&amp;P 500 fell 0.48% to 7,636, Dow dropped 0.77% to 52,381, and Nasdaq lost 0.64% to 26,253 — a third straight down day driven by surging oil, rising yields, and U.S.-Iran tensions.</li>
+<li>Today&#x27;s key data: August PPI drops at 7:30 AM CT (before the bell); weekly jobless claims also at 7:30 AM CT. Fed is in its pre-FOMC quiet period ahead of the September 15–16 meeting — no Fed speakers today.</li>
+<li>Tomorrow is the bigger data day: August CPI prints at 7:30 AM CT Friday — with Brent above $101 and July CPI at 3.4% YoY, a hot print could cement rate-hike expectations for next week&#x27;s FOMC.</li>
+<li>Earnings today: Oracle (ORCL) reports after the bell — closely watched as a read on AI infrastructure demand and cloud spending momentum.</li>
+<li>Overnight global markets: MSCI Asia Pacific fell 0.6%, with Tokyo, Seoul, Taipei, and Sydney all under pressure; European DAX and FTSE 100 are both modestly lower. ECB is expected to hike rates today, adding to global tightening pressure.</li>
+<li>Rates and oil are the story: Brent crude is holding above $101/bbl — its highest since May — after U.S. forces struck Iranian oil tankers; the 10-year Treasury yield is near 4.85%, its highest since October 2023, even after Treasury announced a $6B bond buyback. Diesel hit an all-time record overnight, flagging pass-through inflation risk.</li>
+<li>Theme to watch: The oil-inflation-Fed feedback loop. Every tick higher in crude tightens the runway for the Fed ahead of next week&#x27;s meeting — today&#x27;s PPI and Friday&#x27;s CPI are the last major data points before the September 16 rate decision.</li>
+          </ul>
+
+        </section>
+
+        <section class="panel amd-panel" aria-labelledby="amd-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Watchlist</div>
+              <h2 id="amd-heading">AMD Live Chart</h2>
+            </div>
+            <span class="badge">NASDAQ: AMD</span>
+          </div>
+          <div class="chart-frame">
+            <div class="tradingview-widget-container" aria-label="AMD live stock chart">
+              <div class="tradingview-widget-container__widget"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+                {
+        "autosize": true,
+        "symbol": "NASDAQ:AMD",
+        "interval": "D",
+        "timezone": "America/Chicago",
+        "theme": "dark",
+        "style": "1",
+        "locale": "en",
+        "backgroundColor": "#15191a",
+        "gridColor": "rgba(255,255,255,0.06)",
+        "allow_symbol_change": false,
+        "calendar": false,
+        "hide_side_toolbar": true,
+        "hide_top_toolbar": false,
+        "hide_legend": false,
+        "save_image": false,
+        "support_host": "https://www.tradingview.com"
+}
+              </script>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel sports-peek-panel" aria-labelledby="sports-peek-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Sports</div>
+              <h2 id="sports-peek-heading">Today's Slate</h2>
+            </div>
+
+          </div>
+          <ul class="sports-preview"><li><span>CFB</span><strong>Illinois Fighting Illini @ Maryland Terrapins</strong><em>11:00 AM CT</em></li><li><span>CFB</span><strong>Arizona Wildcats @ Texas Tech Red Raiders</strong><em>11:00 AM CT</em></li><li><span>CFB</span><strong>SMU Mustangs @ Syracuse Orange</strong><em>11:00 AM CT</em></li></ul>
+          <button class="text-button" type="button" data-tab-target="sports-panel">Open Sports</button>
+        </section>
+
+        <section class="panel deep-link-card" aria-labelledby="deep-link-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Historical Read</div>
+              <h2 id="deep-link-heading">Today's Deep Read</h2>
+            </div>
+            <span class="badge">yesterday&#x27;s edition</span>
+          </div>
+          <h3 class="feature-title">The Shang Dynasty and the Origins of Chinese Writing</h3>
+          <p class="feature-copy">Long-form history, spatial context, and the full daily narrative.</p>
+          <button class="text-button" type="button" data-tab-target="deep-read-panel">Open Deep Read</button>
+        </section>
+      </section>
+    </section>
+
+    <section class="tab-panel" id="sports-panel" role="tabpanel" aria-labelledby="sports-tab" hidden>
+      <section class="sports-layout" aria-label="Sports dashboard">
+        <section class="panel sports-main-panel" aria-labelledby="sports-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Scores & Spreads</div>
+              <h2 id="sports-heading">Today's Sports Slate</h2>
+            </div>
+
+          </div>
+          <div class="sports-dashboard"><div class="sports-stats"><div class="sports-stat"><span>Games</span><strong>54</strong></div><div class="sports-stat"><span>Live</span><strong>0</strong></div><div class="sports-stat"><span>Final</span><strong>0</strong></div><div class="sports-stat"><span>Spreads</span><strong>54</strong></div></div><div class="league-filters" aria-label="Sport filters"><button class="league-filter is-active" type="button" data-sport-filter="all">All</button><button class="league-filter" type="button" data-sport-filter="World Cup">World Cup</button><button class="league-filter" type="button" data-sport-filter="NFL">NFL</button><button class="league-filter" type="button" data-sport-filter="CFB">CFB</button><button class="league-filter" type="button" data-sport-filter="NCAAB">NCAAB</button><button class="league-filter" type="button" data-sport-filter="NBA">NBA</button></div><section class="league-section" data-league="World Cup"><div class="league-head"><div><div class="kicker">FIFA World Cup</div><h3>World Cup</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">Out of season.</div></div></section><section class="league-section" data-league="NFL"><div class="league-head"><div><div class="kicker">NFL</div><h3>NFL</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">No games today.</div></div></section><section class="league-section" data-league="CFB"><div class="league-head"><div><div class="kicker">College Football</div><h3>CFB</h3></div><span>47 games</span></div><div class="games-list"><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>Illinois Fighting Illini</span><strong></strong></div><div class="team-row home-team"><span>Maryland Terrapins</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Illinois Fighting Illini -3</strong><div class="spread-line"><span>Illinois Fighting Illini</span><strong>-3 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>Maryland Terrapins</span><strong>+3 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>Arizona Wildcats</span><strong></strong></div><div class="team-row home-team"><span>Texas Tech Red Raiders</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Texas Tech Red Raiders -3.5</strong><div class="spread-line"><span>Arizona Wildcats</span><strong>+3.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Texas Tech Red Raiders</span><strong>-3.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>SMU Mustangs</span><strong></strong></div><div class="team-row home-team"><span>Syracuse Orange</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>SMU Mustangs -8.5</strong><div class="spread-line"><span>SMU Mustangs</span><strong>-8.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Syracuse Orange</span><strong>+8.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>UAB Blazers</span><strong></strong></div><div class="team-row home-team"><span>South Florida Bulls</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>South Florida Bulls -7.5</strong><div class="spread-line"><span>South Florida Bulls</span><strong>-7.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>UAB Blazers</span><strong>+7.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>Boston College Eagles</span><strong></strong></div><div class="team-row home-team"><span>Duke Blue Devils</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Duke Blue Devils -7</strong><div class="spread-line"><span>Boston College Eagles</span><strong>+7 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>Duke Blue Devils</span><strong>-7 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>Wisconsin Badgers</span><strong></strong></div><div class="team-row home-team"><span>Iowa Hawkeyes</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Iowa Hawkeyes -2.5</strong><div class="spread-line"><span>Iowa Hawkeyes</span><strong>-2.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>Wisconsin Badgers</span><strong>+2.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>California Golden Bears</span><strong></strong></div><div class="team-row home-team"><span>NC State Wolfpack</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>NC State Wolfpack -9.5</strong><div class="spread-line"><span>California Golden Bears</span><strong>+9.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>NC State Wolfpack</span><strong>-9.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:00 AM CT</span></div><div class="teams"><div class="team-row"><span>Bowling Green Falcons</span><strong></strong></div><div class="team-row home-team"><span>Western Michigan Broncos</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Western Michigan Broncos -14</strong><div class="spread-line"><span>Bowling Green Falcons</span><strong>+14 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Western Michigan Broncos</span><strong>-14 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:05 AM CT</span></div><div class="teams"><div class="team-row"><span>Notre Dame Fighting Irish</span><strong></strong></div><div class="team-row home-team"><span>Navy Midshipmen</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Notre Dame Fighting Irish -30.5</strong><div class="spread-line"><span>Navy Midshipmen</span><strong>+30.5 <span class="spread-price">+102</span></strong></div><div class="spread-line"><span>Notre Dame Fighting Irish</span><strong>-30.5 <span class="spread-price">-122</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:30 AM CT</span></div><div class="teams"><div class="team-row"><span>Michigan Wolverines</span><strong></strong></div><div class="team-row home-team"><span>Rutgers Scarlet Knights</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Michigan Wolverines -16.5</strong><div class="spread-line"><span>Michigan Wolverines</span><strong>-16.5 <span class="spread-price">-118</span></strong></div><div class="spread-line"><span>Rutgers Scarlet Knights</span><strong>+16.5 <span class="spread-price">-102</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">11:45 AM CT</span></div><div class="teams"><div class="team-row"><span>Auburn Tigers</span><strong></strong></div><div class="team-row home-team"><span>Ole Miss Rebels</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Ole Miss Rebels -11.5</strong><div class="spread-line"><span>Auburn Tigers</span><strong>+11.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>Ole Miss Rebels</span><strong>-11.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">12:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Marshall Thundering Herd</span><strong></strong></div><div class="team-row home-team"><span>Old Dominion Monarchs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Marshall Thundering Herd -3</strong><div class="spread-line"><span>Marshall Thundering Herd</span><strong>-3 <span class="spread-price">-102</span></strong></div><div class="spread-line"><span>Old Dominion Monarchs</span><strong>+3 <span class="spread-price">-118</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">1:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Coastal Carolina Chanticleers</span><strong></strong></div><div class="team-row home-team"><span>Georgia State Panthers</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Georgia State Panthers -3.5</strong><div class="spread-line"><span>Coastal Carolina Chanticleers</span><strong>+3.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Georgia State Panthers</span><strong>-3.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">1:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Kansas State Wildcats</span><strong></strong></div><div class="team-row home-team"><span>Colorado Buffaloes</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Colorado Buffaloes -3</strong><div class="spread-line"><span>Colorado Buffaloes</span><strong>-3 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>Kansas State Wildcats</span><strong>+3 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:00 PM CT</span></div><div class="teams"><div class="team-row"><span>UConn Huskies</span><strong></strong></div><div class="team-row home-team"><span>Air Force Falcons</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>UConn Huskies -1.5</strong><div class="spread-line"><span>Air Force Falcons</span><strong>+1.5 <span class="spread-price">-118</span></strong></div><div class="spread-line"><span>UConn Huskies</span><strong>-1.5 <span class="spread-price">-102</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Louisiana Tech Bulldogs</span><strong></strong></div><div class="team-row home-team"><span>South Alabama Jaguars</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Louisiana Tech Bulldogs -6.5</strong><div class="spread-line"><span>Louisiana Tech Bulldogs</span><strong>-6.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>South Alabama Jaguars</span><strong>+6.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Temple Owls</span><strong></strong></div><div class="team-row home-team"><span>East Carolina Pirates</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>East Carolina Pirates -4</strong><div class="spread-line"><span>East Carolina Pirates</span><strong>-4 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>Temple Owls</span><strong>+4 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:15 PM CT</span></div><div class="teams"><div class="team-row"><span>Stanford Cardinal</span><strong></strong></div><div class="team-row home-team"><span>Louisville Cardinals</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Louisville Cardinals -22.5</strong><div class="spread-line"><span>Louisville Cardinals</span><strong>-22.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>Stanford Cardinal</span><strong>+22.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Minnesota Golden Gophers</span><strong></strong></div><div class="team-row home-team"><span>Indiana Hoosiers</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Indiana Hoosiers -20.5</strong><div class="spread-line"><span>Indiana Hoosiers</span><strong>-20.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>Minnesota Golden Gophers</span><strong>+20.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Florida Gators</span><strong></strong></div><div class="team-row home-team"><span>Georgia Bulldogs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Georgia Bulldogs -11.5</strong><div class="spread-line"><span>Florida Gators</span><strong>+11.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Georgia Bulldogs</span><strong>-11.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Southern Mississippi Golden Eagles</span><strong></strong></div><div class="team-row home-team"><span>UL Monroe Warhawks</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Southern Mississippi Golden Eagles -3.5</strong><div class="spread-line"><span>Southern Mississippi Golden Eagles</span><strong>-3.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>UL Monroe Warhawks</span><strong>+3.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Northwestern Wildcats</span><strong></strong></div><div class="team-row home-team"><span>Oregon Ducks</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Oregon Ducks -3.5</strong><div class="spread-line"><span>Northwestern Wildcats</span><strong>+3.5 <span class="spread-price">-102</span></strong></div><div class="spread-line"><span>Oregon Ducks</span><strong>-3.5 <span class="spread-price">-118</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Kansas Jayhawks</span><strong></strong></div><div class="team-row home-team"><span>TCU Horned Frogs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>TCU Horned Frogs -6.5</strong><div class="spread-line"><span>Kansas Jayhawks</span><strong>+6.5 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>TCU Horned Frogs</span><strong>-6.5 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Colorado State Rams</span><strong></strong></div><div class="team-row home-team"><span>Utah State Aggies</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Utah State Aggies -7.5</strong><div class="spread-line"><span>Colorado State Rams</span><strong>+7.5 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>Utah State Aggies</span><strong>-7.5 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Arizona State Sun Devils</span><strong></strong></div><div class="team-row home-team"><span>BYU Cougars</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>BYU Cougars -16.5</strong><div class="spread-line"><span>Arizona State Sun Devils</span><strong>+16.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>BYU Cougars</span><strong>-16.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>UTEP Miners</span><strong></strong></div><div class="team-row home-team"><span>North Dakota State Bison</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>North Dakota State Bison -24.5</strong><div class="spread-line"><span>North Dakota State Bison</span><strong>-24.5 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>UTEP Miners</span><strong>+24.5 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Florida International Panthers</span><strong></strong></div><div class="team-row home-team"><span>Liberty Flames</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Liberty Flames -14</strong><div class="spread-line"><span>Florida International Panthers</span><strong>+14 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>Liberty Flames</span><strong>-14 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:45 PM CT</span></div><div class="teams"><div class="team-row"><span>Virginia Cavaliers</span><strong></strong></div><div class="team-row home-team"><span>Wake Forest Demon Deacons</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Wake Forest Demon Deacons -12.5</strong><div class="spread-line"><span>Virginia Cavaliers</span><strong>+12.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Wake Forest Demon Deacons</span><strong>-12.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">2:45 PM CT</span></div><div class="teams"><div class="team-row"><span>Utah Utes</span><strong></strong></div><div class="team-row home-team"><span>Cincinnati Bearcats</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Utah Utes -7</strong><div class="spread-line"><span>Cincinnati Bearcats</span><strong>+7 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Utah Utes</span><strong>-7 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">3:00 PM CT</span></div><div class="teams"><div class="team-row"><span>New Mexico Lobos</span><strong></strong></div><div class="team-row home-team"><span>San Jose State Spartans</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>New Mexico Lobos -14.5</strong><div class="spread-line"><span>New Mexico Lobos</span><strong>-14.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>San Jose State Spartans</span><strong>+14.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">3:15 PM CT</span></div><div class="teams"><div class="team-row"><span>South Carolina Gamecocks</span><strong></strong></div><div class="team-row home-team"><span>Oklahoma Sooners</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Oklahoma Sooners -3.5</strong><div class="spread-line"><span>Oklahoma Sooners</span><strong>-3.5 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>South Carolina Gamecocks</span><strong>+3.5 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">3:15 PM CT</span></div><div class="teams"><div class="team-row"><span>Nevada Wolf Pack</span><strong></strong></div><div class="team-row home-team"><span>UCLA Bruins</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>UCLA Bruins -22.5</strong><div class="spread-line"><span>Nevada Wolf Pack</span><strong>+22.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>UCLA Bruins</span><strong>-22.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">3:15 PM CT</span></div><div class="teams"><div class="team-row"><span>Purdue Boilermakers</span><strong></strong></div><div class="team-row home-team"><span>Penn State Nittany Lions</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Penn State Nittany Lions -10</strong><div class="spread-line"><span>Penn State Nittany Lions</span><strong>-10 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>Purdue Boilermakers</span><strong>+10 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">5:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Appalachian State Mountaineers</span><strong></strong></div><div class="team-row home-team"><span>Georgia Southern Eagles</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Georgia Southern Eagles -6</strong><div class="spread-line"><span>Appalachian State Mountaineers</span><strong>+6 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Georgia Southern Eagles</span><strong>-6 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Clemson Tigers</span><strong></strong></div><div class="team-row home-team"><span>Florida State Seminoles</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Florida State Seminoles -6</strong><div class="spread-line"><span>Clemson Tigers</span><strong>+6 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Florida State Seminoles</span><strong>-6 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Washington State Cougars</span><strong></strong></div><div class="team-row home-team"><span>San Diego State Aztecs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>San Diego State Aztecs -2.5</strong><div class="spread-line"><span>San Diego State Aztecs</span><strong>-2.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>Washington State Cougars</span><strong>+2.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Oklahoma State Cowboys</span><strong></strong></div><div class="team-row home-team"><span>Iowa State Cyclones</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Oklahoma State Cowboys -9.5</strong><div class="spread-line"><span>Iowa State Cyclones</span><strong>+9.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Oklahoma State Cowboys</span><strong>-9.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Georgia Tech Yellow Jackets</span><strong></strong></div><div class="team-row home-team"><span>Pittsburgh Panthers</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Pittsburgh Panthers -7.5</strong><div class="spread-line"><span>Georgia Tech Yellow Jackets</span><strong>+7.5 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Pittsburgh Panthers</span><strong>-7.5 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Miami Hurricanes</span><strong></strong></div><div class="team-row home-team"><span>North Carolina Tar Heels</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Miami Hurricanes -14</strong><div class="spread-line"><span>Miami Hurricanes</span><strong>-14 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>North Carolina Tar Heels</span><strong>+14 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Ohio State Buckeyes</span><strong></strong></div><div class="team-row home-team"><span>USC Trojans</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Ohio State Buckeyes -6.5</strong><div class="spread-line"><span>Ohio State Buckeyes</span><strong>-6.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>USC Trojans</span><strong>+6.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Mississippi State Bulldogs</span><strong></strong></div><div class="team-row home-team"><span>Texas Longhorns</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Texas Longhorns -20.5</strong><div class="spread-line"><span>Mississippi State Bulldogs</span><strong>+20.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>Texas Longhorns</span><strong>-20.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">6:45 PM CT</span></div><div class="teams"><div class="team-row"><span>Missouri Tigers</span><strong></strong></div><div class="team-row home-team"><span>Arkansas Razorbacks</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Missouri Tigers -10</strong><div class="spread-line"><span>Arkansas Razorbacks</span><strong>+10 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Missouri Tigers</span><strong>-10 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">7:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Washington Huskies</span><strong></strong></div><div class="team-row home-team"><span>Nebraska Cornhuskers</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Nebraska Cornhuskers -7.5</strong><div class="spread-line"><span>Nebraska Cornhuskers</span><strong>-7.5 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Washington Huskies</span><strong>+7.5 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">7:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Army Black Knights</span><strong></strong></div><div class="team-row home-team"><span>Memphis Tigers</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Memphis Tigers -6</strong><div class="spread-line"><span>Army Black Knights</span><strong>+6 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Memphis Tigers</span><strong>-6 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">9:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Texas State Bobcats</span><strong></strong></div><div class="team-row home-team"><span>Boise State Broncos</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Boise State Broncos -10.5</strong><div class="spread-line"><span>Boise State Broncos</span><strong>-10.5 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Texas State Bobcats</span><strong>+10.5 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">9:30 PM CT</span></div><div class="teams"><div class="team-row"><span>Northern Illinois Huskies</span><strong></strong></div><div class="team-row home-team"><span>UNLV Rebels</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>UNLV Rebels -21.5</strong><div class="spread-line"><span>Northern Illinois Huskies</span><strong>+21.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>UNLV Rebels</span><strong>-21.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">CFB</span><span class="game-status status-upcoming">10:00 PM CT</span></div><div class="teams"><div class="team-row"><span>Oregon State Beavers</span><strong></strong></div><div class="team-row home-team"><span>Fresno State Bulldogs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Oregon State Beavers -6</strong><div class="spread-line"><span>Fresno State Bulldogs</span><strong>+6 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Oregon State Beavers</span><strong>-6 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:47 AM CT</small></div></article></div></section><section class="league-section" data-league="NCAAB"><div class="league-head"><div><div class="kicker">College Basketball</div><h3>NCAAB</h3></div><span>0 games</span></div><div class="games-list"><div class="league-empty">No games today.</div></div></section><section class="league-section" data-league="NBA"><div class="league-head"><div><div class="kicker">NBA</div><h3>NBA</h3></div><span>7 games</span></div><div class="games-list"><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">2:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Portland Trail Blazers</span><strong></strong></div><div class="team-row home-team"><span>Utah Jazz</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Portland Trail Blazers -8.5</strong><div class="spread-line"><span>Portland Trail Blazers</span><strong>-8.5 <span class="spread-price">-110</span></strong></div><div class="spread-line"><span>Utah Jazz</span><strong>+8.5 <span class="spread-price">-110</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">5:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Philadelphia 76ers</span><strong></strong></div><div class="team-row home-team"><span>Charlotte Hornets</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Philadelphia 76ers -1.5</strong><div class="spread-line"><span>Charlotte Hornets</span><strong>+1.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Philadelphia 76ers</span><strong>-1.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">6:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Atlanta Hawks</span><strong></strong></div><div class="team-row home-team"><span>New Orleans Pelicans</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Atlanta Hawks -4.5</strong><div class="spread-line"><span>Atlanta Hawks</span><strong>-4.5 <span class="spread-price">-105</span></strong></div><div class="spread-line"><span>New Orleans Pelicans</span><strong>+4.5 <span class="spread-price">-115</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">7:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Minnesota Timberwolves</span><strong></strong></div><div class="team-row home-team"><span>San Antonio Spurs</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>San Antonio Spurs -12.5</strong><div class="spread-line"><span>Minnesota Timberwolves</span><strong>+12.5 <span class="spread-price">-115</span></strong></div><div class="spread-line"><span>San Antonio Spurs</span><strong>-12.5 <span class="spread-price">-105</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">7:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Cleveland Cavaliers</span><strong></strong></div><div class="team-row home-team"><span>Milwaukee Bucks</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Cleveland Cavaliers -9.5</strong><div class="spread-line"><span>Cleveland Cavaliers</span><strong>-9.5 <span class="spread-price">-112</span></strong></div><div class="spread-line"><span>Milwaukee Bucks</span><strong>+9.5 <span class="spread-price">-108</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">7:10 PM CT</span></div><div class="teams"><div class="team-row"><span>Sacramento Kings</span><strong></strong></div><div class="team-row home-team"><span>Memphis Grizzlies</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Memphis Grizzlies -8.5</strong><div class="spread-line"><span>Memphis Grizzlies</span><strong>-8.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Sacramento Kings</span><strong>+8.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article><article class="game-card is-scoreless" data-game-status="upcoming"><div class="game-meta"><span class="league-tag">NBA</span><span class="game-status status-upcoming">7:40 PM CT</span></div><div class="teams"><div class="team-row"><span>Oklahoma City Thunder</span><strong></strong></div><div class="team-row home-team"><span>Houston Rockets</span><strong></strong></div></div><div class="spread-box"><span>Spread</span><strong>Houston Rockets -2.5</strong><div class="spread-line"><span>Houston Rockets</span><strong>-2.5 <span class="spread-price">-108</span></strong></div><div class="spread-line"><span>Oklahoma City Thunder</span><strong>+2.5 <span class="spread-price">-112</span></strong></div><small>DraftKings · 10:48 AM CT</small></div></article></div></section><p class="sports-footnote">Scores and spreads refresh during the daily build. Lines are informational and can move quickly. Last checked Oct 31, 2026 at 10:48 AM CT.</p></div>
+        </section>
+
+        <section class="panel trivia-panel" aria-labelledby="trivia-heading">
+          <div class="panel-head">
+            <div>
+              <div class="kicker">Trivia</div>
+              <h2 id="trivia-heading">Daily Sports Question</h2>
+            </div>
+
+          </div>
+          <div class="trivia-meta">Sports · Hard</div>
+          <p class="question">Who is Manchester United&#x27;s leading appearance maker?</p>
+          <ul class="trivia-options"><li>Wayne Rooney</li><li>Ryan Giggs</li><li>David Beckham</li><li>Eric Cantona</li></ul>
+          <button id="reveal-answer" type="button" aria-expanded="false" aria-controls="trivia-answer">Reveal Answer</button>
+          <div id="trivia-answer" class="answer">
+            <p><strong>Ryan Giggs</strong></p>
+            <p>Pulled from Open Trivia DB&#x27;s Sports category, with no model-written facts.</p>
+          </div>
+        </section>
+      </section>
+    </section>
+
+    <section class="tab-panel" id="deep-read-panel" role="tabpanel" aria-labelledby="deep-read-tab" hidden>
+      <div class="deep-read-layout">
+        <aside class="panel read-map-panel" aria-labelledby="article-heading">
+          <div class="read-header">
+            <div>
+              <div class="kicker">Deep Read</div>
+              <h2 id="article-heading" class="read-title">The Shang Dynasty and the Origins of Chinese Writing</h2>
+            </div>
+            <a href="./">Archive</a>
+          </div>
+
+      <div class="map-wrap" data-map-wrap>
+        <div id="history-map" data-locations="[{&quot;name&quot;: &quot;Yinxu (Anyang)&quot;, &quot;lat&quot;: 36.1228, &quot;lng&quot;: 114.3225, &quot;caption&quot;: &quot;The late Shang capital where oracle bones were discovered and excavated; site of royal tombs and palaces.&quot;, &quot;role&quot;: &quot;capital&quot;}, {&quot;name&quot;: &quot;Beijing (Wang Yirong&#x27;s discovery)&quot;, &quot;lat&quot;: 39.9042, &quot;lng&quot;: 116.4074, &quot;caption&quot;: &quot;Where scholar Wang Yirong first identified oracle bone inscriptions as ancient writing in 1899.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Xiaotun Village, Henan&quot;, &quot;lat&quot;: 36.11, &quot;lng&quot;: 114.305, &quot;caption&quot;: &quot;The village near Anyang where oracle bones were unearthed from fields and sold to apothecaries as &#x27;dragon bones.&#x27;&quot;, &quot;role&quot;: &quot;site&quot;}, {&quot;name&quot;: &quot;Yellow River (Huanghe), Central Plain&quot;, &quot;lat&quot;: 34.9, &quot;lng&quot;: 113.6, &quot;caption&quot;: &quot;The heartland river valley that sustained Shang agriculture, trade, and political power.&quot;, &quot;role&quot;: &quot;site&quot;}, {&quot;name&quot;: &quot;Muye (Battle of Muye)&quot;, &quot;lat&quot;: 35.4, &quot;lng&quot;: 113.8, &quot;caption&quot;: &quot;Approximate site of the decisive 1046 BCE battle where Zhou forces defeated the last Shang king, ending the dynasty.&quot;, &quot;role&quot;: &quot;battle&quot;}, {&quot;name&quot;: &quot;Zhengzhou&quot;, &quot;lat&quot;: 34.7466, &quot;lng&quot;: 113.6253, &quot;caption&quot;: &quot;Site of an earlier Shang urban center, predating Yinxu, showing the dynasty&#x27;s long urban tradition.&quot;, &quot;role&quot;: &quot;city&quot;}, {&quot;name&quot;: &quot;Erlitou, Henan&quot;, &quot;lat&quot;: 34.6933, &quot;lng&quot;: 112.6833, &quot;caption&quot;: &quot;Archaeological site of a pre-Shang or early Shang Bronze Age palace complex, possibly the semi-legendary Xia dynasty.&quot;, &quot;role&quot;: &quot;site&quot;}]" aria-label="Map of key locations"></div>
+        <div class="map-fallback" id="history-map-fallback"><div class="map-fallback-title">Key locations</div><ul><li><span class="map-dot map-dot-capital" aria-hidden="true"></span><div><strong>Yinxu (Anyang)</strong><div class="map-caption">The late Shang capital where oracle bones were discovered and excavated; site of royal tombs and palaces.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Beijing (Wang Yirong&#x27;s discovery)</strong><div class="map-caption">Where scholar Wang Yirong first identified oracle bone inscriptions as ancient writing in 1899.</div></div></li><li><span class="map-dot map-dot-site" aria-hidden="true"></span><div><strong>Xiaotun Village, Henan</strong><div class="map-caption">The village near Anyang where oracle bones were unearthed from fields and sold to apothecaries as &#x27;dragon bones.&#x27;</div></div></li><li><span class="map-dot map-dot-site" aria-hidden="true"></span><div><strong>Yellow River (Huanghe), Central Plain</strong><div class="map-caption">The heartland river valley that sustained Shang agriculture, trade, and political power.</div></div></li><li><span class="map-dot map-dot-battle" aria-hidden="true"></span><div><strong>Muye (Battle of Muye)</strong><div class="map-caption">Approximate site of the decisive 1046 BCE battle where Zhou forces defeated the last Shang king, ending the dynasty.</div></div></li><li><span class="map-dot map-dot-city" aria-hidden="true"></span><div><strong>Zhengzhou</strong><div class="map-caption">Site of an earlier Shang urban center, predating Yinxu, showing the dynasty&#x27;s long urban tradition.</div></div></li><li><span class="map-dot map-dot-site" aria-hidden="true"></span><div><strong>Erlitou, Henan</strong><div class="map-caption">Archaeological site of a pre-Shang or early Shang Bronze Age palace complex, possibly the semi-legendary Xia dynasty.</div></div></li></ul></div>
+      </div>
+        </aside>
+        <article class="panel">
+          <h3>The Bones That Spoke: The Shang Dynasty and the Origins of Chinese Writing</h3>
+<p><em>The Daily Brief — Ancient History | East Asia</em></p>
+<p>---</p>
+<h2>A Discovery in the Apothecary</h2>
+<p>In the winter of 1899, a scholar named Wang Yirong was suffering from malaria in Beijing. His physician prescribed, as Chinese pharmacists had for centuries, a remedy that included powdered &quot;dragon bones&quot; — fragments of ancient turtle shells and animal bones ground into medicinal dust. Wang, a learned man and an expert in ancient bronzes, happened to examine the bones before they were crushed. He noticed something extraordinary: scratched into their surfaces were marks that looked, unmistakably, like writing.</p>
+<p>What Wang Yirong had stumbled upon were oracle bones — the preserved divination records of the Shang dynasty, buried for over three thousand years beneath the fields of a small village in Henan Province called Xiaotun. He began purchasing every bone he could find. He died the following year, a casualty of the Boxer Rebellion, but the discovery he had made would ultimately transform our understanding of China&#x27;s ancient past and reveal, in cracked and scorched fragments, the earliest known ancestor of the writing system used by more than a billion people today.</p>
+<p>The bones had been speaking all along. The world simply hadn&#x27;t known how to listen.</p>
+<p>---</p>
+<h2>The World Before the Writing</h2>
+<p>To understand what the Shang dynasty meant, it helps to understand the silence that preceded it — not an empty silence, but an inarticulate one, a world whose complexity we can only partially recover.</p>
+<p>By the time the Shang rose to dominance in the Yellow River valley, human beings had been farming the North China Plain for thousands of years. The Neolithic cultures of the region — the Yangshao, with their painted pottery and millet fields; the Longshan, with their astonishing eggshell-thin black ceramics and their rammed-earth settlements — had already built the social scaffolding upon which Bronze Age civilization would climb. They had villages, craft specialization, trade networks, and almost certainly ritual hierarchies. What they did not have, as far as we know, was writing.</p>
+<p>This absence is worth sitting with. Complex societies can function without writing for a very long time. Memory, oral tradition, knotted cords, tally sticks — human beings are remarkably inventive about encoding information in the absence of script. But writing changes something fundamental. It externalizes memory. It allows the dead to speak to the living. It permits a ruler to issue commands that travel farther than any messenger&#x27;s voice. It creates, in short, the infrastructure of a certain kind of power.</p>
+<p>The Shang dynasty, which most historians place between roughly 1600 and 1046 BCE, was that kind of power. And the writing it produced was not, as we shall see, invented to record poetry or commerce. It was invented, in its earliest surviving form, to ask questions of the divine.</p>
+<p>---</p>
+<h2>The Shang World</h2>
+<p>Picture the Yellow River valley in the fourteenth century BCE. The river itself is not yet the sorrow-laden, flood-prone watercourse it would become after millennia of deforestation and siltation. The landscape is wetter, more forested, home to elephants and rhinoceroses whose bones have been found in Shang archaeological layers — animals now associated with tropical Asia, not northern China. The climate is warmer. The land is rich.</p>
+<p>At the center of this world sits a city the Shang called, in their own records, simply &quot;the Great Settlement Shang&quot; — the place archaeologists now identify as Yinxu, near the modern city of Anyang in Henan Province. It is a capital of considerable scale: royal palaces on tamped-earth foundations, massive royal tombs dug deep into the loess, workshops producing bronze vessels of extraordinary technical sophistication, and all around, the bones of thousands of sacrificed humans and animals.</p>
+<p>The Shang kings ruled through a combination of military power, ritual authority, and ancestral prestige. Their world was saturated with the sacred. The spirits of royal ancestors were believed to be active intermediaries between the living and a high deity the Shang called Di — a supreme power who controlled rain, harvests, military outcomes, and the fate of the dynasty itself. The king&#x27;s primary function was not administrative in any modern sense. He was, above all, a ritual specialist, a man whose job was to maintain communication between the human and divine realms.</p>
+<p>And this is where the writing comes in.</p>
+<p>---</p>
+<h2>The Oracle and the Bone</h2>
+<p>The process of Shang divination was elaborate and precise. A diviner — sometimes the king himself, sometimes a specialist — would take a piece of turtle plastron (the flat underside of a turtle shell) or a cattle scapula (a shoulder blade) and prepare it carefully: scraping it smooth, drilling rows of oval hollows into its surface to weaken the material at specific points. Then, at the moment of divination, a heated bronze rod would be pressed into one of these hollows. The bone would crack with a sharp sound, and the pattern of the crack — its direction, its length, its relationship to the drilled hollow — would be read as the answer from the ancestral spirits.</p>
+<p>What makes these objects so extraordinary is what happened next. The questions asked, and often the answers received, were inscribed on the bone itself. In a script that is recognizably the ancestor of modern Chinese characters, the diviners recorded the charge — the statement of what was being divined — along with the date, the name of the diviner, and sometimes a verification: a note, added later, confirming whether the oracle had proved correct.</p>
+<p><em>&quot;On the day jiashen, the king divined: &#x27;In the next ten days there will be no disasters.&#x27; In the eighth day, guisi, there really was a great wind.&quot;</em></p>
+<p>That sentence — or something like it — was written three thousand years ago by a human being who was worried about the coming week. The intimacy of it is startling. These are not monuments or proclamations. They are the anxious, meticulous records of people trying to know what tomorrow would bring.</p>
+<p>The questions range across the full texture of Shang royal life. Will the harvest be good? Will the queen give birth safely — and will it be a son? Should the king go hunting on this day or that? Will the military campaign to the west succeed? What sacrifice does the ancestor Fu Hao require this month? How many cattle, how many sheep, how many human prisoners should be offered to appease the spirits of the royal dead?</p>
+<p>Tens of thousands of these inscribed bones have been recovered. They constitute the largest single archive of early Chinese writing, and through them, the Shang dynasty has become one of the best-documented Bronze Age civilizations in the world.</p>
+<p>---</p>
+<h2>The Script Itself: A Mystery with Deep Roots</h2>
+<p>Here is where the scholarly debates become genuinely fascinating — and genuinely unresolved.</p>
+<p>The writing on the oracle bones is already, by any measure, a mature system. It has hundreds of distinct graphs. It combines logographic elements (signs that represent words or morphemes) with phonetic components (signs that indicate sound). It has internal logic, consistent conventions, and the clear hallmarks of a system that has been in use and development for some time before the earliest bones we have found.</p>
+<p>This raises an obvious and vexing question: where did it come from?</p>
+<p>Some scholars have pointed to possible antecedents in the pottery marks of the Neolithic Longshan culture, or in carved signs on bones from even earlier sites. Others have proposed that writing developed in China independently, with no connection to the writing systems emerging around the same period in Mesopotamia and Egypt. The independent invention hypothesis is taken seriously by most specialists, partly because the Chinese script&#x27;s structure is so distinctive — it did not develop an alphabet, and its logic is fundamentally different from cuneiform or hieroglyphics — and partly because there is no credible evidence of contact or transmission across the distances involved.</p>
+<p>But &quot;independent invention&quot; does not mean &quot;sudden invention.&quot; The frustrating reality is that we do not have the intermediate stages. We have the mature oracle bone script, and we have scattered earlier marks that may or may not be proto-writing, and between them there is a gap that archaeology has not yet filled. It is entirely possible — many scholars believe probable — that writing developed in China on perishable materials (bamboo, wood, silk) long before anyone thought to inscribe turtle shells, and that the oracle bones represent a late and specialized branch of a longer tradition. If so, the actual origin of Chinese writing may be permanently beyond our reach.</p>
+<p>What we can say with confidence is this: by the time of the late Shang dynasty, roughly 1200 BCE, the Chinese writing system was already sophisticated, flexible, and deeply embedded in the ritual and administrative life of the state. That is remarkable enough.</p>
+<p>---</p>
+<h2>The Fall and the Survival</h2>
+<p>In 1046 BCE — the date is now fixed with reasonable confidence through astronomical records — the Shang dynasty fell. A coalition of western peoples led by the Zhou defeated the last Shang king, a man whose reputation for cruelty and excess may be partly historical and partly the propaganda of his conquerors, at the Battle of Muye. The Shang state collapsed. The royal house was extinguished or absorbed. The great city of Yinxu was abandoned.</p>
+<p>And the oracle bones were buried, and forgotten, and eventually the pharmacists found them.</p>
+<p>But the writing did not die. The Zhou, who replaced the Shang, inherited the script. They adapted it, expanded it, and used it for new purposes — not only ritual divination but administrative record-keeping, literature, philosophy, and history. The bronze vessels of the Zhou period bear long inscriptions recording royal grants and military victories. By the time of the Warring States period, several centuries later, writing had become the medium of China&#x27;s great intellectual flowering: the texts of Confucius, Laozi, Mencius, Sunzi, and dozens of other thinkers who would define Chinese civilization for millennia.</p>
+<p>The script continued to evolve — from oracle bone script through bronze inscriptions, through the seal script of the Qin dynasty, through clerical script, through the standard script that is still recognizable in modern Chinese characters. It was standardized, simplified, spread across an empire, and eventually transmitted to Korea, Japan, and Vietnam, where adapted versions of the script became the foundations of entirely distinct literary traditions.</p>
+<p>The line from a diviner pressing a hot rod against a turtle shell in fourteenth-century BCE Anyang to a student writing Chinese characters today is long, but it is unbroken. That is an extraordinary thing.</p>
+<p>---</p>
+<h2>Why It Matters</h2>
+<p>There is a temptation, when reading about ancient writing systems, to treat them as curiosities — clever solutions to practical problems, or windows into exotic ritual worlds. But the story of the Shang oracle bones and the origins of Chinese writing touches something more durable and more human than that.</p>
+<p>Writing is how civilizations remember. It is how they argue with themselves across time, how the dead instruct the living, how a set of values or a body of knowledge survives the death of every individual who holds it. The Shang diviners were not thinking about posterity when they scratched their questions into turtle shells. They were trying to manage uncertainty — the same uncertainty that confronts every human being who has ever wondered whether the harvest will come, whether the child will be born safely, whether tomorrow will be better than today.</p>
+<p>What they left behind, accidentally, was a record of that uncertainty. And in doing so, they gave us something invaluable: the knowledge that the anxious, hopeful, practical inner life of a Bronze Age Chinese king is not entirely alien to our own.</p>
+<p>The oracle bones also remind us that writing is never neutral. The script that developed in the Shang court was a tool of power — it encoded the king&#x27;s access to the divine, it legitimized his authority, it recorded his victories. When the Zhou inherited it, they inherited not just a technology but a worldview. Every empire that subsequently used Chinese characters was, in some sense, inheriting that Shang legacy: the idea that writing connects the human to something larger than itself, that words properly arranged carry a weight that goes beyond mere communication.</p>
+<p>In a world where the future of writing itself — its forms, its media, its purposes — is actively contested, there is something grounding about returning to its origins. People have always needed to ask their questions somewhere. The Shang asked theirs in bone and fire. We ask ours in light on screens. The questions, it turns out, are not so different.</p>
+<p>---</p>
+<p><em>Further reading: David Keightley,</em> The Ancestral Landscape: Time, Space, and Community in Late Shang China <em>(2000); Endymion Wilkinson,</em> Chinese History: A New Manual <em>(2015); Robert Bagley, ed.,</em> Ancient Sichuan: Treasures from a Lost Civilization <em>(2001).</em></p>
+<p>---</p>
+<p><em>Tomorrow&#x27;s read: The Nubian Kingdoms and Gold Trade with Egypt</em></p>
+<p>---</p>
+        </article>
+      </div>
+    </section>
+
+    <footer>
+      <a href="./">Archive</a>
+    </footer>
+  </main>
+
+  <div class="ticker" id="ticker" aria-label="Current world headlines">
+    <div class="ticker-label">HEADLINES</div>
+    <div class="ticker-window">
+      <div class="ticker-track" id="ticker-track">
+        <span class="ticker-item">Loading headlines...</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const tickerUrl = "../ticker.json";
+    const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (char) => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    }[char]));
+
+    const tabButtons = Array.from(document.querySelectorAll('[data-tab-target]'));
+    const tabPanels = Array.from(document.querySelectorAll('.tab-panel'));
+    const setActiveTab = (targetId) => {
+      tabPanels.forEach((panel) => {
+        panel.hidden = panel.id !== targetId;
+      });
+      tabButtons.forEach((button) => {
+        const selected = button.dataset.tabTarget === targetId;
+        if (button.classList.contains('tab-button')) {
+          button.setAttribute('aria-selected', String(selected));
+        }
+      });
+      if (targetId === 'deep-read-panel') {
+        initializeHistoryMap();
+      }
+    };
+    tabButtons.forEach((button) => {
+      button.addEventListener('click', () => setActiveTab(button.dataset.tabTarget));
+    });
+
+    const answerButton = document.getElementById('reveal-answer');
+    const answer = document.getElementById('trivia-answer');
+    answerButton?.addEventListener('click', () => {
+      const visible = answer.classList.toggle('is-visible');
+      answerButton.setAttribute('aria-expanded', String(visible));
+      answerButton.textContent = visible ? 'Hide Answer' : 'Reveal Answer';
+    });
+
+    const sportFilters = Array.from(document.querySelectorAll('[data-sport-filter]'));
+    const leagueSections = Array.from(document.querySelectorAll('[data-league]'));
+    sportFilters.forEach((filter) => {
+      filter.addEventListener('click', () => {
+        const target = filter.dataset.sportFilter;
+        sportFilters.forEach((item) => item.classList.toggle('is-active', item === filter));
+        leagueSections.forEach((section) => {
+          section.classList.toggle('is-hidden', target !== 'all' && section.dataset.league !== target);
+        });
+      });
+    });
+
+    const ticker = document.getElementById('ticker');
+    const track = document.getElementById('ticker-track');
+    const setTicker = (items) => {
+      const safeItems = items.length ? items : [{ source: 'Brief', text: 'Headlines will update shortly.' }];
+      const rendered = safeItems.map((item) =>
+        `<span class="ticker-item">[${escapeHtml(item.source)}] ${escapeHtml(item.text)}</span>`
+      ).join('');
+      track.innerHTML = rendered + rendered;
+    };
+    fetch(tickerUrl, { cache: 'no-store' })
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error('Ticker fetch failed')))
+      .then((data) => setTicker(data.headlines || []))
+      .catch(() => setTicker([]));
+    ['touchstart', 'pointerdown', 'focusin'].forEach((eventName) => {
+      ticker.addEventListener(eventName, () => ticker.classList.add('paused'));
+    });
+    ['touchend', 'pointerup', 'focusout'].forEach((eventName) => {
+      ticker.addEventListener(eventName, () => ticker.classList.remove('paused'));
+    });
+
+    const mapEl = document.getElementById('history-map');
+    const mapWrap = mapEl?.closest('[data-map-wrap]');
+    let historyMap = null;
+    const showMapFallback = () => {
+      mapWrap?.classList.remove('is-ready');
+      mapWrap?.classList.add('is-fallback');
+    };
+    function initializeHistoryMap() {
+      if (historyMap) {
+        setTimeout(() => historyMap.invalidateSize(), 0);
+        return;
+      }
+      if (!mapEl) {
+        return;
+      }
+      try {
+        if (!window.L) {
+          throw new Error('Leaflet did not load');
+        }
+        const locations = JSON.parse(mapEl.dataset.locations || '[]');
+        if (!locations.length) {
+          throw new Error('No map locations');
+        }
+        mapWrap?.classList.add('is-ready');
+        historyMap = L.map(mapEl, { scrollWheelZoom: false });
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+          maxZoom: 19,
+          subdomains: 'abcd',
+          attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+        }).addTo(historyMap);
+        const colors = {
+          capital: '#e6b450',
+          battle: '#ef7d7d',
+          city: '#86b7ff',
+          site: '#6fca93'
+        };
+        const bounds = [];
+        locations.forEach((loc) => {
+          const marker = L.circleMarker([loc.lat, loc.lng], {
+            radius: 8,
+            color: colors[loc.role] || colors.site,
+            fillColor: colors[loc.role] || colors.site,
+            fillOpacity: 0.9,
+            weight: 2
+          }).addTo(historyMap);
+          marker.bindPopup(`<strong>${escapeHtml(loc.name)}</strong><br>${escapeHtml(loc.caption || '')}`);
+          bounds.push([loc.lat, loc.lng]);
+        });
+        historyMap.fitBounds(bounds, { padding: [28, 28], maxZoom: 6 });
+        setTimeout(() => historyMap.invalidateSize(), 0);
+      } catch (error) {
+        showMapFallback();
+      }
+    }
+  </script>
+</body>
+</html>
