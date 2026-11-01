@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-31T21:26:37+00:00",
+  "updated_at": "2026-11-01T01:02:11+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "published_at": "2026-11-01T00:55:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "published_at": "2026-11-01T00:12:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "published_at": "2026-10-31T23:06:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+      "published_at": "2026-10-31T22:58:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Virginia and D.C. sue to block construction of Trump arch",
+      "published_at": "2026-10-31T22:48:51+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "published_at": "2026-10-31T22:11:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
+      "published_at": "2026-10-31T22:01:28+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands demonstrate in Paris as protests spread across Europe",
+      "published_at": "2026-10-31T21:29:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands return to Lisbon square, press government to scrap rental bill",
+      "published_at": "2026-10-31T21:22:49+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Mixed economic forecast weighs heavy ahead of midterms",
+      "published_at": "2026-10-31T21:14:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Polish PM Tusk vows support for tribunal amid court crisis",
+      "published_at": "2026-10-31T21:13:03+00:00"
+    },
     {
       "source": "Reuters",
       "text": "US, Canada see growing interest in limited ceasefire in Black Sea",
@@ -12,11 +67,6 @@
       "published_at": "2026-10-31T20:00:36+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Clashes erupt between police and protesters in Paris",
-      "published_at": "2026-10-31T19:37:43+00:00"
-    },
-    {
       "source": "NPR",
       "text": "France seethes again as youth-led protests sweep Europe",
       "published_at": "2026-10-31T19:30:19+00:00"
@@ -25,56 +75,6 @@
       "source": "BBC",
       "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "published_at": "2026-10-31T19:22:26+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Key takeaways from this week's political meeting in Beijing",
-      "published_at": "2026-10-31T18:42:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
-      "published_at": "2026-10-31T18:41:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Countries reach COP17 deal to speed up biodiversity action, but money still short",
-      "published_at": "2026-10-31T18:32:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Senate candidate El-Sayed wants Democratic rival to stay away, source says",
-      "published_at": "2026-10-31T18:21:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "MotoGP confident Qatar race can go ahead despite rider pushback",
-      "published_at": "2026-10-31T18:21:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-      "published_at": "2026-10-31T18:11:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "published_at": "2026-10-31T17:53:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Emotional reunions with loved ones for Oleshky evacuees",
-      "published_at": "2026-10-31T16:55:47+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "published_at": "2026-10-31T16:32:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
-      "published_at": "2026-10-31T16:26:58+00:00"
     }
   ]
 }
