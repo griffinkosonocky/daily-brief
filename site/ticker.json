@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-11-01T19:34:21+00:00",
+  "updated_at": "2026-11-01T23:31:22+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "published_at": "2026-11-01T22:22:12+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "published_at": "2026-11-01T19:17:34+00:00"
+      "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "published_at": "2026-11-01T21:55:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "published_at": "2026-11-01T21:16:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "published_at": "2026-11-01T19:49:15+00:00"
     },
     {
       "source": "NPR",
       "text": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
       "published_at": "2026-11-01T19:00:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show",
-      "published_at": "2026-11-01T18:55:40+00:00"
     },
     {
       "source": "BBC",
@@ -42,11 +52,6 @@
       "published_at": "2026-11-01T17:56:47+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
-      "published_at": "2026-11-01T17:47:07+00:00"
-    },
-    {
       "source": "NPR",
       "text": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
       "published_at": "2026-11-01T17:33:21+00:00"
@@ -67,14 +72,9 @@
       "published_at": "2026-11-01T17:05:18+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "PODCAST: Gen Z protests, Oleshky and a possible Democrat Congress",
-      "published_at": "2026-11-01T15:18:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran, Qatari mediators hold third day of talks to end US-Iran war",
-      "published_at": "2026-11-01T14:43:10+00:00"
+      "source": "BBC",
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "published_at": "2026-11-01T13:11:37+00:00"
     }
   ]
 }
