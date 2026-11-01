@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-11-01T14:59:44+00:00",
+  "updated_at": "2026-11-01T16:52:23+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "published_at": "2026-11-01T16:25:33+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Venture Global begins supplying Plaquemines phase 1 customers under long-term LNG contracts",
-      "published_at": "2026-11-01T14:25:43+00:00"
+      "text": "PODCAST: Gen Z protests, Oleshky and a possible Democrat Congress",
+      "published_at": "2026-11-01T15:18:56+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iran, Qatari mediators hold third day of talks to end US-Iran war",
-      "published_at": "2026-11-01T13:57:58+00:00"
+      "published_at": "2026-11-01T14:43:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global begins supplying Plaquemines phase 1 customers under long-term LNG contracts",
+      "published_at": "2026-11-01T14:25:43+00:00"
     },
     {
       "source": "Reuters",
@@ -53,12 +63,7 @@
     },
     {
       "source": "NPR",
-      "text": "Supreme Court hears religious freedom case centered on universal pre-K program",
-      "published_at": "2026-11-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How one family gave a critical boost to gene therapy research",
+      "text": "What's it like to run for Congress when the odds are stacked heavily against you?",
       "published_at": "2026-11-01T09:00:00+00:00"
     },
     {
@@ -68,13 +73,8 @@
     },
     {
       "source": "NPR",
-      "text": "What's it like to run for Congress when the odds are stacked heavily against you?",
+      "text": "How one family gave a critical boost to gene therapy research",
       "published_at": "2026-11-01T09:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "published_at": "2026-11-01T08:20:19+00:00"
     }
   ]
 }
