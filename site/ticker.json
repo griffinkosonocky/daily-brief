@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-11-01T01:02:11+00:00",
+  "updated_at": "2026-11-01T07:26:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Shops looted as German cost of living protests turn violent",
+      "published_at": "2026-11-01T07:05:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "published_at": "2026-11-01T07:00:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps",
+      "published_at": "2026-11-01T06:54:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "published_at": "2026-11-01T06:03:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "published_at": "2026-11-01T05:26:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Malaysia Airlines says customers may be affected by Amadeus breach",
+      "published_at": "2026-11-01T03:37:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bangladesh to form wage board after garment protests shut factories",
+      "published_at": "2026-11-01T02:58:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "published_at": "2026-11-01T01:37:26+00:00"
+    },
     {
       "source": "BBC",
       "text": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
       "published_at": "2026-11-01T00:55:06+00:00"
     },
     {
-      "source": "BBC",
-      "text": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "published_at": "2026-11-01T00:12:07+00:00"
+      "source": "Reuters",
+      "text": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
+      "published_at": "2026-11-01T00:45:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "South Korea exports nearly double in October on AI investment boom",
+      "published_at": "2026-11-01T00:39:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Canelo's love affair with ring burns bright as he reclaims world title",
+      "published_at": "2026-10-31T23:28:49+00:00"
     },
     {
       "source": "BBC",
@@ -25,56 +75,6 @@
       "source": "NPR",
       "text": "Virginia and D.C. sue to block construction of Trump arch",
       "published_at": "2026-10-31T22:48:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "published_at": "2026-10-31T22:11:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
-      "published_at": "2026-10-31T22:01:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Thousands demonstrate in Paris as protests spread across Europe",
-      "published_at": "2026-10-31T21:29:01+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands return to Lisbon square, press government to scrap rental bill",
-      "published_at": "2026-10-31T21:22:49+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Mixed economic forecast weighs heavy ahead of midterms",
-      "published_at": "2026-10-31T21:14:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish PM Tusk vows support for tribunal amid court crisis",
-      "published_at": "2026-10-31T21:13:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US, Canada see growing interest in limited ceasefire in Black Sea",
-      "published_at": "2026-10-31T20:10:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-      "published_at": "2026-10-31T20:00:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "France seethes again as youth-led protests sweep Europe",
-      "published_at": "2026-10-31T19:30:19+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "published_at": "2026-10-31T19:22:26+00:00"
     }
   ]
 }
