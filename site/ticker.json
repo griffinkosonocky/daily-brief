@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-02T15:38:12+00:00",
+  "updated_at": "2026-11-02T20:27:08+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "published_at": "2026-11-02T20:23:12+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Yemen's Houthis advance to within 80 km of Aden, sources say",
-      "published_at": "2026-11-02T15:18:51+00:00"
+      "text": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash",
+      "published_at": "2026-11-02T20:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New cyberattack on supermarket fridges sweeps across Europe",
+      "published_at": "2026-11-02T20:16:20+00:00"
     },
     {
       "source": "BBC",
-      "text": "Shop freezers in seven European countries hit by cyber-attack",
-      "published_at": "2026-11-02T15:12:22+00:00"
+      "text": "Man guilty of stealing cash from farm owned by South African president",
+      "published_at": "2026-11-02T20:08:51+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Cyberattack on fridges hits supermarkets across Europe",
-      "published_at": "2026-11-02T15:07:15+00:00"
+      "source": "NPR",
+      "text": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "published_at": "2026-11-02T20:02:41+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "PODCAST: Tech or treat",
-      "published_at": "2026-11-02T14:36:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canadian factory PMI shows sector contracting for first time in 2026",
-      "published_at": "2026-11-02T14:36:09+00:00"
+      "source": "NPR",
+      "text": "Is America really that polarized? The answer might be a surprise",
+      "published_at": "2026-11-02T20:00:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "published_at": "2026-11-02T14:35:38+00:00"
+      "text": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "published_at": "2026-11-02T19:58:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Finnish hockey body leads push to keep Russia out of World Championships",
+      "published_at": "2026-11-02T19:54:09+00:00"
     },
     {
       "source": "BBC",
-      "text": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "published_at": "2026-11-02T14:35:01+00:00"
+      "text": "What Florida jet audio and flight data tells us about its final moments",
+      "published_at": "2026-11-02T19:49:22+00:00"
     },
     {
       "source": "BBC",
-      "text": "What we know about the alert app hack in Ukraine and Russia",
-      "published_at": "2026-11-02T14:24:25+00:00"
+      "text": "Trump to remove Rwanda and South Africa from US trade deal",
+      "published_at": "2026-11-02T19:33:10+00:00"
     },
     {
       "source": "Reuters",
-      "text": "TotalEnergies CEO sees no gas shortage in Europe this winter",
-      "published_at": "2026-11-02T14:15:43+00:00"
+      "text": "Trump's sweeping makeover of the White House and Washington",
+      "published_at": "2026-11-02T19:24:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Estee Lauder cuts promotions as luxury fragrances help lift outlook",
-      "published_at": "2026-11-02T14:10:56+00:00"
+      "text": "US judge dismisses Trump administration's Harvard admissions probe case",
+      "published_at": "2026-11-02T19:22:24+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Iran says contacts over ending war continue as talks end with no breakthrough",
-      "published_at": "2026-11-02T13:53:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "published_at": "2026-11-02T13:49:19+00:00"
+      "text": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "published_at": "2026-11-02T19:18:46+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ukraine says Russia used Oleshky truce to rearm, Moscow assumes Kyiv did same",
-      "published_at": "2026-11-02T12:49:37+00:00"
+      "text": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait",
+      "published_at": "2026-11-02T19:12:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "UK adventurer returns home after 28-year trek around the world",
-      "published_at": "2026-11-02T12:42:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ryanair says it may freeze workers' pay and raise airfares",
-      "published_at": "2026-11-02T12:22:10+00:00"
+      "source": "NPR",
+      "text": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+      "published_at": "2026-11-02T18:54:01+00:00"
     }
   ]
 }
