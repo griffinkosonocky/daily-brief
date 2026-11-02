@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-02T20:27:08+00:00",
+  "updated_at": "2026-11-02T23:26:53+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Six things to watch as US voters decide control of Congress",
+      "published_at": "2026-11-02T23:14:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week, US official says",
+      "published_at": "2026-11-02T23:08:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "published_at": "2026-11-02T22:59:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Could hackers get inside my fridge?",
+      "published_at": "2026-11-02T22:44:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Finnish hockey body leads push to keep Russia out of World Championships",
+      "published_at": "2026-11-02T22:26:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
+      "published_at": "2026-11-02T22:14:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korea says claims linking it to Binance heist are 'absurd rhetoric,' KCNA says",
+      "published_at": "2026-11-02T22:12:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Trading Day: Oil slump no cure for AI angst",
+      "published_at": "2026-11-02T22:06:57+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New cyberattack on supermarket fridges sweeps across Europe",
+      "published_at": "2026-11-02T21:37:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Iran says contacts over ending war continue after talks finish with no breakthrough",
+      "published_at": "2026-11-02T21:17:57+00:00"
+    },
     {
       "source": "BBC",
       "text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "published_at": "2026-11-02T20:23:12+00:00"
+      "published_at": "2026-11-02T21:10:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump administration takes California ballot fight to Supreme Court",
+      "published_at": "2026-11-02T21:06:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump raises doubts about renewed attacks on Iran",
+      "published_at": "2026-11-02T20:57:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis advance to within 80 km of Aden, sources say",
+      "published_at": "2026-11-02T20:23:43+00:00"
     },
     {
       "source": "Reuters",
       "text": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash",
       "published_at": "2026-11-02T20:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New cyberattack on supermarket fridges sweeps across Europe",
-      "published_at": "2026-11-02T20:16:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man guilty of stealing cash from farm owned by South African president",
-      "published_at": "2026-11-02T20:08:51+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-      "published_at": "2026-11-02T20:02:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Is America really that polarized? The answer might be a surprise",
-      "published_at": "2026-11-02T20:00:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "published_at": "2026-11-02T19:58:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Finnish hockey body leads push to keep Russia out of World Championships",
-      "published_at": "2026-11-02T19:54:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What Florida jet audio and flight data tells us about its final moments",
-      "published_at": "2026-11-02T19:49:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump to remove Rwanda and South Africa from US trade deal",
-      "published_at": "2026-11-02T19:33:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's sweeping makeover of the White House and Washington",
-      "published_at": "2026-11-02T19:24:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US judge dismisses Trump administration's Harvard admissions probe case",
-      "published_at": "2026-11-02T19:22:24+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to suspend South Africa and Rwanda from duty-free trade access",
-      "published_at": "2026-11-02T19:18:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait",
-      "published_at": "2026-11-02T19:12:45+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-      "published_at": "2026-11-02T18:54:01+00:00"
     }
   ]
 }
