@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "sport": "Sports",
-    "question": "In golf, what name is given to a hole score of two under par?",
-    "answer": "Eagle"
-  },
-  {
     "date": "2026-07-03",
     "sport": "Sports",
     "question": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "In what sport does Fanny Chmelar compete for Germany?",
     "answer": "Skiing"
+  },
+  {
+    "date": "2026-11-03",
+    "sport": "Sports",
+    "question": "Which English football team is nicknamed 'The Tigers'?",
+    "answer": "Hull City"
   }
 ]
