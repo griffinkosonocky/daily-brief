@@ -1,25 +1,70 @@
 {
-  "updated_at": "2026-11-03T17:57:14+00:00",
+  "updated_at": "2026-11-03T20:56:15+00:00",
   "headlines": [
     {
       "source": "BBC",
+      "text": "Spanish transport minister resigns days after deadly train crash",
+      "published_at": "2026-11-03T20:44:19+00:00"
+    },
+    {
+      "source": "BBC",
       "text": "Seven flights across Europe targeted by suspected bomb threats",
-      "published_at": "2026-11-03T17:56:03+00:00"
+      "published_at": "2026-11-03T20:42:47+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: The AI boom teeters on a capital balancing act",
-      "published_at": "2026-11-03T17:18:40+00:00"
+      "text": "PODCAST: Election Day, US Israel aid, Europe bomb threats (Updated)",
+      "published_at": "2026-11-03T20:21:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands protest in Prague as Czech broadcasters strike over funding overhaul",
+      "published_at": "2026-11-03T20:02:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
+      "published_at": "2026-11-03T19:31:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
+      "published_at": "2026-11-03T19:16:17+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll",
+      "published_at": "2026-11-03T18:27:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bundesbank's Nagel joins ECB chorus backing December rate hike",
+      "published_at": "2026-11-03T18:02:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World Court to rule in Rohingya genocide case on 19 November",
+      "published_at": "2026-11-03T17:48:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say",
+      "published_at": "2026-11-03T17:38:52+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bomb threats cause flight disruptions across Europe",
+      "published_at": "2026-11-03T17:38:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Binance hackers used fake job interview in $6.3 billion attack",
+      "published_at": "2026-11-03T17:35:37+00:00"
     },
     {
       "source": "NPR",
       "text": "When caring for aging family members becomes cost prohibitive",
       "published_at": "2026-11-03T17:09:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE US intelligence sharing has fractured under Trump, officials say",
-      "published_at": "2026-11-03T17:08:24+00:00"
     },
     {
       "source": "BBC",
@@ -30,51 +75,6 @@
       "source": "BBC",
       "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "published_at": "2026-11-03T16:57:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
-      "published_at": "2026-11-03T16:55:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Setback for Google as EU court adviser sides with publishers against AI chatbot",
-      "published_at": "2026-11-03T16:50:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa braces for some job losses as US trade benefits end",
-      "published_at": "2026-11-03T16:32:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EU to host talks on Ukraine with United States and others on Wednesday",
-      "published_at": "2026-11-03T16:28:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "published_at": "2026-11-03T16:19:29+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-      "published_at": "2026-11-03T15:54:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Apollo assets reach $1.07 trillion on alternative investment demand",
-      "published_at": "2026-11-03T15:36:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Binance hackers used fake job interview to compromise computer before $6.3 billion attack",
-      "published_at": "2026-11-03T15:20:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Women hold less than a third of business management roles, UN says",
-      "published_at": "2026-11-03T15:20:30+00:00"
     }
   ]
 }
