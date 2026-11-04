@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "sport": "Sports",
-    "question": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
-    "answer": "Italian Grand Prix"
-  },
-  {
     "date": "2026-07-04",
     "sport": "Sports",
     "question": "What team did England beat to win in the 1966 World Cup final?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Which English football team is nicknamed 'The Tigers'?",
     "answer": "Hull City"
+  },
+  {
+    "date": "2026-11-04",
+    "sport": "Sports",
+    "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+    "answer": "August 21"
   }
 ]

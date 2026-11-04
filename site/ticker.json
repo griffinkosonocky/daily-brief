@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-11-04T17:07:59+00:00",
+  "updated_at": "2026-11-04T18:08:30+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "published_at": "2026-11-04T18:01:31+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "published_at": "2026-11-04T17:45:58+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+      "published_at": "2026-11-04T17:38:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump's midterm drubbing demonstrates the power of data center opponents",
+      "published_at": "2026-11-04T17:31:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Vance repudiates Iran war after US electoral defeat",
+      "published_at": "2026-11-04T17:27:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+      "published_at": "2026-11-04T17:19:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat",
+      "published_at": "2026-11-04T17:16:41+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say",
+      "published_at": "2026-11-04T17:15:45+00:00"
+    },
     {
       "source": "BBC",
       "text": "Iran's chief negotiator says Americans voted 'no to war'",
       "published_at": "2026-11-04T16:59:15+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Elon Musk's business empire braces for Democratic wave as Texas flips blue",
-      "published_at": "2026-11-04T16:37:03+00:00"
+      "source": "BBC",
+      "text": "'Most difficult days of my life' for keeper Owono",
+      "published_at": "2026-11-04T16:40:38+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The young politicians with African roots making history in the US midterms",
+      "published_at": "2026-11-04T16:34:32+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "published_at": "2026-11-04T16:26:15+00:00"
     },
     {
       "source": "BBC",
@@ -23,58 +73,8 @@
     },
     {
       "source": "Reuters",
-      "text": "UniCredit scraps remote working for top managers, plans wider rollout, unions say",
-      "published_at": "2026-11-04T15:48:56+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers",
-      "published_at": "2026-11-04T15:46:26+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Iranian officials gloat as US voters deal blow to Trump",
       "published_at": "2026-11-04T15:39:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "AI shopping agents could threaten Amazon and Walmart's ad business",
-      "published_at": "2026-11-04T15:37:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Secret police files released in Hungary, 47 years after fall of communism",
-      "published_at": "2026-11-04T15:28:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump's midterm drubbing could give trade partners room to resist",
-      "published_at": "2026-11-04T15:19:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "published_at": "2026-11-04T15:18:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US services sector activity cools slightly in October; inflation remains elevated",
-      "published_at": "2026-11-04T15:08:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa says US midterm results usher in new era",
-      "published_at": "2026-11-04T15:07:41+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "published_at": "2026-11-04T15:01:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada's services PMI shows sector shrinking for fifth straight month",
-      "published_at": "2026-11-04T14:37:43+00:00"
     }
   ]
 }
