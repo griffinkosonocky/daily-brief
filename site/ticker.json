@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-03T20:56:15+00:00",
+  "updated_at": "2026-11-04T01:15:45+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Spanish transport minister resigns days after deadly train crash",
-      "published_at": "2026-11-03T20:44:19+00:00"
+      "source": "Reuters",
+      "text": "US stock futures dip as investors await midterm election results",
+      "published_at": "2026-11-04T01:06:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+      "published_at": "2026-11-04T00:55:57+00:00"
     },
     {
       "source": "BBC",
-      "text": "Seven flights across Europe targeted by suspected bomb threats",
-      "published_at": "2026-11-03T20:42:47+00:00"
+      "text": "ANC under pressure to reverse South Africa decline",
+      "published_at": "2026-11-04T00:03:19+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Election Day 2026: Photos from around the country",
+      "published_at": "2026-11-04T00:00:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "published_at": "2026-11-03T23:58:36+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: Election Day, US Israel aid, Europe bomb threats (Updated)",
-      "published_at": "2026-11-03T20:21:29+00:00"
+      "text": "Suncor Energy tops profit estimates on higher oil prices, margins",
+      "published_at": "2026-11-03T23:45:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Thousands protest in Prague as Czech broadcasters strike over funding overhaul",
-      "published_at": "2026-11-03T20:02:19+00:00"
+      "text": "OpenAI employees warned about operational security lapses for years, sources say",
+      "published_at": "2026-11-03T23:42:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: As markets sway, safe havens shine. Except gold",
+      "published_at": "2026-11-03T23:31:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US close to trade deal with Canada, Carney says work remains",
+      "published_at": "2026-11-03T23:14:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "What Democrats plan to prioritize if they retake the House",
+      "published_at": "2026-11-03T23:11:49+00:00"
     },
     {
       "source": "Reuters",
       "text": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
-      "published_at": "2026-11-03T19:31:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
-      "published_at": "2026-11-03T19:16:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll",
-      "published_at": "2026-11-03T18:27:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bundesbank's Nagel joins ECB chorus backing December rate hike",
-      "published_at": "2026-11-03T18:02:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Court to rule in Rohingya genocide case on 19 November",
-      "published_at": "2026-11-03T17:48:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say",
-      "published_at": "2026-11-03T17:38:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bomb threats cause flight disruptions across Europe",
-      "published_at": "2026-11-03T17:38:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Binance hackers used fake job interview in $6.3 billion attack",
-      "published_at": "2026-11-03T17:35:37+00:00"
+      "published_at": "2026-11-03T23:11:02+00:00"
     },
     {
       "source": "NPR",
-      "text": "When caring for aging family members becomes cost prohibitive",
-      "published_at": "2026-11-03T17:09:56+00:00"
+      "text": "Results: States decide on voter ID and redistricting ballot measures",
+      "published_at": "2026-11-03T22:53:23+00:00"
     },
     {
       "source": "BBC",
-      "text": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "published_at": "2026-11-03T17:07:28+00:00"
+      "text": "Spanish transport minister resigns days after deadly train crash",
+      "published_at": "2026-11-03T22:45:59+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "published_at": "2026-11-03T16:57:41+00:00"
+      "source": "NPR",
+      "text": "Legendary Photographer on getting that perfect election night picture",
+      "published_at": "2026-11-03T22:33:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Connecticut bakers are bringing joy back to election day, one cake at a time",
+      "published_at": "2026-11-03T22:28:33+00:00"
     }
   ]
 }
