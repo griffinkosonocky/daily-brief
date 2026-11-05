@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-04",
-    "sport": "Sports",
-    "question": "What team did England beat to win in the 1966 World Cup final?",
-    "answer": "West Germany"
-  },
-  {
     "date": "2026-08-09",
     "sport": "Sports",
     "question": "In a game of snooker, what colour ball is worth 3 points?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
     "answer": "August 21"
+  },
+  {
+    "date": "2026-11-05",
+    "sport": "Sports",
+    "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+    "answer": "84.39m"
   }
 ]
