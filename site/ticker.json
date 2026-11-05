@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-05T18:09:26+00:00",
+  "updated_at": "2026-11-05T21:56:32+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Head of Justice Department office on Civil Rights resigns",
-      "published_at": "2026-11-05T18:01:57+00:00"
+      "source": "BBC",
+      "text": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "published_at": "2026-11-05T21:56:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe",
-      "published_at": "2026-11-05T18:01:45+00:00"
+      "text": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
+      "published_at": "2026-11-05T21:30:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says Oval Office to become national monument",
+      "published_at": "2026-11-05T21:29:38+00:00"
     },
     {
       "source": "BBC",
-      "text": "French protests see numbers surge as unions join strikes over high cost of living",
-      "published_at": "2026-11-05T17:59:53+00:00"
+      "text": "California governor commutes sentences for state's 548 death row inmates",
+      "published_at": "2026-11-05T21:25:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "OpenAI kicks off charm offensive to change voters' view of data centers",
-      "published_at": "2026-11-05T17:55:04+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Paraguay President Santiago Peña resigns after bank collapse",
-      "published_at": "2026-11-05T17:40:40+00:00"
+      "text": "Airbnb lifts annual revenue growth forecast on resilient global travel demand",
+      "published_at": "2026-11-05T21:16:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump ally leading Justice Department civil rights unit to resign, sources say",
-      "published_at": "2026-11-05T17:23:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Breakingviews - COMMENTARY: Dealmakers will ride US election blue wave",
-      "published_at": "2026-11-05T17:19:49+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Lula's election win dashes US hopes of quick access to Brazil's rare earths",
-      "published_at": "2026-11-05T17:12:26+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay President Peña resigns under mounting pressure from bank collapse",
-      "published_at": "2026-11-05T17:02:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nasdaq set to confirm correction as AI stocks tumble",
-      "published_at": "2026-11-05T16:56:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Armani heirs favour IPO over sale to industry player, sources say",
-      "published_at": "2026-11-05T16:39:02+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Melania Trump urges 'humanity over war' with Ukraine, Russia officials​",
-      "published_at": "2026-11-05T16:36:34+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-      "published_at": "2026-11-05T16:30:00+00:00"
+      "text": "Trump ally Dhillon, who remade DOJ civil rights unit, resigns",
+      "published_at": "2026-11-05T20:56:20+00:00"
     },
     {
       "source": "Reuters",
       "text": "Portugal's Ronaldo announces international retirement",
-      "published_at": "2026-11-05T16:17:39+00:00"
+      "published_at": "2026-11-05T20:46:41+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-      "published_at": "2026-11-05T16:15:02+00:00"
+      "source": "Reuters",
+      "text": "Israel's president pledges to pick candidate on Sunday to form government",
+      "published_at": "2026-11-05T20:46:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: Global muscle will sift puny data center providers",
+      "published_at": "2026-11-05T20:31:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Who could be behind hoax bomb threats to European air travel?",
+      "published_at": "2026-11-05T19:58:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Melania Trump says Ukraine and Russia must 'find common ground'",
+      "published_at": "2026-11-05T19:34:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "OpenAI kicks off charm offensive to change voters' view of data centers",
+      "published_at": "2026-11-05T19:34:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight killed in series of shootings in western Turkey",
+      "published_at": "2026-11-05T19:32:54+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Paraguay President Peña resigns under mounting pressure from bank collapse",
+      "published_at": "2026-11-05T19:31:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Melania Trump urges 'humanity over war' with Ukraine, Russia officials",
+      "published_at": "2026-11-05T19:13:42+00:00"
     }
   ]
 }
