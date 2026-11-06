@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-11-06T17:36:31+00:00",
+  "updated_at": "2026-11-06T17:54:26+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "Remembering 'Star Trek' actor Patrick Stewart",
+      "published_at": "2026-11-06T17:36:39+00:00"
+    },
     {
       "source": "BBC",
       "text": "Nigerian court rules opposition candidate cannot stand in elections",
       "published_at": "2026-11-06T17:35:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Democrats planning flood of AI bills when they take control of Congress",
+      "published_at": "2026-11-06T17:23:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+      "published_at": "2026-11-06T17:05:06+00:00"
     },
     {
       "source": "BBC",
@@ -23,11 +38,6 @@
     },
     {
       "source": "Reuters",
-      "text": "Focus: Binance $6.3 billion heist to prompt closer scrutiny by insurers",
-      "published_at": "2026-11-06T16:46:49+00:00"
-    },
-    {
-      "source": "Reuters",
       "text": "Trump Media’s investors lost $2.2 billion while Trump holds $460 million stake",
       "published_at": "2026-11-06T16:45:27+00:00"
     },
@@ -35,16 +45,6 @@
       "source": "Reuters",
       "text": "How China’s clean-tech machine is reshaping the global climate fight",
       "published_at": "2026-11-06T16:44:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Central banking veterans Knot and de Cos in race to replace Lagarde at ECB",
-      "published_at": "2026-11-06T16:34:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
-      "published_at": "2026-11-06T16:33:55+00:00"
     },
     {
       "source": "Reuters",
@@ -57,9 +57,14 @@
       "published_at": "2026-11-06T16:25:31+00:00"
     },
     {
+      "source": "BBC",
+      "text": "Four midterms takeaways for 2028 White House race",
+      "published_at": "2026-11-06T16:12:22+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "US prosecutor who oversaw probes into past Trump investigations resigns",
-      "published_at": "2026-11-06T15:46:52+00:00"
+      "text": "Ukraine must be part of Europe's security architecture, EU foreign policy chief says",
+      "published_at": "2026-11-06T16:01:43+00:00"
     },
     {
       "source": "Reuters",
@@ -69,11 +74,6 @@
     {
       "source": "BBC",
       "text": "Two dead after bus crashes in France, officials say",
-      "published_at": "2026-11-06T15:33:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trader angst pivots from inflation to growth as tech rout deepens",
       "published_at": "2026-11-06T15:33:52+00:00"
     }
   ]
