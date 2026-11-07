@@ -1,10 +1,60 @@
 {
-  "updated_at": "2026-11-07T02:43:31+00:00",
+  "updated_at": "2026-11-07T09:56:59+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Indonesian workers rally for Prabowo as women march against president",
+      "published_at": "2026-11-07T09:43:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says",
+      "published_at": "2026-11-07T08:14:35+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Paraguay's president impeached and under house arrest after bank collapse",
+      "published_at": "2026-11-07T07:20:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope in 'pretty good health' as he starts Latin America tour",
+      "published_at": "2026-11-07T06:59:48+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As COP31 comes to Turkey, satellites reveal a landfill methane problem",
+      "published_at": "2026-11-07T06:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "published_at": "2026-11-07T06:07:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+      "published_at": "2026-11-07T06:01:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
+      "published_at": "2026-11-07T05:28:00+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Jokic embraces Mexico City spotlight in NBA international showcase",
       "published_at": "2026-11-07T02:15:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "published_at": "2026-11-07T01:27:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The young Somali woman changing how the world sees Mogadishu",
+      "published_at": "2026-11-07T01:19:49+00:00"
     },
     {
       "source": "Reuters",
@@ -17,64 +67,14 @@
       "published_at": "2026-11-06T23:53:47+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "North Korea's army of world-class hackers is secret weapon that took down Binance",
-      "published_at": "2026-11-06T23:41:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
-      "published_at": "2026-11-06T23:37:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo voted in US midterms because 'I'm proud to be an American'",
-      "published_at": "2026-11-06T23:34:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
-      "published_at": "2026-11-06T23:04:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-      "published_at": "2026-11-06T22:46:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Paraguay Senate votes to impeach President Peña",
-      "published_at": "2026-11-06T22:19:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In Republican collapse, Colorado military town elects Democrat for the first time",
-      "published_at": "2026-11-06T22:03:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Democrats planning flood of AI bills when they take control of Congress",
-      "published_at": "2026-11-06T21:56:42+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "published_at": "2026-11-06T21:49:50+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "AI stocks climb after trillions wiped from market values",
-      "published_at": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Israel's Arab-led parties in spotlight after inconclusive election",
-      "published_at": "2026-11-06T20:42:51+00:00"
+      "text": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "published_at": "2026-11-06T23:46:08+00:00"
     },
     {
       "source": "Reuters",
-      "text": "BOJ chief Ueda sees 'some upside risks' to inflation",
-      "published_at": "2026-11-06T20:28:16+00:00"
+      "text": "Paraguay's Alliana sworn in as president after Peña impeachment",
+      "published_at": "2026-11-06T23:37:59+00:00"
     }
   ]
 }
