@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-11-07T20:50:05+00:00",
+  "updated_at": "2026-11-08T00:28:18+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "published_at": "2026-11-08T00:19:52+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "published_at": "2026-11-07T20:23:17+00:00"
+      "text": "What we know so far after Krakow gun attack",
+      "published_at": "2026-11-07T22:58:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Poland in shock after six die in Krakow mass shooting",
+      "published_at": "2026-11-07T22:57:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+      "published_at": "2026-11-07T22:48:58+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Guatemalan lawmaker, three police officers killed in armed attack",
+      "published_at": "2026-11-07T22:45:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+      "published_at": "2026-11-07T22:45:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "published_at": "2026-11-07T22:19:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Norris on pole in rain-hit Brazil for third year in a row",
+      "published_at": "2026-11-07T22:15:18+00:00"
     },
     {
       "source": "NPR",
-      "text": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "text": "The surprising and often forgotten history of economic populism in Texas",
+      "published_at": "2026-11-07T22:12:07+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Zealand preliminary vote leaves unclear who will govern",
+      "published_at": "2026-11-07T21:07:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
+      "published_at": "2026-11-07T21:04:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former youngest champion Fittipaldi hails Antonelli's rise",
+      "published_at": "2026-11-07T20:43:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
       "published_at": "2026-11-07T20:18:18+00:00"
     },
     {
@@ -17,64 +72,9 @@
       "published_at": "2026-11-07T20:00:45+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
-      "published_at": "2026-11-07T19:27:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Polish gunman kills four women and two men in Krakow's main square",
-      "published_at": "2026-11-07T19:23:27+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Paraguay's former president charged after bank collapse",
       "published_at": "2026-11-07T19:17:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Adams double lifts lacklustre Wales to 28-21 win over Japan",
-      "published_at": "2026-11-07T18:57:01+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-      "published_at": "2026-11-07T18:37:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
-      "published_at": "2026-11-07T18:32:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-      "published_at": "2026-11-07T18:26:11+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US offers $20m reward for information about Iran's nuclear programme",
-      "published_at": "2026-11-07T18:14:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Gaza wedding festival sees 250 couples married at the same time",
-      "published_at": "2026-11-07T17:58:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Protesting to music in Paris: Orchestra plays to placard-holding crowd",
-      "published_at": "2026-11-07T17:57:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Ousted Paraguayan president appears before prosecutors",
-      "published_at": "2026-11-07T17:14:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Houthis say at least 25 killed in Saudi air strike",
-      "published_at": "2026-11-07T17:09:24+00:00"
     }
   ]
 }
