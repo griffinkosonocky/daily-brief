@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-11-08T00:28:18+00:00",
+  "updated_at": "2026-11-08T07:13:43+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Houthis say at least 33 killed in Saudi air strike",
+      "published_at": "2026-11-08T04:03:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Astellas employee imprisoned in China to be released in December, Japanese media report",
+      "published_at": "2026-11-08T03:49:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far after Krakow gun attack",
+      "published_at": "2026-11-08T01:47:41+00:00"
+    },
     {
       "source": "NPR",
       "text": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
       "published_at": "2026-11-08T00:19:52+00:00"
     },
     {
-      "source": "BBC",
-      "text": "What we know so far after Krakow gun attack",
-      "published_at": "2026-11-07T22:58:49+00:00"
-    },
-    {
       "source": "Reuters",
-      "text": "Poland in shock after six die in Krakow mass shooting",
-      "published_at": "2026-11-07T22:57:43+00:00"
+      "text": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+      "published_at": "2026-11-07T22:49:13+00:00"
     },
     {
       "source": "Reuters",
@@ -37,24 +47,19 @@
       "published_at": "2026-11-07T22:19:59+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Norris on pole in rain-hit Brazil for third year in a row",
-      "published_at": "2026-11-07T22:15:18+00:00"
-    },
-    {
       "source": "NPR",
       "text": "The surprising and often forgotten history of economic populism in Texas",
       "published_at": "2026-11-07T22:12:07+00:00"
     },
     {
       "source": "Reuters",
-      "text": "New Zealand preliminary vote leaves unclear who will govern",
-      "published_at": "2026-11-07T21:07:55+00:00"
+      "text": "Explosions heard in areas in southern Iran, Iranian media report",
+      "published_at": "2026-11-07T21:57:14+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
-      "published_at": "2026-11-07T21:04:53+00:00"
+      "source": "BBC",
+      "text": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "published_at": "2026-11-07T21:36:16+00:00"
     },
     {
       "source": "Reuters",
@@ -62,19 +67,14 @@
       "published_at": "2026-11-07T20:43:44+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Norris on pole in rain-hit Brazil for third year in a row",
+      "published_at": "2026-11-07T20:43:00+00:00"
+    },
+    {
       "source": "NPR",
       "text": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
       "published_at": "2026-11-07T20:18:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Egypt part ways with coach Hassan, Maher to replace him",
-      "published_at": "2026-11-07T20:00:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Paraguay's former president charged after bank collapse",
-      "published_at": "2026-11-07T19:17:22+00:00"
     }
   ]
 }
