@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-11-08T15:03:29+00:00",
+  "updated_at": "2026-11-08T16:44:32+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "What we know so far after Krakow gun attack",
-      "published_at": "2026-11-08T14:32:52+00:00"
+      "source": "Reuters",
+      "text": "Alcaraz beats error-prone Shelton to win Paris Masters",
+      "published_at": "2026-11-08T16:33:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "published_at": "2026-11-08T16:30:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Israel government talks, Poland shooting and AI shopping",
+      "published_at": "2026-11-08T16:07:10+00:00"
     },
     {
       "source": "Reuters",
       "text": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
-      "published_at": "2026-11-08T14:26:27+00:00"
+      "published_at": "2026-11-08T16:04:42+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+      "published_at": "2026-11-08T15:07:15+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far after Krakow gun attack",
+      "published_at": "2026-11-08T14:32:52+00:00"
     },
     {
       "source": "Reuters",
@@ -43,11 +63,6 @@
     },
     {
       "source": "NPR",
-      "text": "In Maine, a new approach to practicing medicine in the sky",
-      "published_at": "2026-11-08T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
       "text": "Climate change is altering the colors we see in the world: an illustrated journey",
       "published_at": "2026-11-08T11:00:00+00:00"
     },
@@ -57,24 +72,9 @@
       "published_at": "2026-11-08T11:00:00+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Indian shares consolidate in Diwali session after seven-day rally",
-      "published_at": "2026-11-08T10:43:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Media industry still has a problem with sexual abuse, UK minister says",
-      "published_at": "2026-11-08T10:21:27+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "How Gen Z voters helped fuel a blue wave for Democrats",
-      "published_at": "2026-11-08T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Former world number three Ferrer to join Ruud's coaching set-up",
-      "published_at": "2026-11-08T09:35:45+00:00"
+      "text": "In Maine, a new approach to practicing medicine in the sky",
+      "published_at": "2026-11-08T11:00:00+00:00"
     }
   ]
 }
