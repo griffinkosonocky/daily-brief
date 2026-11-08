@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-08T16:44:32+00:00",
+  "updated_at": "2026-11-08T19:36:18+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "published_at": "2026-11-08T19:25:30+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "published_at": "2026-11-08T18:22:53+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Alcaraz beats error-prone Shelton to win Paris Masters",
-      "published_at": "2026-11-08T16:33:17+00:00"
+      "text": "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks",
+      "published_at": "2026-11-08T18:08:40+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "published_at": "2026-11-08T17:35:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "'Trump has cost us': After midterm losses, MAGA asks if it's over",
+      "published_at": "2026-11-08T17:26:20+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "G7 ministers to discuss recent cyber attacks, Italy says",
+      "published_at": "2026-11-08T16:59:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "published_at": "2026-11-08T16:46:15+00:00"
     },
     {
       "source": "NPR",
@@ -13,8 +43,18 @@
     },
     {
       "source": "Reuters",
+      "text": "Rahm marks DP World Tour return with victory in Abu Dhabi",
+      "published_at": "2026-11-08T16:18:42+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "PODCAST: Israel government talks, Poland shooting and AI shopping",
       "published_at": "2026-11-08T16:07:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "published_at": "2026-11-08T16:05:57+00:00"
     },
     {
       "source": "Reuters",
@@ -28,53 +68,13 @@
     },
     {
       "source": "BBC",
-      "text": "What we know so far after Krakow gun attack",
-      "published_at": "2026-11-08T14:32:52+00:00"
+      "text": "Homes and temples glow across India to mark Diwali",
+      "published_at": "2026-11-08T14:42:09+00:00"
     },
     {
       "source": "Reuters",
       "text": "Iran suggests blasts are not US attacks as both sides report ships hit",
       "published_at": "2026-11-08T14:21:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Sudan detains ex-ruling party head Haroun wanted by ICC",
-      "published_at": "2026-11-08T14:00:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Rahm marks DP World Tour return with victory in Abu Dhabi",
-      "published_at": "2026-11-08T13:55:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'Trump has cost us': After midterm losses, MAGA asks if it's over",
-      "published_at": "2026-11-08T11:50:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino",
-      "published_at": "2026-11-08T11:26:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
-      "published_at": "2026-11-08T11:08:25+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "published_at": "2026-11-08T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "published_at": "2026-11-08T11:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "In Maine, a new approach to practicing medicine in the sky",
-      "published_at": "2026-11-08T11:00:00+00:00"
     }
   ]
 }
