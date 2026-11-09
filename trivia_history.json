@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-06",
-    "sport": "Sports",
-    "question": "What national team won the first UEFA Nations League?",
-    "answer": "Portugal"
-  },
-  {
     "date": "2026-10-27",
     "sport": "Sports",
     "question": "Who has played the most tournaments on the Brazilian national soccer team?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "In what year did Steaua București win the European Cup, actual UEFA Champions League, against FC Barcelona?",
     "answer": "1986"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "Sports",
+    "question": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+    "answer": "38"
   }
 ]
