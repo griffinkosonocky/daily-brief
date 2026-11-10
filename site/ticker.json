@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-11-10T17:42:43+00:00",
+  "updated_at": "2026-11-10T18:01:52+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Defiant Hegseth blasts impeachment effort ahead of House vote",
+      "published_at": "2026-11-10T17:47:50+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+      "published_at": "2026-11-10T17:46:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "AI debt faces pressure as Democrats prepare to take over Congress",
+      "published_at": "2026-11-10T17:30:28+00:00"
+    },
     {
       "source": "BBC",
       "text": "First day of Ukraine peace talks constructive, Zelensky says",
       "published_at": "2026-11-10T17:29:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Troubled US debt levels ticked up in third quarter, New York Fed report says",
+      "published_at": "2026-11-10T17:22:55+00:00"
     },
     {
       "source": "Reuters",
@@ -52,29 +72,9 @@
       "published_at": "2026-11-10T16:19:48+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "NY Fed finds troubled debt levels ticked up in third quarter",
-      "published_at": "2026-11-10T16:10:54+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Twelve dead after motorway pile-ups in Bulgaria fog",
       "published_at": "2026-11-10T16:07:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-      "published_at": "2026-11-10T15:51:13+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "published_at": "2026-11-10T15:40:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "published_at": "2026-11-10T15:21:18+00:00"
     }
   ]
 }
