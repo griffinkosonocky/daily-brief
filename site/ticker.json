@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-09T20:54:18+00:00",
+  "updated_at": "2026-11-10T01:27:33+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Turkey steel factory blast kills at least 17 people",
-      "published_at": "2026-11-09T20:42:04+00:00"
+      "text": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "published_at": "2026-11-10T01:22:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Scientists expect global fossil fuel emissions to ease this year",
+      "published_at": "2026-11-10T01:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar sellers hit pause for US inflation data",
+      "published_at": "2026-11-10T00:38:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Some in BOJ called for faster rate hikes, October summary shows",
+      "published_at": "2026-11-10T00:22:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "published_at": "2026-11-10T00:14:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "published_at": "2026-11-10T00:09:49+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "The superpower battle over energy – and what it means for your bills",
+      "published_at": "2026-11-10T00:08:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
+      "published_at": "2026-11-09T23:56:20+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "published_at": "2026-11-09T23:51:22+00:00"
     },
     {
       "source": "BBC",
       "text": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "published_at": "2026-11-09T20:23:14+00:00"
+      "published_at": "2026-11-09T23:45:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Colombia seeking large IMF loan, but no decision expected in coming weeks, sources say",
+      "published_at": "2026-11-09T23:39:10+00:00"
     },
     {
       "source": "BBC",
-      "text": "France accuses Iran of supermarket fridge hacking",
-      "published_at": "2026-11-09T20:20:08+00:00"
+      "text": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "published_at": "2026-11-09T23:28:53+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Hegseth faces expected US House impeachment vote this week",
-      "published_at": "2026-11-09T19:59:32+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "published_at": "2026-11-09T19:58:01+00:00"
+      "text": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
+      "published_at": "2026-11-09T23:15:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EU close to full backing from members on new tobacco tax",
-      "published_at": "2026-11-09T19:45:01+00:00"
+      "text": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
+      "published_at": "2026-11-09T23:10:14+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Paraguay names Schreiner as central bank chief following Ueno collapse",
-      "published_at": "2026-11-09T19:05:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France to dodge threat of year-end recession, central bank says",
-      "published_at": "2026-11-09T19:03:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Merz says Germany faces historic test over rise in antisemitism",
-      "published_at": "2026-11-09T18:53:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
-      "published_at": "2026-11-09T18:43:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia and Ukraine showing flexibility on territory, US official says",
-      "published_at": "2026-11-09T18:43:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Food industry pushes back on WHO guidance for products with added colour, sweeteners",
-      "published_at": "2026-11-09T18:29:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Steel plant blast kills 16 in western Turkey",
-      "published_at": "2026-11-09T18:17:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia's leading independent newspaper closes after eviction",
-      "published_at": "2026-11-09T18:08:07+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Two arrested near White House in separate incidents, Secret Service says",
-      "published_at": "2026-11-09T18:03:44+00:00"
+      "text": "Trump says Qatar, Saudi prefer peace in Iran conflict",
+      "published_at": "2026-11-09T23:07:09+00:00"
     }
   ]
 }
