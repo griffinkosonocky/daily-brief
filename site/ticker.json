@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-10T23:12:35+00:00",
+  "updated_at": "2026-11-11T05:59:50+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Breakingviews - COMMENTARY: AI ructions sharpen India’s data-centre edge",
+      "published_at": "2026-11-11T05:23:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Pakistan PM Imran Khan back in jail after medical treatment, sources say",
+      "published_at": "2026-11-11T04:51:00+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "published_at": "2026-11-10T22:52:15+00:00"
+      "text": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "published_at": "2026-11-11T03:44:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ukraine's Zelenskiy says he is pleased with messages from US envoys on diplomatic efforts to end war",
-      "published_at": "2026-11-10T22:30:16+00:00"
+      "text": "Gold rebounds after sharp selloff though Fed hike bets weigh",
+      "published_at": "2026-11-11T03:39:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "published_at": "2026-11-11T03:26:42+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says",
-      "published_at": "2026-11-10T22:21:45+00:00"
+      "text": "World leaders to address COP31 as Turkey pushes for new climate deal",
+      "published_at": "2026-11-11T03:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "published_at": "2026-11-11T02:47:59+00:00"
     },
     {
       "source": "BBC",
       "text": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "published_at": "2026-11-10T22:17:45+00:00"
+      "published_at": "2026-11-11T02:41:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Defiant Hegseth blasts impeachment 'farce' ahead of US House vote",
-      "published_at": "2026-11-10T21:53:45+00:00"
+      "text": "Indian stocks hit eight-month high as foreign investors return",
+      "published_at": "2026-11-11T02:25:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
-      "published_at": "2026-11-10T21:27:01+00:00"
+      "text": "Disaster warning systems race to keep pace with galloping climate risks",
+      "published_at": "2026-11-11T02:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+      "published_at": "2026-11-11T02:05:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal government failed to hold Epstein accountable, Republican committee says",
+      "published_at": "2026-11-11T01:51:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nine seriously injured in South Korea bus crash involving 32 vehicles",
+      "published_at": "2026-11-11T01:40:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "First day of Ukraine peace talks constructive, Zelensky says",
-      "published_at": "2026-11-10T21:21:55+00:00"
+      "text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "published_at": "2026-11-11T01:01:20+00:00"
     },
     {
       "source": "Reuters",
-      "text": "IBM to end visa, green card sponsorship for most roles in its Consulting arm",
-      "published_at": "2026-11-10T21:11:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
-      "published_at": "2026-11-10T21:11:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
-      "published_at": "2026-11-10T20:49:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US confident Russian diesel cargo off US coast will sell in global market",
-      "published_at": "2026-11-10T20:47:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spain's king and queen attend memorial service for rail crash victims",
-      "published_at": "2026-11-10T20:46:40+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US federal authorities could have prevented Epstein crimes, report finds",
-      "published_at": "2026-11-10T20:36:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-      "published_at": "2026-11-10T20:31:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Hegseth, FBI Nvidia probe, Anthropic valuation (Updated)",
-      "published_at": "2026-11-10T20:30:13+00:00"
+      "text": "US Treasury chief Bessent moved to military base after Iranian threats, sources say",
+      "published_at": "2026-11-11T01:00:00+00:00"
     }
   ]
 }
