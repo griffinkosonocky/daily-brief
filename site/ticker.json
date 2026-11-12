@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-12T18:29:11+00:00",
+  "updated_at": "2026-11-12T18:50:40+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "published_at": "2026-11-12T18:47:35+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "published_at": "2026-11-12T18:44:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say",
+      "published_at": "2026-11-12T18:37:55+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
+      "published_at": "2026-11-12T18:31:55+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "published_at": "2026-11-12T18:28:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US House Democratic Leader Jeffries wants 'dramatic change' in Middle East",
+      "published_at": "2026-11-12T18:27:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venture Global asks DOE for approval to re-export LNG from CP2 project",
+      "published_at": "2026-11-12T18:25:43+00:00"
+    },
     {
       "source": "Reuters",
       "text": "Crowds fill Lima streets for Pope Leo's emotional return to Peru",
@@ -10,11 +45,6 @@
       "source": "NPR",
       "text": "Casualties continue to rise after Brooklyn building collapses",
       "published_at": "2026-11-12T18:15:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
-      "published_at": "2026-11-12T18:14:59+00:00"
     },
     {
       "source": "Reuters",
@@ -28,8 +58,8 @@
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say",
-      "published_at": "2026-11-12T17:15:36+00:00"
+      "text": "Wall St recovers as energy shares climb; Nvidia woes deepen",
+      "published_at": "2026-11-12T17:16:53+00:00"
     },
     {
       "source": "Reuters",
@@ -45,36 +75,6 @@
       "source": "BBC",
       "text": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "published_at": "2026-11-12T17:11:48+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italian schools defy new wave of bomb threats to remain open",
-      "published_at": "2026-11-12T16:58:06+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "published_at": "2026-11-12T16:54:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "published_at": "2026-11-12T16:52:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: US FDA shelves commissioner's voucher program for speedy drug reviews, sources say",
-      "published_at": "2026-11-12T16:36:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "published_at": "2026-11-12T16:31:12+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
-      "published_at": "2026-11-12T16:28:53+00:00"
     }
   ]
 }
