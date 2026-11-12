@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-11T21:21:44+00:00",
+  "updated_at": "2026-11-12T02:53:34+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "New York building collapse kills one person and injures 12",
+      "published_at": "2026-11-12T02:33:12+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "Stocks end higher as CoreWeave results ease AI spending worries",
-      "published_at": "2026-11-11T21:05:09+00:00"
+      "text": "Breakingviews - COMMENTARY: Jensen Huang’s fall can shatter Nvidia’s kingdom",
+      "published_at": "2026-11-12T02:33:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Clashes erupt in Barcelona as thousands join Spain general strike",
-      "published_at": "2026-11-11T20:52:52+00:00"
+      "text": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "published_at": "2026-11-12T02:09:08+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Russia and Ukraine say some progress made at talks, US cites a lack of trust",
-      "published_at": "2026-11-11T20:31:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iran will not allow enriched nuclear material to leave the country, security chief says",
-      "published_at": "2026-11-11T20:03:05+00:00"
+      "text": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
+      "published_at": "2026-11-12T01:53:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "published_at": "2026-11-11T20:00:54+00:00"
+      "text": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "published_at": "2026-11-12T00:36:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi Arabia says debris from intercepted missiles falls in Mecca region",
+      "published_at": "2026-11-12T00:21:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan wholesale inflation accelerates, keeps alive rate hike view",
+      "published_at": "2026-11-12T00:14:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Dollar near one-month high as yen edges toward 160",
+      "published_at": "2026-11-12T00:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK house sales outlook is darkest since 2023, RICS says",
+      "published_at": "2026-11-12T00:04:00+00:00"
     },
     {
       "source": "NPR",
-      "text": "Why is gasoline suddenly under $4 a gallon?",
-      "published_at": "2026-11-11T19:59:14+00:00"
+      "text": "Democrat Scott Colom wins the closest Senate race in the country",
+      "published_at": "2026-11-11T23:33:59+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Millions of Spaniards stage first general strike in 14 years as anger rages over housing",
-      "published_at": "2026-11-11T19:53:27+00:00"
+      "text": "Instant View: Nvidia board meets to decide CEO Huang's future, source says",
+      "published_at": "2026-11-11T23:19:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Brazil's central bank chief sees negative value in providing policy guidance",
-      "published_at": "2026-11-11T19:11:46+00:00"
+      "text": "Report: US Soccer removes team from U-17 World Cup in Qatar",
+      "published_at": "2026-11-11T23:05:58+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "published_at": "2026-11-11T18:38:45+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: How a Vitol trader's ties to JD Vance helped land a prized Venezuela oil contract",
-      "published_at": "2026-11-11T18:26:12+00:00"
+      "source": "NPR",
+      "text": "Democrat Scott Colom wins Mississippi Senate race",
+      "published_at": "2026-11-11T23:04:51+00:00"
     },
     {
       "source": "Reuters",
-      "text": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast",
-      "published_at": "2026-11-11T18:25:40+00:00"
+      "text": "FIFA clears joint bids for 2031 and 2035 Women's World Cups",
+      "published_at": "2026-11-11T22:54:14+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Polish right turns out en masse for Independence Day march",
-      "published_at": "2026-11-11T18:20:59+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global watchdog urges Turkey to strengthen crypto rules",
-      "published_at": "2026-11-11T18:20:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "published_at": "2026-11-11T18:10:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Study suggests not all obesity means ill-health",
-      "published_at": "2026-11-11T18:08:27+00:00"
+      "text": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
+      "published_at": "2026-11-11T22:28:23+00:00"
     }
   ]
 }
