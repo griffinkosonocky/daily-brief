@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-12T10:55:50+00:00",
+  "updated_at": "2026-11-12T18:29:11+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "New York building collapse kills at least two, officials say",
-      "published_at": "2026-11-12T10:40:49+00:00"
+      "source": "Reuters",
+      "text": "Crowds fill Lima streets for Pope Leo's emotional return to Peru",
+      "published_at": "2026-11-12T18:15:28+00:00"
     },
     {
-      "source": "BBC",
-      "text": "British woman missing from cruise ship in Atlantic",
-      "published_at": "2026-11-12T10:13:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "published_at": "2026-11-12T10:08:38+00:00"
+      "source": "NPR",
+      "text": "Casualties continue to rise after Brooklyn building collapses",
+      "published_at": "2026-11-12T18:15:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: Huang in the balance",
-      "published_at": "2026-11-12T10:07:29+00:00"
+      "text": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
+      "published_at": "2026-11-12T18:14:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gunman kills one, wounds four in busy Washington, DC, neighborhood",
+      "published_at": "2026-11-12T17:48:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "NATO will not hold summit in Tirana next year, Albania's Rama says",
+      "published_at": "2026-11-12T17:39:21+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say",
+      "published_at": "2026-11-12T17:15:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "World leaders set out clashing priorities as COP31 turns to negotiations",
+      "published_at": "2026-11-12T17:15:27+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+      "published_at": "2026-11-12T17:13:54+00:00"
     },
     {
       "source": "BBC",
-      "text": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
-      "published_at": "2026-11-12T10:02:32+00:00"
+      "text": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "published_at": "2026-11-12T17:11:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Siemens CEO says cooperation with Nvidia will not be affected by leadership uncertainty",
-      "published_at": "2026-11-12T10:00:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "At least 23 states considered laws governing ICE and schools this year",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Senators don't always share bill text online before votes. They should, advocates say",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "SoftBank, Nvidia back Germany's Agile Robots at $8.5 billion valuation",
-      "published_at": "2026-11-12T09:45:43+00:00"
+      "text": "Italian schools defy new wave of bomb threats to remain open",
+      "published_at": "2026-11-12T16:58:06+00:00"
     },
     {
       "source": "BBC",
       "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "published_at": "2026-11-12T09:43:11+00:00"
+      "published_at": "2026-11-12T16:54:12+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-      "published_at": "2026-11-12T09:29:30+00:00"
+      "source": "BBC",
+      "text": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "published_at": "2026-11-12T16:52:53+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: US FDA shelves commissioner's voucher program for speedy drug reviews, sources say",
+      "published_at": "2026-11-12T16:36:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "published_at": "2026-11-12T16:31:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+      "published_at": "2026-11-12T16:28:53+00:00"
     }
   ]
 }
