@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-13T00:12:36+00:00",
+  "updated_at": "2026-11-13T07:50:46+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "Rugby league-Ponga and Walsh face off again in World Cup final as NZ look to upset Australia",
+      "published_at": "2026-11-13T07:19:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cape Verde president eyes new term as party builds on legislative win",
+      "published_at": "2026-11-13T07:04:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Morning Bid: Scandal topples the AI star",
+      "published_at": "2026-11-13T05:32:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
+      "published_at": "2026-11-13T05:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+      "published_at": "2026-11-13T04:05:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "published_at": "2026-11-13T03:57:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+      "published_at": "2026-11-13T03:56:00+00:00"
+    },
+    {
       "source": "NPR",
-      "text": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "published_at": "2026-11-12T23:36:19+00:00"
+      "text": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "published_at": "2026-11-13T03:52:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold rises on bargain hunting but heads for weekly decline",
+      "published_at": "2026-11-13T03:43:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Five facts about APEC with Trump, Putin and Xi set to attend",
+      "published_at": "2026-11-13T03:05:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "published_at": "2026-11-12T23:34:05+00:00"
+      "text": "Australian footballers will not be charged after hotel incident, police say",
+      "published_at": "2026-11-13T03:02:54+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
-      "published_at": "2026-11-12T23:31:50+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-      "published_at": "2026-11-12T22:45:40+00:00"
+      "text": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
+      "published_at": "2026-11-13T02:54:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Gunman kills one, wounds four in busy Washington, DC, neighborhood",
-      "published_at": "2026-11-12T22:30:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Cisco lifts annual revenue forecast on strong AI networking demand",
-      "published_at": "2026-11-12T22:18:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "New York City building collapse kills 8, mayor expands probe",
-      "published_at": "2026-11-12T22:13:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
-      "published_at": "2026-11-12T21:57:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
-      "published_at": "2026-11-12T21:56:24+00:00"
+      "text": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
+      "published_at": "2026-11-13T02:51:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "published_at": "2026-11-12T21:27:21+00:00"
+      "text": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "published_at": "2026-11-13T02:48:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Equities close lower as Nvidia drop outweighs energy gains",
-      "published_at": "2026-11-12T21:27:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venture Global asks DOE for approval to re-export LNG from CP2 project",
-      "published_at": "2026-11-12T21:09:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says",
-      "published_at": "2026-11-12T21:02:58+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "published_at": "2026-11-12T21:00:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US starts 2027 fiscal year with record October budget deficit of $404 billion",
-      "published_at": "2026-11-12T20:18:28+00:00"
+      "text": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
+      "published_at": "2026-11-13T02:28:00+00:00"
     }
   ]
 }
