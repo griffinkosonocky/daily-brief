@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-13T16:12:06+00:00",
+  "updated_at": "2026-11-13T17:56:28+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "published_at": "2026-11-13T17:19:01+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Pochettino wants to end tenure as US coach on high note",
+      "published_at": "2026-11-13T17:15:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "published_at": "2026-11-13T17:12:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The Trump administration's voter roll crusade could continue",
+      "published_at": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UN rights chief demands Houthis return body of Yemeni staff member",
+      "published_at": "2026-11-13T16:51:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "published_at": "2026-11-13T16:40:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Fed's Collins says more rate hikes are coming, Bloomberg Television reports",
+      "published_at": "2026-11-13T16:33:43+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Does Europe regret its bet on U.S. defense?",
+      "published_at": "2026-11-13T16:17:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "White House urges Congress to provide $30.1 billion for aviation reform",
+      "published_at": "2026-11-13T16:13:30+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "NEWSLETTER: Conflicting demands at COP31",
+      "published_at": "2026-11-13T16:11:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Democratic Senate leader Schumer set to face leadership challenge",
+      "published_at": "2026-11-13T15:48:07+00:00"
+    },
     {
       "source": "NPR",
       "text": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
       "published_at": "2026-11-13T15:46:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Tata's JLR targets double-digit core earnings growth in fiscal 2028",
-      "published_at": "2026-11-13T15:05:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Man United turn to US coach Pochettino in latest gamble to revive fallen giants",
-      "published_at": "2026-11-13T15:03:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gambhir concerned by India's batting collapses ahead of ODI World Cup",
-      "published_at": "2026-11-13T14:42:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Chips down after Huang exit?",
-      "published_at": "2026-11-13T14:33:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Treasury's Bessent says he is optimistic on trade deals with Canada, Mexico",
-      "published_at": "2026-11-13T14:24:31+00:00"
+      "source": "BBC",
+      "text": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "published_at": "2026-11-13T15:42:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "Why is the Microsoft outage lasting so long?",
-      "published_at": "2026-11-13T14:21:26+00:00"
+      "text": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "published_at": "2026-11-13T15:40:08+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents",
-      "published_at": "2026-11-13T14:14:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-      "published_at": "2026-11-13T14:12:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US producer prices rise further in October",
-      "published_at": "2026-11-13T13:55:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bank of England to wait until February to next raise rates, say economists: Reuters poll",
-      "published_at": "2026-11-13T13:35:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Remembering singer and actor Peggy King",
-      "published_at": "2026-11-13T13:35:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
-      "published_at": "2026-11-13T13:32:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Germany's Merz asks Trump for 'no surprises' from Putin talks",
-      "published_at": "2026-11-13T13:15:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia says Europeans can join Ukraine peace talks if they show 'readiness to contribute'",
-      "published_at": "2026-11-13T13:11:45+00:00"
+      "text": "US producer prices rise moderately in October, but inflation broadens out",
+      "published_at": "2026-11-13T15:31:16+00:00"
     }
   ]
 }
