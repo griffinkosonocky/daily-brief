@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-14T16:59:54+00:00",
+  "updated_at": "2026-11-14T21:23:51+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-      "published_at": "2026-11-14T16:53:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
-      "published_at": "2026-11-14T16:37:25+00:00"
-    },
-    {
       "source": "BBC",
-      "text": "Italy fines Meta €805m over accessing users' photos",
-      "published_at": "2026-11-14T16:29:48+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Fuel crisis and protests pressure Chile's far-right president",
-      "published_at": "2026-11-14T16:05:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "published_at": "2026-11-14T15:53:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "published_at": "2026-11-14T15:42:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-      "published_at": "2026-11-14T15:37:54+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
-      "published_at": "2026-11-14T15:31:46+00:00"
+      "text": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "published_at": "2026-11-14T21:05:14+00:00"
     },
     {
       "source": "BBC",
       "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "published_at": "2026-11-14T15:15:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What we know about the ground stop and what to do if you're affected",
-      "published_at": "2026-11-14T14:20:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Second catch attempt for SpaceX Starship rocket",
-      "published_at": "2026-11-14T14:18:41+00:00"
+      "published_at": "2026-11-14T20:41:45+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: FAA restores flights, Trump plans nuclear talks in China and SS United States' final voyage",
-      "published_at": "2026-11-14T14:06:37+00:00"
+      "text": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+      "published_at": "2026-11-14T20:23:56+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "published_at": "2026-11-14T20:23:06+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Bomb found near ethanol plant in central Illinois forces evacuations",
+      "published_at": "2026-11-14T20:12:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How telecoms upgrade work sparked US flight chaos",
+      "published_at": "2026-11-14T20:03:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Skiing-Germany's Aicher powers to first World Cup slalom victory in Levi",
-      "published_at": "2026-11-14T13:45:44+00:00"
+      "text": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
+      "published_at": "2026-11-14T19:15:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "published_at": "2026-11-14T19:14:33+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+      "published_at": "2026-11-14T19:13:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "published_at": "2026-11-14T19:12:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Italy fines Meta €805m over accessing users' photos",
+      "published_at": "2026-11-14T18:28:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Philippines wins first Eurovision Song Contest Asia",
+      "published_at": "2026-11-14T18:17:58+00:00"
     },
     {
       "source": "Reuters",
       "text": "Italy fines Meta $887 million over Android users' data access",
-      "published_at": "2026-11-14T13:08:10+00:00"
+      "published_at": "2026-11-14T18:12:20+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-      "published_at": "2026-11-14T13:08:05+00:00"
+      "source": "BBC",
+      "text": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "published_at": "2026-11-14T18:00:10+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Novo's Wegovy pill helps patients lose about 6% of weight in three months, real-world data show",
+      "published_at": "2026-11-14T17:24:10+00:00"
     }
   ]
 }
