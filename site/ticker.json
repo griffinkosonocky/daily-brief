@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-14T16:39:54+00:00",
+  "updated_at": "2026-11-14T16:59:54+00:00",
   "headlines": [
+    {
+      "source": "NPR",
+      "text": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+      "published_at": "2026-11-14T16:53:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
+      "published_at": "2026-11-14T16:37:25+00:00"
+    },
     {
       "source": "BBC",
       "text": "Italy fines Meta €805m over accessing users' photos",
@@ -65,16 +75,6 @@
       "source": "NPR",
       "text": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
       "published_at": "2026-11-14T13:08:05+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Perspective: A new kind of White House press secretary",
-      "published_at": "2026-11-14T13:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Italy says it backs Germany joining next-generation fighter jet project",
-      "published_at": "2026-11-14T12:50:09+00:00"
     }
   ]
 }
