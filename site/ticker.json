@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-15T01:48:51+00:00",
+  "updated_at": "2026-11-15T09:14:23+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Megaspeed says Alice Huang left company in August 2025",
+      "published_at": "2026-11-15T09:10:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "published_at": "2026-11-15T08:17:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "published_at": "2026-11-15T07:10:31+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cape Verde votes for president with emigration in focus",
+      "published_at": "2026-11-15T07:03:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "published_at": "2026-11-15T04:29:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+      "published_at": "2026-11-15T04:28:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "published_at": "2026-11-15T03:21:04+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+      "published_at": "2026-11-15T02:58:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "published_at": "2026-11-15T02:49:45+00:00"
+    },
     {
       "source": "NPR",
       "text": "FAA ground stop disrupts college football",
@@ -23,58 +68,13 @@
     },
     {
       "source": "Reuters",
-      "text": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
-      "published_at": "2026-11-14T23:57:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says",
-      "published_at": "2026-11-14T23:43:43+00:00"
+      "text": "UK's Prince William to be joined by wife Kate for visit to India",
+      "published_at": "2026-11-15T00:02:00+00:00"
     },
     {
       "source": "BBC",
       "text": "How telecoms upgrade work sparked US flight chaos",
       "published_at": "2026-11-14T23:11:27+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-      "published_at": "2026-11-14T22:48:38+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "published_at": "2026-11-14T22:37:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Hamas says senior armed commander killed in Israeli strike",
-      "published_at": "2026-11-14T22:31:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "US has lost measles elimination status, global health authorities say",
-      "published_at": "2026-11-14T22:15:02+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "published_at": "2026-11-14T22:09:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "SpaceX successfully catches Starship and makes history",
-      "published_at": "2026-11-14T21:42:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Law enforcement searches Illinois plant after 'credible threat' of explosive device",
-      "published_at": "2026-11-14T20:40:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-      "published_at": "2026-11-14T20:23:56+00:00"
     }
   ]
 }
