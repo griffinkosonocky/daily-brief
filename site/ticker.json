@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-15T17:18:49+00:00",
+  "updated_at": "2026-11-15T21:42:21+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "United States and Canada set up another women's world championship final",
+      "published_at": "2026-11-15T21:28:11+00:00"
+    },
     {
       "source": "BBC",
       "text": "Czechs rally against plan to switch funding of public media",
-      "published_at": "2026-11-15T16:36:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bessent says Nvidia must 'go outside the company' to find new CEO",
-      "published_at": "2026-11-15T16:25:13+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Estonia to close Russian border crossings after attempted arson attack",
-      "published_at": "2026-11-15T16:10:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "published_at": "2026-11-15T15:57:03+00:00"
+      "published_at": "2026-11-15T21:03:40+00:00"
     },
     {
       "source": "Reuters",
       "text": "Pope Leo crossing Peru for visits to Inca city, Amazon gateway",
-      "published_at": "2026-11-15T15:43:45+00:00"
+      "published_at": "2026-11-15T20:29:52+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Zverev cruises past debutant Jodar for ATP Finals opening win",
-      "published_at": "2026-11-15T15:36:38+00:00"
+      "text": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+      "published_at": "2026-11-15T20:07:55+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: Aviation routers, SpaceX, COP31 and young male voters",
-      "published_at": "2026-11-15T15:05:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "McIlroy equals Montgomerie record with eighth Race to Dubai title",
-      "published_at": "2026-11-15T14:57:43+00:00"
+      "text": "Russia to miss World Juniors over Canada restrictions, IIHF confirms",
+      "published_at": "2026-11-15T20:06:30+00:00"
     },
     {
       "source": "BBC",
-      "text": "How telecoms upgrade work sparked US flight chaos",
-      "published_at": "2026-11-15T14:57:15+00:00"
+      "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "published_at": "2026-11-15T19:32:39+00:00"
     },
     {
       "source": "BBC",
-      "text": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "published_at": "2026-11-15T14:56:21+00:00"
+      "text": "Ronaldinho makes comeback in Ravenna win",
+      "published_at": "2026-11-15T19:31:48+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "published_at": "2026-11-15T19:20:53+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Clinical Australia dominate New Zealand to win World Cup for 13th time",
-      "published_at": "2026-11-15T14:38:50+00:00"
+      "text": "Tens of thousands of Czechs rally against government media funding plan",
+      "published_at": "2026-11-15T19:14:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "New Maori generation seeks to reshape New Zealand's political landscape",
+      "published_at": "2026-11-15T19:03:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+      "published_at": "2026-11-15T18:59:19+00:00"
     },
     {
       "source": "BBC",
-      "text": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "published_at": "2026-11-15T14:33:59+00:00"
+      "text": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "published_at": "2026-11-15T18:38:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre",
+      "published_at": "2026-11-15T18:02:53+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "published_at": "2026-11-15T17:45:27+00:00"
     },
     {
       "source": "Reuters",
       "text": "Ronaldo Jr takes next Portugal step as dad exits international scene",
-      "published_at": "2026-11-15T13:44:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Iran targets US military base in Bahrain with drone attack",
-      "published_at": "2026-11-15T13:42:58+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ASEAN, China fail to conclude South China Sea code of conduct",
-      "published_at": "2026-11-15T13:39:46+00:00"
+      "published_at": "2026-11-15T16:40:50+00:00"
     }
   ]
 }
