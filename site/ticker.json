@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:00:13+00:00",
+  "updated_at": "2026-11-15T17:18:49+00:00",
   "headlines": [
     {
       "source": "BBC",
@@ -7,14 +7,19 @@
       "published_at": "2026-11-15T16:36:42+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "published_at": "2026-11-15T15:57:03+00:00"
+      "source": "Reuters",
+      "text": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+      "published_at": "2026-11-15T16:25:13+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bessent says Nvidia must 'go outside the company' to find new CEO",
-      "published_at": "2026-11-15T15:51:44+00:00"
+      "text": "Estonia to close Russian border crossings after attempted arson attack",
+      "published_at": "2026-11-15T16:10:10+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "published_at": "2026-11-15T15:57:03+00:00"
     },
     {
       "source": "Reuters",
@@ -70,11 +75,6 @@
       "source": "Reuters",
       "text": "ASEAN, China fail to conclude South China Sea code of conduct",
       "published_at": "2026-11-15T13:39:46+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "published_at": "2026-11-15T13:37:45+00:00"
     }
   ]
 }
