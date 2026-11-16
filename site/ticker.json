@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-15T21:42:21+00:00",
+  "updated_at": "2026-11-16T01:55:46+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "published_at": "2026-11-16T01:47:57+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "United States and Canada set up another women's world championship final",
-      "published_at": "2026-11-15T21:28:11+00:00"
+      "text": "Australians Zoric, Ewing take world surfing games gold",
+      "published_at": "2026-11-16T01:36:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+      "published_at": "2026-11-16T01:35:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed",
+      "published_at": "2026-11-16T01:32:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Flight disruptions expected to last into Monday",
+      "published_at": "2026-11-16T01:19:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Yen steady against euro and dollar after soft Japanese GDP data",
+      "published_at": "2026-11-16T01:09:00+00:00"
     },
     {
       "source": "BBC",
-      "text": "Czechs rally against plan to switch funding of public media",
-      "published_at": "2026-11-15T21:03:40+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Pope Leo crossing Peru for visits to Inca city, Amazon gateway",
-      "published_at": "2026-11-15T20:29:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-      "published_at": "2026-11-15T20:07:55+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia to miss World Juniors over Canada restrictions, IIHF confirms",
-      "published_at": "2026-11-15T20:06:30+00:00"
+      "text": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "published_at": "2026-11-16T01:05:44+00:00"
     },
     {
       "source": "BBC",
-      "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "published_at": "2026-11-15T19:32:39+00:00"
+      "text": "Russia's mega-rich are already imagining a future after Putin",
+      "published_at": "2026-11-16T00:13:14+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Ronaldinho makes comeback in Ravenna win",
-      "published_at": "2026-11-15T19:31:48+00:00"
+      "source": "Reuters",
+      "text": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+      "published_at": "2026-11-16T00:13:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "UK property asking prices fall more than usual in November, Rightmove says",
+      "published_at": "2026-11-16T00:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Inside China's drive to build an AI-native generation",
+      "published_at": "2026-11-16T00:06:00+00:00"
     },
     {
       "source": "BBC",
       "text": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "published_at": "2026-11-15T19:20:53+00:00"
+      "published_at": "2026-11-16T00:03:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Tens of thousands of Czechs rally against government media funding plan",
-      "published_at": "2026-11-15T19:14:27+00:00"
+      "text": "Japan's economy contracts annualised 0.1% in July-September",
+      "published_at": "2026-11-15T23:59:43+00:00"
     },
     {
       "source": "Reuters",
-      "text": "New Maori generation seeks to reshape New Zealand's political landscape",
-      "published_at": "2026-11-15T19:03:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
-      "published_at": "2026-11-15T18:59:19+00:00"
+      "text": "Steering problem on tanker caused collision in New Orleans, NTSB says",
+      "published_at": "2026-11-15T23:57:05+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "published_at": "2026-11-15T18:38:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre",
-      "published_at": "2026-11-15T18:02:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New Orleans port sues owners of tanker involved in Mississippi crash",
-      "published_at": "2026-11-15T17:45:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ronaldo Jr takes next Portugal step as dad exits international scene",
-      "published_at": "2026-11-15T16:40:50+00:00"
+      "text": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "published_at": "2026-11-15T23:52:10+00:00"
     }
   ]
 }
