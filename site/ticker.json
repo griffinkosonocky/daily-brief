@@ -1,20 +1,35 @@
 {
-  "updated_at": "2026-11-16T20:36:11+00:00",
+  "updated_at": "2026-11-17T03:44:31+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+      "text": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "published_at": "2026-11-17T02:37:53+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five EU countries announce migrant deportation centre in Rwanda",
+      "published_at": "2026-11-16T23:20:45+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "California sues OpenAI over hacking risks",
+      "published_at": "2026-11-16T22:06:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "published_at": "2026-11-16T21:40:07+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "published_at": "2026-11-16T20:33:57+00:00"
     },
     {
       "source": "BBC",
       "text": "Lindsay Clancy to face retrial next year for deaths of her three children",
       "published_at": "2026-11-16T19:30:30+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "published_at": "2026-11-16T19:16:52+00:00"
     },
     {
       "source": "NPR",
@@ -43,11 +58,6 @@
     },
     {
       "source": "BBC",
-      "text": "Five EU countries announce migrant deportation centre in Rwanda",
-      "published_at": "2026-11-16T16:27:24+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
       "published_at": "2026-11-16T15:40:16+00:00"
     },
@@ -65,16 +75,6 @@
       "source": "BBC",
       "text": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
       "published_at": "2026-11-16T14:58:12+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "published_at": "2026-11-16T14:48:55+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "published_at": "2026-11-16T14:22:36+00:00"
     }
   ]
 }
