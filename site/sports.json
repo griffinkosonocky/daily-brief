@@ -1,7 +1,7 @@
 {
   "title": "Today's Sports Slate",
-  "date_key": "2026-11-17",
-  "generated_at_ct": "Nov 17, 2026 at 1:15 PM CT",
+  "date_key": "2026-11-18",
+  "generated_at_ct": "Nov 18, 2026 at 12:56 PM CT",
   "sports": [
     {
       "key": "soccer_fifa_world_cup",
@@ -27,71 +27,35 @@
       "full_name": "College Football",
       "games": [
         {
-          "id": "0d8cfafd3da8fead51df5ec2e33e9382",
-          "sport_key": "americanfootball_ncaaf",
-          "league": "CFB",
-          "league_name": "College Football",
-          "status_key": "upcoming",
-          "status_label": "5:00 PM CT",
-          "commence_time": "2026-11-17T23:00:00Z",
-          "commence_ct": "5:00 PM CT",
-          "sort_time": "2026-11-17T23:00:00+00:00",
-          "home_team": "Western Michigan Broncos",
-          "away_team": "Eastern Michigan Eagles",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Western Michigan Broncos -14.5",
-            "outcomes": [
-              {
-                "name": "Eastern Michigan Eagles",
-                "point": 14.5,
-                "point_label": "+14.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Western Michigan Broncos",
-                "point": -14.5,
-                "point_label": "-14.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "5840d479fc52ad2b83d7feb802d4dd23",
+          "id": "ef5f5ac74b2228e8521c289fdbc6af93",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
           "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
+          "commence_time": "2026-11-19T00:00:00Z",
           "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Ohio Bobcats",
-          "away_team": "Ball State Cardinals",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "UMass Minutemen",
+          "away_team": "Akron Zips",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Ohio Bobcats -10",
+            "last_update_ct": "12:55 PM CT",
+            "summary": "UMass Minutemen -3.5",
             "outcomes": [
               {
-                "name": "Ball State Cardinals",
-                "point": 10.0,
-                "point_label": "+10",
+                "name": "Akron Zips",
+                "point": 3.5,
+                "point_label": "+3.5",
                 "price": -112,
                 "price_label": "-112"
               },
               {
-                "name": "Ohio Bobcats",
-                "point": -10.0,
-                "point_label": "-10",
+                "name": "UMass Minutemen",
+                "point": -3.5,
+                "point_label": "-3.5",
                 "price": -108,
                 "price_label": "-108"
               }
@@ -99,37 +63,37 @@
           }
         },
         {
-          "id": "792875fa96ecdf75559454c19c011768",
+          "id": "10cec4ab386b12694dd3cee93d870b47",
           "sport_key": "americanfootball_ncaaf",
           "league": "CFB",
           "league_name": "College Football",
           "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Kent State Golden Flashes",
-          "away_team": "Miami (OH) RedHawks",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "Buffalo Bulls",
+          "away_team": "Central Michigan Chippewas",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Miami (OH) RedHawks -9.5",
+            "last_update_ct": "12:55 PM CT",
+            "summary": "Buffalo Bulls -2.5",
             "outcomes": [
               {
-                "name": "Kent State Golden Flashes",
-                "point": 9.5,
-                "point_label": "+9.5",
-                "price": -112,
-                "price_label": "-112"
+                "name": "Buffalo Bulls",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -115,
+                "price_label": "-115"
               },
               {
-                "name": "Miami (OH) RedHawks",
-                "point": -9.5,
-                "point_label": "-9.5",
-                "price": -108,
-                "price_label": "-108"
+                "name": "Central Michigan Chippewas",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -105,
+                "price_label": "-105"
               }
             ]
           }
@@ -145,141 +109,105 @@
       "full_name": "College Basketball",
       "games": [
         {
-          "id": "7baca68d6b97b29d21efc5ccd35ee124",
+          "id": "b9ceae88b150b85cac57b2c1a4f3d29c",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "live",
           "status_label": "Live",
-          "commence_time": "2026-11-17T17:00:00Z",
-          "commence_ct": "11:00 AM CT",
-          "sort_time": "2026-11-17T17:00:00+00:00",
-          "home_team": "Murray St Racers",
-          "away_team": "Hofstra Pride",
-          "home_score": "74",
-          "away_score": "61",
+          "commence_time": "2026-11-18T17:01:43Z",
+          "commence_ct": "11:01 AM CT",
+          "sort_time": "2026-11-18T17:01:43+00:00",
+          "home_team": "Baylor Bears",
+          "away_team": "Jackson St Tigers",
+          "home_score": "102",
+          "away_score": "50",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Murray St Racers -14.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Baylor Bears -54.5",
             "outcomes": [
               {
-                "name": "Hofstra Pride",
-                "point": 14.5,
-                "point_label": "+14.5",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Baylor Bears",
+                "point": -54.5,
+                "point_label": "-54.5",
+                "price": -135,
+                "price_label": "-135"
               },
               {
-                "name": "Murray St Racers",
-                "point": -14.5,
-                "point_label": "-14.5",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Jackson St Tigers",
+                "point": 54.5,
+                "point_label": "+54.5",
+                "price": 105,
+                "price_label": "+105"
               }
             ]
           }
         },
         {
-          "id": "7f148211ccbd4dd6890aae95ab35cb92",
+          "id": "5a908ead2499ff9ff006def5827a69bb",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
-          "status_key": "live",
-          "status_label": "Live",
-          "commence_time": "2026-11-17T19:00:00Z",
-          "commence_ct": "1:00 PM CT",
-          "sort_time": "2026-11-17T19:00:00+00:00",
-          "home_team": "Rutgers Scarlet Knights",
-          "away_team": "Houston Cougars",
-          "home_score": "11",
-          "away_score": "10",
+          "status_key": "upcoming",
+          "status_label": "1:10 PM CT",
+          "commence_time": "2026-11-18T19:10:00Z",
+          "commence_ct": "1:10 PM CT",
+          "sort_time": "2026-11-18T19:10:00+00:00",
+          "home_team": "Notre Dame Fighting Irish",
+          "away_team": "Rutgers Scarlet Knights",
+          "home_score": "",
+          "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Houston Cougars -14.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Notre Dame Fighting Irish -2.5",
             "outcomes": [
               {
-                "name": "Houston Cougars",
-                "point": -14.5,
-                "point_label": "-14.5",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Notre Dame Fighting Irish",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -112,
+                "price_label": "-112"
               },
               {
                 "name": "Rutgers Scarlet Knights",
-                "point": 14.5,
-                "point_label": "+14.5",
-                "price": -125,
-                "price_label": "-125"
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -108,
+                "price_label": "-108"
               }
             ]
           }
         },
         {
-          "id": "150dfe147806ddeef1e5e91d62bbc6a4",
+          "id": "6f7d62819eb67c6156b4b4bb8d6eec35",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
           "status_label": "3:30 PM CT",
-          "commence_time": "2026-11-17T21:30:13Z",
+          "commence_time": "2026-11-18T21:30:00Z",
           "commence_ct": "3:30 PM CT",
-          "sort_time": "2026-11-17T21:30:13+00:00",
+          "sort_time": "2026-11-18T21:30:00+00:00",
           "home_team": "Florida Gators",
-          "away_team": "Notre Dame Fighting Irish",
+          "away_team": "Houston Cougars",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Florida Gators -15.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Florida Gators -1.5",
             "outcomes": [
               {
                 "name": "Florida Gators",
-                "point": -15.5,
-                "point_label": "-15.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Notre Dame Fighting Irish",
-                "point": 15.5,
-                "point_label": "+15.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "350bca9508ce4bee01779286b2a119c4",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "5:00 PM CT",
-          "commence_time": "2026-11-17T23:00:00Z",
-          "commence_ct": "5:00 PM CT",
-          "sort_time": "2026-11-17T23:00:00+00:00",
-          "home_team": "Army Knights",
-          "away_team": "Marist Red Foxes",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Army Knights -1.5",
-            "outcomes": [
-              {
-                "name": "Army Knights",
                 "point": -1.5,
                 "point_label": "-1.5",
                 "price": -110,
                 "price_label": "-110"
               },
               {
-                "name": "Marist Red Foxes",
+                "name": "Houston Cougars",
                 "point": 1.5,
                 "point_label": "+1.5",
                 "price": -110,
@@ -289,107 +217,35 @@
           }
         },
         {
-          "id": "cc8bda41e5ca0051fa27efd930cd1ba2",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "5:00 PM CT",
-          "commence_time": "2026-11-17T23:00:00Z",
-          "commence_ct": "5:00 PM CT",
-          "sort_time": "2026-11-17T23:00:00+00:00",
-          "home_team": "UMass Lowell River Hawks",
-          "away_team": "Saint Peter's Peacocks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "UMass Lowell River Hawks -5.5",
-            "outcomes": [
-              {
-                "name": "Saint Peter's Peacocks",
-                "point": 5.5,
-                "point_label": "+5.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "UMass Lowell River Hawks",
-                "point": -5.5,
-                "point_label": "-5.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "ffb5a6ab57400f7a34aa9891b5c1ca9f",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "5:00 PM CT",
-          "commence_time": "2026-11-17T23:00:00Z",
-          "commence_ct": "5:00 PM CT",
-          "sort_time": "2026-11-17T23:00:00+00:00",
-          "home_team": "Southern Illinois Salukis",
-          "away_team": "Liberty Flames",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Southern Illinois Salukis -1.5",
-            "outcomes": [
-              {
-                "name": "Liberty Flames",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Southern Illinois Salukis",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "60b029abf5f77ce43eeef93342df5ccc",
+          "id": "09148a74a9c2472e622e8d8f70578b20",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
           "status_label": "5:30 PM CT",
-          "commence_time": "2026-11-17T23:30:00Z",
+          "commence_time": "2026-11-18T23:30:00Z",
           "commence_ct": "5:30 PM CT",
-          "sort_time": "2026-11-17T23:30:00+00:00",
-          "home_team": "Purdue Boilermakers",
-          "away_team": "Lipscomb Bisons",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "Penn State Nittany Lions",
+          "away_team": "IUPUI Jaguars",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Purdue Boilermakers -22.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Penn State Nittany Lions -17.5",
             "outcomes": [
               {
-                "name": "Lipscomb Bisons",
-                "point": 22.5,
-                "point_label": "+22.5",
+                "name": "IUPUI Jaguars",
+                "point": 17.5,
+                "point_label": "+17.5",
                 "price": -112,
                 "price_label": "-112"
               },
               {
-                "name": "Purdue Boilermakers",
-                "point": -22.5,
-                "point_label": "-22.5",
+                "name": "Penn State Nittany Lions",
+                "point": -17.5,
+                "point_label": "-17.5",
                 "price": -108,
                 "price_label": "-108"
               }
@@ -397,1151 +253,431 @@
           }
         },
         {
-          "id": "081780ac2ad6014e346d974168a14e8d",
+          "id": "1955d8fa175573a689d24209bcb4b6c0",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Saint Joseph's Hawks",
-          "away_team": "Wagner Seahawks",
+          "status_label": "5:30 PM CT",
+          "commence_time": "2026-11-18T23:30:00Z",
+          "commence_ct": "5:30 PM CT",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "UNC Asheville Bulldogs",
+          "away_team": "Tennessee Tech Golden Eagles",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Saint Joseph's Hawks -16.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Tennessee Tech Golden Eagles -3.5",
             "outcomes": [
               {
-                "name": "Saint Joseph's Hawks",
-                "point": -16.5,
-                "point_label": "-16.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Wagner Seahawks",
-                "point": 16.5,
-                "point_label": "+16.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "0b3ad953b639616096e56f8bc779d1cf",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Georgia Tech Yellow Jackets",
-          "away_team": "Norfolk St Spartans",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Georgia Tech Yellow Jackets -21.5",
-            "outcomes": [
-              {
-                "name": "Georgia Tech Yellow Jackets",
-                "point": -21.5,
-                "point_label": "-21.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Norfolk St Spartans",
-                "point": 21.5,
-                "point_label": "+21.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "33f00f4f6cbb6af0870e39e68ad3c430",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Wake Forest Demon Deacons",
-          "away_team": "Monmouth Hawks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Wake Forest Demon Deacons -14.5",
-            "outcomes": [
-              {
-                "name": "Monmouth Hawks",
-                "point": 14.5,
-                "point_label": "+14.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Wake Forest Demon Deacons",
-                "point": -14.5,
-                "point_label": "-14.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "34cc1630b26debe487cc005f53751fe3",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Bucknell Bison",
-          "away_team": "Akron Zips",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Akron Zips -14.5",
-            "outcomes": [
-              {
-                "name": "Akron Zips",
-                "point": -14.5,
-                "point_label": "-14.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Bucknell Bison",
-                "point": 14.5,
-                "point_label": "+14.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "39bce9119f7631dfd8656e4e8d388192",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Pittsburgh Panthers",
-          "away_team": "Villanova Wildcats",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Villanova Wildcats -1.5",
-            "outcomes": [
-              {
-                "name": "Pittsburgh Panthers",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Villanova Wildcats",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "51812abb23ba8ac9eeb6568fe25132a9",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Dayton Flyers",
-          "away_team": "Central Michigan Chippewas",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Dayton Flyers -12.5",
-            "outcomes": [
-              {
-                "name": "Central Michigan Chippewas",
-                "point": 12.5,
-                "point_label": "+12.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Dayton Flyers",
-                "point": -12.5,
-                "point_label": "-12.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "5819a23622486bd00ba1853a161f898a",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Davidson Wildcats",
-          "away_team": "Charlotte 49ers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Davidson Wildcats -3.5",
-            "outcomes": [
-              {
-                "name": "Charlotte 49ers",
-                "point": 3.5,
-                "point_label": "+3.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Davidson Wildcats",
+                "name": "Tennessee Tech Golden Eagles",
                 "point": -3.5,
                 "point_label": "-3.5",
-                "price": -115,
-                "price_label": "-115"
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "UNC Asheville Bulldogs",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -110,
+                "price_label": "-110"
               }
             ]
           }
         },
         {
-          "id": "74bf07fd39674f9e5603de85bf3bb8ff",
+          "id": "3a71df0a77c467cf8416217300fecca5",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "5:30 PM CT",
+          "commence_time": "2026-11-18T23:30:00Z",
+          "commence_ct": "5:30 PM CT",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "Georgetown Hoyas",
+          "away_team": "Navy Midshipmen",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Georgetown Hoyas -20.5",
+            "outcomes": [
+              {
+                "name": "Georgetown Hoyas",
+                "point": -20.5,
+                "point_label": "-20.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Navy Midshipmen",
+                "point": 20.5,
+                "point_label": "+20.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6bb27db4d687cfe912b43ff3fab4d67a",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "5:30 PM CT",
+          "commence_time": "2026-11-18T23:30:00Z",
+          "commence_ct": "5:30 PM CT",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "Winthrop Eagles",
+          "away_team": "Chattanooga Mocs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Chattanooga Mocs -3.5",
+            "outcomes": [
+              {
+                "name": "Chattanooga Mocs",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Winthrop Eagles",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a380dacabd02f4dfc6c8387131a7ff81",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "5:30 PM CT",
+          "commence_time": "2026-11-18T23:30:00Z",
+          "commence_ct": "5:30 PM CT",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "Eastern Michigan Eagles",
+          "away_team": "Detroit Mercy Titans",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Eastern Michigan Eagles -10.5",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "point": 10.5,
+                "point_label": "+10.5",
+                "price": 100,
+                "price_label": "+100"
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "point": -10.5,
+                "point_label": "-10.5",
+                "price": -120,
+                "price_label": "-120"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b91f691e19e9cc60d077ebbc55aa4133",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "5:30 PM CT",
+          "commence_time": "2026-11-18T23:30:00Z",
+          "commence_ct": "5:30 PM CT",
+          "sort_time": "2026-11-18T23:30:00+00:00",
+          "home_team": "South Carolina Upstate Spartans",
+          "away_team": "Samford Bulldogs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Samford Bulldogs -6.5",
+            "outcomes": [
+              {
+                "name": "Samford Bulldogs",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "132c7c36f9f131658b709cf7362933ff",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
           "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
+          "commence_time": "2026-11-19T00:00:00Z",
           "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "UCF Knights",
-          "away_team": "Mississippi St Bulldogs",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Charleston Southern Buccaneers",
+          "away_team": "Wofford Terriers",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Mississippi St Bulldogs -1.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Wofford Terriers -1.5",
             "outcomes": [
               {
-                "name": "Mississippi St Bulldogs",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": 105,
-                "price_label": "+105"
-              },
-              {
-                "name": "UCF Knights",
+                "name": "Charleston Southern Buccaneers",
                 "point": 1.5,
                 "point_label": "+1.5",
                 "price": -125,
                 "price_label": "-125"
-              }
-            ]
-          }
-        },
-        {
-          "id": "7a85a1ae1355a8d9ca51c417db95f5ff",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Florida St Seminoles",
-          "away_team": "Ball State Cardinals",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Florida St Seminoles -26.5",
-            "outcomes": [
-              {
-                "name": "Ball State Cardinals",
-                "point": 26.5,
-                "point_label": "+26.5",
-                "price": -105,
-                "price_label": "-105"
               },
               {
-                "name": "Florida St Seminoles",
-                "point": -26.5,
-                "point_label": "-26.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "988091cc2c64949c28e2aa6a677ef63f",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Troy Trojans",
-          "away_team": "CSU Northridge Matadors",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Troy Trojans -1.5",
-            "outcomes": [
-              {
-                "name": "CSU Northridge Matadors",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Troy Trojans",
+                "name": "Wofford Terriers",
                 "point": -1.5,
                 "point_label": "-1.5",
-                "price": -112,
-                "price_label": "-112"
+                "price": 105,
+                "price_label": "+105"
               }
             ]
           }
         },
         {
-          "id": "adedd94d034d2092e66251afaae53807",
+          "id": "157cfd64408324d452e85361c707dbec",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
           "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
+          "commence_time": "2026-11-19T00:00:00Z",
           "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Manhattan Jaspers",
-          "away_team": "Fordham Rams",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Longwood Lancers",
+          "away_team": "VMI Keydets",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Fordham Rams -11.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Longwood Lancers -7.5",
             "outcomes": [
               {
-                "name": "Fordham Rams",
-                "point": -11.5,
-                "point_label": "-11.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Manhattan Jaspers",
-                "point": 11.5,
-                "point_label": "+11.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "b7ec520482df7b2c5286ab241222384d",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "South Florida Bulls",
-          "away_team": "Tennessee St Tigers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "South Florida Bulls -11.5",
-            "outcomes": [
-              {
-                "name": "South Florida Bulls",
-                "point": -11.5,
-                "point_label": "-11.5",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Tennessee St Tigers",
-                "point": 11.5,
-                "point_label": "+11.5",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "b84cb1c5cde0ceb1ba7bba70f8db0a81",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Marshall Thundering Herd",
-          "away_team": "East Tennessee St Buccaneers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Marshall Thundering Herd -1.5",
-            "outcomes": [
-              {
-                "name": "East Tennessee St Buccaneers",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Marshall Thundering Herd",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "bb8c42e426203795cd7101dc04c32184",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Miami Hurricanes",
-          "away_team": "Rider Broncs",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Miami Hurricanes -41.5",
-            "outcomes": [
-              {
-                "name": "Miami Hurricanes",
-                "point": -41.5,
-                "point_label": "-41.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Rider Broncs",
-                "point": 41.5,
-                "point_label": "+41.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "bbe54785b59f4fe1e6949ea309e9a554",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "West Florida Argonauts",
-          "away_team": "Green Bay Phoenix",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Green Bay Phoenix -5.5",
-            "outcomes": [
-              {
-                "name": "Green Bay Phoenix",
-                "point": -5.5,
-                "point_label": "-5.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "West Florida Argonauts",
-                "point": 5.5,
-                "point_label": "+5.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "c05c24a9aaf1a719055cd45cebb655c6",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Xavier Musketeers",
-          "away_team": "Cleveland St Vikings",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Xavier Musketeers -32.5",
-            "outcomes": [
-              {
-                "name": "Cleveland St Vikings",
-                "point": 32.5,
-                "point_label": "+32.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Xavier Musketeers",
-                "point": -32.5,
-                "point_label": "-32.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "c7d62536b790073cd6d3119dc561e3a0",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Providence Friars",
-          "away_team": "Sacred Heart Pioneers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Providence Friars -29.5",
-            "outcomes": [
-              {
-                "name": "Providence Friars",
-                "point": -29.5,
-                "point_label": "-29.5",
-                "price": -118,
-                "price_label": "-118"
-              },
-              {
-                "name": "Sacred Heart Pioneers",
-                "point": 29.5,
-                "point_label": "+29.5",
-                "price": -102,
-                "price_label": "-102"
-              }
-            ]
-          }
-        },
-        {
-          "id": "ce6dd46cd4c337c1959bb8995b009209",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "William & Mary Tribe",
-          "away_team": "Bowling Green Falcons",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "William & Mary Tribe -2.5",
-            "outcomes": [
-              {
-                "name": "Bowling Green Falcons",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "William & Mary Tribe",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "e53746f0d6118f523272cb956b7d0133",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Duke Blue Devils",
-          "away_team": "Illinois Fighting Illini",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Duke Blue Devils -8.5",
-            "outcomes": [
-              {
-                "name": "Duke Blue Devils",
-                "point": -8.5,
-                "point_label": "-8.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Illinois Fighting Illini",
-                "point": 8.5,
-                "point_label": "+8.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f2f76ded2b49c859cfcdb18510fc4461",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Butler Bulldogs",
-          "away_team": "Western Carolina Catamounts",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Butler Bulldogs -11.5",
-            "outcomes": [
-              {
-                "name": "Butler Bulldogs",
-                "point": -11.5,
-                "point_label": "-11.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Western Carolina Catamounts",
-                "point": 11.5,
-                "point_label": "+11.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f9f1502d94854c74546bf0584a048c43",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:00 PM CT",
-          "commence_time": "2026-11-18T00:00:00Z",
-          "commence_ct": "6:00 PM CT",
-          "sort_time": "2026-11-18T00:00:00+00:00",
-          "home_team": "Mt. St. Mary's Mountaineers",
-          "away_team": "Lehigh Mountain Hawks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Mt. St. Mary's Mountaineers -1.5",
-            "outcomes": [
-              {
-                "name": "Lehigh Mountain Hawks",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -110,
-                "price_label": "-110"
-              },
-              {
-                "name": "Mt. St. Mary's Mountaineers",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -110,
-                "price_label": "-110"
-              }
-            ]
-          }
-        },
-        {
-          "id": "4739482816cbaec0b724e890a4609efb",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-11-18T00:30:00Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-11-18T00:30:00+00:00",
-          "home_team": "Massachusetts Minutemen",
-          "away_team": "Bryant Bulldogs",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Massachusetts Minutemen -9.5",
-            "outcomes": [
-              {
-                "name": "Bryant Bulldogs",
-                "point": 9.5,
-                "point_label": "+9.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Massachusetts Minutemen",
-                "point": -9.5,
-                "point_label": "-9.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "8a2eee51a0ee3244eb3467808fac1778",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-11-18T00:30:00Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-11-18T00:30:00+00:00",
-          "home_team": "Louisiana Tech Bulldogs",
-          "away_team": "Jacksonville St Gamecocks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Louisiana Tech Bulldogs -2.5",
-            "outcomes": [
-              {
-                "name": "Jacksonville St Gamecocks",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Louisiana Tech Bulldogs",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "af7d4f2070d23339d85022a5cf26f93c",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-11-18T00:30:00Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-11-18T00:30:00+00:00",
-          "home_team": "Alabama Crimson Tide",
-          "away_team": "Kennesaw St Owls",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Alabama Crimson Tide -25.5",
-            "outcomes": [
-              {
-                "name": "Alabama Crimson Tide",
-                "point": -25.5,
-                "point_label": "-25.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Kennesaw St Owls",
-                "point": 25.5,
-                "point_label": "+25.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "b047fe0349f684bcc45735751c6b1a81",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-11-18T00:30:00Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-11-18T00:30:00+00:00",
-          "home_team": "UAB Blazers",
-          "away_team": "Florida Int'l Golden Panthers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "UAB Blazers -3.5",
-            "outcomes": [
-              {
-                "name": "Florida Int'l Golden Panthers",
-                "point": 3.5,
-                "point_label": "+3.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "UAB Blazers",
-                "point": -3.5,
-                "point_label": "-3.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "7cf2cadb51955c4f64f21b41af66e583",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "6:30 PM CT",
-          "commence_time": "2026-11-18T00:30:03Z",
-          "commence_ct": "6:30 PM CT",
-          "sort_time": "2026-11-18T00:30:03+00:00",
-          "home_team": "Arkansas Razorbacks",
-          "away_team": "Indiana Hoosiers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Indiana Hoosiers -1.5",
-            "outcomes": [
-              {
-                "name": "Arkansas Razorbacks",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Indiana Hoosiers",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "21b5086e60cae515922e9a8de32ffd84",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Evansville Purple Aces",
-          "away_team": "Le Moyne Dolphins",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Evansville Purple Aces -7.5",
-            "outcomes": [
-              {
-                "name": "Evansville Purple Aces",
+                "name": "Longwood Lancers",
                 "point": -7.5,
                 "point_label": "-7.5",
-                "price": -110,
-                "price_label": "-110"
+                "price": -108,
+                "price_label": "-108"
               },
               {
-                "name": "Le Moyne Dolphins",
+                "name": "VMI Keydets",
                 "point": 7.5,
                 "point_label": "+7.5",
-                "price": -110,
-                "price_label": "-110"
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
         },
         {
-          "id": "27053ab77b65c239990d626417fbeaea",
+          "id": "2b53b9c90ff5d92cd863c02ab11d5ed3",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "SMU Mustangs",
-          "away_team": "Oral Roberts Golden Eagles",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Holy Cross Crusaders",
+          "away_team": "Brown Bears",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "SMU Mustangs -23.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Brown Bears -6.5",
             "outcomes": [
               {
-                "name": "Oral Roberts Golden Eagles",
-                "point": 23.5,
-                "point_label": "+23.5",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Brown Bears",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -112,
+                "price_label": "-112"
               },
               {
-                "name": "SMU Mustangs",
-                "point": -23.5,
-                "point_label": "-23.5",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Holy Cross Crusaders",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -108,
+                "price_label": "-108"
               }
             ]
           }
         },
         {
-          "id": "436fbef33dd351b0ea0e838c6bfe2b96",
+          "id": "2c56e621c3599727ec29c8ade581dd33",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Omaha Mavericks",
-          "away_team": "Lamar Cardinals",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "LIU Sharks",
+          "away_team": "UNC Wilmington Seahawks",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Lamar Cardinals -2.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "UNC Wilmington Seahawks -9.5",
             "outcomes": [
               {
-                "name": "Lamar Cardinals",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Omaha Mavericks",
-                "point": 2.5,
-                "point_label": "+2.5",
+                "name": "LIU Sharks",
+                "point": 9.5,
+                "point_label": "+9.5",
                 "price": -118,
                 "price_label": "-118"
+              },
+              {
+                "name": "UNC Wilmington Seahawks",
+                "point": -9.5,
+                "point_label": "-9.5",
+                "price": -102,
+                "price_label": "-102"
               }
             ]
           }
         },
         {
-          "id": "53e1f9b0793855a7036d7c480c5c5aa3",
+          "id": "2d384959bdc012ce27ff3913426f3e74",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Georgia Southern Eagles",
-          "away_team": "Middle Tennessee Blue Raiders",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Lafayette Leopards",
+          "away_team": "Binghamton Bearcats",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Middle Tennessee Blue Raiders -1.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Lafayette Leopards -3.5",
             "outcomes": [
               {
-                "name": "Georgia Southern Eagles",
+                "name": "Binghamton Bearcats",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Lafayette Leopards",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2fd5bc9363a020aee55c69334d7edd58",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Duquesne Dukes",
+          "away_team": "Howard Bison",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Duquesne Dukes -4.5",
+            "outcomes": [
+              {
+                "name": "Duquesne Dukes",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -118,
+                "price_label": "-118"
+              },
+              {
+                "name": "Howard Bison",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -102,
+                "price_label": "-102"
+              }
+            ]
+          }
+        },
+        {
+          "id": "443d61b7df05e76dcbc456941062d24a",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Presbyterian Blue Hose",
+          "away_team": "Mercer Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Presbyterian Blue Hose -1.5",
+            "outcomes": [
+              {
+                "name": "Mercer Bears",
                 "point": 1.5,
                 "point_label": "+1.5",
-                "price": -105,
-                "price_label": "-105"
+                "price": -112,
+                "price_label": "-112"
               },
               {
-                "name": "Middle Tennessee Blue Raiders",
+                "name": "Presbyterian Blue Hose",
                 "point": -1.5,
                 "point_label": "-1.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "6f09da9790643161b42ae87d69133782",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "North Dakota Fighting Hawks",
-          "away_team": "SIU-Edwardsville Cougars",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "North Dakota Fighting Hawks -2.5",
-            "outcomes": [
-              {
-                "name": "North Dakota Fighting Hawks",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "SIU-Edwardsville Cougars",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "919bc2e81b79f536852f7e3aa2ec7754",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "DePaul Blue Demons",
-          "away_team": "Maryland-Eastern Shore Hawks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "DePaul Blue Demons -30.5",
-            "outcomes": [
-              {
-                "name": "DePaul Blue Demons",
-                "point": -30.5,
-                "point_label": "-30.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Maryland-Eastern Shore Hawks",
-                "point": 30.5,
-                "point_label": "+30.5",
                 "price": -108,
                 "price_label": "-108"
               }
@@ -1549,501 +685,33 @@
           }
         },
         {
-          "id": "a80c8cd90f57a1445908c3a17489fd4a",
+          "id": "4464e03ee9677e6c8c25743754e3848c",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Southern Miss Golden Eagles",
-          "away_team": "UT-Arlington Mavericks",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Florida Atlantic Owls",
+          "away_team": "Florida Gulf Coast Eagles",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Southern Miss Golden Eagles -2.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Florida Atlantic Owls -6.5",
             "outcomes": [
               {
-                "name": "Southern Miss Golden Eagles",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "UT-Arlington Mavericks",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "c5ae6b5a2626835722e8c6cd84904f01",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Vanderbilt Commodores",
-          "away_team": "Eastern Illinois Panthers",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Vanderbilt Commodores -41.5",
-            "outcomes": [
-              {
-                "name": "Eastern Illinois Panthers",
-                "point": 41.5,
-                "point_label": "+41.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Vanderbilt Commodores",
-                "point": -41.5,
-                "point_label": "-41.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "dfdac74c91ebae110f1291f05093ead7",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Illinois St Redbirds",
-          "away_team": "Bellarmine Knights",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Illinois St Redbirds -17.5",
-            "outcomes": [
-              {
-                "name": "Bellarmine Knights",
-                "point": 17.5,
-                "point_label": "+17.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Illinois St Redbirds",
-                "point": -17.5,
-                "point_label": "-17.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f1b87f5055c345501b45a893f6866c00",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Northern Iowa Panthers",
-          "away_team": "Lindenwood Lions",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Northern Iowa Panthers -13.5",
-            "outcomes": [
-              {
-                "name": "Lindenwood Lions",
-                "point": 13.5,
-                "point_label": "+13.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Northern Iowa Panthers",
-                "point": -13.5,
-                "point_label": "-13.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "f4e891141ac704877ac85d87e2055eb7",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:00 PM CT",
-          "commence_time": "2026-11-18T01:00:00Z",
-          "commence_ct": "7:00 PM CT",
-          "sort_time": "2026-11-18T01:00:00+00:00",
-          "home_team": "Rice Owls",
-          "away_team": "Texas A&M-CC Islanders",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Rice Owls -1.5",
-            "outcomes": [
-              {
-                "name": "Rice Owls",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Texas A&M-CC Islanders",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "44a2054c3d6bc226d39ae83a89cd4356",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:30 PM CT",
-          "commence_time": "2026-11-18T01:30:00Z",
-          "commence_ct": "7:30 PM CT",
-          "sort_time": "2026-11-18T01:30:00+00:00",
-          "home_team": "Wyoming Cowboys",
-          "away_team": "Sam Houston St Bearkats",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Wyoming Cowboys -11.5",
-            "outcomes": [
-              {
-                "name": "Sam Houston St Bearkats",
-                "point": 11.5,
-                "point_label": "+11.5",
-                "price": -102,
-                "price_label": "-102"
-              },
-              {
-                "name": "Wyoming Cowboys",
-                "point": -11.5,
-                "point_label": "-11.5",
-                "price": -118,
-                "price_label": "-118"
-              }
-            ]
-          }
-        },
-        {
-          "id": "ddb1e091501449395eb13e294efdc595",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:30 PM CT",
-          "commence_time": "2026-11-18T01:30:00Z",
-          "commence_ct": "7:30 PM CT",
-          "sort_time": "2026-11-18T01:30:00+00:00",
-          "home_team": "Ole Miss Rebels",
-          "away_team": "Nicholls St Colonels",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Ole Miss Rebels -28.5",
-            "outcomes": [
-              {
-                "name": "Nicholls St Colonels",
-                "point": 28.5,
-                "point_label": "+28.5",
-                "price": -112,
-                "price_label": "-112"
-              },
-              {
-                "name": "Ole Miss Rebels",
-                "point": -28.5,
-                "point_label": "-28.5",
-                "price": -108,
-                "price_label": "-108"
-              }
-            ]
-          }
-        },
-        {
-          "id": "ea9b9bf9131650d8502e7f35600230f1",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "7:30 PM CT",
-          "commence_time": "2026-11-18T01:30:00Z",
-          "commence_ct": "7:30 PM CT",
-          "sort_time": "2026-11-18T01:30:00+00:00",
-          "home_team": "Utah Utes",
-          "away_team": "Eastern Washington Eagles",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Utah Utes -12.5",
-            "outcomes": [
-              {
-                "name": "Eastern Washington Eagles",
-                "point": 12.5,
-                "point_label": "+12.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "Utah Utes",
-                "point": -12.5,
-                "point_label": "-12.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "41c79876d3c7f7f356c4b1a19332478f",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "8:00 PM CT",
-          "commence_time": "2026-11-18T02:00:00Z",
-          "commence_ct": "8:00 PM CT",
-          "sort_time": "2026-11-18T02:00:00+00:00",
-          "home_team": "UC Davis Aggies",
-          "away_team": "Alabama St Hornets",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "UC Davis Aggies -11.5",
-            "outcomes": [
-              {
-                "name": "Alabama St Hornets",
-                "point": 11.5,
-                "point_label": "+11.5",
-                "price": -105,
-                "price_label": "-105"
-              },
-              {
-                "name": "UC Davis Aggies",
-                "point": -11.5,
-                "point_label": "-11.5",
-                "price": -115,
-                "price_label": "-115"
-              }
-            ]
-          }
-        },
-        {
-          "id": "b041e7809fd4d00f42cea09d7973ff0f",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "8:00 PM CT",
-          "commence_time": "2026-11-18T02:00:00Z",
-          "commence_ct": "8:00 PM CT",
-          "sort_time": "2026-11-18T02:00:00+00:00",
-          "home_team": "Virginia Cavaliers",
-          "away_team": "Old Dominion Monarchs",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Virginia Cavaliers -26.5",
-            "outcomes": [
-              {
-                "name": "Old Dominion Monarchs",
-                "point": 26.5,
-                "point_label": "+26.5",
-                "price": -108,
-                "price_label": "-108"
-              },
-              {
-                "name": "Virginia Cavaliers",
-                "point": -26.5,
-                "point_label": "-26.5",
-                "price": -112,
-                "price_label": "-112"
-              }
-            ]
-          }
-        },
-        {
-          "id": "dd2fa1ecb90b4902086fa19865091651",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "8:00 PM CT",
-          "commence_time": "2026-11-18T02:00:00Z",
-          "commence_ct": "8:00 PM CT",
-          "sort_time": "2026-11-18T02:00:00+00:00",
-          "home_team": "Tennessee Volunteers",
-          "away_team": "Michigan St Spartans",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Michigan St Spartans -2.5",
-            "outcomes": [
-              {
-                "name": "Michigan St Spartans",
-                "point": -2.5,
-                "point_label": "-2.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Tennessee Volunteers",
-                "point": 2.5,
-                "point_label": "+2.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "2ddc8451d53d2f18e2fd39e81a0f93c4",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "8:30 PM CT",
-          "commence_time": "2026-11-18T02:30:00Z",
-          "commence_ct": "8:30 PM CT",
-          "sort_time": "2026-11-18T02:30:00+00:00",
-          "home_team": "Kansas Jayhawks",
-          "away_team": "UNLV Rebels",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Kansas Jayhawks -16.5",
-            "outcomes": [
-              {
-                "name": "Kansas Jayhawks",
-                "point": -16.5,
-                "point_label": "-16.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "UNLV Rebels",
-                "point": 16.5,
-                "point_label": "+16.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "0cd770ea3dc3281082424e2a0e950f0b",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "9:00 PM CT",
-          "commence_time": "2026-11-18T03:00:00Z",
-          "commence_ct": "9:00 PM CT",
-          "sort_time": "2026-11-18T03:00:00+00:00",
-          "home_team": "Cal Baptist Lancers",
-          "away_team": "Seattle Redhawks",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Seattle Redhawks -8.5",
-            "outcomes": [
-              {
-                "name": "Cal Baptist Lancers",
-                "point": 8.5,
-                "point_label": "+8.5",
-                "price": -115,
-                "price_label": "-115"
-              },
-              {
-                "name": "Seattle Redhawks",
-                "point": -8.5,
-                "point_label": "-8.5",
-                "price": -105,
-                "price_label": "-105"
-              }
-            ]
-          }
-        },
-        {
-          "id": "e6fc3d1d4dfbd6b227ae2a4d1cbf6351",
-          "sport_key": "basketball_ncaab",
-          "league": "NCAAB",
-          "league_name": "College Basketball",
-          "status_key": "upcoming",
-          "status_label": "9:00 PM CT",
-          "commence_time": "2026-11-18T03:00:00Z",
-          "commence_ct": "9:00 PM CT",
-          "sort_time": "2026-11-18T03:00:00+00:00",
-          "home_team": "Stanford Cardinal",
-          "away_team": "UC Irvine Anteaters",
-          "home_score": "",
-          "away_score": "",
-          "spread": {
-            "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Stanford Cardinal -6.5",
-            "outcomes": [
-              {
-                "name": "Stanford Cardinal",
+                "name": "Florida Atlantic Owls",
                 "point": -6.5,
                 "point_label": "-6.5",
                 "price": -108,
                 "price_label": "-108"
               },
               {
-                "name": "UC Irvine Anteaters",
+                "name": "Florida Gulf Coast Eagles",
                 "point": 6.5,
                 "point_label": "+6.5",
                 "price": -112,
@@ -2053,33 +721,1221 @@
           }
         },
         {
-          "id": "107600e44a78d55aaf007aa1f18e20c7",
+          "id": "6152e11ee0f51c9e31b75aeecad708c3",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "10:00 PM CT",
-          "commence_time": "2026-11-18T04:00:00Z",
-          "commence_ct": "10:00 PM CT",
-          "sort_time": "2026-11-18T04:00:00+00:00",
-          "home_team": "Gonzaga Bulldogs",
-          "away_team": "Montana St Bobcats",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "George Mason Patriots",
+          "away_team": "North Carolina Central Eagles",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Gonzaga Bulldogs -22.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "George Mason Patriots -22.5",
             "outcomes": [
               {
-                "name": "Gonzaga Bulldogs",
+                "name": "George Mason Patriots",
+                "point": -22.5,
+                "point_label": "-22.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "North Carolina Central Eagles",
+                "point": 22.5,
+                "point_label": "+22.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "76fcb84461ad12196d08770d0d8bebc8",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "North Carolina A&T Aggies",
+          "away_team": "Morgan St Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "North Carolina A&T Aggies -7.5",
+            "outcomes": [
+              {
+                "name": "Morgan St Bears",
+                "point": 7.5,
+                "point_label": "+7.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "North Carolina A&T Aggies",
+                "point": -7.5,
+                "point_label": "-7.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "82788d571686840835ddb5b1e6332dd6",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Radford Highlanders",
+          "away_team": "Furman Paladins",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Furman Paladins -4.5",
+            "outcomes": [
+              {
+                "name": "Furman Paladins",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Radford Highlanders",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8b7bc1bd7533ac97afd5c1ec251581a0",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Merrimack Warriors",
+          "away_team": "Boston Univ. Terriers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Merrimack Warriors -3.5",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Merrimack Warriors",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "94bd619fd5f01d6fce01976be60e88e6",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Ohio Bobcats",
+          "away_team": "Morehead St Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Ohio Bobcats -16.5",
+            "outcomes": [
+              {
+                "name": "Morehead St Eagles",
+                "point": 16.5,
+                "point_label": "+16.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Ohio Bobcats",
+                "point": -16.5,
+                "point_label": "-16.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "959b0c06d319a076c7268c6093c09d08",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "South Carolina Gamecocks",
+          "away_team": "Elon Phoenix",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "South Carolina Gamecocks -15.5",
+            "outcomes": [
+              {
+                "name": "Elon Phoenix",
+                "point": 15.5,
+                "point_label": "+15.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "South Carolina Gamecocks",
+                "point": -15.5,
+                "point_label": "-15.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b735ae64835ee718f69f88fed8a8f79d",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Towson Tigers",
+          "away_team": "James Madison Dukes",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Towson Tigers -3.5",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Towson Tigers",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cb68e9dce6ba865749c547670c2935c2",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "St. John's Red Storm",
+          "away_team": "Siena Saints",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "St. John's Red Storm -28.5",
+            "outcomes": [
+              {
+                "name": "Siena Saints",
+                "point": 28.5,
+                "point_label": "+28.5",
+                "price": -102,
+                "price_label": "-102"
+              },
+              {
+                "name": "St. John's Red Storm",
+                "point": -28.5,
+                "point_label": "-28.5",
+                "price": -118,
+                "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d286fe14b112d1133b247e2183920c9e",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "La Salle Explorers",
+          "away_team": "Coppin St Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "La Salle Explorers -14.5",
+            "outcomes": [
+              {
+                "name": "Coppin St Eagles",
+                "point": 14.5,
+                "point_label": "+14.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "La Salle Explorers",
+                "point": -14.5,
+                "point_label": "-14.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d5b20b33c88b112012af9cf6db1b73b8",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Yale Bulldogs",
+          "away_team": "Vermont Catamounts",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Yale Bulldogs -6.5",
+            "outcomes": [
+              {
+                "name": "Vermont Catamounts",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Yale Bulldogs",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f01d24c5ed66f5adf7bb2e2a7760e9c8",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "UIC Flames",
+          "away_team": "Chicago St Cougars",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "UIC Flames -23.5",
+            "outcomes": [
+              {
+                "name": "Chicago St Cougars",
+                "point": 23.5,
+                "point_label": "+23.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "UIC Flames",
+                "point": -23.5,
+                "point_label": "-23.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f4bc4d0b62c5da4b1a98995d483d8db6",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:00 PM CT",
+          "commence_time": "2026-11-19T00:00:00Z",
+          "commence_ct": "6:00 PM CT",
+          "sort_time": "2026-11-19T00:00:00+00:00",
+          "home_team": "Fairleigh Dickinson Knights",
+          "away_team": "NJIT Highlanders",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Fairleigh Dickinson Knights -4.5",
+            "outcomes": [
+              {
+                "name": "Fairleigh Dickinson Knights",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "NJIT Highlanders",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "34b65a433cc264d16842e211d746d310",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "Texas Tech Red Raiders",
+          "away_team": "LSU Tigers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "BetOnline.ag",
+            "last_update_ct": "12:56 PM CT",
+            "summary": "Texas Tech Red Raiders -35.5",
+            "outcomes": [
+              {
+                "name": "LSU Tigers",
+                "point": 35.5,
+                "point_label": "+35.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "point": -35.5,
+                "point_label": "-35.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "777b5470c240c35ca5ca5f73695acc16",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "Texas Tech Red Raiders",
+          "away_team": "New Orleans Privateers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Texas Tech Red Raiders -35.5",
+            "outcomes": [
+              {
+                "name": "New Orleans Privateers",
+                "point": 35.5,
+                "point_label": "+35.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "point": -35.5,
+                "point_label": "-35.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "86586898f0efe3edb5f5e176c8b12f3b",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "Cincinnati Bearcats",
+          "away_team": "Youngstown St Penguins",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Cincinnati Bearcats -28.5",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "point": -28.5,
+                "point_label": "-28.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Youngstown St Penguins",
+                "point": 28.5,
+                "point_label": "+28.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "bb462c58ead82c144a662b10306d1d22",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "Marquette Golden Eagles",
+          "away_team": "Northern Illinois Huskies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Marquette Golden Eagles -27.5",
+            "outcomes": [
+              {
+                "name": "Marquette Golden Eagles",
+                "point": -27.5,
+                "point_label": "-27.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Northern Illinois Huskies",
+                "point": 27.5,
+                "point_label": "+27.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c36425b5ec4189fc1acd91902c721bf2",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "6:30 PM CT",
+          "commence_time": "2026-11-19T00:30:00Z",
+          "commence_ct": "6:30 PM CT",
+          "sort_time": "2026-11-19T00:30:00+00:00",
+          "home_team": "West Virginia Mountaineers",
+          "away_team": "Kansas Jayhawks",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Kansas Jayhawks -8.5",
+            "outcomes": [
+              {
+                "name": "Kansas Jayhawks",
+                "point": -8.5,
+                "point_label": "-8.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "West Virginia Mountaineers",
+                "point": 8.5,
+                "point_label": "+8.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "0184484f6b614c2d85a18a6cd254f32f",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Bradley Braves",
+          "away_team": "Fort Wayne Mastodons",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Bradley Braves -6.5",
+            "outcomes": [
+              {
+                "name": "Bradley Braves",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Fort Wayne Mastodons",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "03c1c51ea60287cbe17ce32bef17cc5f",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "LSU Tigers",
+          "away_team": "UL Monroe Warhawks",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "LSU Tigers -37.5",
+            "outcomes": [
+              {
+                "name": "LSU Tigers",
+                "point": -37.5,
+                "point_label": "-37.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "UL Monroe Warhawks",
+                "point": 37.5,
+                "point_label": "+37.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "27a3b33d3bcab6f669914f49fa654ee0",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Harvard Crimson",
+          "away_team": "Boston College Eagles",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Boston College Eagles -3.5",
+            "outcomes": [
+              {
+                "name": "Boston College Eagles",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Harvard Crimson",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "370fc3a3a15f89b2ab0ece7ff89965bc",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Oklahoma Sooners",
+          "away_team": "Campbell Fighting Camels",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Oklahoma Sooners -20.5",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "point": 20.5,
+                "point_label": "+20.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Oklahoma Sooners",
+                "point": -20.5,
+                "point_label": "-20.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4285774fee0e485544f82fe4fc9261be",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Gardner-Webb Bulldogs",
+          "away_team": "UNC Greensboro Spartans",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "UNC Greensboro Spartans -2.5",
+            "outcomes": [
+              {
+                "name": "Gardner-Webb Bulldogs",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "UNC Greensboro Spartans",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "458aa313a32c840ac6c8496378003502",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Arkansas St Red Wolves",
+          "away_team": "Arkansas-Pine Bluff Golden Lions",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Arkansas St Red Wolves -28.5",
+            "outcomes": [
+              {
+                "name": "Arkansas-Pine Bluff Golden Lions",
+                "point": 28.5,
+                "point_label": "+28.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Arkansas St Red Wolves",
+                "point": -28.5,
+                "point_label": "-28.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "48693d82836455d24bbd3c8ae49b7138",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Stonehill Skyhawks",
+          "away_team": "New Hampshire Wildcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "New Hampshire Wildcats -1.5",
+            "outcomes": [
+              {
+                "name": "New Hampshire Wildcats",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Stonehill Skyhawks",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "55b01ce41701e52247455a3c3a456275",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Texas State Bobcats",
+          "away_team": "Incarnate Word Cardinals",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Texas State Bobcats -17.5",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "point": 17.5,
+                "point_label": "+17.5",
+                "price": -102,
+                "price_label": "-102"
+              },
+              {
+                "name": "Texas State Bobcats",
+                "point": -17.5,
+                "point_label": "-17.5",
+                "price": -118,
+                "price_label": "-118"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6144d8ef7328faadb4d152a96f8740ba",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Loyola (Chi) Ramblers",
+          "away_team": "Wichita St Shockers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Wichita St Shockers -1.5",
+            "outcomes": [
+              {
+                "name": "Loyola (Chi) Ramblers",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Wichita St Shockers",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "775c3580dd1c3bee5cf5d488c6b7d09f",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "Syracuse Orange",
+          "away_team": "Cornell Big Red",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Syracuse Orange -18.5",
+            "outcomes": [
+              {
+                "name": "Cornell Big Red",
+                "point": 18.5,
+                "point_label": "+18.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Syracuse Orange",
+                "point": -18.5,
+                "point_label": "-18.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c9d6c86cc70b0ff1c34ab46d27686e4c",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:00 PM CT",
+          "commence_time": "2026-11-19T01:00:00Z",
+          "commence_ct": "7:00 PM CT",
+          "sort_time": "2026-11-19T01:00:00+00:00",
+          "home_team": "UTSA Roadrunners",
+          "away_team": "Florida A&M Rattlers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "UTSA Roadrunners -17.5",
+            "outcomes": [
+              {
+                "name": "Florida A&M Rattlers",
+                "point": 17.5,
+                "point_label": "+17.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "UTSA Roadrunners",
+                "point": -17.5,
+                "point_label": "-17.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "595c3aaf127c4ed504fbb48487c27b85",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "7:30 PM CT",
+          "commence_time": "2026-11-19T01:30:00Z",
+          "commence_ct": "7:30 PM CT",
+          "sort_time": "2026-11-19T01:30:00+00:00",
+          "home_team": "Nebraska Cornhuskers",
+          "away_team": "South Dakota Coyotes",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Nebraska Cornhuskers -32.5",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "point": -32.5,
+                "point_label": "-32.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "South Dakota Coyotes",
+                "point": 32.5,
+                "point_label": "+32.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2d82f6779bd0ff45a95caa0215ae9be7",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Colorado Buffaloes",
+          "away_team": "Portland Pilots",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Colorado Buffaloes -14.5",
+            "outcomes": [
+              {
+                "name": "Colorado Buffaloes",
+                "point": -14.5,
+                "point_label": "-14.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Portland Pilots",
+                "point": 14.5,
+                "point_label": "+14.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "34adecee185d2196638cd55c5f1e9c27",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "San José St Spartans",
+          "away_team": "Fresno St Bulldogs",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "San José St Spartans -6.5",
+            "outcomes": [
+              {
+                "name": "Fresno St Bulldogs",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "San José St Spartans",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "49eba9f976604d9b6da10df45921b2cc",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Missouri Tigers",
+          "away_team": "Alcorn St Braves",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Missouri Tigers -41.5",
+            "outcomes": [
+              {
+                "name": "Alcorn St Braves",
+                "point": 41.5,
+                "point_label": "+41.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Missouri Tigers",
+                "point": -41.5,
+                "point_label": "-41.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "744cd86f9362a575220019e04b62fc85",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "BYU Cougars",
+          "away_team": "N Colorado Bears",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "BYU Cougars -28.5",
+            "outcomes": [
+              {
+                "name": "BYU Cougars",
+                "point": -28.5,
+                "point_label": "-28.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "N Colorado Bears",
+                "point": 28.5,
+                "point_label": "+28.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "851abdc6f9c2754e2ede34a214ee6398",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Arizona St Sun Devils",
+          "away_team": "Oakland Golden Grizzlies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Arizona St Sun Devils -22.5",
+            "outcomes": [
+              {
+                "name": "Arizona St Sun Devils",
                 "point": -22.5,
                 "point_label": "-22.5",
                 "price": -112,
                 "price_label": "-112"
               },
               {
-                "name": "Montana St Bobcats",
+                "name": "Oakland Golden Grizzlies",
                 "point": 22.5,
                 "point_label": "+22.5",
                 "price": -108,
@@ -2089,37 +1945,397 @@
           }
         },
         {
-          "id": "e8f832a92172e3b4111a673d4ed242d5",
+          "id": "a5a44801fd94ef0aebd452621ac7d5fa",
           "sport_key": "basketball_ncaab",
           "league": "NCAAB",
           "league_name": "College Basketball",
           "status_key": "upcoming",
-          "status_label": "11:00 PM CT",
-          "commence_time": "2026-11-18T05:00:00Z",
-          "commence_ct": "11:00 PM CT",
-          "sort_time": "2026-11-18T05:00:00+00:00",
-          "home_team": "Auburn Tigers",
-          "away_team": "West Virginia Mountaineers",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Creighton Bluejays",
+          "away_team": "Bethune-Cookman Wildcats",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Auburn Tigers -1.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Creighton Bluejays -23.5",
+            "outcomes": [
+              {
+                "name": "Bethune-Cookman Wildcats",
+                "point": 23.5,
+                "point_label": "+23.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "Creighton Bluejays",
+                "point": -23.5,
+                "point_label": "-23.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ae80c6358b3f2b6e9d3338adccd0b177",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Utah State Aggies",
+          "away_team": "Weber State Wildcats",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Utah State Aggies -28.5",
+            "outcomes": [
+              {
+                "name": "Utah State Aggies",
+                "point": -28.5,
+                "point_label": "-28.5",
+                "price": -118,
+                "price_label": "-118"
+              },
+              {
+                "name": "Weber State Wildcats",
+                "point": 28.5,
+                "point_label": "+28.5",
+                "price": -102,
+                "price_label": "-102"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f4a33d417baae87562bd4511838d93b2",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Colorado St Rams",
+          "away_team": "North Dakota St Bison",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Colorado St Rams -13.5",
+            "outcomes": [
+              {
+                "name": "Colorado St Rams",
+                "point": -13.5,
+                "point_label": "-13.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "North Dakota St Bison",
+                "point": 13.5,
+                "point_label": "+13.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fd4d53d6aab2a2562f89bda0add41f92",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:00 PM CT",
+          "commence_time": "2026-11-19T02:00:00Z",
+          "commence_ct": "8:00 PM CT",
+          "sort_time": "2026-11-19T02:00:00+00:00",
+          "home_team": "Arizona Wildcats",
+          "away_team": "UConn Huskies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Arizona Wildcats -3.5",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "point": -3.5,
+                "point_label": "-3.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "UConn Huskies",
+                "point": 3.5,
+                "point_label": "+3.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "71da7a3b35a159e0eda2605454c15805",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "8:30 PM CT",
+          "commence_time": "2026-11-19T02:30:00Z",
+          "commence_ct": "8:30 PM CT",
+          "sort_time": "2026-11-19T02:30:00+00:00",
+          "home_team": "San Diego Toreros",
+          "away_team": "UC Riverside Highlanders",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "San Diego Toreros -6.5",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "UC Riverside Highlanders",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3abdedf3ec3fe962c23a7e586bd447dc",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-11-19T03:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-11-19T03:00:00+00:00",
+          "home_team": "Washington St Cougars",
+          "away_team": "Hawai'i Rainbow Warriors",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Hawai'i Rainbow Warriors -1.5",
+            "outcomes": [
+              {
+                "name": "Hawai'i Rainbow Warriors",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Washington St Cougars",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4748317ad843609d564fb880e52b2e23",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-11-19T03:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-11-19T03:00:00+00:00",
+          "home_team": "San Diego St Aztecs",
+          "away_team": "Texas Southern Tigers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "San Diego St Aztecs -25.5",
+            "outcomes": [
+              {
+                "name": "San Diego St Aztecs",
+                "point": -25.5,
+                "point_label": "-25.5",
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "point": 25.5,
+                "point_label": "+25.5",
+                "price": -115,
+                "price_label": "-115"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b86b3fdea018ce4da96e2f720e3a5842",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-11-19T03:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-11-19T03:00:00+00:00",
+          "home_team": "Auburn Tigers",
+          "away_team": "UNLV Rebels",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Auburn Tigers -9.5",
             "outcomes": [
               {
                 "name": "Auburn Tigers",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": 105,
-                "price_label": "+105"
+                "point": -9.5,
+                "point_label": "-9.5",
+                "price": -108,
+                "price_label": "-108"
               },
               {
-                "name": "West Virginia Mountaineers",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -125,
-                "price_label": "-125"
+                "name": "UNLV Rebels",
+                "point": 9.5,
+                "point_label": "+9.5",
+                "price": -112,
+                "price_label": "-112"
+              }
+            ]
+          }
+        },
+        {
+          "id": "da0659a81b6c52abe99dc5e07b1434a8",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-11-19T03:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-11-19T03:00:00+00:00",
+          "home_team": "Nevada Wolf Pack",
+          "away_team": "Idaho Vandals",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Nevada Wolf Pack -18.5",
+            "outcomes": [
+              {
+                "name": "Idaho Vandals",
+                "point": 18.5,
+                "point_label": "+18.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Nevada Wolf Pack",
+                "point": -18.5,
+                "point_label": "-18.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dbefa3975d810f789b5ad29c9c9e140a",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:00 PM CT",
+          "commence_time": "2026-11-19T03:00:00Z",
+          "commence_ct": "9:00 PM CT",
+          "sort_time": "2026-11-19T03:00:00+00:00",
+          "home_team": "San Francisco Dons",
+          "away_team": "Louisiana Ragin' Cajuns",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "San Francisco Dons -10.5",
+            "outcomes": [
+              {
+                "name": "Louisiana Ragin' Cajuns",
+                "point": 10.5,
+                "point_label": "+10.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "San Francisco Dons",
+                "point": -10.5,
+                "point_label": "-10.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "50f9c229b6b49a7512f7511e6d825cd4",
+          "sport_key": "basketball_ncaab",
+          "league": "NCAAB",
+          "league_name": "College Basketball",
+          "status_key": "upcoming",
+          "status_label": "9:30 PM CT",
+          "commence_time": "2026-11-19T03:30:00Z",
+          "commence_ct": "9:30 PM CT",
+          "sort_time": "2026-11-19T03:30:00+00:00",
+          "home_team": "UCLA Bruins",
+          "away_team": "CSU Fullerton Titans",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "UCLA Bruins -31.5",
+            "outcomes": [
+              {
+                "name": "CSU Fullerton Titans",
+                "point": 31.5,
+                "point_label": "+31.5",
+                "price": -108,
+                "price_label": "-108"
+              },
+              {
+                "name": "UCLA Bruins",
+                "point": -31.5,
+                "point_label": "-31.5",
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
@@ -2135,181 +2351,433 @@
       "full_name": "NBA",
       "games": [
         {
-          "id": "5ff20ee6933177d35e4f8c875842a0b4",
+          "id": "635a9b07c018a821e08b521ea473133b",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:10 PM CT",
+          "commence_time": "2026-11-19T00:10:00Z",
+          "commence_ct": "6:10 PM CT",
+          "sort_time": "2026-11-19T00:10:00+00:00",
+          "home_team": "Orlando Magic",
+          "away_team": "Philadelphia 76ers",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Philadelphia 76ers -1.5",
+            "outcomes": [
+              {
+                "name": "Orlando Magic",
+                "point": 1.5,
+                "point_label": "+1.5",
+                "price": -120,
+                "price_label": "-120"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -1.5,
+                "point_label": "-1.5",
+                "price": -101,
+                "price_label": "-101"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b609888ea766ac28cd0e84f315d8f3d2",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:10 PM CT",
+          "commence_time": "2026-11-19T00:10:00Z",
+          "commence_ct": "6:10 PM CT",
+          "sort_time": "2026-11-19T00:10:00+00:00",
+          "home_team": "Miami Heat",
+          "away_team": "Milwaukee Bucks",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Miami Heat -11.5",
+            "outcomes": [
+              {
+                "name": "Miami Heat",
+                "point": -11.5,
+                "point_label": "-11.5",
+                "price": -115,
+                "price_label": "-115"
+              },
+              {
+                "name": "Milwaukee Bucks",
+                "point": 11.5,
+                "point_label": "+11.5",
+                "price": -105,
+                "price_label": "-105"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b7e3f453045a3162b3c4940f4b50ff32",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:10 PM CT",
+          "commence_time": "2026-11-19T00:10:00Z",
+          "commence_ct": "6:10 PM CT",
+          "sort_time": "2026-11-19T00:10:00+00:00",
+          "home_team": "Cleveland Cavaliers",
+          "away_team": "Memphis Grizzlies",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Cleveland Cavaliers -4.5",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -116,
+                "price_label": "-116"
+              },
+              {
+                "name": "Memphis Grizzlies",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -104,
+                "price_label": "-104"
+              }
+            ]
+          }
+        },
+        {
+          "id": "f9ae24215832bbc1703c9836d0c96751",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:10 PM CT",
+          "commence_time": "2026-11-19T00:10:00Z",
+          "commence_ct": "6:10 PM CT",
+          "sort_time": "2026-11-19T00:10:00+00:00",
+          "home_team": "Indiana Pacers",
+          "away_team": "Houston Rockets",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Houston Rockets -7.5",
+            "outcomes": [
+              {
+                "name": "Houston Rockets",
+                "point": -7.5,
+                "point_label": "-7.5",
+                "price": -112,
+                "price_label": "-112"
+              },
+              {
+                "name": "Indiana Pacers",
+                "point": 7.5,
+                "point_label": "+7.5",
+                "price": -108,
+                "price_label": "-108"
+              }
+            ]
+          }
+        },
+        {
+          "id": "5896e4ed2ed41ce673e882b6529078b8",
           "sport_key": "basketball_nba",
           "league": "NBA",
           "league_name": "NBA",
           "status_key": "upcoming",
           "status_label": "6:40 PM CT",
-          "commence_time": "2026-11-18T00:40:00Z",
+          "commence_time": "2026-11-19T00:40:00Z",
           "commence_ct": "6:40 PM CT",
-          "sort_time": "2026-11-18T00:40:00+00:00",
+          "sort_time": "2026-11-19T00:40:00+00:00",
           "home_team": "Toronto Raptors",
-          "away_team": "New York Knicks",
+          "away_team": "Washington Wizards",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "New York Knicks -4.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Toronto Raptors -4.5",
             "outcomes": [
               {
-                "name": "New York Knicks",
+                "name": "Toronto Raptors",
                 "point": -4.5,
                 "point_label": "-4.5",
-                "price": -106,
-                "price_label": "-106"
+                "price": -110,
+                "price_label": "-110"
               },
               {
-                "name": "Toronto Raptors",
+                "name": "Washington Wizards",
                 "point": 4.5,
                 "point_label": "+4.5",
-                "price": -114,
-                "price_label": "-114"
+                "price": -110,
+                "price_label": "-110"
               }
             ]
           }
         },
         {
-          "id": "69f0b70d1185e537c5ae4be43ebf2c9f",
+          "id": "6a72c23de4887e73345dde9bdc64eabe",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "6:40 PM CT",
+          "commence_time": "2026-11-19T00:40:00Z",
+          "commence_ct": "6:40 PM CT",
+          "sort_time": "2026-11-19T00:40:00+00:00",
+          "home_team": "Brooklyn Nets",
+          "away_team": "Chicago Bulls",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Brooklyn Nets -2.5",
+            "outcomes": [
+              {
+                "name": "Brooklyn Nets",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Chicago Bulls",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6c0ae9cd6ba4762ef0bcf66156d3525e",
           "sport_key": "basketball_nba",
           "league": "NBA",
           "league_name": "NBA",
           "status_key": "upcoming",
           "status_label": "7:10 PM CT",
-          "commence_time": "2026-11-18T01:10:00Z",
+          "commence_time": "2026-11-19T01:10:00Z",
           "commence_ct": "7:10 PM CT",
-          "sort_time": "2026-11-18T01:10:00+00:00",
-          "home_team": "San Antonio Spurs",
+          "sort_time": "2026-11-19T01:10:00+00:00",
+          "home_team": "Dallas Mavericks",
+          "away_team": "Golden State Warriors",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Dallas Mavericks -4.5",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "point": -4.5,
+                "point_label": "-4.5",
+                "price": -111,
+                "price_label": "-111"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 4.5,
+                "point_label": "+4.5",
+                "price": -109,
+                "price_label": "-109"
+              }
+            ]
+          }
+        },
+        {
+          "id": "990b541d0ada46fce07ce8b502cf425c",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "7:10 PM CT",
+          "commence_time": "2026-11-19T01:10:00Z",
+          "commence_ct": "7:10 PM CT",
+          "sort_time": "2026-11-19T01:10:00+00:00",
+          "home_team": "New Orleans Pelicans",
           "away_team": "Detroit Pistons",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "San Antonio Spurs -9.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Detroit Pistons -6.5",
             "outcomes": [
               {
                 "name": "Detroit Pistons",
-                "point": 9.5,
-                "point_label": "+9.5",
-                "price": -105,
-                "price_label": "-105"
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -108,
+                "price_label": "-108"
               },
               {
-                "name": "San Antonio Spurs",
-                "point": -9.5,
-                "point_label": "-9.5",
-                "price": -116,
-                "price_label": "-116"
+                "name": "New Orleans Pelicans",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -112,
+                "price_label": "-112"
               }
             ]
           }
         },
         {
-          "id": "f1c9f0cd022cd864154413efbd9d9522",
+          "id": "e0d8f7b450122679865f9a80b048908b",
           "sport_key": "basketball_nba",
           "league": "NBA",
           "league_name": "NBA",
           "status_key": "upcoming",
           "status_label": "7:10 PM CT",
-          "commence_time": "2026-11-18T01:10:00Z",
+          "commence_time": "2026-11-19T01:10:00Z",
           "commence_ct": "7:10 PM CT",
-          "sort_time": "2026-11-18T01:10:00+00:00",
-          "home_team": "Minnesota Timberwolves",
-          "away_team": "Portland Trail Blazers",
+          "sort_time": "2026-11-19T01:10:00+00:00",
+          "home_team": "Oklahoma City Thunder",
+          "away_team": "Atlanta Hawks",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Minnesota Timberwolves -1.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Oklahoma City Thunder -6.5",
             "outcomes": [
               {
-                "name": "Minnesota Timberwolves",
-                "point": -1.5,
-                "point_label": "-1.5",
-                "price": -115,
-                "price_label": "-115"
+                "name": "Atlanta Hawks",
+                "point": 6.5,
+                "point_label": "+6.5",
+                "price": -113,
+                "price_label": "-113"
               },
               {
-                "name": "Portland Trail Blazers",
-                "point": 1.5,
-                "point_label": "+1.5",
-                "price": -105,
-                "price_label": "-105"
+                "name": "Oklahoma City Thunder",
+                "point": -6.5,
+                "point_label": "-6.5",
+                "price": -107,
+                "price_label": "-107"
               }
             ]
           }
         },
         {
-          "id": "e7343c795f16a5a2a6fd93dbc58499a6",
+          "id": "ffeefa47d95e7ee9505d1955c62e3ae4",
           "sport_key": "basketball_nba",
           "league": "NBA",
           "league_name": "NBA",
           "status_key": "upcoming",
-          "status_label": "9:40 PM CT",
-          "commence_time": "2026-11-18T03:40:00Z",
-          "commence_ct": "9:40 PM CT",
-          "sort_time": "2026-11-18T03:40:00+00:00",
-          "home_team": "Los Angeles Clippers",
+          "status_label": "8:10 PM CT",
+          "commence_time": "2026-11-19T02:10:00Z",
+          "commence_ct": "8:10 PM CT",
+          "sort_time": "2026-11-19T02:10:00+00:00",
+          "home_team": "Denver Nuggets",
+          "away_team": "Boston Celtics",
+          "home_score": "",
+          "away_score": "",
+          "spread": {
+            "book": "DraftKings",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Boston Celtics -2.5",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "point": -2.5,
+                "point_label": "-2.5",
+                "price": -110,
+                "price_label": "-110"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": 2.5,
+                "point_label": "+2.5",
+                "price": -110,
+                "price_label": "-110"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2adabff2dca8b2ed4b39540a6a25ffb2",
+          "sport_key": "basketball_nba",
+          "league": "NBA",
+          "league_name": "NBA",
+          "status_key": "upcoming",
+          "status_label": "9:10 PM CT",
+          "commence_time": "2026-11-19T03:10:00Z",
+          "commence_ct": "9:10 PM CT",
+          "sort_time": "2026-11-19T03:10:00+00:00",
+          "home_team": "Los Angeles Lakers",
           "away_team": "Utah Jazz",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Los Angeles Clippers -6.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Los Angeles Lakers -10.5",
             "outcomes": [
               {
-                "name": "Los Angeles Clippers",
-                "point": -6.5,
-                "point_label": "-6.5",
-                "price": -107,
-                "price_label": "-107"
+                "name": "Los Angeles Lakers",
+                "point": -10.5,
+                "point_label": "-10.5",
+                "price": -103,
+                "price_label": "-103"
               },
               {
                 "name": "Utah Jazz",
-                "point": 6.5,
-                "point_label": "+6.5",
-                "price": -113,
-                "price_label": "-113"
+                "point": 10.5,
+                "point_label": "+10.5",
+                "price": -117,
+                "price_label": "-117"
               }
             ]
           }
         },
         {
-          "id": "bed6147c75f3706f25e25f5bdfeaf1ec",
+          "id": "4bdafbab228335fd29f62006a4bc932d",
           "sport_key": "basketball_nba",
           "league": "NBA",
           "league_name": "NBA",
           "status_key": "upcoming",
-          "status_label": "10:10 PM CT",
-          "commence_time": "2026-11-18T04:10:00Z",
-          "commence_ct": "10:10 PM CT",
-          "sort_time": "2026-11-18T04:10:00+00:00",
-          "home_team": "Los Angeles Lakers",
-          "away_team": "Charlotte Hornets",
+          "status_label": "9:10 PM CT",
+          "commence_time": "2026-11-19T03:10:00Z",
+          "commence_ct": "9:10 PM CT",
+          "sort_time": "2026-11-19T03:10:00+00:00",
+          "home_team": "Sacramento Kings",
+          "away_team": "Phoenix Suns",
           "home_score": "",
           "away_score": "",
           "spread": {
             "book": "DraftKings",
-            "last_update_ct": "1:14 PM CT",
-            "summary": "Los Angeles Lakers -7.5",
+            "last_update_ct": "12:54 PM CT",
+            "summary": "Phoenix Suns -7.5",
             "outcomes": [
               {
-                "name": "Charlotte Hornets",
-                "point": 7.5,
-                "point_label": "+7.5",
-                "price": -120,
-                "price_label": "-120"
-              },
-              {
-                "name": "Los Angeles Lakers",
+                "name": "Phoenix Suns",
                 "point": -7.5,
                 "point_label": "-7.5",
-                "price": -101,
-                "price_label": "-101"
+                "price": -105,
+                "price_label": "-105"
+              },
+              {
+                "name": "Sacramento Kings",
+                "point": 7.5,
+                "point_label": "+7.5",
+                "price": -116,
+                "price_label": "-116"
               }
             ]
           }
@@ -2321,18 +2789,18 @@
     }
   ],
   "summary": {
-    "games": 63,
-    "live": 2,
+    "games": 76,
+    "live": 1,
     "final": 0,
-    "upcoming": 61,
-    "spreads": 63
+    "upcoming": 75,
+    "spreads": 76
   },
   "quota": {
-    "remaining": "379",
-    "used": "121",
+    "remaining": "372",
+    "used": "128",
     "last_request": "1"
   },
   "badge": null,
   "source": "odds-api",
-  "generated_at": "2026-11-17T19:15:08+00:00"
+  "generated_at": "2026-11-18T18:56:10+00:00"
 }

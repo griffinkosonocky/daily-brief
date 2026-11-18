@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "sport": "Sports",
-    "question": "Who has played the most tournaments on the Brazilian national soccer team?",
-    "answer": "Cafu"
-  },
-  {
     "date": "2026-11-08",
     "sport": "Sports",
     "question": "Who is Manchester United's leading appearance maker?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
     "answer": "38"
+  },
+  {
+    "date": "2026-11-18",
+    "sport": "Sports",
+    "question": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
+    "answer": "Cue"
   }
 ]
