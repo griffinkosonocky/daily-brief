@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-11-08",
-    "sport": "Sports",
-    "question": "Who is Manchester United's leading appearance maker?",
-    "answer": "Ryan Giggs"
-  },
-  {
     "date": "2026-11-17",
     "sport": "Sports",
     "question": "In Canadian football, scoring a rouge is worth how many points?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
     "answer": "Cue"
+  },
+  {
+    "date": "2026-11-19",
+    "sport": "Sports",
+    "question": "Who won the \"Champions League\" in 1999?",
+    "answer": "Manchester United"
   }
 ]

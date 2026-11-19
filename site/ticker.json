@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-19T12:53:36+00:00",
+  "updated_at": "2026-11-19T19:04:39+00:00",
   "headlines": [
     {
-      "source": "NPR",
-      "text": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
-      "published_at": "2026-11-19T12:29:41+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Yahoo for the loo! An ode to the commode! Dotty for the potty! It's World Toilet Day!",
-      "published_at": "2026-11-19T12:26:31+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-      "published_at": "2026-11-19T12:26:01+00:00"
+      "source": "Reuters",
+      "text": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
+      "published_at": "2026-11-19T18:40:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COMMENTARY: Morning Bid: ANTics",
-      "published_at": "2026-11-19T11:57:38+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
-      "published_at": "2026-11-19T11:50:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anthropic's rise from AI upstart to world's largest IPO",
-      "published_at": "2026-11-19T11:47:35+00:00"
+      "text": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+      "published_at": "2026-11-19T18:39:46+00:00"
     },
     {
       "source": "Reuters",
       "text": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-      "published_at": "2026-11-19T11:46:18+00:00"
+      "published_at": "2026-11-19T18:32:39+00:00"
     },
     {
       "source": "Reuters",
-      "text": "PODCAST: Anthropic meets the market",
-      "published_at": "2026-11-19T11:29:19+00:00"
+      "text": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing",
+      "published_at": "2026-11-19T18:29:14+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "The 'Magic Six': How to strengthen your marriage in midlife",
+      "published_at": "2026-11-19T18:28:23+00:00"
     },
     {
       "source": "Reuters",
       "text": "UN could soon be leaderless as race to succeed Guterres stalls",
-      "published_at": "2026-11-19T11:09:18+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "published_at": "2026-11-19T11:07:37+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Anthropic raises $81bn in record-breaking stock market debut",
-      "published_at": "2026-11-19T10:48:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "An Iranian teacher bared her life to the world. She didn’t tell a soul at home.",
-      "published_at": "2026-11-19T10:32:44+00:00"
+      "published_at": "2026-11-19T18:27:19+00:00"
     },
     {
       "source": "Reuters",
       "text": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-      "published_at": "2026-11-19T10:32:36+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-      "published_at": "2026-11-19T10:32:10+00:00"
+      "published_at": "2026-11-19T18:24:37+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Pochettino thrown in at the deep end as United reign begins at Anfield",
-      "published_at": "2026-11-19T10:08:13+00:00"
+      "text": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing",
+      "published_at": "2026-11-19T18:18:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "published_at": "2026-11-19T17:38:22+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Rohingya genocide: What was said in court and what happens now?",
+      "published_at": "2026-11-19T17:35:05+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "published_at": "2026-11-19T17:23:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "published_at": "2026-11-19T17:23:29+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows",
+      "published_at": "2026-11-19T17:20:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US weekly jobless claims edge up, but labor market remains resilient",
+      "published_at": "2026-11-19T17:06:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "published_at": "2026-11-19T17:03:23+00:00"
     }
   ]
 }
