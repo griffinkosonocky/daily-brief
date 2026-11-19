@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-19T19:04:39+00:00",
+  "updated_at": "2026-11-19T21:25:27+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "published_at": "2026-11-19T21:21:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
+      "published_at": "2026-11-19T20:54:36+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump eyes 2027 to 'see what happens' with Iran",
+      "published_at": "2026-11-19T20:50:06+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Anthropic's meteoric rise from AI startup to $2 trillion market debut",
+      "published_at": "2026-11-19T20:37:46+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Why China's EVs could throw a wrench into EU, UK trade talks",
+      "published_at": "2026-11-19T20:07:57+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "published_at": "2026-11-19T20:07:02+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
+      "published_at": "2026-11-19T20:06:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Senate rejects resolution curbing Trump's Iran war powers",
+      "published_at": "2026-11-19T20:01:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "published_at": "2026-11-19T19:46:27+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
+      "published_at": "2026-11-19T19:27:47+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine's NATO membership is relevant for European security, Macron says",
+      "published_at": "2026-11-19T18:52:03+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COP31 draft drops fossil fuel language as talks near deadline",
+      "published_at": "2026-11-19T18:43:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "France's OVHcloud launches AI cloud products hosted in Europe",
+      "published_at": "2026-11-19T18:41:08+00:00"
+    },
     {
       "source": "Reuters",
       "text": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
@@ -10,71 +75,6 @@
       "source": "Reuters",
       "text": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
       "published_at": "2026-11-19T18:39:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-      "published_at": "2026-11-19T18:32:39+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing",
-      "published_at": "2026-11-19T18:29:14+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The 'Magic Six': How to strengthen your marriage in midlife",
-      "published_at": "2026-11-19T18:28:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN could soon be leaderless as race to succeed Guterres stalls",
-      "published_at": "2026-11-19T18:27:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-      "published_at": "2026-11-19T18:24:37+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing",
-      "published_at": "2026-11-19T18:18:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "published_at": "2026-11-19T17:38:22+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Rohingya genocide: What was said in court and what happens now?",
-      "published_at": "2026-11-19T17:35:05+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "published_at": "2026-11-19T17:23:34+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "What did Trump, Xi and Putin get out of their historic meeting?",
-      "published_at": "2026-11-19T17:23:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows",
-      "published_at": "2026-11-19T17:20:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US weekly jobless claims edge up, but labor market remains resilient",
-      "published_at": "2026-11-19T17:06:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "published_at": "2026-11-19T17:03:23+00:00"
     }
   ]
 }
