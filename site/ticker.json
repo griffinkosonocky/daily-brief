@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-20T11:25:04+00:00",
+  "updated_at": "2026-11-20T18:41:12+00:00",
   "headlines": [
     {
-      "source": "BBC",
-      "text": "Three Kyiv bridges hit during major Russian missile attack",
-      "published_at": "2026-11-20T11:12:57+00:00"
-    },
-    {
       "source": "NPR",
-      "text": "Senate passes bipartisan energy bill amid environmental concerns",
-      "published_at": "2026-11-20T11:00:28+00:00"
+      "text": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+      "published_at": "2026-11-20T18:25:09+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Wall Street's fear gauge touches seven-month high as AI worries mount",
-      "published_at": "2026-11-20T10:37:43+00:00"
+      "text": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+      "published_at": "2026-11-20T18:07:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Ukraine strains Russian logistics with Crimean bridge strikes",
-      "published_at": "2026-11-20T10:18:53+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "How exactly did Trump get so rich on crypto? We explain",
-      "published_at": "2026-11-20T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "New York City unveils a bold plan to move its jails off Rikers Island",
-      "published_at": "2026-11-20T10:00:00+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-      "published_at": "2026-11-20T10:00:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Taiwan stock exchange says it will ensure stable operation of capital markets",
-      "published_at": "2026-11-20T09:40:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine",
-      "published_at": "2026-11-20T09:36:36+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "ECB to make euro swaps more accessible in global push, Lagarde says",
-      "published_at": "2026-11-20T09:19:36+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "The U.K. and EU hold a rare summit to strengthen ties",
-      "published_at": "2026-11-20T09:14:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Indian central bank clarifies forex reporting rules for service imports, exports",
-      "published_at": "2026-11-20T08:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UK borrowing below forecasts as Healey's deficit picture improves",
-      "published_at": "2026-11-20T07:22:00+00:00"
+      "text": "UK stocks sink as global selloff weighs on banks and miners",
+      "published_at": "2026-11-20T18:03:24+00:00"
     },
     {
       "source": "BBC",
-      "text": "UK and EU to agree youth mobility scheme, BBC understands",
-      "published_at": "2026-11-20T07:14:46+00:00"
+      "text": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "published_at": "2026-11-20T17:54:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "published_at": "2026-11-20T17:49:48+00:00"
     },
     {
       "source": "Reuters",
-      "text": "UK retail sales beat forecasts after government tells households to stock up",
-      "published_at": "2026-11-20T07:05:00+00:00"
+      "text": "India cyber agency warns of unauthorised payment transactions",
+      "published_at": "2026-11-20T17:42:59+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "After Trump's China trip, US House Republicans push AI strategy to counter Beijing",
+      "published_at": "2026-11-20T17:42:14+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "published_at": "2026-11-20T17:36:29+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "published_at": "2026-11-20T17:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "published_at": "2026-11-20T16:54:29+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Cost of living protests sweep across Europe",
+      "published_at": "2026-11-20T16:45:34+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Student protests held across Europe with demands from school funding to climate",
+      "published_at": "2026-11-20T16:30:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Former Congo-based fighters swap guns for new skills in Rwanda",
+      "published_at": "2026-11-20T16:29:07+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How Orchestra Noir turned classical music into a cultural movement",
+      "published_at": "2026-11-20T16:12:18+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Italian workers and students protest over wages and public services",
+      "published_at": "2026-11-20T16:09:52+00:00"
     }
   ]
 }

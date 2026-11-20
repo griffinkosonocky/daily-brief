@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-11-17",
-    "sport": "Sports",
-    "question": "In Canadian football, scoring a rouge is worth how many points?",
-    "answer": "1"
-  },
-  {
     "date": "2026-09-13",
     "sport": "Sports",
     "question": "Who won the 2015 Formula 1 World Championship?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who won the \"Champions League\" in 1999?",
     "answer": "Manchester United"
+  },
+  {
+    "date": "2026-11-20",
+    "sport": "Sports",
+    "question": "Who is Manchester United's top premier league goal scorer?",
+    "answer": "Wayne Rooney"
   }
 ]
