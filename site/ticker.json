@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-19T21:25:27+00:00",
+  "updated_at": "2026-11-20T03:03:08+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "Indian stocks seen falling from nine-month highs; Asia market rout deepens",
+      "published_at": "2026-11-20T02:34:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "published_at": "2026-11-19T21:21:43+00:00"
+      "published_at": "2026-11-20T00:50:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "published_at": "2026-11-20T00:13:21+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
-      "published_at": "2026-11-19T20:54:36+00:00"
+      "text": "Rugby-Battered Boks and All Black battle for place in Nations Championship final",
+      "published_at": "2026-11-20T00:02:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How did Anthropic's stock market debut unfold?",
+      "published_at": "2026-11-19T23:52:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trump posthumously pardons US baseball legend Pete Rose",
+      "published_at": "2026-11-19T23:51:50+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Trump eyes 2027 to 'see what happens' with Iran",
-      "published_at": "2026-11-19T20:50:06+00:00"
+      "text": "US religious freedom panel says India is targeting minorities in voter roll revisions",
+      "published_at": "2026-11-19T23:49:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "published_at": "2026-11-19T23:40:29+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Anthropic's meteoric rise from AI startup to $2 trillion market debut",
-      "published_at": "2026-11-19T20:37:46+00:00"
+      "text": "Record profits but record outflows: 'Sell Korea' trade stalks Seoul market",
+      "published_at": "2026-11-19T23:37:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "published_at": "2026-11-19T23:33:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "COMMENTARY: Xi faced Trump with weak economic hand",
+      "published_at": "2026-11-19T23:30:45+00:00"
     },
     {
       "source": "Reuters",
       "text": "Why China's EVs could throw a wrench into EU, UK trade talks",
-      "published_at": "2026-11-19T20:07:57+00:00"
+      "published_at": "2026-11-19T23:05:56+00:00"
     },
     {
       "source": "BBC",
-      "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "published_at": "2026-11-19T20:07:02+00:00"
+      "text": "California targets Nvidia in China AI chip probe",
+      "published_at": "2026-11-19T23:04:30+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
-      "published_at": "2026-11-19T20:06:12+00:00"
+      "text": "Canada sees little US movement on tariff relief, sources say",
+      "published_at": "2026-11-19T23:02:16+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "US Senate rejects resolution curbing Trump's Iran war powers",
-      "published_at": "2026-11-19T20:01:07+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-      "published_at": "2026-11-19T19:46:27+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
-      "published_at": "2026-11-19T19:27:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine's NATO membership is relevant for European security, Macron says",
-      "published_at": "2026-11-19T18:52:03+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "COP31 draft drops fossil fuel language as talks near deadline",
-      "published_at": "2026-11-19T18:43:14+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "France's OVHcloud launches AI cloud products hosted in Europe",
-      "published_at": "2026-11-19T18:41:08+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
-      "published_at": "2026-11-19T18:40:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
-      "published_at": "2026-11-19T18:39:46+00:00"
+      "source": "BBC",
+      "text": "From premature baby to social media star - Famed hippo Fiona dies",
+      "published_at": "2026-11-19T22:54:03+00:00"
     }
   ]
 }
