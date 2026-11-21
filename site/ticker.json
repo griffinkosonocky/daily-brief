@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T17:23:53+00:00",
+  "updated_at": "2026-11-21T17:42:08+00:00",
   "headlines": [
     {
       "source": "Reuters",
@@ -15,6 +15,11 @@
       "source": "Reuters",
       "text": "Former Italian police chief De Gennaro takes own life amid mafia probe",
       "published_at": "2026-11-21T15:35:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+      "published_at": "2026-11-21T15:33:08+00:00"
     },
     {
       "source": "Reuters",
@@ -65,11 +70,6 @@
       "source": "NPR",
       "text": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
       "published_at": "2026-11-21T13:58:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-      "published_at": "2026-11-21T13:54:09+00:00"
     },
     {
       "source": "Reuters",
