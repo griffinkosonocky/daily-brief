@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-21T01:25:19+00:00",
+  "updated_at": "2026-11-21T09:39:27+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "published_at": "2026-11-21T09:27:51+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Intesa launches cash and share offer for Monte dei Paschi, MPS says",
+      "published_at": "2026-11-21T08:17:43+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "published_at": "2026-11-21T08:10:25+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Trafalgar Square Christmas tree felled in Norway",
+      "published_at": "2026-11-21T08:10:03+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+      "published_at": "2026-11-21T08:08:01+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "published_at": "2026-11-21T07:31:05+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
+      "published_at": "2026-11-21T05:57:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "published_at": "2026-11-21T05:36:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Man convicted of starting Palisades fire in Los Angeles",
+      "published_at": "2026-11-21T04:34:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bitcoin falls to its lowest in two years",
+      "published_at": "2026-11-21T04:10:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "FBI's criminal information database hacked, CNN reports",
+      "published_at": "2026-11-21T03:15:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "published_at": "2026-11-21T01:02:39+00:00"
+    },
     {
       "source": "BBC",
       "text": "ANC fights to keep control of South Africa's key cities after election setback",
@@ -15,66 +75,6 @@
       "source": "Reuters",
       "text": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
       "published_at": "2026-11-20T23:57:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Vice President Vance declines to say he would have ordered Iran strikes",
-      "published_at": "2026-11-20T23:45:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports",
-      "published_at": "2026-11-20T23:29:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "A new Nepal, an old neighbour - Balendra Shah's India test",
-      "published_at": "2026-11-20T23:28:17+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "published_at": "2026-11-20T23:20:33+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "GTCR explores potential takeover of payments firm Global Payments",
-      "published_at": "2026-11-20T23:18:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "US declassifies more UFO footage filmed in the Middle East",
-      "published_at": "2026-11-20T23:15:20+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "published_at": "2026-11-20T23:08:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "published_at": "2026-11-20T22:42:47+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-      "published_at": "2026-11-20T22:42:31+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "French police officers sentenced for beating of music producer Michel Zecler",
-      "published_at": "2026-11-20T22:37:09+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "published_at": "2026-11-20T22:14:17+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "As Trump courts Xi and Putin, middle powers make their own moves",
-      "published_at": "2026-11-20T22:13:39+00:00"
     }
   ]
 }
