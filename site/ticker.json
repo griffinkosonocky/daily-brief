@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-21T09:39:27+00:00",
+  "updated_at": "2026-11-21T17:23:53+00:00",
   "headlines": [
     {
+      "source": "Reuters",
+      "text": "FIFPRO 'deeply concerned' by Bayern leadership's remarks on Musiala contract",
+      "published_at": "2026-11-21T17:03:45+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "published_at": "2026-11-21T09:27:51+00:00"
+      "text": "FBI reportedly investigating apparent hack of its criminal database",
+      "published_at": "2026-11-21T16:35:15+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Intesa launches cash and share offer for Monte dei Paschi, MPS says",
-      "published_at": "2026-11-21T08:17:43+00:00"
+      "text": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+      "published_at": "2026-11-21T15:35:16+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "published_at": "2026-11-21T08:10:25+00:00"
+      "source": "Reuters",
+      "text": "Gary Woodland (knee surgery) WDs from Hero World Challenge",
+      "published_at": "2026-11-21T15:13:43+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Trafalgar Square Christmas tree felled in Norway",
-      "published_at": "2026-11-21T08:10:03+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-      "published_at": "2026-11-21T08:08:01+00:00"
+      "source": "Reuters",
+      "text": "How Grand Theft Auto VI's launch surpassed expectations",
+      "published_at": "2026-11-21T15:09:50+00:00"
     },
     {
       "source": "BBC",
       "text": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "published_at": "2026-11-21T07:31:05+00:00"
+      "published_at": "2026-11-21T14:54:24+00:00"
     },
     {
       "source": "Reuters",
-      "text": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
-      "published_at": "2026-11-21T05:57:00+00:00"
+      "text": "COP31 climate summit risks failure as talks go deep into overtime",
+      "published_at": "2026-11-21T14:42:25+00:00"
     },
     {
       "source": "Reuters",
-      "text": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
-      "published_at": "2026-11-21T05:36:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Man convicted of starting Palisades fire in Los Angeles",
-      "published_at": "2026-11-21T04:34:00+00:00"
+      "text": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028",
+      "published_at": "2026-11-21T14:29:16+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Bitcoin falls to its lowest in two years",
-      "published_at": "2026-11-21T04:10:00+00:00"
+      "text": "Colturi lands breakthrough ski World Cup win, delivers Albania's first triumph",
+      "published_at": "2026-11-21T14:23:05+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "published_at": "2026-11-21T14:18:17+00:00"
     },
     {
       "source": "Reuters",
-      "text": "FBI's criminal information database hacked, CNN reports",
-      "published_at": "2026-11-21T03:15:00+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "published_at": "2026-11-21T01:02:39+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "ANC fights to keep control of South Africa's key cities after election setback",
-      "published_at": "2026-11-21T00:34:51+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "published_at": "2026-11-21T00:01:39+00:00"
+      "text": "Most new Black Democrats in decades to join US Congress, set to sway policy, party",
+      "published_at": "2026-11-21T14:13:06+00:00"
     },
     {
       "source": "Reuters",
-      "text": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
-      "published_at": "2026-11-20T23:57:25+00:00"
+      "text": "NATO will defend every inch of Polish territory, Rutte says",
+      "published_at": "2026-11-21T14:03:44+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+      "published_at": "2026-11-21T13:58:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+      "published_at": "2026-11-21T13:54:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+      "published_at": "2026-11-21T13:43:09+00:00"
     }
   ]
 }
