@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-21T23:06:03+00:00",
+  "updated_at": "2026-11-22T03:05:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "published_at": "2026-11-22T01:25:03+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "FBI reportedly investigating apparent hack of its criminal database",
+      "published_at": "2026-11-22T00:10:44+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "published_at": "2026-11-22T00:10:37+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "How a teen gamer and his mother helped rescue a missing girl",
+      "published_at": "2026-11-22T00:09:58+00:00"
+    },
     {
       "source": "NPR",
       "text": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -12,29 +32,19 @@
       "published_at": "2026-11-21T22:19:43+00:00"
     },
     {
+      "source": "NPR",
+      "text": "Google employees protest AI in schools policy",
+      "published_at": "2026-11-21T22:01:40+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Highlights and challenges from covering an historic month in South America",
+      "published_at": "2026-11-21T22:01:35+00:00"
+    },
+    {
       "source": "BBC",
       "text": "Lock of former US President George Washington's hair sells for $4,000",
       "published_at": "2026-11-21T22:01:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Alcaraz digs deep to beat Shelton, will face world number one Zverev in final",
-      "published_at": "2026-11-21T21:50:18+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
-      "published_at": "2026-11-21T21:24:10+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "published_at": "2026-11-21T21:05:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
-      "published_at": "2026-11-21T21:01:49+00:00"
     },
     {
       "source": "NPR",
@@ -42,39 +52,29 @@
       "published_at": "2026-11-21T20:37:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Thousands march in Lisbon as living costs fuel anger",
-      "published_at": "2026-11-21T19:55:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Croatians rally in Zagreb demanding justice over psychiatric hospital death",
-      "published_at": "2026-11-21T19:52:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "South Africa suffer Ireland defeat but book Nations Championship final spot",
-      "published_at": "2026-11-21T19:44:01+00:00"
-    },
-    {
       "source": "BBC",
       "text": "Russia-bound ship attacked in Gulf of Finland",
       "published_at": "2026-11-21T19:20:22+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "NATO will defend every inch of Polish territory, Rutte says",
-      "published_at": "2026-11-21T19:08:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil ex-President Jair Bolsonaro taken to ICU",
-      "published_at": "2026-11-21T19:03:10+00:00"
-    },
-    {
       "source": "NPR",
       "text": "Storms expected on both coasts threatens Thanksgiving travel",
       "published_at": "2026-11-21T18:22:46+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+      "published_at": "2026-11-21T18:08:55+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "published_at": "2026-11-21T14:18:17+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+      "published_at": "2026-11-21T13:58:33+00:00"
     }
   ]
 }
