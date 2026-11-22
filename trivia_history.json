@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "sport": "Sports",
-    "question": "Who won the 2015 Formula 1 World Championship?",
-    "answer": "Lewis Hamilton"
-  },
-  {
     "date": "2026-07-11",
     "sport": "Sports",
     "question": "What is “The Sport of Kings”?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who is Manchester United's top premier league goal scorer?",
     "answer": "Wayne Rooney"
+  },
+  {
+    "date": "2026-11-22",
+    "sport": "Sports",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "answer": "DING Ning (China)"
   }
 ]
