@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-22T03:05:10+00:00",
+  "updated_at": "2026-11-22T11:11:07+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "COP31 climate deal in the balance after fractious talks",
+      "published_at": "2026-11-22T10:26:59+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "NPR's Senior Podcast Challenge: Early entries we love",
+      "published_at": "2026-11-22T10:00:00+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "He expected a small-business loan. It turned out to be a trap",
+      "published_at": "2026-11-22T10:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Korea education minister resigns over exam cheating scandal",
+      "published_at": "2026-11-22T09:20:45+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russian cargo ship still on fire off Finland after attack",
+      "published_at": "2026-11-22T09:14:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "published_at": "2026-11-22T07:12:41+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Three killed and dozens missing after fire at Indonesian factory",
+      "published_at": "2026-11-22T06:05:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hazlewood says was never close with Khawaja but has no issues with book release",
+      "published_at": "2026-11-22T04:09:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+      "published_at": "2026-11-22T03:56:00+00:00"
+    },
     {
       "source": "BBC",
       "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -22,59 +67,14 @@
       "published_at": "2026-11-22T00:09:58+00:00"
     },
     {
-      "source": "NPR",
-      "text": "Trump orders federal contractors to check with White House before responding to Congress",
-      "published_at": "2026-11-21T22:40:36+00:00"
+      "source": "Reuters",
+      "text": "COP31 climate deal hangs in the balance as time runs out",
+      "published_at": "2026-11-21T23:40:00+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "published_at": "2026-11-21T22:19:43+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Google employees protest AI in schools policy",
-      "published_at": "2026-11-21T22:01:40+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Highlights and challenges from covering an historic month in South America",
-      "published_at": "2026-11-21T22:01:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Lock of former US President George Washington's hair sells for $4,000",
-      "published_at": "2026-11-21T22:01:19+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Bayer reaches Roundup settlement that could cost the company billions",
-      "published_at": "2026-11-21T20:37:35+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Russia-bound ship attacked in Gulf of Finland",
-      "published_at": "2026-11-21T19:20:22+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Storms expected on both coasts threatens Thanksgiving travel",
-      "published_at": "2026-11-21T18:22:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-      "published_at": "2026-11-21T18:08:55+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-      "published_at": "2026-11-21T14:18:17+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-      "published_at": "2026-11-21T13:58:33+00:00"
+      "source": "Reuters",
+      "text": "Why has the COP31 climate conference been branded the 'worst ever'?",
+      "published_at": "2026-11-21T23:03:48+00:00"
     }
   ]
 }
