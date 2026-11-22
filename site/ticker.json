@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-22T17:56:23+00:00",
+  "updated_at": "2026-11-22T19:29:10+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "published_at": "2026-11-22T19:26:54+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "What's next after no deal at COP31 climate talks?",
+      "published_at": "2026-11-22T18:57:24+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "published_at": "2026-11-22T18:29:46+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "published_at": "2026-11-22T18:17:59+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "published_at": "2026-11-22T17:57:43+00:00"
+    },
     {
       "source": "NPR",
       "text": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -12,14 +37,14 @@
       "published_at": "2026-11-22T17:34:20+00:00"
     },
     {
-      "source": "BBC",
-      "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "published_at": "2026-11-22T17:18:26+00:00"
+      "source": "Reuters",
+      "text": "Three Russian missiles flew into Poland Friday, prosecutors say",
+      "published_at": "2026-11-22T17:19:43+00:00"
     },
     {
       "source": "BBC",
-      "text": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "published_at": "2026-11-22T17:16:47+00:00"
+      "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "published_at": "2026-11-22T17:18:26+00:00"
     },
     {
       "source": "Reuters",
@@ -43,38 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "India's food regulator to take Bisleri to court over water quality finding",
+      "published_at": "2026-11-22T16:11:43+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "From 102 points down, Marquez's resilience delivers historic MotoGP title",
       "published_at": "2026-11-22T16:04:09+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Russia starts towing ship hit by drones in Baltic, Finland says",
-      "published_at": "2026-11-22T16:01:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump sees difficulties ahead if Schumer leads Senate",
-      "published_at": "2026-11-22T16:00:50+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "MotoGP maestro Marquez wins record eighth premier class title in Portugal",
-      "published_at": "2026-11-22T15:35:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
-      "published_at": "2026-11-22T15:14:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal",
-      "published_at": "2026-11-22T15:04:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norwegian Haugan wins Gurgl slalom as Braathen's streak ends",
-      "published_at": "2026-11-22T14:09:43+00:00"
     }
   ]
 }
