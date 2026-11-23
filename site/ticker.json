@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-11-23T21:14:43+00:00",
+  "updated_at": "2026-11-23T22:07:29+00:00",
   "headlines": [
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated)",
+      "published_at": "2026-11-23T21:26:14+00:00"
+    },
     {
       "source": "NPR",
       "text": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
       "published_at": "2026-11-23T20:53:12+00:00"
     },
     {
+      "source": "Reuters",
+      "text": "Political and corporate leaders react to Huang's return as Nvidia CEO",
+      "published_at": "2026-11-23T20:52:01+00:00"
+    },
+    {
       "source": "BBC",
       "text": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "published_at": "2026-11-23T20:48:35+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+      "published_at": "2026-11-23T20:45:41+00:00"
     },
     {
       "source": "Reuters",
@@ -20,11 +35,6 @@
       "source": "BBC",
       "text": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "published_at": "2026-11-23T18:04:20+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated)",
-      "published_at": "2026-11-23T17:57:47+00:00"
     },
     {
       "source": "Reuters",
@@ -65,16 +75,6 @@
       "source": "Reuters",
       "text": "VIEW Nvidia reinstates Jensen Huang as CEO, igniting tech surge",
       "published_at": "2026-11-23T17:07:29+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "published_at": "2026-11-23T17:07:25+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "UN food agency chief warns wars jeopardize food aid for 7.3 million more people",
-      "published_at": "2026-11-23T16:55:43+00:00"
     }
   ]
 }
