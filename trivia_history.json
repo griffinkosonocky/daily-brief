@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-12",
-    "sport": "Sports",
-    "question": "With which doubles partner did John McEnroe have most success?",
-    "answer": "Peter Fleming"
-  },
-  {
     "date": "2026-10-06",
     "sport": "Sports",
     "question": "Who was the topscorer for England national football team?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who won the 2011 Stanley Cup?",
     "answer": "Boston Bruins"
+  },
+  {
+    "date": "2026-11-24",
+    "sport": "Sports",
+    "question": "Who did Drew Brees pass in all time NFL passing yards in 2018?",
+    "answer": "Peyton Manning"
   }
 ]
