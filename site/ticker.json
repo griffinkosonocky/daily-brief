@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-24T20:44:12+00:00",
+  "updated_at": "2026-11-25T02:19:53+00:00",
   "headlines": [
     {
       "source": "Reuters",
-      "text": "WHO chief calls on US to lift oil blockade on Cuba, citing health impact",
-      "published_at": "2026-11-24T19:27:43+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "published_at": "2026-11-24T19:27:23+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "published_at": "2026-11-24T19:10:31+00:00"
+      "text": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+      "published_at": "2026-11-25T01:50:00+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Shein to pay $100 million to settle US shipping, customer service claims",
-      "published_at": "2026-11-24T19:04:01+00:00"
+      "text": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
+      "published_at": "2026-11-25T01:19:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "published_at": "2026-11-25T01:11:57+00:00"
     },
     {
       "source": "Reuters",
-      "text": "EXCLUSIVE: Blackstone, Warburg Pincus, Apollo in talks to back GTCR's $50 billion Global Payments deal, sources say",
-      "published_at": "2026-11-24T18:57:02+00:00"
+      "text": "In landmine-ravaged Myanmar, a rebel with an artificial leg vows to fight on",
+      "published_at": "2026-11-25T01:02:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Gold ticks lower ahead of US inflation data",
+      "published_at": "2026-11-25T00:49:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Japan's Nikkei to rise next year but fall short of record as investors reassess AI trade: Reuters poll",
+      "published_at": "2026-11-25T00:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "published_at": "2026-11-24T23:59:28+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Radar issue delaying flights at Chicago O'Hare airport, FAA says",
+      "published_at": "2026-11-24T23:43:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
+      "published_at": "2026-11-24T23:14:23+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Salvadoran migrant Kilmar Abrego Garcia to leave US for Spain",
+      "published_at": "2026-11-24T23:08:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
+      "published_at": "2026-11-24T22:55:43+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Ukraine says attack on Russian ships in Libya was self-defence",
+      "published_at": "2026-11-24T22:37:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "JBS proposes election of Wesley Batista as chairman",
+      "published_at": "2026-11-24T22:31:44+00:00"
     },
     {
       "source": "BBC",
       "text": "US attorney general dodges questions about Nvidia investigation",
-      "published_at": "2026-11-24T18:55:59+00:00"
+      "published_at": "2026-11-24T21:19:42+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Trump awards Rudy Giuliani the Medal of Freedom",
-      "published_at": "2026-11-24T18:51:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "POLL Bruised S&P 500 seen gaining more than 12% by end-2027: Reuters poll",
-      "published_at": "2026-11-24T18:50:19+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
-      "published_at": "2026-11-24T18:48:05+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela moves toward possible debt restructuring with release of economic framework",
-      "published_at": "2026-11-24T18:46:35+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution",
-      "published_at": "2026-11-24T18:25:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Norway and Ukraine to expand cooperation on anti-drone system",
-      "published_at": "2026-11-24T18:21:33+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "published_at": "2026-11-24T18:07:46+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Global vaccine group aims to buy 1.5 million doses of new Ebola Bundibugyo shot for Congo",
-      "published_at": "2026-11-24T17:56:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Canada sprints to court new members in push to found global defence bank",
-      "published_at": "2026-11-24T17:40:22+00:00"
+      "source": "NPR",
+      "text": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "published_at": "2026-11-24T21:09:29+00:00"
     }
   ]
 }
