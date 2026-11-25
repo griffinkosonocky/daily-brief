@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-25T02:19:53+00:00",
+  "updated_at": "2026-11-25T12:41:09+00:00",
   "headlines": [
     {
-      "source": "Reuters",
-      "text": "Stocks retreat as AI rebound stumbles, tariff threats loom",
-      "published_at": "2026-11-25T01:50:00+00:00"
+      "source": "BBC",
+      "text": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "published_at": "2026-11-25T12:24:12+00:00"
     },
     {
       "source": "Reuters",
-      "text": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-      "published_at": "2026-11-25T01:19:00+00:00"
+      "text": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology",
+      "published_at": "2026-11-25T12:23:29+00:00"
     },
     {
       "source": "BBC",
-      "text": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "published_at": "2026-11-25T01:11:57+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "In landmine-ravaged Myanmar, a rebel with an artificial leg vows to fight on",
-      "published_at": "2026-11-25T01:02:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Gold ticks lower ahead of US inflation data",
-      "published_at": "2026-11-25T00:49:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Japan's Nikkei to rise next year but fall short of record as investors reassess AI trade: Reuters poll",
-      "published_at": "2026-11-25T00:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "published_at": "2026-11-24T23:59:28+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Radar issue delaying flights at Chicago O'Hare airport, FAA says",
-      "published_at": "2026-11-24T23:43:44+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
-      "published_at": "2026-11-24T23:14:23+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Salvadoran migrant Kilmar Abrego Garcia to leave US for Spain",
-      "published_at": "2026-11-24T23:08:00+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
-      "published_at": "2026-11-24T22:55:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Ukraine says attack on Russian ships in Libya was self-defence",
-      "published_at": "2026-11-24T22:37:11+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "JBS proposes election of Wesley Batista as chairman",
-      "published_at": "2026-11-24T22:31:44+00:00"
+      "text": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "published_at": "2026-11-25T12:21:49+00:00"
     },
     {
       "source": "BBC",
-      "text": "US attorney general dodges questions about Nvidia investigation",
-      "published_at": "2026-11-24T21:19:42+00:00"
+      "text": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "published_at": "2026-11-25T12:20:17+00:00"
     },
     {
       "source": "NPR",
-      "text": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "published_at": "2026-11-24T21:09:29+00:00"
+      "text": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "published_at": "2026-11-25T12:18:09+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "published_at": "2026-11-25T11:45:16+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US grocers serve up Thanksgiving deals even as turkey prices climb",
+      "published_at": "2026-11-25T11:42:11+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "PODCAST: Alice Huang-linked firms, chip wars and Thanksgiving dinner",
+      "published_at": "2026-11-25T11:37:49+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Migrant arrivals in Spain's Canary Islands break single-day record",
+      "published_at": "2026-11-25T11:31:47+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "published_at": "2026-11-25T11:29:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+      "published_at": "2026-11-25T11:25:28+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "published_at": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "published_at": "2026-11-25T10:52:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable",
+      "published_at": "2026-11-25T10:51:44+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "IIHF to appeal CAS ruling on Russia to Swiss Federal Tribunal",
+      "published_at": "2026-11-25T10:20:39+00:00"
     }
   ]
 }
