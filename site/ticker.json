@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-11-25T20:00:53+00:00",
+  "updated_at": "2026-11-25T22:27:12+00:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "text": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "published_at": "2026-11-25T22:18:06+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "North Korea expels Swiss diplomat in sanctions row",
+      "published_at": "2026-11-25T21:51:17+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US stocks fall further as fears over AI intensify",
+      "published_at": "2026-11-25T21:43:18+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "published_at": "2026-11-25T21:02:58+00:00"
+    },
     {
       "source": "BBC",
       "text": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "published_at": "2026-11-25T19:54:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans",
-      "published_at": "2026-11-25T19:54:49+00:00"
     },
     {
       "source": "BBC",
@@ -23,58 +38,43 @@
     },
     {
       "source": "BBC",
-      "text": "North Korea expels Swiss diplomat in sanctions row",
-      "published_at": "2026-11-25T19:19:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war",
-      "published_at": "2026-11-25T19:09:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region",
-      "published_at": "2026-11-25T18:58:04+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
-      "published_at": "2026-11-25T18:55:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
-      "published_at": "2026-11-25T18:50:43+00:00"
-    },
-    {
-      "source": "BBC",
       "text": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "published_at": "2026-11-25T18:41:33+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says",
-      "published_at": "2026-11-25T18:35:51+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
-      "published_at": "2026-11-25T18:32:52+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "US to cap India tariff at 17% if trade deal is reached, USTR says",
-      "published_at": "2026-11-25T18:26:10+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets",
-      "published_at": "2026-11-25T18:02:40+00:00"
+      "source": "NPR",
+      "text": "Group of Senate Democrats push to add freshman to leadership",
+      "published_at": "2026-11-25T17:30:47+00:00"
     },
     {
       "source": "BBC",
-      "text": "US stocks fall further as fears over AI intensify",
-      "published_at": "2026-11-25T17:48:09+00:00"
+      "text": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "published_at": "2026-11-25T17:30:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "US announces new tariffs on host of countries including China",
+      "published_at": "2026-11-25T16:21:34+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "published_at": "2026-11-25T15:42:50+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Canadian astronaut welcomes baby girl from space station",
+      "published_at": "2026-11-25T15:41:39+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "published_at": "2026-11-25T14:46:41+00:00"
+    },
+    {
+      "source": "NPR",
+      "text": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "published_at": "2026-11-25T14:14:34+00:00"
     }
   ]
 }
