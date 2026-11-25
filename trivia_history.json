@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "sport": "Sports",
-    "question": "Who was the topscorer for England national football team?",
-    "answer": "Wayne Rooney"
-  },
-  {
     "date": "2026-09-04",
     "sport": "Sports",
     "question": "The song \"Three Lions\" by the Lightning Seeds was made for which major football event in 1996?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who did Drew Brees pass in all time NFL passing yards in 2018?",
     "answer": "Peyton Manning"
+  },
+  {
+    "date": "2026-11-25",
+    "sport": "Sports",
+    "question": "At which race was the 2018 F1 Drivers Championship won?",
+    "answer": "Mexico"
   }
 ]
