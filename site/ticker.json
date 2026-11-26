@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-11-26T15:01:57+00:00",
+  "updated_at": "2026-11-26T19:43:52+00:00",
   "headlines": [
     {
+      "source": "BBC",
+      "text": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "published_at": "2026-11-26T19:27:45+00:00"
+    },
+    {
       "source": "Reuters",
-      "text": "ECB turns to crisis veteran De Cos as new strains loom",
-      "published_at": "2026-11-26T14:57:43+00:00"
+      "text": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
+      "published_at": "2026-11-26T18:25:33+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "published_at": "2026-11-26T18:18:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Police use tear gas to disperse fresh Bangladesh garment worker protests",
+      "published_at": "2026-11-26T18:09:12+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Spain's De Cos to take over as ECB president from Lagarde",
+      "published_at": "2026-11-26T17:48:53+00:00"
     },
     {
       "source": "BBC",
-      "text": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "published_at": "2026-11-26T14:44:26+00:00"
+      "text": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "published_at": "2026-11-26T17:38:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Germany must prepare for two more difficult years with Trump, DIW's Fratzscher says",
+      "published_at": "2026-11-26T16:38:09+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+      "published_at": "2026-11-26T16:31:40+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Russia arrests deputy aerospace commander in reported corruption case",
+      "published_at": "2026-11-26T16:29:52+00:00"
     },
     {
       "source": "BBC",
-      "text": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "published_at": "2026-11-26T14:35:22+00:00"
+      "text": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "published_at": "2026-11-26T16:21:19+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Court blocks US-linked Kenyan Ebola quarantine facility",
+      "published_at": "2026-11-26T16:20:13+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Stocks rally, Europe sizes up next ECB chief",
+      "published_at": "2026-11-26T15:51:24+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Hamas weighs response after Israel kills 10 people in Gaza",
+      "published_at": "2026-11-26T15:40:25+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Bank of England sees growing financial risks as AI borrowing surges",
+      "published_at": "2026-11-26T15:39:19+00:00"
     },
     {
       "source": "BBC",
-      "text": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "published_at": "2026-11-26T14:00:42+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
-      "published_at": "2026-11-26T13:58:06+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazil mid-November inflation eases, comes in below expectations",
-      "published_at": "2026-11-26T13:54:22+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Spain's de Cos to become ECB's next president, FT reports",
-      "published_at": "2026-11-26T13:51:46+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "published_at": "2026-11-26T13:47:09+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "published_at": "2026-11-26T13:31:28+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Miami runway incident disrupts flights on Thanksgiving eve",
-      "published_at": "2026-11-26T13:09:15+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Serbia presidential election set for December 27",
-      "published_at": "2026-11-26T12:39:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
-      "published_at": "2026-11-26T12:33:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "published_at": "2026-11-26T12:33:23+00:00"
-    },
-    {
-      "source": "NPR",
-      "text": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-      "published_at": "2026-11-26T12:24:29+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
-      "published_at": "2026-11-26T11:59:24+00:00"
+      "text": "New UK-EU treaty has 10-year termination clause",
+      "published_at": "2026-11-26T15:23:17+00:00"
     }
   ]
 }
