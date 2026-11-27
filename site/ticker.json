@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-11-27T18:52:47+00:00",
+  "updated_at": "2026-11-27T19:33:09+00:00",
   "headlines": [
     {
       "source": "BBC",
-      "text": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "published_at": "2026-11-27T18:50:15+00:00"
+      "text": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "published_at": "2026-11-27T18:52:33+00:00"
     },
     {
       "source": "BBC",
       "text": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "published_at": "2026-11-27T18:42:50+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction",
+      "published_at": "2026-11-27T18:26:56+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Explainer: Rodrigo Duterte's ICC trial: What to know",
+      "published_at": "2026-11-27T18:10:39+00:00"
     },
     {
       "source": "BBC",
@@ -58,23 +68,13 @@
     },
     {
       "source": "Reuters",
+      "text": "Who is Luiz Carlos Trabuco, the banker Lula tapped to steer Brazil's economy?",
+      "published_at": "2026-11-27T15:48:55+00:00"
+    },
+    {
+      "source": "Reuters",
       "text": "Mexico weighs the limits of politically popular wage strategy",
       "published_at": "2026-11-27T15:43:34+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Centre Party could give Sweden a government, but far-right backing stores up trouble",
-      "published_at": "2026-11-27T15:41:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction",
-      "published_at": "2026-11-27T14:30:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Software giant SAP weighs major job cuts as AI transforms sector, sources say",
-      "published_at": "2026-11-27T14:26:30+00:00"
     }
   ]
 }

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "sport": "Sports",
-    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
-    "answer": "Fastball"
-  },
-  {
     "date": "2026-09-25",
     "sport": "Sports",
     "question": "Which two teams played in Super Bowl XLII?",
@@ -538,5 +532,11 @@
     "sport": "Sports",
     "question": "Who won the 2015 Formula 1 World Championship?",
     "answer": "Lewis Hamilton"
+  },
+  {
+    "date": "2026-11-27",
+    "sport": "Sports",
+    "question": "Who has played the most tournaments on the Brazilian national soccer team?",
+    "answer": "Cafu"
   }
 ]
