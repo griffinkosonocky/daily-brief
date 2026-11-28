@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-11-28T01:54:36+00:00",
+  "updated_at": "2026-11-28T10:15:13+00:00",
   "headlines": [
     {
+      "source": "NPR",
+      "text": "New wave of Democratic attorneys general may reshape the justice system",
+      "published_at": "2026-11-28T10:00:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Weather, supply uncertainties may accelerate India inflation, report says",
+      "published_at": "2026-11-28T09:05:43+00:00"
+    },
+    {
       "source": "BBC",
-      "text": "Nigeria's 'ultimate hard man' who become an online meme",
+      "text": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "published_at": "2026-11-28T07:31:14+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "Binance gets preliminary approval to establish Asia hub in Bhutan",
+      "published_at": "2026-11-28T07:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "US military repelled drones at UK airbase this month, FT reports",
+      "published_at": "2026-11-28T05:18:00+00:00"
+    },
+    {
+      "source": "Reuters",
+      "text": "India's bottled-water crackdown widens as new Bisleri sample found with bacteria",
+      "published_at": "2026-11-28T05:09:00+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Eight killed in Peruvian military helicopter crash",
+      "published_at": "2026-11-28T04:19:16+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "published_at": "2026-11-28T04:13:45+00:00"
+    },
+    {
+      "source": "BBC",
+      "text": "Nigeria's acting legend who was loved across Africa and beyond",
       "published_at": "2026-11-28T01:20:35+00:00"
     },
     {
@@ -32,49 +72,9 @@
       "published_at": "2026-11-27T23:02:35+00:00"
     },
     {
-      "source": "Reuters",
-      "text": "American Malinin breaks Chen's world record in short programme",
-      "published_at": "2026-11-27T22:39:43+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests",
-      "published_at": "2026-11-27T22:21:56+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "published_at": "2026-11-27T21:55:53+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief",
-      "published_at": "2026-11-27T21:10:41+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
-      "published_at": "2026-11-27T20:56:01+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "published_at": "2026-11-27T20:34:45+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "published_at": "2026-11-27T20:06:31+00:00"
-    },
-    {
-      "source": "Reuters",
-      "text": "Costa Rica bars UN rapporteur on Palestinian territory, drawing concern from rights chief",
-      "published_at": "2026-11-27T18:55:57+00:00"
-    },
-    {
-      "source": "BBC",
-      "text": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "published_at": "2026-11-27T18:42:50+00:00"
+      "source": "NPR",
+      "text": "Sudan's lost generation: War is stealing the childhood of millions",
+      "published_at": "2026-11-27T22:54:53+00:00"
     }
   ]
 }
